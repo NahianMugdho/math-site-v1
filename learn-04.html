@@ -1,0 +1,29 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Concept 4: Prime Numbers | Math Prep: IBA · BCS · Bank · GRE</title><link rel="stylesheet" href="assets/style.css">
+<script>try{var t=localStorage.getItem('mq-theme')||(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light');document.documentElement.dataset.theme=t}catch(e){}</script></head><body>
+<header class="top"><a class="brand" href="index.html">📐 MathPrep</a><nav><a href="index.html">Home</a><a href="index.html#learn" class=on>Learn</a><a href="index.html#practice">Practice</a><a href="index.html#mock">Mock</a><a href="shortcuts.html">Shortcuts</a><a href="exams.html">Exam Guide</a></nav><button class="btn" id="theme" aria-label="Toggle dark mode"></button><button class="btn" id="menu" aria-label="Menu">☰</button></header>
+<section class="banner"><h1>অধ্যায় ৪: Concept 4: Prime Numbers</h1><p>Theory, formulas and worked examples</p><div class="chips"><span class="chip">Learn</span><span class="chip">IBA</span><span class="chip">BCS</span><span class="chip">Bank</span><span class="chip">GRE</span></div></section><main class="wrap"><article class="art"><h2>৪. Concept 4: Prime Numbers</h2><div class="figbox" data-fig="sieve"></div>
+<ul>
+<li><p>A <strong>prime number</strong> (মৌলিক সংখ্যা) is an integer greater than 1 that is divisible only by 1 and itself. It has exactly 2 different positive divisors.</p>
+<ul>
+<li><p>11 is prime: its only positive divisors are 1 and 11.</p></li>
+<li><p>15 is not prime: it has four positive divisors, 1, 3, 5, 15.</p></li>
+</ul></li>
+<li><p>1 is not prime because it has only one positive divisor.</p></li>
+<li><p>0 is not prime because it has no divisor (as stated in the source).</p></li>
+<li><p>2 is the only even prime. It has exactly 2 factors, 1 and itself.</p></li>
+<li><p>Every integer greater than 1 is either prime or can be uniquely expressed as a product of primes. E.g. 14 = 2 × 7, 81 = 3 × 3 × 3 × 3, 484 = 2 × 2 × 11 × 11.</p></li>
+</ul>
+<p><strong>How to test whether a number is prime</strong></p>
+<ol type="1">
+<li><p>Find a rough approximate square root of the number.</p></li>
+<li><p>Divide the number by all primes less than that approximate square root. If it is not divisible by any of them, it is prime; otherwise not.</p></li>
+</ol>
+<p class="co blue">Example: is 167 prime? 13² = 169 and 12² = 144, so √167 lies between 12 and 13. Take the greater value, 13, and try the primes less than 13: 2, 3, 5, 7, 11. 167 is not evenly divisible by any, so 167 is prime. (When estimating a square root, choose the greater value to minimize error.)</p>
+<ul>
+<li><p>There are 25 primes between 1 and 100: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97</p></li>
+</ul>
+<p><strong>Memory trick: 4422322321</strong></p>
+<p>The sequence gives the count of primes in each block of ten up to 100: 4 primes in 1–10, 4 in 11–20, 2 in 21–30, 2 in 31–40, 3 in 41–50, 2 in 51–60, 3 in 61–70, 2 in 71–80, 2 in 81–90, 1 in 91–100.</p>
+<p class="co blue">Example: how many primes between 45 and 72? The 5th number in the sequence is 3, so 3 primes between 41–50. The 6th and 7th numbers are 2 and 3 (blocks 51–60, 61–70). So 3 + 2 + 2 = 7 primes within 40–70, and 71 is prime, so 8 primes in 40–72... after removing 41 and 43 (below 45), there are 8 − 2 = 6 primes between 45 and 72. <strong>Answer: 6.</strong></p>
+</article><div class="pn"><a href="learn-03.html">← Previous</a><a href="index.html">Home</a><a href="learn-05.html">Next →</a></div></main><footer>Practice problems are original and styled after IBA, GRE, BCS and Bank exams. Always confirm the current syllabus in the latest official circular.</footer><script src="assets/app.js"></script><script src="assets/figs.js"></script></body></html>
