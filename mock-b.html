@@ -1,6 +1,19 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Set B: GRE-style Practice | Math Prep: IBA · BCS · Bank · GRE</title><link rel="stylesheet" href="assets/style.css">
-<script>try{var t=localStorage.getItem('mq-theme')||(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light');document.documentElement.dataset.theme=t}catch(e){}</script></head><body>
+<script>try{var t=localStorage.getItem('mq-theme')||(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light');document.documentElement.dataset.theme=t}catch(e){}</script><style id="mcq-css">
+.mcq{display:grid;gap:8px;margin:10px 0 4px;grid-template-columns:repeat(auto-fit,minmax(220px,1fr))}
+.mcq .opt{display:flex;gap:10px;align-items:flex-start;text-align:left;width:100%;padding:10px 12px;border:1.5px solid var(--line,#cbd5e1);border-radius:10px;background:var(--card,transparent);color:inherit;font:inherit;cursor:pointer;transition:.15s}
+.mcq .opt:hover:not([disabled]){border-color:#6366f1;transform:translateY(-1px)}
+.mcq .opt b{flex:0 0 24px;height:24px;border-radius:50%;display:inline-grid;place-items:center;font-size:.8em;border:1.5px solid currentColor;opacity:.75}
+.mcq .opt.right{border-color:#16a34a;background:rgba(22,163,74,.14)}
+.mcq .opt.wrong{border-color:#dc2626;background:rgba(220,38,38,.14)}
+.mcq .opt.reveal{border-color:#16a34a;border-style:dashed}
+.mcq .opt[disabled]{cursor:default}
+.mcq-fb{font-size:.9em;margin:6px 0 2px;font-weight:600}
+.mcq-fb.ok{color:#16a34a}.mcq-fb.no{color:#dc2626}
+.mcq-sol{margin:6px 0 2px;padding:8px 12px;border-left:3px solid #6366f1;background:rgba(99,102,241,.08);border-radius:6px;font-size:.92em}
+#mcq-score{font-weight:700}
+</style></head><body>
 <header class="top"><a class="brand" href="index.html">📐 MathPrep</a><nav><a href="index.html">Home</a><a href="index.html#learn">Learn</a><a href="index.html#practice">Practice</a><a href="index.html#mock" class=on>Mock</a><a href="shortcuts.html">Shortcuts</a><a href="exams.html">Exam Guide</a></nav><button class="btn" id="theme" aria-label="Toggle dark mode"></button><button class="btn" id="menu" aria-label="Menu">☰</button></header>
 <section class="banner"><h1>Set B: GRE-style Practice</h1><p>Self-timed mock set with worked solutions</p><div class="chips"><span class="chip">Mock test</span><span class="chip">IBA</span><span class="chip">GRE</span><span class="chip">BCS</span><span class="chip">Bank</span></div></section><main class="wrap"><div class="tools"><span id="sum" class="timer"></span><span id="filters" style="display:flex;gap:6px;flex-wrap:wrap"></span>
 <span class="sp"></span><span id="timer" class="timer">00:00</span><button class="tb" id="tstart">▶ Start</button><button class="tb" id="treset">⟲</button><button class="tb" id="showall">Toggle answers</button><button class="tb" id="reset">Reset</button></div>
@@ -8,31 +21,54 @@
 <h3 id="quantitative-comparison">Quantitative Comparison</h3>
 <p>For each pair choose: <strong>(A)</strong> Quantity A is greater; <strong>(B)</strong> Quantity B is greater; <strong>(C)</strong> the two quantities are equal; <strong>(D)</strong> the relationship cannot be determined.</p>
 <ol class="qs" type="1">
-<li><p>x &gt; 0. Quantity A: x². Quantity B: x.</p></li>
-<li><p>Quantity A: 20% of 50. Quantity B: 50% of 20.</p></li>
-<li><p>0 &lt; x &lt; 1. Quantity A: x³. Quantity B: x².</p></li>
-<li><p>For the data set {3, 5, 7, 9, 26}. Quantity A: the mean. Quantity B: the median.</p></li>
-<li><p>Quantity A: circumference of a circle with radius 4. Quantity B: perimeter of a square with side 6. (Use π ≈ 3.14.)</p></li>
+<li><p>x &gt; 0. Quantity A: x². Quantity B: x.</p><div class="mcq" role="group"><button type="button" class="opt" data-c="0"><b>A</b><span>Quantity A is greater</span></button><button type="button" class="opt" data-c="0"><b>B</b><span>Quantity B is greater</span></button><button type="button" class="opt" data-c="0"><b>C</b><span>The two quantities are equal</span></button><button type="button" class="opt" data-c="1"><b>D</b><span>The relationship cannot be determined</span></button></div></li>
+<li><p>Quantity A: 20% of 50. Quantity B: 50% of 20.</p><div class="mcq" role="group"><button type="button" class="opt" data-c="0"><b>A</b><span>Quantity A is greater</span></button><button type="button" class="opt" data-c="0"><b>B</b><span>Quantity B is greater</span></button><button type="button" class="opt" data-c="1"><b>C</b><span>The two quantities are equal</span></button><button type="button" class="opt" data-c="0"><b>D</b><span>The relationship cannot be determined</span></button></div></li>
+<li><p>0 &lt; x &lt; 1. Quantity A: x³. Quantity B: x².</p><div class="mcq" role="group"><button type="button" class="opt" data-c="0"><b>A</b><span>Quantity A is greater</span></button><button type="button" class="opt" data-c="1"><b>B</b><span>Quantity B is greater</span></button><button type="button" class="opt" data-c="0"><b>C</b><span>The two quantities are equal</span></button><button type="button" class="opt" data-c="0"><b>D</b><span>The relationship cannot be determined</span></button></div></li>
+<li><p>For the data set {3, 5, 7, 9, 26}. Quantity A: the mean. Quantity B: the median.</p><div class="mcq" role="group"><button type="button" class="opt" data-c="1"><b>A</b><span>Quantity A is greater</span></button><button type="button" class="opt" data-c="0"><b>B</b><span>Quantity B is greater</span></button><button type="button" class="opt" data-c="0"><b>C</b><span>The two quantities are equal</span></button><button type="button" class="opt" data-c="0"><b>D</b><span>The relationship cannot be determined</span></button></div></li>
+<li><p>Quantity A: circumference of a circle with radius 4. Quantity B: perimeter of a square with side 6. (Use π ≈ 3.14.)</p><div class="mcq" role="group"><button type="button" class="opt" data-c="1"><b>A</b><span>Quantity A is greater</span></button><button type="button" class="opt" data-c="0"><b>B</b><span>Quantity B is greater</span></button><button type="button" class="opt" data-c="0"><b>C</b><span>The two quantities are equal</span></button><button type="button" class="opt" data-c="0"><b>D</b><span>The relationship cannot be determined</span></button></div></li>
 </ol>
 <h3 id="multiple-choice-and-numeric-entry">Multiple Choice and Numeric Entry</h3>
 <ol class="qs" start="6" type="1">
-<li><p>The ratio of boys to girls in a class of 40 is 3 : 5. How many girls are in the class?</p></li>
-<li><p>If 3x + 2y = 16 and x − y = 2, what is x?</p></li>
-<li><p>Two fair dice are rolled. What is the probability that the sum is 7?</p></li>
-<li><p><strong>Numeric entry:</strong> What is 15% of 240?</p></li>
-<li><p><strong>Select all that apply:</strong> Which of the following are prime? 51, 53, 57, 59, 61</p></li>
-<li><p><strong>Numeric entry:</strong> What is the sum of the interior angles, in degrees, of a hexagon?</p></li>
-<li><p>A right circular cylinder has radius 3 and height 10. What is its volume (in terms of π)?</p></li>
-<li><p>What is the distance between the points (−1, 2) and (5, 10)?</p></li>
-<li><p>In how many ways can 3 people be chosen from a group of 8?</p></li>
-<li><p>If 2<sup>x+1</sup> = 32, what is x?</p></li>
-<li><p>If a + b = 10 and ab = 21, what is a² + b²?</p></li>
+<li><p>The ratio of boys to girls in a class of 40 is 3 : 5. How many girls are in the class?</p><div class="mcq" role="group"><button type="button" class="opt" data-c="0"><b>A</b><span>15</span></button><button type="button" class="opt" data-c="0"><b>B</b><span>24</span></button><button type="button" class="opt" data-c="0"><b>C</b><span>20</span></button><button type="button" class="opt" data-c="1"><b>D</b><span>25</span></button></div></li>
+<li><p>If 3x + 2y = 16 and x − y = 2, what is x?</p><div class="mcq" role="group"><button type="button" class="opt" data-c="0"><b>A</b><span>5</span></button><button type="button" class="opt" data-c="0"><b>B</b><span>6</span></button><button type="button" class="opt" data-c="0"><b>C</b><span>3</span></button><button type="button" class="opt" data-c="1"><b>D</b><span>4</span></button></div></li>
+<li><p>Two fair dice are rolled. What is the probability that the sum is 7?</p><div class="mcq" role="group"><button type="button" class="opt" data-c="1"><b>A</b><span>1/6</span></button><button type="button" class="opt" data-c="0"><b>B</b><span>1/12</span></button><button type="button" class="opt" data-c="0"><b>C</b><span>5/36</span></button><button type="button" class="opt" data-c="0"><b>D</b><span>1/9</span></button></div></li>
+<li><p>What is 15% of 240?</p><div class="mcq" role="group"><button type="button" class="opt" data-c="0"><b>A</b><span>42</span></button><button type="button" class="opt" data-c="1"><b>B</b><span>36</span></button><button type="button" class="opt" data-c="0"><b>C</b><span>24</span></button><button type="button" class="opt" data-c="0"><b>D</b><span>30</span></button></div></li>
+<li><p>Which option lists <strong>all</strong> the primes among 51, 53, 57, 59, 61?</p><div class="mcq" role="group"><button type="button" class="opt" data-c="0"><b>A</b><span>51, 53, 59</span></button><button type="button" class="opt" data-c="0"><b>B</b><span>51, 57, 59</span></button><button type="button" class="opt" data-c="0"><b>C</b><span>53, 57, 61</span></button><button type="button" class="opt" data-c="1"><b>D</b><span>53, 59, 61</span></button></div></li>
+<li><p>What is the sum of the interior angles, in degrees, of a hexagon?</p><div class="mcq" role="group"><button type="button" class="opt" data-c="0"><b>A</b><span>540</span></button><button type="button" class="opt" data-c="1"><b>B</b><span>720</span></button><button type="button" class="opt" data-c="0"><b>C</b><span>900</span></button><button type="button" class="opt" data-c="0"><b>D</b><span>360</span></button></div></li>
+<li><p>A right circular cylinder has radius 3 and height 10. What is its volume (in terms of π)?</p><div class="mcq" role="group"><button type="button" class="opt" data-c="0"><b>A</b><span>60π</span></button><button type="button" class="opt" data-c="1"><b>B</b><span>90π</span></button><button type="button" class="opt" data-c="0"><b>C</b><span>180π</span></button><button type="button" class="opt" data-c="0"><b>D</b><span>30π</span></button></div></li>
+<li><p>What is the distance between the points (−1, 2) and (5, 10)?</p><div class="mcq" role="group"><button type="button" class="opt" data-c="0"><b>A</b><span>14</span></button><button type="button" class="opt" data-c="0"><b>B</b><span>12</span></button><button type="button" class="opt" data-c="0"><b>C</b><span>8</span></button><button type="button" class="opt" data-c="1"><b>D</b><span>10</span></button></div></li>
+<li><p>In how many ways can 3 people be chosen from a group of 8?</p><div class="mcq" role="group"><button type="button" class="opt" data-c="0"><b>A</b><span>24</span></button><button type="button" class="opt" data-c="1"><b>B</b><span>56</span></button><button type="button" class="opt" data-c="0"><b>C</b><span>336</span></button><button type="button" class="opt" data-c="0"><b>D</b><span>48</span></button></div></li>
+<li><p>If 2<sup>x+1</sup> = 32, what is x?</p><div class="mcq" role="group"><button type="button" class="opt" data-c="1"><b>A</b><span>4</span></button><button type="button" class="opt" data-c="0"><b>B</b><span>16</span></button><button type="button" class="opt" data-c="0"><b>C</b><span>5</span></button><button type="button" class="opt" data-c="0"><b>D</b><span>3</span></button></div></li>
+<li><p>If a + b = 10 and ab = 21, what is a² + b²?</p><div class="mcq" role="group"><button type="button" class="opt" data-c="0"><b>A</b><span>142</span></button><button type="button" class="opt" data-c="0"><b>B</b><span>100</span></button><button type="button" class="opt" data-c="0"><b>C</b><span>79</span></button><button type="button" class="opt" data-c="1"><b>D</b><span>58</span></button></div></li>
 </ol>
 <h3 id="data-interpretation">Data Interpretation</h3>
 <p>Quarterly sales of a company (in thousands of Tk): Q1 = 120, Q2 = 150, Q3 = 135, Q4 = 180.</p>
 <ol class="qs" start="17" type="1">
-<li><p>What is the percent increase from Q1 to Q2?</p></li>
-<li><p>What is the percent increase from Q3 to Q4 (to the nearest whole percent)?</p></li>
-<li><p>What is the average quarterly sales?</p></li>
+<li><p>What is the percent increase from Q1 to Q2?</p><div class="mcq" role="group"><button type="button" class="opt" data-c="1"><b>A</b><span>25%</span></button><button type="button" class="opt" data-c="0"><b>B</b><span>30%</span></button><button type="button" class="opt" data-c="0"><b>C</b><span>15%</span></button><button type="button" class="opt" data-c="0"><b>D</b><span>20%</span></button></div></li>
+<li><p>What is the percent increase from Q3 to Q4 (to the nearest whole percent)?</p><div class="mcq" role="group"><button type="button" class="opt" data-c="0"><b>A</b><span>30%</span></button><button type="button" class="opt" data-c="1"><b>B</b><span>33%</span></button><button type="button" class="opt" data-c="0"><b>C</b><span>45%</span></button><button type="button" class="opt" data-c="0"><b>D</b><span>25%</span></button></div></li>
+<li><p>What is the average quarterly sales?</p><div class="mcq" role="group"><button type="button" class="opt" data-c="0"><b>A</b><span>135</span></button><button type="button" class="opt" data-c="1"><b>B</b><span>146.25</span></button><button type="button" class="opt" data-c="0"><b>C</b><span>156.25</span></button><button type="button" class="opt" data-c="0"><b>D</b><span>150</span></button></div></li>
 </ol>
-</div><script type="application/json" id="adata">["<p><strong>(D)<\/strong>. If x &gt; 1 then x\u00b2 &gt; x; if 0 &lt; x &lt; 1 then x\u00b2 &lt; x. Cannot be determined.<\/p>", "<p><strong>(C)<\/strong>. Both equal 10.<\/p>", "<p><strong>(B)<\/strong>. For 0 &lt; x &lt; 1, x &gt; x\u00b2 &gt; x\u00b3, so x\u00b2 is greater.<\/p>", "<p><strong>(A)<\/strong>. Mean = 50/5 = 10; median = 7.<\/p>", "<p><strong>(A)<\/strong>. A = 8\u03c0 \u2248 25.12; B = 24.<\/p>", "<p>Girls = 5/8 \u00d7 40 = <strong>25<\/strong>.<\/p>", "<p>y = x \u2212 2 \u2192 3x + 2x \u2212 4 = 16 \u2192 x = <strong>4<\/strong>.<\/p>", "<p>6 favourable outcomes out of 36 = <strong>1/6<\/strong>.<\/p>", "<p>0.15 \u00d7 240 = <strong>36<\/strong>.<\/p>", "<p><strong>53, 59, 61<\/strong> (51 = 3\u00d717 and 57 = 3\u00d719).<\/p>", "<p>(6 \u2212 2) \u00d7 180 = <strong>720<\/strong>.<\/p>", "<p>\u03c0r\u00b2h = \u03c0 \u00d7 9 \u00d7 10 = <strong>90\u03c0<\/strong>.<\/p>", "<p>\u221a(6\u00b2 + 8\u00b2) = \u221a100 = <strong>10<\/strong>.<\/p>", "<p>C(8,3) = 8\u00b77\u00b76/6 = <strong>56<\/strong>.<\/p>", "<p>32 = 2\u2075 \u2192 x + 1 = 5 \u2192 <strong>x = 4<\/strong>.<\/p>", "<p>(a + b)\u00b2 \u2212 2ab = 100 \u2212 42 = <strong>58<\/strong>.<\/p>", "<p>(150 \u2212 120)/120 = <strong>25%<\/strong>.<\/p>", "<p>(180 \u2212 135)/135 = 33.3% \u2192 <strong>33%<\/strong>.<\/p>", "<p>(120 + 150 + 135 + 180)/4 = 585/4 = <strong>146.25 thousand Tk<\/strong>.<\/p>"]</script><div class="pn"><a href="index.html#mock">← All mock sets</a></div></main><footer>Practice problems are original and styled after IBA, GRE, BCS and Bank exams. Always confirm the current syllabus in the latest official circular.</footer><script src="assets/app.js"></script></body></html>
+</div><script type="application/json" id="adata">["<p><strong>(D)<\/strong>. If x &gt; 1 then x\u00b2 &gt; x; if 0 &lt; x &lt; 1 then x\u00b2 &lt; x. Cannot be determined.<\/p>", "<p><strong>(C)<\/strong>. Both equal 10.<\/p>", "<p><strong>(B)<\/strong>. For 0 &lt; x &lt; 1, x &gt; x\u00b2 &gt; x\u00b3, so x\u00b2 is greater.<\/p>", "<p><strong>(A)<\/strong>. Mean = 50/5 = 10; median = 7.<\/p>", "<p><strong>(A)<\/strong>. A = 8\u03c0 \u2248 25.12; B = 24.<\/p>", "<p>Girls = 5/8 \u00d7 40 = <strong>25<\/strong>.<\/p>", "<p>y = x \u2212 2 \u2192 3x + 2x \u2212 4 = 16 \u2192 x = <strong>4<\/strong>.<\/p>", "<p>6 favourable outcomes out of 36 = <strong>1/6<\/strong>.<\/p>", "<p>0.15 \u00d7 240 = <strong>36<\/strong>.<\/p>", "<p><strong>53, 59, 61<\/strong> (51 = 3\u00d717 and 57 = 3\u00d719).<\/p>", "<p>(6 \u2212 2) \u00d7 180 = <strong>720<\/strong>.<\/p>", "<p>\u03c0r\u00b2h = \u03c0 \u00d7 9 \u00d7 10 = <strong>90\u03c0<\/strong>.<\/p>", "<p>\u221a(6\u00b2 + 8\u00b2) = \u221a100 = <strong>10<\/strong>.<\/p>", "<p>C(8,3) = 8\u00b77\u00b76/6 = <strong>56<\/strong>.<\/p>", "<p>32 = 2\u2075 \u2192 x + 1 = 5 \u2192 <strong>x = 4<\/strong>.<\/p>", "<p>(a + b)\u00b2 \u2212 2ab = 100 \u2212 42 = <strong>58<\/strong>.<\/p>", "<p>(150 \u2212 120)/120 = <strong>25%<\/strong>.<\/p>", "<p>(180 \u2212 135)/135 = 33.3% \u2192 <strong>33%<\/strong>.<\/p>", "<p>(120 + 150 + 135 + 180)/4 = 585/4 = <strong>146.25 thousand Tk<\/strong>.<\/p>"]</script><div class="pn"><a href="index.html#mock">← All mock sets</a></div></main><footer>Practice problems are original and styled after IBA, GRE, BCS and Bank exams. Always confirm the current syllabus in the latest official circular.</footer><script src="assets/app.js"></script><script id="mcq-js">(function(){
+var qa=document.getElementById('qa');if(!qa)return;
+var sols=[];try{sols=JSON.parse(document.getElementById('adata').textContent)}catch(e){}
+var blocks=qa.querySelectorAll('.mcq'),done=0,ok=0,total=blocks.length,shown=false;
+var sc=document.getElementById('sum');
+function upd(){if(sc)sc.textContent='Score: '+ok+'/'+done+' · '+total+' questions'}
+function mark(){blocks.forEach(function(b){b.querySelectorAll('.opt').forEach(function(o){o.classList.toggle('reveal',shown&&o.dataset.c==='1'&&!b.dataset.done)})})}
+blocks.forEach(function(b,i){
+ b.querySelectorAll('.opt').forEach(function(btn){btn.addEventListener('click',function(){
+  if(b.dataset.done)return;b.dataset.done='1';done++;
+  var good=btn.dataset.c==='1';if(good)ok++;
+  b.querySelectorAll('.opt').forEach(function(o){o.disabled=true;o.classList.remove('reveal');if(o.dataset.c==='1')o.classList.add('right')});
+  if(!good)btn.classList.add('wrong');
+  var fb=document.createElement('div');fb.className='mcq-fb '+(good?'ok':'no');fb.textContent=good?'✓ Correct':'✗ Incorrect';
+  b.appendChild(fb);
+  if(sols[i]){var s=document.createElement('div');s.className='mcq-sol';s.innerHTML=sols[i];b.appendChild(s)}
+  upd();
+ })});
+});
+function reset(){done=0;ok=0;blocks.forEach(function(b){delete b.dataset.done;b.querySelectorAll('.mcq-fb,.mcq-sol').forEach(function(x){x.remove()});b.querySelectorAll('.opt').forEach(function(o){o.disabled=false;o.classList.remove('right','wrong','reveal')})});upd();mark()}
+var r=document.getElementById('reset');if(r)r.addEventListener('click',reset);
+var t=document.getElementById('showall');if(t)t.addEventListener('click',function(){shown=!shown;mark()});
+upd();
+})();</script></body></html>
