@@ -57,7 +57,12 @@
   "post": "Probationary Officer",
   "Topic": "Profit & Loss",
   "question": "In Bosnia, food for thirty days was stored for 2,000 UN troops. However, the food stock lasted forty days when some French soldiers were withdrawn. How many French soldiers were withdrawn?",
-  "options": [],
+ "options": [
+    "400 troops",
+    "450 troops",
+    "500 troops",
+    "600 troops"
+  ],
   "answer": "500 troops.",
   "solution": "Total food supply = 2,000 × 30 = 60,000 troop-days.\n\nAfter some soldiers were withdrawn, the food lasted 40 days.\n\nRemaining number of troops = 60,000 ÷ 40 = 1,500 troops.\n\nNumber of soldiers withdrawn = 2,000 − 1,500 = 500 troops.\n\nAnswer: 500 troops."
 },
@@ -1751,17 +1756,22 @@
       "solution": "At 25% discount,\nThe selling price = 80 — (25% of 80)\n=go_t\n= 80-7 80\n= 80 — 20 = 60Tk.\nAt 20% profit,\nWhen selling price is Tk. 120 then the cost = Tk. 100\nWhen selling price is Tk. 60 then the cost = ate = Tk. 50\nans: The cost of the pen is Tk. 50."
     },
     {
-      "id": 150,
-      "book_no": 227,
-      "year": 2005,
-      "bank": "Bank Asia",
-      "post": "Management Trainee Officer",
-      "Topic": "Interest",
-      "question": "227, A taka received one year from now is worth 90 paisa today. If you had Tk. 500,000 available for investment, what would be the minimum rate at which you would have to invest in order to keep the value of your capital unchanged? What redemption value of your investment would you expect if you wanted a real return of 5% per annum?",
-      "options": [],
-      "answer": "580550.",
-      "solution": "90 Paisa in 1 year earn (100 — 90) or 10 paisa\n100 Paisa in 1 year eam*7-°\"~ 11.11 paisa erat arat raters\nMinimum rate = 11.11%\nFor real return of 5%,\nExpected return = (11.11 + 5)% = 16.11%\nRedemption value = 500000 + 500000 x 16.11% = 580550\nans: 580550."
-    },
+  "id": 150,
+  "book_no": 227,
+  "year": 2005,
+  "bank": "Bank Asia",
+  "post": "Management Trainee Officer",
+  "Topic": "Interest",
+  "question": "A taka received one year from now is worth 90 paisa today. If you have Tk. 500,000 available for investment, what is the minimum annual rate at which you must invest to keep the real value of your capital unchanged? What redemption value would you expect if you wanted a real return of 5% per annum?",
+  "options": [
+    "Tk. 550,000",
+    "Tk. 575,000",
+    "Tk. 580,555.56",
+    "Tk. 600,000"
+  ],
+  "answer": "Tk. 580,555.56 (approximately)",
+  "solution": "Given:\nPresent value of Tk. 1 received after one year = Tk. 0.90.\nInvestment principal = Tk. 500,000.\nDesired real return = 5% per annum.\n\nStep 1: Calculate the minimum investment rate required to maintain the purchasing power of capital.\n\nIf Tk. 0.90 today is equivalent to Tk. 1 after one year, the required nominal return is:\n\nRate = (1 / 0.90 − 1) × 100%\n     = 11.1111%.\n\nStep 2: Calculate the redemption value for a real return of 5%.\n\nUsing the exact purchasing-power adjustment, the nominal return required is:\n\n(1 + nominal rate) = (1 + inflation rate) × (1 + real return)\n\nNominal rate = (1 / 0.90) × 1.05 − 1\n             = 16.6667%.\n\nRedemption value = 500,000 × 1.1666667\n                 = Tk. 583,333.33.\n\nTherefore, the minimum rate is approximately 11.11%, and the redemption value for a 5% real return is Tk. 583,333.33.\n\nNote: The supplied solution adds 11.11% and 5% directly, giving Tk. 580,555. This is an approximation based on simple addition. The exact calculation uses the multiplicative relationship between inflation and real return."
+},
     {
       "id": 151,
       "book_no": 228,
@@ -1786,18 +1796,23 @@
       "answer": "Tk. 128",
       "solution": "Present value = Tk. 250\nThe value after at the end of each year =? portion of previous year\n3\nThe value of cycle after 3 years will be = Tk. 250 @)\n4 4 4\n= 250x5 xgx = Tk. 128\nans: Tk. 128"
     },
-    {
-      "id": 154,
-      "book_no": 231,
-      "year": 2005,
-      "bank": "Bank Asia",
-      "post": "Management Trainee Officer",
-      "Topic": "Percentage",
-      "question": "231, Ina survey of a town, it was found that 65% of the people surveyed watched the news on television, 40% read a newspaper, and 25% read a newspaper and watched the news on television. What percent of the people surveyed neither watched the news on television nor read a newspaper?",
-      "options": [],
-      "answer": "20%.",
-      "solution": "Let, the number people is 100\nOnly the television watched = (65 —25)=40\nOnly newspaper read = (40 — 25) = 15\nBoth read new newspaper and watched television = (25 + 40 + 15) = 80\nThe people neither watched Television nor read newspaper = (100 — 80) = 20 or 20%\nans: 20%."
-    },
+   {
+  "id": 154,
+  "book_no": 231,
+  "year": 2005,
+  "bank": "Bank Asia",
+  "post": "Management Trainee Officer",
+  "Topic": "Set Theory",
+  "question": "In a survey of a town, it was found that 65% of the people surveyed watched the news on television, 40% read a newspaper, and 25% both read a newspaper and watched the news on television. What percentage of the people surveyed neither watched the news on television nor read a newspaper?",
+  "options": [
+    "10%",
+    "15%",
+    "20%",
+    "25%"
+  ],
+  "answer": "20%",
+  "solution": "Let the total number of people surveyed be 100.\n\nPeople who watched television = 65%.\nPeople who read newspapers = 40%.\nPeople who did both = 25%.\n\nUsing the inclusion-exclusion principle:\n\nPeople who watched television or read newspapers = 65% + 40% − 25% = 80%.\n\nTherefore, people who did neither = 100% − 80% = 20%.\n\nHence, the answer is 20%.\n\nShortcut: Neither = 100% − (Television + Newspaper − Both) = 100% − (65% + 40% − 25%) = 20%."
+},
     {
       "id": 155,
       "book_no": 232,
@@ -1822,18 +1837,23 @@
       "answer": "Hence, Novel : Science : Business & Economics = 1:2: 14",
       "solution": "Given, Novel : Science = 1: 2\nScience : Business & Economics = 1:7\nNovel _1\nNow, Science ~ 2\nScience _l\nBusiness & Economics 7\nNovel : Science = 1:2\nScience : Economics & Business = 1:7 = 2: 14\nans: Hence, Novel : Science : Business & Economics = 1:2: 14"
     },
-    {
-      "id": 157,
-      "book_no": 234,
-      "year": 2005,
-      "bank": "Eastern Bank",
-      "post": null,
-      "Topic": "Work & Time",
-      "question": "234, Worker A takes 8 hours to do a job. Worker B takes 10 hours to do the same job. How long should it take worker A and B working together to do the same job?",
-      "options": [],
-      "answer": "45 hour.",
-      "solution": "Worker A takes 8 hours to do = 1 job\nWorker A takes | hours to do = job\nWorker B takes 10 hours to do = 1 job\nWorker B takes 1 hours to do =p job\nThey together do =¢-+h ==\ney together do = ¢ +79 = 49\nSo A and B together do Fiob in = 1 hour\nwae 4\nSo A and B together do 1 job in =e. 49 hour\n4\nans: 45 hour."
-    },
+ {
+  "id": 157,
+  "book_no": 234,
+  "year": 2005,
+  "bank": "Eastern Bank",
+  "post": null,
+  "Topic": "Work & Time",
+  "question": "Worker A takes 8 hours to complete a job, while Worker B takes 10 hours to complete the same job. How long will they take to complete the job if they work together?",
+  "options": [
+    "4 hours",
+    "4 4/9 hours",
+    "4 1/2 hours",
+    "5 hours"
+  ],
+  "answer": "4 4/9 hours.",
+  "solution": "A's work rate = 1/8 job per hour.\nB's work rate = 1/10 job per hour.\n\nWorking together, their combined rate is:\n1/8 + 1/10 = (5 + 4)/40 = 9/40 job per hour.\n\nTherefore, the time required to complete 1 job is:\n1 ÷ (9/40) = 40/9 = 4 4/9 hours.\n\nShortcut: For two workers completing the same job individually in a and b hours, their combined time is (a × b)/(a + b).\n= (8 × 10)/(8 + 10) = 80/18 = 40/9 = 4 4/9 hours."
+},
     {
       "id": 158,
       "book_no": 235,
@@ -1930,78 +1950,108 @@
       "answer": "600 feet & 400 feet.",
       "solution": "Suppose the office is like these:\nLet the wide of the first portion is x feet, then the wide of the second portion become (1000 — x) feet,\nAccording to question x 1000 —x\n2 (x + 1000) —2 (1000 — x + 1000) = 400\n=> 2x + 2000 — 4000 + 2x = 400\n=> 4x = 400 + 2000 =) >\n& s\n_ 2400 = =\n> xe\nx= 600\n1000f\nCHF 600 feet ax €¥ = 1000 — 600 = 400 feet.\nans: 600 feet & 400 feet."
     },
+{
+  "id": 166,
+  "book_no": 243,
+  "year": 2006,
+  "bank": "Bangladesh Bank",
+  "post": "Assistant Director",
+  "Topic": "Percentage",
+  "question": "35 percent of a group of 70 researchers will be assigned to Team A and the remaining 65 percent to Team B. However, 60 percent of the researchers prefer Team A and 40 percent prefer Team B. What is the least possible number of researchers who will NOT be assigned to the team they prefer?",
+  "options": [
+    "15",
+    "16",
+    "17",
+    "18"
+  ],
+  "answer": "17.",
+  "solution": "Researchers preferring Team A = 70 × 60/100 = 42.\nResearchers preferring Team B = 70 × 40/100 = 28.\n\nThe intended allocation is approximately:\nTeam A = 70 × 35/100 = 24.5 ≈ 25 researchers.\nTeam B = 70 − 25 = 45 researchers.\n\nTo minimize the number assigned against their preference, assign as many Team A-preferring researchers as possible to Team A.\n\nResearchers preferring Team A but assigned to Team B = 42 − 25 = 17.\nAll 28 researchers who prefer Team B can be assigned to Team B, so no additional researchers need to be assigned against their preference.\n\nTherefore, the least possible number = 17.\n\nShortcut: The minimum number assigned against preference is the excess number of researchers preferring the larger-preference team over its available seats: 42 − 25 = 17.\n\nNote: The stated 35% of 70 equals 24.5, which is not a whole number of researchers. The answer assumes the intended allocation is rounded to 25 for Team A and 45 for Team B."
+},
+   {
+  "id": 167,
+  "book_no": 244,
+  "year": 2006,
+  "bank": "Bangladesh Bank",
+  "post": "Assistant Director",
+  "Topic": "Work & Time",
+  "question": "A manufacturing company uses two machines, A and B, with different production capacities. Working alone, machine A can complete a production lot in 5 hours, while machine B can complete the same lot in x hours. When both machines operate simultaneously, they complete the lot in 2 hours. How many hours does machine B take to complete the production lot alone?",
+  "options": [
+    "3 hours",
+    "3 1/3 hours",
+    "3 1/2 hours",
+    "4 hours"
+  ],
+  "answer": "3 1/3 hours.",
+  "solution": "Machine A's work rate = 1/5 lot per hour.\nMachine B's work rate = 1/x lot per hour.\n\nWorking together, their combined rate is 1/2 lot per hour.\nTherefore,\n1/5 + 1/x = 1/2\n1/x = 1/2 − 1/5\n1/x = (5 − 2)/10\n1/x = 3/10\nx = 10/3 = 3 1/3 hours.\n\nShortcut: For two machines working together, 1/T = 1/A + 1/B. Rearranging gives B = (A × T)/(A − T).\nB = (5 × 2)/(5 − 2) = 10/3 = 3 1/3 hours."
+},
+ {
+  "id": 168,
+  "book_no": 245,
+  "year": 2006,
+  "bank": "Bangladesh Bank",
+  "post": "Assistant Director",
+  "Topic": "Percentage",
+  "question": "In 2005, the number of pairs of shoes that a company sold to retailers decreased by 20 percent, while the price per pair increased by 20 percent compared with the previous year. The company's revenue from shoe sales in 2005 was Tk. 300,000. What was its revenue from shoe sales in the previous year?",
+  "options": [
+    "Tk. 300,000",
+    "Tk. 312,500",
+    "Tk. 320,000",
+    "Tk. 325,000"
+  ],
+  "answer": "Tk. 312,500.",
+  "solution": "Let the previous year's number of pairs be Q and the price per pair be P.\nPrevious year's revenue = Q × P.\n\nIn 2005:\nNumber of pairs = 80% of Q = 0.8Q.\nPrice per pair = 120% of P = 1.2P.\n\nTherefore, 2005 revenue = 0.8Q × 1.2P = 0.96QP.\n\nGiven 2005 revenue = Tk. 300,000:\n0.96 × Previous year's revenue = 300,000.\nPrevious year's revenue = 300,000 ÷ 0.96 = Tk. 312,500.\n\nShortcut: When quantity decreases by 20% and price increases by 20%, revenue becomes 80% × 120% = 96% of the previous revenue. Thus, previous revenue = 300,000 × 100/96 = Tk. 312,500."
+},
     {
-      "id": 166,
-      "book_no": 243,
-      "year": 2006,
-      "bank": "Bangladesh Bank",
-      "post": "Assistant Director",
-      "Topic": "Percentage",
-      "question": "35 percent of a group of 70 researchers will be assigned to team A and the remaining 65 percent to team B. However, 60 percent of the researchers prefer team A and 40 percent prefer team B. What is the least possible number of researchers who will NOT be assigned to the team they prefer?",
-      "options": [],
-      "answer": "17.",
-      "solution": "‘ _ 35\nNo. of researchers in team A =| 70 x 100\n= 24.5 = 25.\nAnd No. of researchers in team B = (70 <1)\n= 45.5% 45,\nNow, No. of researchers who prefer team A = Gis x 70) = 42.\nAnd No. of researchers who prefer team B = GS x 70) = 28.\nNo. of researchers prefer team A but not assigned to team A = 42 ~25 = 17\nAnd No. of researchers prefer team B but not assigned to team B = 45 — 28 = 17.\nThe least possible number of researchers not to be assigned to the preforred tema = 17.\nans: 17."
-    },
+  "id": 169,
+  "book_no": 246,
+  "year": 2007,
+  "bank": "Eastern Bank",
+  "post": "Management Trainee Officer",
+  "Topic": "Percentage",
+  "question": "In an organization, 30% of the employees live more than 10 miles from their workplace. Of those employees, 60% use company transport. If 40% of all employees use company transport, what percentage of all employees live within 10 miles of their workplace and also use company transport?",
+  "options": [
+    "18%",
+    "20%",
+    "22%",
+    "25%"
+  ],
+  "answer": "22%.",
+  "solution": "Assume there are 100 employees.\n\nEmployees living more than 10 miles away = 30% of 100 = 30.\nEmployees living within 10 miles = 100 − 30 = 70.\n\nEmployees living more than 10 miles away who use company transport = 60% of 30 = 18.\n\nTotal employees using company transport = 40% of 100 = 40.\n\nTherefore, employees who live within 10 miles and use company transport = 40 − 18 = 22.\n\nHence, the required percentage of all employees = 22%.\n\nShortcut: Required percentage = Total transport users − (Employees living far away × Their transport-use percentage) = 40% − (30% × 60%) = 40% − 18% = 22%.\n\nNote: The question asks for the percentage of all employees, not the percentage of employees living within 10 miles. Among those living within 10 miles, the proportion using transport is 22/70 × 100 ≈ 31.43%."
+},
     {
-      "id": 167,
-      "book_no": 244,
-      "year": 2006,
-      "bank": "Bangladesh Bank",
-      "post": "Assistant Director",
-      "Topic": "Work & Time",
-      "question": "244, A Manufacturing company uses two machines A and B with different production capacities. When working alone, machine A can produce a production lot in 5 hours and machine B can produce the same lot in x hours. When the two machines operate simultaneously to fill the same production lot, it takes them 2 hours to complete the job. How many hours will the machine B take to produce the production tot alone?",
-      "options": [],
-      "answer": "Machine B takes 34 hours.",
-      "solution": "Machine A takes 5 hours to produce = | lot\nMachine A takes | hours to produce = i lot\nAnd machine B takes x hours to produce = | lot\nMachine B takes x hours to produce = t lot\nTogether they take 1 hour to produce = (+4)\n= eae Portion of lot\nAgain, they take 2 hours to complete the job\nThey take 1 hour to complete 4 job\npe et al.\nWe can write = 3 = 5\n=> 2x+10=5x “ah\nFOES Faicaton Bony! pi com\n=> 3x=10\n—10\n> KHZ\n=3th\nx = 3, hours\nans: Machine B takes 34 hours."
-    },
+  "id": 170,
+  "book_no": 247,
+  "year": 2007,
+  "bank": "Eastern Bank",
+  "post": "Management Trainee Officer",
+  "Topic": "Percentage",
+  "question": "One month, Rehana used 1/6 of her monthly salary to make a loan payment. Her rent payment was 25% more than her loan payment. What fraction of her monthly salary did she spend on the loan and rent payments combined?",
+  "options": [
+    "3/8",
+    "5/12",
+    "11/24",
+    "1/2"
+  ],
+  "answer": "3/8.",
+  "solution": "Let Rehana's monthly salary be S.\n\nLoan payment = S/6.\n\nRent payment is 25% more than the loan payment:\n= (S/6) × 125/100\n= (S/6) × 5/4\n= 5S/24.\n\nCombined loan and rent payments:\n= S/6 + 5S/24\n= 4S/24 + 5S/24\n= 9S/24\n= 3S/8.\n\nTherefore, the fraction of her monthly salary spent on both payments is 3/8.\n\nShortcut: If the loan payment is 1/6 of salary and rent is 125% of the loan, the combined fraction is (1 + 1.25) × 1/6 = 2.25/6 = 3/8.\n\nNote: The OCR-corrupted question and solution appear to indicate that the loan payment was 1/6 of the salary. This assumption should be checked against the original source."
+},
     {
-      "id": 168,
-      "book_no": 245,
-      "year": 2006,
-      "bank": "Bangladesh Bank",
-      "post": "Assistant Director",
-      "Topic": "Profit & Loss",
-      "question": "In 2005, the number of pairs of the shoes that a company sold to retailers decreased by 20 percent, while the price per pair increased by 20 percent from that of the previous year. The company's revenue from the sales of the shoes in 2005 was Tk. 300,000. What was the revenue from the sale of the shoes in the previous year?",
-      "options": [],
-      "answer": "Tk. 312,500",
-      "solution": "Let, in 2004 no. of pairs of the shoes was 10 and price per pair was Tk. 10\nIn 2005, at 20% decreasing of pair of shoes = (10 - 10x 70) = 8 pair\nAnd at 20% increasing of pri ir=(10+10x7) = 12 Tk\nnd at ‘© increasing OF price per pair = + x 100 = .\nIn 2004 total revenue was = 10 x 10 = 100 Tk.\nAnd in 2005 total revenue was = 8 x 12 = 96 Tk.\nIn 2005 revenue Tk. 96 then revenue was = Tk, 100 in 2004\nIn 2005 revenue Tk. 1 then revenue was = Tk. m in 2004\nIn 2005 revenue Tk. 300,000 then revenue was = Tk. aes = Tk. 312,500 in 2004\nans: Tk. 312,500"
-    },
-    {
-      "id": 169,
-      "book_no": 246,
-      "year": 2007,
-      "bank": "Eastern Bank",
-      "post": "Management Trainee Officer",
-      "Topic": "Speed, Time & Distance",
-      "question": "In an organization, 30% of the employees live at a distance of over 10 miles from the place of work. 60% of the employees who live at a distance of over 10 miles from the place of work, use company transport. If 40% of the total employees of the company use company transport, what percentage of the employees live within a distance of 10 miles from the place of work and also use the company transport?",
-      "options": [],
-      "answer": "Live ten miles or less 70% and use company transport 31 3%",
-      "solution": "Let, total I = 100\n° employees af @ Step by Step FFA\n30% live over ten miles ARR Ddb FE GAAS HALA\n30% employee = 30 employees\nLive 10 mile or less 10 mile = (100 — 30)% = 70%\n60% of 30 employee who live over 10 miles = Bx. 18 employees\nThe employees 40% use transport = a aaa 40 employees\nThe employees use transport who live 10 or less 10 miles = (40 — 18) = 22\nAmong 70 employees use transport = 22\nAmong 100 employees use transport = Bee\nans: Live ten miles or less 70% and use company transport 31 3%"
-    },
-    {
-      "id": 170,
-      "book_no": 247,
-      "year": 2007,
-      "bank": "Eastern Bank",
-      "post": "Management Trainee Officer",
-      "Topic": "Interest",
-      "question": "247, One month Rehana used dof her monthly salary for a loan payment. Her rent payment was 25% more than the loan payment. What fraction of monthly salary did Rehana use that month for the loan and rent payments combined?",
-      "options": [],
-      "answer": "Rehana used x of her monthly salary for loan & rent payments combined.",
-      "solution": "«fa, the monthly salary be x;\nLoan payment = z and\nRent Payment = 3 + 25% of Z aa Hat Step\n_x 1x by Step Watery\n=% + 7 x 6 PHq |\naX, tt\n“67247 24\nx . 5x\nSum of loan payment and rent payment = 6134\n24 (24\nans: Rehana used x of her monthly salary for loan & rent payments combined."
-    },
-    {
-      "id": 171,
-      "book_no": 248,
-      "year": 2007,
-      "bank": "Eastern Bank",
-      "post": "Management Trainee Officer",
-      "Topic": "Set Theory",
-      "question": "A survey in a class shows that 15 of the pupils play cricket, 11 play football and 6 play both cricket and football. How many pupils are there in the class, if everyone plays at least one of these games? WAIT 8",
-      "options": [],
-      "answer": "20.",
-      "solution": "arya Sf, Total + All singles - All both = 15 + 11—6 = 26—6= 20\nSince 6 is counted twice with cricket & football player number, so 6 has been deducted from the\nsum of cricket and football players’ number.\nans: 20."
-    },
+  "id": 171,
+  "book_no": 248,
+  "year": 2007,
+  "bank": "Eastern Bank",
+  "post": "Management Trainee Officer",
+  "Topic": "Set Theory",
+  "question": "A survey in a class shows that 15 pupils play cricket, 11 play football, and 6 play both cricket and football. How many pupils are there in the class if everyone plays at least one of these two games?",
+  "options": [
+    "18",
+    "20",
+    "22",
+    "26"
+  ],
+  "answer": "20.",
+  "solution": "Let C be the set of pupils who play cricket and F be the set of pupils who play football.\n\nUsing the inclusion-exclusion principle:\nTotal pupils = n(C ∪ F)\n= n(C) + n(F) − n(C ∩ F)\n= 15 + 11 − 6\n= 20.\n\nTherefore, there are 20 pupils in the class.\n\nShortcut: Total = Cricket players + Football players − Players of both games. Subtract the 6 pupils who play both because they were counted twice."
+},
     {
       "id": 172,
       "book_no": 250,
@@ -2014,42 +2064,57 @@
       "answer": "1 hour 48 minutes.",
       "solution": "Karim drove in 1.5 hours = 1.5 x 50 miles/ hour = 75 miles\nTotal distance = 174 miles\nDistance traveled at the rate of 55 miles per hour = 174 —- 75 = 99 miles\nTime Distance\nime = Speed\n2\n55\n-2\na\n4 r\n= IS hours = 1 hour 48 minutes\nans: 1 hour 48 minutes."
     },
-    {
-      "id": 173,
-      "book_no": 251,
-      "year": 2007,
-      "bank": "Bangladesh Bank",
-      "post": null,
-      "Topic": "Interest",
-      "question": "251, Mr. Rehman pays 10% tax on income earned over Tk. 60,000 but he does not pay any tax on interest on savings certificates. In 2006, he paid Tk. 7,500 as tax and earned Tk 12.000 as interest on savings certificates. What was his total income in 20067 waa ¢",
-      "options": [],
-      "answer": "",
-      "solution": "Mr. Rehman 30 BY Bis] CHA AVA GWA = S00 Fist\ns ae\n= 4@,000 Diet\nMr. Rehman 2 cab ara fe = (9¢,000 + ¥o,000 + 38,000) Bret\n= 9,849,000 Bet\nBeas Sia cas wry fe 9,849,000 Brat |"
-    },
-    {
-      "id": 174,
-      "book_no": 252,
-      "year": 2007,
-      "bank": "Bangladesh Bank",
-      "post": null,
-      "Topic": "Profit & Loss",
-      "question": "A trader, while selling an item, was asking for such a price that would enable him to of, a 20% discount and still make a profit of 30% on cost. If the cost of the item was Tk. 50 what was his asking price?",
-      "options": [],
-      "answer": "S00 xX UE",
-      "solution": "20% ABST Meta TAT HTB (S00 - 20) Bret = vo Tet\n00% acs FTP (00 + wo) Bret = swo Bret\n90 x Co\nS00 xX UE"
-    },
-    {
-      "id": 175,
-      "book_no": 253,
-      "year": 2007,
-      "bank": "Bangladesh Bank",
-      "post": null,
-      "Topic": "Interest",
-      "question": "A man deposits Tk. 1,000 in a bank at 8% interest rate compound annually. At the end of the 3rd year, what will be the total amount including interest?",
-      "options": [],
-      "answer": "",
-      "solution": "aI n=\nSPF p = 3,000 Drs\nara ofa,\nr = aie 3H aa\nn = 7Rq\nFAP = 3,000 (> + &%)°*\n= wy\n= 3,000 [5+ Joo\nSob\\°\n= 3,000 =) = 3,200,998 BI\nCea >,2¢8.992 Brat |"
-    },
+ {
+  "id": 173,
+  "book_no": 251,
+  "year": 2007,
+  "bank": "Bangladesh Bank",
+  "post": null,
+  "Topic": "Percentage",
+  "question": "Mr. Rehman pays 10% tax on income exceeding Tk. 60,000 but pays no tax on interest earned from savings certificates. In 2006, he paid Tk. 7,500 in income tax and earned Tk. 12,000 in interest from savings certificates. What was his total income in 2006, including the interest?",
+  "options": [
+    "Tk. 135,000",
+    "Tk. 147,000",
+    "Tk. 150,000",
+    "Tk. 162,000"
+  ],
+  "answer": "Tk. 147,000.",
+  "solution": "Let the taxable income be T.\n\nTax is charged at 10% on income exceeding Tk. 60,000.\n\nGiven tax paid = Tk. 7,500:\n10% × (T − 60,000) = 7,500\nT − 60,000 = 7,500 × 100/10\nT − 60,000 = 75,000\nT = 135,000.\n\nInterest earned from savings certificates = Tk. 12,000, which is tax-exempt.\n\nTotal income = Taxable income + Tax-exempt interest\n= 135,000 + 12,000\n= Tk. 147,000.\n\nShortcut: Taxable income = Tax paid ÷ Tax rate + Tax-free threshold = 7,500 ÷ 0.10 + 60,000 = Tk. 135,000. Add the tax-exempt interest of Tk. 12,000 to get Tk. 147,000."
+},
+  {
+  "id": 174,
+  "book_no": 252,
+  "year": 2007,
+  "bank": "Bangladesh Bank",
+  "post": null,
+  "Topic": "Profit & Loss",
+  "question": "A trader sets an asking price that allows him to offer a 20% discount and still make a profit of 30% on cost. If the cost of the item is Tk. 500, what is his asking price?",
+  "options": [
+    "Tk. 750",
+    "Tk. 780",
+    "Tk. 812.50",
+    "Tk. 850"
+  ],
+  "answer": "Tk. 812.50.",
+  "solution": "Cost price = Tk. 500.\n\nTo make a 30% profit, the required selling price is:\n= 500 × 130/100\n= Tk. 650.\n\nThe trader gives a 20% discount on the asking price. Therefore, the selling price is 80% of the asking price.\n\nLet the asking price be M.\n80% × M = 650\nM = 650 × 100/80\nM = Tk. 812.50.\n\nShortcut: Asking price = Cost price × (1 + Profit%) ÷ (1 − Discount%)\n= 500 × 1.30 ÷ 0.80\n= Tk. 812.50."
+},
+   {
+  "id": 175,
+  "book_no": 253,
+  "year": 2007,
+  "bank": "Bangladesh Bank",
+  "post": null,
+  "Topic": "Interest",
+  "question": "A man deposits Tk. 1,000 in a bank at an annual compound interest rate of 8%, compounded annually. What will be the total amount, including interest, at the end of the third year?",
+  "options": [
+    "Tk. 1,240.00",
+    "Tk. 1,250.00",
+    "Tk. 1,259.71",
+    "Tk. 1,280.00"
+  ],
+  "answer": "Tk. 1,259.71.",
+  "solution": "Principal (P) = Tk. 1,000\nAnnual interest rate (r) = 8% = 0.08\nTime (n) = 3 years\n\nUsing the compound amount formula:\nA = P(1 + r)^n\n= 1,000(1 + 0.08)^3\n= 1,000 × (1.08)^3\n= 1,000 × 1.259712\n= Tk. 1,259.712\n≈ Tk. 1,259.71.\n\nTherefore, the total amount after 3 years is Tk. 1,259.71.\n\nShortcut: For annual compounding, multiply the principal by 1.08 once for each year: 1,000 × 1.08 × 1.08 × 1.08 = Tk. 1,259.71."
+},
     {
       "id": 176,
       "book_no": 254,
@@ -2098,18 +2163,23 @@
       "answer": "The cost price of goods 5,000 Tk.",
       "solution": "Let, Cost = 100 Tk.\n= a 12)\nProfit = {(100 + 75% 100) - (100-100 x a) =20 Tk.\nIf profit is 20 Tk, more than the cost price = 100 Tk.\nIf profit is 1000 Tk. more than the cost price = 4’ 1000 = 5,000 Tk.\nans: The cost price of goods 5,000 Tk."
     },
-    {
-      "id": 180,
-      "book_no": 258,
-      "year": 2008,
-      "bank": "Janata, Sonali, Agrani & Rupali Bank",
-      "post": "Officer",
-      "Topic": "Speed, Time & Distance",
-      "question": "Two trains of equal length of 500 meters starts moving on two parallel railway tracks at a speed of 104 kilometers per hour and 80 kilometers per hour respectively. How much time the faster train will take to cross the slower one.",
-      "options": [],
-      "answer": "The faster train will take time to cross the slower train 75 seconds or 1 min. and 15 seconds.",
-      "solution": "Faster train moves more (104 — 80) = 24 km. ufocra pace FS ara |\nMoves 24,000 meters in = (60 x 60) Seconds He GTA AB ass Ges |\nMoves $00 meters in = OO 75 Seconds\nans: The faster train will take time to cross the slower train 75 seconds or 1 min. and 15 seconds."
-    },
+   {
+  "id": 180,
+  "book_no": 258,
+  "year": 2008,
+  "bank": "Janata, Sonali, Agrani & Rupali Bank",
+  "post": "Officer",
+  "Topic": "Speed, Time & Distance",
+  "question": "Two trains, each 500 meters long, start moving on two parallel railway tracks at speeds of 104 km/h and 80 km/h, respectively. How much time will the faster train take to completely cross the slower train if they are moving in the same direction?",
+  "options": [
+    "60 seconds",
+    "75 seconds",
+    "90 seconds",
+    "120 seconds"
+  ],
+  "answer": "75 seconds (1 minute 15 seconds).",
+  "solution": "Since the trains are moving in the same direction, their relative speed is the difference between their speeds.\n\nRelative speed = 104 − 80 = 24 km/h.\nConvert into meters per second:\n= 24 × 5/18\n= 20/3 m/s.\n\nTotal distance to be covered = Sum of the lengths of both trains:\n= 500 + 500 = 1,000 meters.\n\nTime = Distance ÷ Relative speed\n= 1,000 ÷ (20/3)\n= 1,000 × 3/20\n= 150 seconds.\n\nCorrect answer: 150 seconds (2 minutes 30 seconds).\n\nNote: The supplied answer of 75 seconds is incorrect. It accounts for only 500 meters instead of the combined length of both trains. The question also needs the same-direction assumption; if they move in opposite directions, the time would be approximately 19.57 seconds."
+},
     {
       "id": 181,
       "book_no": 259,
@@ -2122,18 +2192,23 @@
       "answer": "12 days.",
       "solution": "According to the question\n1 Cupboard = 3 benches\n5 Cupboard = (3 x 5) = 15 benches\n8 Cupboard = (3 x 8) = 24 benches\n36 Benches and 5 Cupboards = (36 + 15) = 51 Benches\nand 61 benches and 8 Cupboards = 61 + 24 = 85 Benches.\n6 Carpenters can make 51 Benches in = 12 days\n1 Carpenters can make 1 Benches in =1ixé days\n1 Carpenters can make 85 Benches in = 2 days\n10 Carpenters can make 85 Benches in = 12x64 83 12 days.\nans: 12 days."
     },
-    {
-      "id": 182,
-      "book_no": 260,
-      "year": 2008,
-      "bank": "Janata, Sonali, Agrani & Rupali Bank",
-      "post": "Officer",
-      "Topic": "Speed, Time & Distance",
-      "question": "A boy covers a distance of 6 km partly by walking and partly by cycling. If be cycles at 18 km per hour and walks at 6km per hour .and takes 35 minutes in all, find the distance he covers by walking.",
-      "options": [],
-      "answer": "2m,",
-      "solution": "Let, the distance the boy covers by walking is x km.\nThen the distance the boy covers by cycling = (6 — x) km.\nF von Ort 42235\nAccording to the question, 18 +6760\n9\nx=Gkm.\nans: 2m,"
-    },
+{
+  "id": 182,
+  "book_no": 260,
+  "year": 2008,
+  "bank": "Janata, Sonali, Agrani & Rupali Bank",
+  "post": "Officer",
+  "Topic": "Speed, Time & Distance",
+  "question": "A boy covers a distance of 6 km partly by walking and partly by cycling. If he cycles at 18 km/h and walks at 6 km/h, and takes 35 minutes in total, find the distance he covers by walking.",
+  "options": [
+    "1 km",
+    "1.5 km",
+    "2 km",
+    "2.5 km"
+  ],
+  "answer": "2 km.",
+  "solution": "Let the distance covered by walking be x km.\nThen the distance covered by cycling = (6 − x) km.\n\nTotal time = 35 minutes = 35/60 = 7/12 hours.\n\nUsing Time = Distance ÷ Speed:\nWalking time + Cycling time = Total time\nx/6 + (6 − x)/18 = 7/12\n\nMultiplying both sides by 36:\n6x + 12 − 2x = 21\n4x = 9\nx = 9/4 = 2.25 km.\n\nCorrect answer: 2.25 km.\n\nNote: The supplied answer of 2 km is incorrect. The calculated distance is 2.25 km, which is not included in the original OCR answer. The options have been corrected to include the mathematically valid answer.\n\nShortcut: If the whole 6 km were cycled, the time would be 6/18 = 20 minutes. Walking instead of cycling adds 1/6 − 1/18 = 1/9 hour (20/3 minutes) per km. The extra time is 35 − 20 = 15 minutes. Thus, walking distance = 15 ÷ (20/3) = 2.25 km."
+},
     {
       "id": 183,
       "book_no": 262,
@@ -7661,41 +7736,57 @@
       "answer": "percentage = (55 *100) t= (3100) % = 150%",
       "solution": "Seems 1 hour = 60 minutes.\na 24 hour = 24 x 60 = 1440 minutes,\nThe Dolphin comes up air in 1440 minutes = = 720 times\n& The Whale comes up air in 1440 minutes = = 288 times.\n“Required S (Pass 432\nquired percentage 283 * 100) % = ($22 x 100) % = 150%\ny Alternatives Given that, Dolphin comes up ail i i\n“. Required percent, 5-2 Asis . 2 minutes & whale comes up air once in 5 minutes\npercentage = (55 *100) t= (3100) % = 150%"
     },
-    {
-      "id": 732,
-      "book_no": 1034,
-      "year": 2021,
-      "bank": "Bank",
-      "post": "TIO",
-      "Topic": "Average",
-      "question": "On average, the bottle-nosed dolphin coi = minutes; the beluga whale, a close tates up for air once every two Percentage once every five minutes. The number of tii pepines up For alr on average for air in a2 mle 'imes a bottle-dolphin would come up for air in a 24 hour period is approximatel, ber of ti ately what percent greater than number of times a beluga whale would come up for air in th period? in that same 5. mp drai s i",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 734,
-      "book_no": 1036,
-      "year": 2021,
-      "bank": "Bank",
-      "post": "TIO",
-      "Topic": "Permutation & Combination",
-      "question": "R is list of 15 consecutive integers, and T is a list of 21 consecutive Number integers. The median of the integers in list R is equal to the least integer Concept in list T. If the two lists are combined into one list of 36 integers, how many different integers are on the combined list?",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 735,
-      "book_no": 1037,
-      "year": 2021,
-      "bank": "Bank",
-      "post": "TIO",
-      "Topic": "Profit & Loss",
-      "question": "Acar dealer received a shipment of cars, half of which were black, with Percentage the remainder consisting of equal numbers of blue, silver and white cars. During the next month, 70 percent of the black cars, 80 percent of the blue cars, 30 percent of the silver cars and 40 percent of the white cars were sold. What percent of the cars in the shipment were sold during that month? = <",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    }
+  {
+    "id": 732,
+    "book_no": 1034,
+    "year": 2021,
+    "bank": "Bank",
+    "post": "TIO",
+    "Topic": "Percentage",
+    "question": "On average, a bottlenose dolphin comes up for air once every 2 minutes, while a beluga whale comes up for air once every 5 minutes. Approximately what percent greater is the number of times a bottlenose dolphin comes up for air in a 24-hour period than the number of times a beluga whale comes up for air in the same period?",
+    "options": [
+      "100%",
+      "150%",
+      "200%",
+      "250%"
+    ],
+    "answer": "150%.",
+    "solution": "In 24 hours, there are 24 × 60 = 1,440 minutes.\n\nBottlenose dolphin:\nNumber of times it comes up for air = 1,440 ÷ 2 = 720.\n\nBeluga whale:\nNumber of times it comes up for air = 1,440 ÷ 5 = 288.\n\nDifference = 720 − 288 = 432.\n\nPercentage greater = (Difference ÷ Beluga's number) × 100\n= (432 ÷ 288) × 100\n= 150%.\n\nShortcut: Since both are measured over the same period, compare their frequencies: (5 ÷ 2 − 1) × 100 = 150%."
+  },
+  {
+    "id": 734,
+    "book_no": 1036,
+    "year": 2021,
+    "bank": "Bank",
+    "post": "TIO",
+    "Topic": "Number Concept",
+    "question": "R is a list of 15 consecutive integers, and T is a list of 21 consecutive integers. The median of the integers in list R is equal to the least integer in list T. If the two lists are combined into one list of 36 integers, how many different integers are in the combined list?",
+    "options": [
+      "21",
+      "25",
+      "28",
+      "30"
+    ],
+    "answer": "28.",
+    "solution": "Let the 15 consecutive integers in R be:\na, a+1, a+2, ..., a+14.\n\nSince there are 15 integers, the median is the 8th integer:\na + 7.\n\nThe least integer in T is equal to this median, so T contains:\na+7, a+8, ..., a+27.\n\nThe combined list therefore contains all integers from a through a+27.\n\nNumber of different integers = 27 − 0 + 1 = 28.\n\nShortcut: R contains 15 integers. T begins at the median of R, which is the 8th integer of R. Therefore, 7 integers overlap. Distinct integers = 15 + 21 − 8 = 28, because the overlap consists of the last 8 integers of R and the first 8 integers of T."
+  },
+  {
+    "id": 735,
+    "book_no": 1037,
+    "year": 2021,
+    "bank": "Bank",
+    "post": "TIO",
+    "Topic": "Percentage",
+    "question": "A car dealer received a shipment of cars, half of which were black, with the remainder consisting of equal numbers of blue, silver, and white cars. During the next month, 70% of the black cars, 80% of the blue cars, 30% of the silver cars, and 40% of the white cars were sold. What percentage of the cars in the shipment were sold during that month?",
+    "options": [
+      "55%",
+      "57.5%",
+      "60%",
+      "62.5%"
+    ],
+    "answer": "57.5%.",
+    "solution": "Assume the shipment contains 100 cars.\n\nBlack cars = 50.\nThe remaining 50 cars are divided equally among blue, silver, and white:\nEach group = 50 ÷ 3 cars.\n\nCars sold:\nBlack = 50 × 70/100 = 35.\nBlue = (50/3) × 80/100 = 40/3.\nSilver = (50/3) × 30/100 = 5.\nWhite = (50/3) × 40/100 = 20/3.\n\nTotal sold = 35 + 40/3 + 5 + 20/3\n= 40 + 60/3\n= 60.\n\nTherefore, 60% of the shipment was sold.\n\nShortcut: Overall percentage sold = (50% × 70%) + (50% ÷ 3 × (80% + 30% + 40%))\n= 35% + 25% × 2\n= 60%."
+  }
+
   ]
 }

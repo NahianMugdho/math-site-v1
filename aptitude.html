@@ -1,0 +1,165 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Aptitude Test — Simplification ফর্মুলা ও টেকনিক | Math Prep</title><link rel="stylesheet" href="assets/style.css">
+<script>try{var t=localStorage.getItem('mq-theme')||(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light');document.documentElement.dataset.theme=t}catch(e){}</script>
+<style>
+.qb{--c-bg:#fff;--c-tx:#1e293b;--c-mu:#64748b;--c-bd:#d6dde8;--c-ac:#1e3a8a;--c-ac2:#2563eb;--c-ok:#15803d;--c-okbg:#e8f6ec;--c-no:#b91c1c;--c-nobg:#fdecec;--c-hi:#eef3ff;--c-code:#0f172a;max-width:860px;margin:0 auto;padding:18px 14px 60px}
+html[data-theme=dark] .qb{--c-bg:#172033;--c-tx:#e5ecf6;--c-mu:#97a6bd;--c-bd:#2e3b55;--c-ac:#93b4ff;--c-ac2:#5b8cff;--c-ok:#4ade80;--c-okbg:#10301e;--c-no:#f87171;--c-nobg:#3a1717;--c-hi:#1d2a47;--c-code:#0b1220}
+.qb *{box-sizing:border-box}
+.qb .card2{background:var(--c-bg);color:var(--c-tx);border:1px solid var(--c-bd);border-radius:14px;padding:18px;margin:0 0 16px;box-shadow:0 1px 3px rgba(0,0,0,.06)}
+.qb h2{margin:0 0 12px;font-size:1.15rem;color:var(--c-ac)}
+.qb .row{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:12px}
+.qb label{display:block;font-size:.82rem;color:var(--c-mu);margin-bottom:4px;font-weight:600}
+.qb select,.qb input[type=file]{width:100%;padding:9px 10px;border-radius:9px;border:1px solid var(--c-bd);background:var(--c-bg);color:var(--c-tx);font:inherit}
+.qb .chk{display:flex;gap:8px;align-items:center;margin-top:12px;font-size:.92rem;color:var(--c-tx)}
+.qb .chk input{width:18px;height:18px}
+.qb button.b{cursor:pointer;border:0;border-radius:10px;padding:11px 20px;font:inherit;font-weight:700;background:var(--c-ac2);color:#fff}
+.qb button.b.alt{background:transparent;color:var(--c-ac);border:1px solid var(--c-ac)}
+.qb button.b:disabled{opacity:.45;cursor:not-allowed}
+.qb .acts{display:flex;gap:10px;flex-wrap:wrap;margin-top:16px;align-items:center}
+.qb .info{font-size:.88rem;color:var(--c-mu)}
+.qb .prog{height:8px;border-radius:8px;background:var(--c-bd);overflow:hidden;margin:6px 0 14px}
+.qb .prog i{display:block;height:100%;width:0;background:var(--c-ac2);transition:width .25s}
+.qb .top2{display:flex;justify-content:space-between;gap:10px;font-size:.88rem;color:var(--c-mu);flex-wrap:wrap}
+.qb .tags{display:flex;gap:6px;flex-wrap:wrap;margin:10px 0}
+.qb .tag{font-size:.74rem;padding:3px 9px;border-radius:99px;background:var(--c-hi);color:var(--c-ac);border:1px solid var(--c-bd)}
+.qb .qt{font-size:1.07rem;line-height:1.65;margin:6px 0 14px;white-space:pre-wrap;word-break:break-word}
+.qb .opt{display:flex;gap:12px;align-items:center;width:100%;text-align:left;margin:0 0 9px;padding:12px 14px;border-radius:11px;border:1.5px solid var(--c-bd);background:var(--c-bg);color:var(--c-tx);font:inherit;font-size:1rem;cursor:pointer}
+.qb .opt:hover:not(:disabled){border-color:var(--c-ac2);background:var(--c-hi)}
+.qb .opt b{flex:0 0 28px;height:28px;border-radius:50%;display:grid;place-items:center;background:var(--c-hi);color:var(--c-ac);font-size:.85rem}
+.qb .opt.ok{border-color:var(--c-ok);background:var(--c-okbg)}
+.qb .opt.no{border-color:var(--c-no);background:var(--c-nobg)}
+.qb .opt:disabled{cursor:default}
+.qb .fb{margin-top:12px;padding:12px 14px;border-radius:10px;border-left:5px solid var(--c-ac2);background:var(--c-hi);font-size:.95rem}
+.qb .fb.ok{border-color:var(--c-ok);background:var(--c-okbg)}
+.qb .fb.no{border-color:var(--c-no);background:var(--c-nobg)}
+.qb pre.sol{margin:10px 0 0;padding:12px;border-radius:9px;background:var(--c-code);color:#86efac;white-space:pre-wrap;word-break:break-word;font:.86rem/1.6 ui-monospace,Consolas,monospace;max-height:320px;overflow:auto}
+.qb .note{font-size:.78rem;color:var(--c-mu);margin-top:6px}
+.qb .score{font-size:2.4rem;font-weight:800;color:var(--c-ac);margin:4px 0}
+.qb table{width:100%;border-collapse:collapse;font-size:.9rem;margin-top:10px}
+.qb th,.qb td{padding:8px 10px;border-bottom:1px solid var(--c-bd);text-align:left}
+.qb th{color:var(--c-mu);font-weight:600}
+.qb .rv{padding:10px 0;border-bottom:1px dashed var(--c-bd);font-size:.92rem}
+.qb .rv small{color:var(--c-mu)}
+.qb .meta{font-size:.76rem;color:var(--c-mu)}.hide{display:none!important}
+.apt{--c-bg:#fff;--c-tx:#1e293b;--c-mu:#64748b;--c-bd:#d6dde8;--c-ac:#1e3a8a;--c-hi:#eef3ff;max-width:900px;margin:0 auto;padding:18px 14px 60px}
+html[data-theme=dark] .apt{--c-bg:#172033;--c-tx:#e5ecf6;--c-mu:#97a6bd;--c-bd:#2e3b55;--c-ac:#93b4ff;--c-hi:#1d2a47}
+.apt *{box-sizing:border-box}
+.apt .toc{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 18px}
+.apt .toc a{font-size:.85rem;padding:6px 12px;border-radius:99px;border:1px solid var(--c-bd);background:var(--c-bg);color:var(--c-ac);text-decoration:none}
+.apt .ch{background:var(--c-bg);color:var(--c-tx);border:1px solid var(--c-bd);border-radius:14px;padding:18px 18px 8px;margin:0 0 18px;scroll-margin-top:70px}
+.apt .ch>h2{display:flex;gap:12px;align-items:center;margin:0 0 12px;font-size:1.18rem;color:var(--c-ac)}
+.apt .ch>h2 b{flex:0 0 auto;min-width:34px;height:34px;padding:0 8px;border-radius:9px;display:grid;place-items:center;background:#1e3a8a;color:#fff;font-size:.95rem}
+.apt h3{font-size:1rem;margin:16px 0 6px;color:var(--c-ac)}
+.apt p,.apt li{line-height:1.75;font-size:.97rem}
+.apt ul,.apt ol{padding-left:22px;margin:6px 0 12px}
+.apt pre.code{background:#0b1220;color:#86efac;padding:12px 14px;border-radius:10px;overflow:auto;font:.86rem/1.65 ui-monospace,Consolas,monospace;margin:8px 0 14px;white-space:pre}
+.apt .co{border-left:5px solid;border-radius:9px;padding:10px 14px;margin:10px 0 14px;font-size:.94rem;line-height:1.7}
+.apt .co.blue{border-color:#2563eb;background:rgba(37,99,235,.10)}
+.apt .co.red{border-color:#dc2626;background:rgba(220,38,38,.10)}
+.apt .co.green{border-color:#16a34a;background:rgba(22,163,74,.10)}
+.apt .co b.t{display:block;margin-bottom:2px}
+.apt .tw{overflow-x:auto;margin:8px 0 14px}
+.apt table{border-collapse:collapse;width:100%;font-size:.9rem;min-width:320px}
+.apt th,.apt td{border:1px solid var(--c-bd);padding:7px 10px;text-align:center}
+.apt th{background:var(--c-hi);color:var(--c-ac)}
+.apt td.l,.apt th.l{text-align:left}
+.apt .cta{display:flex;gap:10px;flex-wrap:wrap;margin:6px 0 16px}
+.apt .cta a{display:inline-block;padding:11px 20px;border-radius:10px;background:#2563eb;color:#fff;text-decoration:none;font-weight:700}
+.apt .cta a.alt{background:transparent;color:var(--c-ac);border:1px solid var(--c-ac)}
+.apt code{background:var(--c-hi);padding:1px 6px;border-radius:5px}</style></head><body>
+<header class="top"><a class="brand" href="index.html">📐 MathPrep</a><nav><a href="index.html">Home</a><a href="index.html#learn">Learn</a><a href="index.html#practice">Practice</a><a href="index.html#mock">Mock</a><a href="aptitude.html" class=on>Aptitude</a><a href="aptitude-qbank.html">Aptitude Q-Bank</a><a href="qbank.html">Bank MCQ</a><a href="shortcuts.html">Shortcuts</a><a href="formulas.html">Formulas</a><a href="exams.html">Exam Guide</a></nav><button class="btn" id="theme" aria-label="Toggle dark mode"></button><button class="btn" id="menu" aria-label="Menu">☰</button></header>
+<section class="banner"><h1>🧠 Aptitude Test — Simplification</h1><p>ব্যাংক নিয়োগ পরীক্ষার Quantitative Aptitude: ফর্মুলা, শর্টকাট ও সময় বাঁচানোর টেকনিক।</p><div class="chips"><span class="chip">BODMAS</span><span class="chip">Approximation</span><span class="chip">Squares &amp; Roots</span><span class="chip">Speed Maths</span><span class="chip">Surds</span><span class="chip">Time Strategy</span></div></section>
+<main class="apt"><nav class="toc"><a href="#c1">পরিচিতি</a><a href="#c2">BODMAS</a><a href="#c3">বর্গ-ঘন-সূত্র</a><a href="#c4">শর্টকাট</a><a href="#c5">ভগ্নাংশ ও %</a><a href="#c6">শতকরা</a><a href="#c7">মূল ও Surd</a><a href="#c8">Approximation</a><a href="#c9">? বের করা</a><a href="#c10">সময় ও যাচাই</a></nav><section class="ch" id="c1"><h2><b>১</b>Simplification কী ও পরীক্ষায় কেন গুরুত্বপূর্ণ</h2><p>Simplification হলো একটি জটিল গাণিতিক রাশিকে ধাপে ধাপে সহজ করে মান বের করা। ব্যাংকের Quantitative Aptitude-এ এটি সবচেয়ে বেশি ও সবচেয়ে দ্রুত করার মতো অংশ, তাই এখান থেকেই সময় বাঁচানো যায়। প্রশ্ন সাধারণত দুই ধরনের:</p>
+<div class="tw"><table><tr><th>ধরন</th><th>প্রশ্নে যা থাকে</th><th>কী করবেন</th></tr><tr><td class="l">Exact value</td><td class="l">“What will come in place of ?”</td><td class="l">সঠিক মান বের করুন, অপশনের শেষ অঙ্ক দিয়ে যাচাই করুন</td></tr><tr><td class="l">Approximation</td><td class="l">“approximate value”, “not expected to calculate exact value”</td><td class="l">সংখ্যাকে কাছের সহজ সংখ্যায় এনে হিসাব করুন</td></tr></table></div><div class="co blue"><b class="t">মূল কৌশল</b>Simplification-এ জাদু নেই — <b>BODMAS</b>, <b>নামতা/বর্গ/ঘন মুখস্থ</b> আর <b>শর্টকাট গুণ-ভাগ</b>। এই তিনটি ঠিক থাকলে প্রতি প্রশ্নে ৩০–৪০ সেকেন্ডই যথেষ্ট।</div></section><section class="ch" id="c2"><h2><b>২</b>BODMAS নিয়ম</h2><p>একাধিক চিহ্ন থাকলে এই ক্রমে হিসাব করুন:</p>
+<div class="tw"><table><tr><th>ক্রম</th><th>অক্ষর</th><th>অর্থ</th></tr><tr><td>1</td><td>B</td><td class="l">Bracket — ( ) → { } → [ ] ভেতর থেকে বাইরে</td></tr><tr><td>2</td><td>O</td><td class="l">Of (এর) / Order (ঘাত, মূল)</td></tr><tr><td>3</td><td>D, M</td><td class="l">ভাগ ও গুণ — একসাথে, বাম থেকে ডানে</td></tr><tr><td>4</td><td>A, S</td><td class="l">যোগ ও বিয়োগ — একসাথে, বাম থেকে ডানে</td></tr></table></div>
+<pre class="code">8 + 12 ÷ 4 × 3 − 2
+= 8 + 3 × 3 − 2      (12 ÷ 4 = 3, বাম থেকে ডানে)
+= 8 + 9 − 2
+= 15
+
+3 × {20 − (4 + 6)} ÷ 5
+= 3 × {20 − 10} ÷ 5
+= 3 × 10 ÷ 5 = 6
+
+1/2 of 40 ÷ 5   →  20 ÷ 5 = 4      ("of" আগে)</pre><div class="co red"><b class="t">সতর্কতা</b>ভাগ ও গুণের মধ্যে “গুণ আগে” — এটি ভুল ধারণা। দুটির অগ্রাধিকার সমান, বাম থেকে ডানে করতে হবে। যোগ-বিয়োগেও একই। বন্ধনীর আগে ঋণচিহ্ন থাকলে ভেতরের সব চিহ্ন উল্টে যায়: −(a − b) = −a + b।</div></section><section class="ch" id="c3"><h2><b>৩</b>বর্গ, ঘন ও ঘাতের সূত্র</h2><p>১ থেকে ৩০ পর্যন্ত বর্গ এবং ১ থেকে ১৫ পর্যন্ত ঘন মুখস্থ থাকলে Simplification-এর অর্ধেক কাজ হয়ে যায়।</p><h3>বর্গ (১–৩০)</h3><div class="tw"><table><tr><th>n</th><th>n²</th><th>n</th><th>n²</th><th>n</th><th>n²</th></tr><tr><td>1</td><td>1</td><td>11</td><td>121</td><td>21</td><td>441</td></tr><tr><td>2</td><td>4</td><td>12</td><td>144</td><td>22</td><td>484</td></tr><tr><td>3</td><td>9</td><td>13</td><td>169</td><td>23</td><td>529</td></tr><tr><td>4</td><td>16</td><td>14</td><td>196</td><td>24</td><td>576</td></tr><tr><td>5</td><td>25</td><td>15</td><td>225</td><td>25</td><td>625</td></tr><tr><td>6</td><td>36</td><td>16</td><td>256</td><td>26</td><td>676</td></tr><tr><td>7</td><td>49</td><td>17</td><td>289</td><td>27</td><td>729</td></tr><tr><td>8</td><td>64</td><td>18</td><td>324</td><td>28</td><td>784</td></tr><tr><td>9</td><td>81</td><td>19</td><td>361</td><td>29</td><td>841</td></tr><tr><td>10</td><td>100</td><td>20</td><td>400</td><td>30</td><td>900</td></tr></table></div><h3>ঘন (১–১৫)</h3><div class="tw"><table><tr><th>n</th><th>n³</th><th>n</th><th>n³</th><th>n</th><th>n³</th></tr><tr><td>1</td><td>1</td><td>6</td><td>216</td><td>11</td><td>1331</td></tr><tr><td>2</td><td>8</td><td>7</td><td>343</td><td>12</td><td>1728</td></tr><tr><td>3</td><td>27</td><td>8</td><td>512</td><td>13</td><td>2197</td></tr><tr><td>4</td><td>64</td><td>9</td><td>729</td><td>14</td><td>2744</td></tr><tr><td>5</td><td>125</td><td>10</td><td>1000</td><td>15</td><td>3375</td></tr></table></div><h3>ঘাতের সূত্র</h3>
+<pre class="code">aᵐ × aⁿ = aᵐ⁺ⁿ          aᵐ ÷ aⁿ = aᵐ⁻ⁿ
+(aᵐ)ⁿ = aᵐⁿ             (ab)ⁿ = aⁿbⁿ
+a⁰ = 1                  a⁻ⁿ = 1 / aⁿ
+a^(1/n) = ⁿ√a           a^(m/n) = (ⁿ√a)ᵐ</pre>
+<h3>বীজগাণিতিক সূত্র</h3>
+<pre class="code">(a + b)² = a² + 2ab + b²        (a − b)² = a² − 2ab + b²
+a² − b² = (a + b)(a − b)        a² + b² = (a + b)² − 2ab
+(a + b)² + (a − b)² = 2(a² + b²)
+(a + b)³ = a³ + 3a²b + 3ab² + b³
+a³ + b³ = (a + b)(a² − ab + b²)   a³ − b³ = (a − b)(a² + ab + b²)</pre>
+<h3>ধারার যোগফল</h3>
+<pre class="code">1 + 2 + … + n          = n(n + 1) / 2
+প্রথম n টি বিজোড় সংখ্যা = n²
+প্রথম n টি জোড় সংখ্যা   = n(n + 1)
+1² + 2² + … + n²       = n(n + 1)(2n + 1) / 6
+1³ + 2³ + … + n³       = [n(n + 1) / 2]²</pre></section><section class="ch" id="c4"><h2><b>৪</b>দ্রুত বর্গ ও শর্টকাট গুণ-ভাগ</h2><h3>৫-এ শেষ হওয়া সংখ্যার বর্গ</h3>
+<pre class="code">75²  → 7 × (7+1) = 56  , শেষে 25  → 5625
+85²  → 8 × 9 = 72      , শেষে 25  → 7225</pre>
+<h3>৫০ বা ১০০-এর কাছের সংখ্যার বর্গ</h3>
+<pre class="code">53² = 50² + 2×50×3 + 3²   = 2500 + 300 + 9 = 2809
+47² = 50² − 2×50×3 + 3²   = 2500 − 300 + 9 = 2209
+98² = 100² − 2×100×2 + 2² = 10000 − 400 + 4 = 9604</pre>
+<h3>a² − b² কৌশল</h3>
+<pre class="code">87² − 13² = (87 + 13)(87 − 13) = 100 × 74 = 7400</pre>
+<h3>গুণের শর্টকাট</h3>
+<div class="tw"><table><tr><th>গুণক</th><th>কৌশল</th><th>উদাহরণ</th></tr>
+<tr><td>× 5</td><td class="l">× 10 ÷ 2</td><td class="l">68 × 5 = 680 ÷ 2 = 340</td></tr>
+<tr><td>× 25</td><td class="l">× 100 ÷ 4</td><td class="l">48 × 25 = 4800 ÷ 4 = 1200</td></tr>
+<tr><td>× 125</td><td class="l">× 1000 ÷ 8</td><td class="l">64 × 125 = 64000 ÷ 8 = 8000</td></tr>
+<tr><td>× 9</td><td class="l">× 10 − সংখ্যা</td><td class="l">47 × 9 = 470 − 47 = 423</td></tr>
+<tr><td>× 99</td><td class="l">× 100 − সংখ্যা</td><td class="l">36 × 99 = 3600 − 36 = 3564</td></tr>
+<tr><td>× 101</td><td class="l">দুই অঙ্কের সংখ্যা পরপর দুবার</td><td class="l">52 × 101 = 5252</td></tr>
+<tr><td>× 11</td><td class="l">পাশাপাশি অঙ্ক যোগ</td><td class="l">345 × 11 → 3 | 3+4 | 4+5 | 5 = 3795</td></tr></table></div>
+<h3>১০০-এর কাছের সংখ্যা গুণ</h3>
+<pre class="code">98 × 97  →  (100−2)(100−3)
+          = (100 − 2 − 3) | (2 × 3)
+          = 95 | 06 = 9506</pre>
+<h3>ভাগের শর্টকাট</h3>
+<pre class="code">÷ 5   → × 2 ÷ 10     345 ÷ 5  = 690 ÷ 10 = 69
+÷ 25  → × 4 ÷ 100    450 ÷ 25 = 1800 ÷ 100 = 18
+÷ 125 → × 8 ÷ 1000   2000 ÷ 125 = 16000 ÷ 1000 = 16</pre></section><section class="ch" id="c5"><h2><b>৫</b>ভগ্নাংশ, দশমিক ও শতকরার রূপান্তর</h2><p>নিচের টেবিল মুখস্থ থাকলে শতকরা ও ভগ্নাংশের প্রশ্ন সেকেন্ডে হয়।</p><div class="tw"><table><tr><th>ভগ্নাংশ</th><th>শতকরা</th><th>ভগ্নাংশ</th><th>শতকরা</th></tr><tr><td>1/2</td><td>50%</td><td>1/12</td><td>8.33%</td></tr><tr><td>1/3</td><td>33.33%</td><td>1/13</td><td>7.69%</td></tr><tr><td>1/4</td><td>25%</td><td>1/14</td><td>7.14%</td></tr><tr><td>1/5</td><td>20%</td><td>1/15</td><td>6.67%</td></tr><tr><td>1/6</td><td>16.67%</td><td>1/16</td><td>6.25%</td></tr><tr><td>1/7</td><td>14.29%</td><td>1/20</td><td>5%</td></tr><tr><td>1/8</td><td>12.5%</td><td>1/25</td><td>4%</td></tr><tr><td>1/9</td><td>11.11%</td><td>1/40</td><td>2.5%</td></tr><tr><td>1/10</td><td>10%</td><td>1/50</td><td>2%</td></tr><tr><td>1/11</td><td>9.09%</td><td></td><td></td></tr></table></div><div class="tw"><table><tr><th>ভগ্নাংশ</th><th>শতকরা</th><th>ভগ্নাংশ</th><th>শতকরা</th></tr><tr><td>3/8</td><td>37.5%</td><td>5/8</td><td>62.5%</td></tr><tr><td>7/8</td><td>87.5%</td><td>2/3</td><td>66.67%</td></tr><tr><td>5/6</td><td>83.33%</td><td>3/4</td><td>75%</td></tr><tr><td>2/5</td><td>40%</td><td>3/5</td><td>60%</td></tr><tr><td>4/5</td><td>80%</td><td></td><td></td></tr></table></div><h3>ভগ্নাংশ তুলনা (cross multiplication)</h3>
+<pre class="code">5/7  ও  8/11  →  5 × 11 = 55 ,  8 × 7 = 56
+55 &lt; 56  ⇒  5/7 &lt; 8/11</pre>
+<h3>মিশ্র ভগ্নাংশের যোগ — পূর্ণ ও ভগ্ন অংশ আলাদা</h3>
+<pre class="code">3 1/4 + 5 1/2 + 7 1/8
+পূর্ণ অংশ: 3 + 5 + 7 = 15
+ভগ্নাংশ:   1/4 + 1/2 + 1/8 = 2/8 + 4/8 + 1/8 = 7/8 = 0.875
+উত্তর = 15.875</pre>
+<h3>আবৃত্ত দশমিক</h3>
+<pre class="code">0.ab̅ (দুই অঙ্ক আবৃত্ত)  = ab / 99       0.45 আবৃত্ত = 45/99 = 5/11
+0.a b̅ (শেষ অঙ্ক আবৃত্ত) = (ab − a) / 90   0.16 আবৃত্ত = (16 − 1)/90 = 1/6</pre></section><section class="ch" id="c6"><h2><b>৬</b>শতকরার কৌশল</h2><pre class="code">x% of y = y% of x          8% of 50 = 50% of 8 = 4
+a% বাড়ার পর b% কমলে নেট পরিবর্তন = a − b − ab/100  (%)
++20% এরপর −20%  → 20 − 20 − 400/100 = −4%   (4% কমে)
+
+60% of 750 − 30% of 103 + 20% of 200
+= 450 − 30.9 + 40 = 459.1</pre><div class="co green"><b class="t">মনে রাখুন</b>সরাসরি গুণ না করে ১০%-এর ধাপে ভাবুন: 15% of 240 = 10% (24) + 5% (12) = 36। ৫% সবসময় ১০%-এর অর্ধেক।</div></section><section class="ch" id="c7"><h2><b>৭</b>বর্গমূল, ঘনমূল ও Surd</h2><h3>অনুমানের জন্য মুখস্থ মান</h3>
+<div class="tw"><table><tr><th>√2</th><th>√3</th><th>√5</th><th>√6</th><th>√7</th><th>√10</th></tr><tr><td>1.414</td><td>1.732</td><td>2.236</td><td>2.449</td><td>2.646</td><td>3.162</td></tr></table></div>
+<pre class="code">∛1728 = 12    ∛2197 = 13    ∛3375 = 15    ∛4096 = 16
+√120.91 ≈ √121 = 11
+√50 ≈ 7.07    (কারণ 7² = 49 , তাই একটু বেশি)
+√200 ≈ 14.14  (কারণ 14² = 196)</pre>
+<h3>Surd-এর সূত্র</h3>
+<pre class="code">√a × √b = √(ab)         √a / √b = √(a/b)
+(√a + √b)(√a − √b) = a − b
+(√a + √b)² = a + b + 2√(ab)
+
+হর মূলদীকরণ:
+1 / (√3 + √2) = (√3 − √2) / (3 − 2) = √3 − √2
+1 / (√5 − 2)  = (√5 + 2) / (5 − 4)  = √5 + 2</pre><div class="co blue"><b class="t">শেষ অঙ্ক দিয়ে চেনা</b>পূর্ণবর্গ সংখ্যার শেষ অঙ্ক কখনও <b>2, 3, 7, 8</b> হয় না। ঘনের শেষ অঙ্ক: 2→8, 3→7, 7→3, 8→2 (বাকিগুলো একই থাকে: 0,1,4,5,6,9)।</div></section><section class="ch" id="c8"><h2><b>৮</b>Approximation টেকনিক</h2><ol><li>প্রতিটি সংখ্যাকে <b>কাছের সহজ পূর্ণ সংখ্যায়</b> গোল করুন (49.98 ≈ 50, 20.03 ≈ 20)।</li><li>মূল (√) থাকলে কাছের পূর্ণবর্গ নিন (√120.91 ≈ 11)।</li><li>BODMAS মেনে হিসাব করুন।</li><li>উত্তর অপশনের <b>সবচেয়ে কাছেরটি</b> বেছে নিন, সঠিক মান মেলানোর দরকার নেই।</li></ol>
+<pre class="code">49.98 × 20.03 ÷ 5.01
+≈ 50 × 20 ÷ 5 = 200        (আসল মান ≈ 199.8)
+
+8.07 × 11.02 + √120.91 + 33.03
+≈ 8 × 11 + 11 + 33 = 132</pre><div class="co red"><b class="t">সতর্কতা</b>খুব বেশি আগেই গোল করবেন না। অপশনগুলো কাছাকাছি (যেমন 121, 122, 124) হলে বড় সংখ্যাকে আরও সঠিকভাবে গোল করতে হবে। অপশন দূরে দূরে থাকলে মোটামুটি গোল করাই যথেষ্ট।</div></section><section class="ch" id="c9"><h2><b>৯</b>“?” বের করার ধাপ (Missing number)</h2><pre class="code">56² + 43² − ? = 4700
+3136 + 1849 − ? = 4700
+4985 − ? = 4700
+? = 4985 − 4700 = 285
+
+নিয়ম: ? কে একপাশে নিয়ে যান, চিহ্ন বদলে যায় (+ ↔ −, × ↔ ÷)।
+ঘাতের সমীকরণে ভিত্তি এক করুন:
+(16)⁹ ÷ (16)⁴ × (16)³ = (16)?   →   9 − 4 + 3 = 8   →   ? = 8</pre></section><section class="ch" id="c10"><h2><b>১০</b>উত্তর যাচাই ও সময় ব্যবস্থাপনা</h2><ul><li><b>শেষ অঙ্ক যাচাই:</b> পুরো গুণ না করে শুধু শেষ অঙ্কের গুণফল মিলিয়ে অপশন বাদ দিন।</li><li><b>Digit-sum (৯ দিয়ে ভাগশেষ):</b> 47 × 23 = 1081 → (4+7)=11→2, (2+3)=5, 2×5=10→1; 1+0+8+1=10→1 ✔ মিলেছে। (অঙ্ক এদিক-ওদিক হলে ধরা পড়ে না।)</li><li><b>সময়:</b> প্রতি প্রশ্নে গড়ে ৩০–৫০ সেকেন্ড। কোনো প্রশ্ন ১ মিনিটের বেশি লাগলে চিহ্ন দিয়ে পরে আসুন।</li><li><b>ক্রম:</b> আগে Level 1 (সহজ) প্রশ্ন, শেষে ভারী গুণ-ভাগ।</li></ul><div class="co green"><b class="t">অনুশীলনের পরামর্শ</b>Q-Bank-এ প্রতিটি প্রশ্নের পাশে গড় সময় ও কত শতাংশ ছাত্র সঠিক করেছে তা দেওয়া আছে। যেগুলোতে সঠিকতার হার কম, সেগুলো আগে অনুশীলন করুন।</div><div class="cta"><a href="aptitude-qbank.html">🧠 Simplification Q-Bank শুরু করুন (৪০১ MCQ)</a><a class="alt" href="index.html#aptitude">← হোমপেজ</a></div></section></main><footer>উৎস: Testbook SmartBook (Banking Quantitative Aptitude) অনুশীলনের জন্য সংকলিত সাধারণ ফর্মুলা ও টেকনিক।</footer><script src="assets/app.js"></script><script>try{var tb=document.getElementById("theme");if(tb&&!tb.textContent.trim())tb.textContent=document.documentElement.dataset.theme==="dark"?"☀️":"🌙"}catch(e){}</script></body></html>
