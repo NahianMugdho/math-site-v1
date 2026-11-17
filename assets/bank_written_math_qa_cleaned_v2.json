@@ -49,18 +49,18 @@
       "answer": "20.",
       "solution": "Days rest = (80 — 20) = 60 days\nWork t=(1 3)-$ HAITTS Als fr ae ahs\nOMT TESTS S I Ct ea OCH AAS\n; work takes 20 days by = 60 persons Free ect aA |\n4 work takes 1 days by = Basement person\n¢ work takes 60 days by = Bxsxexs person\n= 80 Persons\nMore persons are to be employed = (80 — 60) = 20\nans: 20."
     },
-    {
-      "id": 10,
-      "book_no": 55,
-      "year": 1993,
-      "bank": "AB Bank",
-      "post": "Probationary Officer",
-      "Topic": "Profit & Loss",
-      "question": "In Bosnia, food for thirty days was stored for 2000 UN troops. But this stock of food lasted forty days when some French soldiers were withdrawn. How many French soldiers were withdrawn? aya 3 2000 FA GIA GT wo fired seats TET GTR | fw fe ons OC MEAT & WT 80 fra aT | FS",
-      "options": [],
-      "answer": "500 troops.",
-      "solution": "The Stored food lasted 30 days for = 2,000 troops CATH CTR FACS BH OUT\n2000 x 30 Caf one ate\nThe Stored food lasted 40 days for =—4qo__ troops\n= 1,500 troops\nThe number of withdrawned soldiers = (2,000 — 1,500) = 500 troops\nans: 500 troops."
-    },
+   {
+  "id": 10,
+  "book_no": 55,
+  "year": 1993,
+  "bank": "AB Bank",
+  "post": "Probationary Officer",
+  "Topic": "Profit & Loss",
+  "question": "In Bosnia, food for thirty days was stored for 2,000 UN troops. However, the food stock lasted forty days when some French soldiers were withdrawn. How many French soldiers were withdrawn?",
+  "options": [],
+  "answer": "500 troops.",
+  "solution": "Total food supply = 2,000 × 30 = 60,000 troop-days.\n\nAfter some soldiers were withdrawn, the food lasted 40 days.\n\nRemaining number of troops = 60,000 ÷ 40 = 1,500 troops.\n\nNumber of soldiers withdrawn = 2,000 − 1,500 = 500 troops.\n\nAnswer: 500 troops."
+},
     {
       "id": 11,
       "book_no": 57,
