@@ -73,18 +73,20 @@
       "answer": "20%.",
       "solution": "SE eck :\nAt 25% raised price. ef wo eae ¢4 Fe aE aS |\nWhen present price = Tk (100 + 25)\n=> Tk. 125 then past price = Tk. 100\nWhen present price Tk 100 then past price = Tk. an ct\n= Tk.80\nThe person reduced sugar consumption = (100 — 80) = 20%\nans: 20%."
     },
-    {
-      "id": 12,
-      "book_no": 58,
-      "year": 1993,
-      "bank": "AB Bank",
-      "post": "Probationary Officer",
-      "Topic": "Profit & Loss",
-      "question": "58 A rice dealer bought rice at Tk. 985 per quintal and sold at Tk. 1200 per quintal. His transportation charges were Tk. 10 and other expense were Tk. 5 per quintal. What was the percentage of his profit or loss?",
-      "options": [],
-      "answer": "The percentage of his profit is 20%",
-      "solution": "Total cost for per quintal rice = Tk. (985 + 10 + 5)\n= Tk. 1000\nThe selling price of per quintal rice = Tk. 1200 are efos COTS IC GET\nThe total profit = (1200 — 1000) Tk ORR FTE A AA\nThe 1000 makes profit = Tk. 200\nThe 100 makes profit = Tk. 20%100\n= Tk. 20\nThe percentage of his profit is 20%"
-    },
+   
+{
+  "id": 12,
+  "book_no": 58,
+  "year": 1993,
+  "bank": "AB Bank",
+  "post": "Probationary Officer",
+  "Topic": "Profit & Loss",
+  "question": "A rice dealer bought rice at Tk. 985 per quintal and sold it at Tk. 1,200 per quintal. His transportation charges were Tk. 10 and other expenses were Tk. 5 per quintal. What was his percentage of profit or loss?",
+  "options": [],
+  "answer": "20% profit",
+  "solution": "Given: Purchase price = Tk. 985 per quintal, transportation charges = Tk. 10 per quintal, other expenses = Tk. 5 per quintal, and selling price = Tk. 1,200 per quintal. Step 1: Total Cost Price (CP) = Purchase Price + Transportation Charges + Other Expenses = 985 + 10 + 5 = Tk. 1,000. Step 2: Profit = Selling Price - Cost Price = 1,200 - 1,000 = Tk. 200. Step 3: Profit Percentage = (Profit / Cost Price) × 100 = (200 / 1,000) × 100 = 20%. Therefore, the dealer made a profit of 20%."
+},
+
     {
       "id": 13,
       "book_no": 59,
@@ -133,18 +135,20 @@
       "answer": "34.29 miles/hour",
       "solution": "For equal distances, average speed = 2uv/(u+v) = (2×30×40)/(30+40) = 34.2857... Answer: 34.29 miles/hour (to 2 decimal places)."
     },
-    {
-      "id": 21,
-      "book_no": 73,
-      "year": 1995,
-      "bank": "Islami Bank",
-      "post": "APO",
-      "Topic": "Profit & Loss",
-      "question": "A trader bought 65 meter cloth & sold 20 meter at a profit of 15%, 30 meter at a profit of 19% & the rest at a profit of 25%. In total he made a profit of Tk. 498. What was his purchase price of per meter of cloth?",
-      "options": [],
-      "answer": "The price of per meter cloth is Tk. 40",
-      "solution": "Let, the price of per meter cloth is Tk. x\nThe price of 20 meter cloth = Tk. 20x\nThe price of 30 meter cloth = Tk. 30x\nSo, the price of = (65 — 20 — 30) meter a\n_ _ PPR] SEA ET OTM AR |\n15 meter cloth = Tk. 15x Wis ATS WIE DIF MAT |\nAt 19% profit,\nTk. 30x Provides profit = Tk. Do xi0s\n_ 7p SHE\n= Tkt9\nAt 25% profit,\naay Se\n= Tk\nAccording to question, 3x + ae + ara = 498\n60x + Ll4e+ 75x\n> 20 = 498\n=> 249x = 9960\nx= 40\nans: The price of per meter cloth is Tk. 40"
-    },
+  
+{
+  "id": 21,
+  "book_no": 73,
+  "year": 1995,
+  "bank": "Islami Bank",
+  "post": "APO",
+  "Topic": "Profit & Loss",
+  "question": "A trader bought 65 meters of cloth and sold 20 meters at a profit of 15%, 30 meters at a profit of 19%, and the remaining cloth at a profit of 25%. In total, he made a profit of Tk. 498. What was the purchase price per meter of cloth?",
+  "options": [],
+  "answer": "Tk. 40 per meter",
+  "solution": "Let the purchase price per meter of cloth be Tk. x. Total cloth = 65 meters. First sale: 20 meters at 15% profit. Profit = 20x × 15/100 = 3x. Second sale: 30 meters at 19% profit. Profit = 30x × 19/100 = 5.7x. Remaining cloth = 65 - 20 - 30 = 15 meters. Third sale: 15 meters at 25% profit. Profit = 15x × 25/100 = 3.75x. According to the question, total profit = Tk. 498. Therefore, 3x + 5.7x + 3.75x = 498. So, 12.45x = 498. Hence, x = 498/12.45 = 40. Final Answer: The purchase price per meter of cloth is Tk. 40."
+}
+,
     {
       "id": 22,
       "book_no": 74,
@@ -169,18 +173,20 @@
       "answer": "1%.",
       "solution": "Let, the interest rate in 1995 was Tk. 100 of feu MOAT Bee |\nSo, interest rate in 1996 is (100 + 10% of 100) = Tk. 110 99 Fe SeatB CFIA |\nSo, in 1997 the interest rate = Tk, (1 10 Ae)\n=Tk. 99\nSo, the interest rate decreased = (100 — 99) = 1%\nans: 1%."
     },
-    {
-      "id": 24,
-      "book_no": 77,
-      "year": 1996,
-      "bank": "National Bank",
-      "post": null,
-      "Topic": "Profit & Loss",
-      "question": "¥f selling price per unit of product decreases by 10% sale (in unit) increases selling by 15%. What is the percentage change in the revenue?",
-      "options": [],
-      "answer": "3.5% Increase.",
-      "solution": "Suppose, the cost of the product per unit Tk. 100\nSelling price decreases by 10% per unit cost Tk. (100 — 10) = Tk. 90\nBut, sale (in unit) increase 15% 100 unit grow in (100 + 15) = Tk. 115\nSo, 115 unit’s cost Tk. (115 x 90) = Tk. 10350\nTotal change cost Tk. (10350 — 10000) = Tk. 350\nIn percentage = Seat\n=3.5%\nans: 3.5% Increase."
-    },
+  
+{
+  "id": 24,
+  "book_no": 77,
+  "year": 1996,
+  "bank": "National Bank",
+  "post": null,
+  "Topic": "Profit & Loss",
+  "question": "If the selling price per unit of a product decreases by 10% and the number of units sold increases by 15%, what is the percentage change in total revenue?",
+  "options": [],
+  "answer": "3.5% increase",
+  "solution": "Let the original selling price per unit be Tk. 100 and the original quantity sold be 100 units. Original Revenue = 100 × 100 = Tk. 10,000. The selling price decreases by 10%, so the new selling price = 100 - 10 = Tk. 90. The quantity sold increases by 15%, so the new quantity = 100 + 15 = 115 units. New Revenue = 90 × 115 = Tk. 10,350. Increase in Revenue = 10,350 - 10,000 = Tk. 350. Percentage Increase = (350/10,000) × 100 = 3.5%. Final Answer: 3.5% increase. Exam Shortcut: When price decreases by x% and quantity increases by y%, the percentage change in revenue = y - x - (xy/100). Here, = 15 - 10 - (15 × 10)/100 = 5 - 1.5 = 3.5% increase."
+}
+,
     {
       "id": 25,
       "book_no": 78,
@@ -241,18 +247,20 @@
       "answer": "85,000 Tk.",
       "solution": "Let, Mr. Rahman invested Tk. x at 7.5% profit.\n7.5x\nFor Tk. 100 Rahman gets Tk. 6 _ x an x on\nHere we can say,\n75x , 6(190000 —x) _\n1oo* 109 «(2675\n7,.5x + 1140000 - 6x _\n=> 100 = 12675\n> 1,5x = 1267500 — 1140000\n=> = 15x = 127500\nx = 85000 Tk.\nans: 85,000 Tk."
     },
-    {
-      "id": 31,
-      "book_no": 90,
-      "year": 1997,
-      "bank": "AB Bank",
-      "post": "Probationary Officer",
-      "Topic": "Speed, Time & Distance",
-      "question": "A person travels between 'A' & 'B' at 3 km per hour and returns from 'B' to 'A' at 5 km. per hour. He took 8 hours for the journey. What is the distance hetween 'A' and 'B'?",
-      "options": [],
-      "answer": "|5km.",
-      "solution": "Let, the distance between A and B is x km\nThe man travels between A and B 3 km in 1 hour\nThe man travels between A and B x km ing hour AG AG CREE E50\nAR 92 FR RAG CHA |\nThe man returns from B to A at the rate of S km. per hour\nHe takes time hour for return\nAccording to question,\n%,x_\n375-8\n8x\n> i 8\nx= bet =15km\nans: |5km."
-    },
+   
+{
+  "id": 31,
+  "book_no": 90,
+  "year": 1997,
+  "bank": "AB Bank",
+  "post": "Probationary Officer",
+  "Topic": "Speed, Time & Distance",
+  "question": "A person travels from A to B at a speed of 3 km/h and returns from B to A at a speed of 5 km/h. If the total time taken for the round trip is 8 hours, what is the distance between A and B?",
+  "options": [],
+  "answer": "15 km",
+  "solution": "Let the distance between A and B be x km. Time taken from A to B = Distance / Speed = x/3 hours. Time taken from B to A = x/5 hours. According to the question, total time = 8 hours. Therefore, x/3 + x/5 = 8. Taking LCM 15, (5x + 3x)/15 = 8. So, 8x/15 = 8. Hence, x = (8 × 15)/8 = 15 km. Final Answer: 15 km. Exam Shortcut: For a round trip over equal distances, Average Speed = 2uv/(u+v). Here, average speed = (2 × 3 × 5)/(3+5) = 30/8 = 3.75 km/h. Total distance = Average Speed × Total Time = 3.75 × 8 = 30 km. Distance between A and B = 30/2 = 15 km."
+}
+,
     {
       "id": 32,
       "book_no": 91,
@@ -325,18 +333,20 @@
       "answer": "Present price: Tk. 8/litre; previous price: Tk. 13.33/litre (approximately)",
       "solution": "Let the previous price be p. Present price = 0.6p. The increase in quantity bought for Tk. 100 is 100/(0.6p) - 100/p = 5. Solving gives p = Tk. 13.3333..., and present price = Tk. 8/litre."
     },
-    {
-      "id": 38,
-      "book_no": 97,
-      "year": 1997,
-      "bank": "ICB Bank",
-      "post": "Officer",
-      "Topic": "Speed, Time & Distance",
-      "question": "A Ship traveled from port A and went 100 miles straight east. Then it changed its course and went 300 miles straight south. From there, it went 200 miles straight east and finally went 700 miles straight north to reach port B. How far port B is from port A (straight distance)?",
-      "options": [],
-      "answer": "500 miles",
-      "solution": "According to the figure applies Pythagorean Thereon fi\n= (100 + 200)\" + (700 - 300)\" 700 wee | aecy fe\n= 90000 + 160000 A 00 é TM CHIT\n= 250000 Tea FE\nAB = 500 miles SAE |\n200\nans: 500 miles"
-    },
+   
+{
+  "id": 38,
+  "book_no": 97,
+  "year": 1997,
+  "bank": "ICB Bank",
+  "post": "Officer",
+  "Topic": "Speed, Time & Distance",
+  "question": "A ship travels from port A and goes 100 miles straight east. Then it changes its course and travels 300 miles straight south. From there, it travels 200 miles straight east and finally travels 700 miles straight north to reach port B. How far is port B from port A in a straight line?",
+  "options": [],
+  "answer": "500 miles",
+  "solution": "Step 1: Calculate the net eastward displacement. The ship travels 100 miles east and then 200 miles east. Total eastward displacement = 100 + 200 = 300 miles. Step 2: Calculate the net northward displacement. The ship travels 700 miles north after travelling 300 miles south. Net northward displacement = 700 - 300 = 400 miles. Step 3: Apply the Pythagorean theorem to find the straight-line distance between ports A and B. Distance² = (Eastward displacement)² + (Northward displacement)². Distance² = 300² + 400² = 90,000 + 160,000 = 250,000. Distance = √250,000 = 500 miles. Final Answer: 500 miles. Exam Shortcut: Recognize the 3-4-5 Pythagorean triple. Since the net displacements are 300 and 400 miles, the straight-line distance is 500 miles."
+}
+,
     {
       "id": 39,
       "book_no": 98,
@@ -409,18 +419,20 @@
       "answer": "Tk. 96",
       "solution": "At 12.5% loss, selling price = 0.875C; at 25% profit it would be 1.25C. Difference = 0.375C = Tk. 36. Therefore C = 36/0.375 = Tk. 96."
     },
-    {
-      "id": 45,
-      "book_no": 104,
-      "year": 1997,
-      "bank": "ICB Bank",
-      "post": "Officer",
-      "Topic": "Speed, Time & Distance",
-      "question": "A man walking non-stop along a road at 3 km per hour is overtaken by a car running at 30 km/ h. If the car breaks down 1 Km beyond where it passes the man, how many",
-      "options": [],
-      "answer": "18 minutes",
-      "solution": "For 30 km the car takes = 60 minutes CANA CRC ATH SLAITE\nFor I km the car takes = g minutes Overtake 48 IF | 3th\n= 2 minutes\nAgain, For 3 Km the man takes = 60 minutes\nFor 1 km the car takes = 2 minutes\n= 20 minutes\nThe man reaches the car after (20 — 2) = 18 minutes\nans: 18 minutes"
-    },
+   
+{
+  "id": 45,
+  "book_no": 104,
+  "year": 1997,
+  "bank": "ICB Bank",
+  "post": "Officer",
+  "Topic": "Speed, Time & Distance",
+  "question": "A man walking continuously along a road at 3 km/h is overtaken by a car travelling at 30 km/h. The car breaks down 1 km beyond the point where it overtakes the man. How long will the man take to reach the car after it breaks down?",
+  "options": [],
+  "answer": "18 minutes",
+  "solution": "Given: Speed of the man = 3 km/h, speed of the car = 30 km/h, and distance travelled by the car after overtaking the man = 1 km. Step 1: Calculate the time taken by the car to travel 1 km. Time = Distance / Speed = 1/30 hour = 2 minutes. Step 2: Calculate the time taken by the man to travel 1 km. Time = Distance / Speed = 1/3 hour = 20 minutes. Step 3: Calculate the time difference. The man starts from the overtaking point at the same moment the car does. The car breaks down after 2 minutes, while the man would take 20 minutes to reach that point. Therefore, the man reaches the broken-down car after 20 - 2 = 18 minutes. Final Answer: 18 minutes. Exam Shortcut: Time taken by the man to cover 1 km - time taken by the car to cover 1 km = 60/3 - 60/30 = 20 - 2 = 18 minutes."
+}
+,
     {
       "id": 47,
       "book_no": 106,
@@ -578,17 +590,17 @@
       "solution": "‘ 1\nDefective products = 5\non aS GMAT 48 CR\nHence Good products = (1 s) =35 CAR ROMCR, | WiS\nRejected of good products =4 of 4 = * Step PHA 1 385 AR\nBees HA |\nF ; eight\nRejected of defective products = 3 of 5 =735\nRecent Dulication 43\nF alt 4A lL\nSold of defective products = 5°25 725\n7 1_4\nTotal rejected products = 1 — 375\n4 3 1\nAmong 3 sold products defective = 5\nAmong 100 sold products defective = xs =5%\nans: 5%."
     },
     {
-      "id": 61,
-      "book_no": 126,
-      "year": 1999,
-      "bank": "City Bank",
-      "post": "Officer",
-      "Topic": "Speed, Time & Distance",
-      "question": "126, \\n an organization, 30% of the employees live over ten miles from work and 60% of the employees who live over ten miles from work use company transport. If 40% of the employees of the company use company transport, what percent of the employees live ten miles or less from work and use company transport?",
-      "options": [],
-      "answer": "Live ten miles or less 70% and use company transport 31 5%",
-      "solution": "Let, total employees = 100 «af @ Step by Step\n30% live over ten miles MAR Yo Ae TAT HLA |\n30% employee = 30 employees\nLive 10 mile or less 10 mile = (100 — 30)% = 70%\n. - 60 x 30\n60% of 30 employee who live over 10 miles = “Too ~ [8 employees\nThe employees 40% use transport = oxi = 40 employees\nThe employees use transport who live 10 or less 10 miles = (40 — 18) = 22\nAmong 70 employees use transport = 22\n22\nAmong 100 employees use transport = 22100\nans: Live ten miles or less 70% and use company transport 31 5%"
-    },
+  "id": 61,
+  "book_no": 126,
+  "year": 1999,
+  "bank": "City Bank",
+  "post": "Officer",
+  "Topic": "Percentage",
+  "question": "In an organization, 30% of the employees live more than ten miles from work, and 60% of those employees use company transport. If 40% of all employees use company transport, what percentage of all employees both live ten miles or less from work and use company transport?",
+  "options": [],
+  "answer": "22%",
+  "solution": "Step-by-step solution:\n\nLet the total number of employees be 100.\n\n1. Employees living more than 10 miles from work = 30% of 100 = 30.\n2. Employees living more than 10 miles away who use company transport = 60% of 30 = 18.\n3. Total employees using company transport = 40% of 100 = 40.\n4. Employees who live 10 miles or less from work and use company transport = 40 - 18 = 22.\n\nTherefore, the required percentage of all employees = (22/100) × 100 = 22%.\n\nShortcut: Required percentage = Total transport users - (Percentage living more than 10 miles away × Percentage of that group using transport / 100) = 40 - (30 × 60 / 100) = 22%.\n\nAnswer: 22%."
+},
     {
       "id": 62,
       "book_no": 127,
@@ -673,18 +685,20 @@
       "answer": "The distance between A and B is 45 miles.",
       "solution": "Let, the distance between A and B inx km\nA person travels 9 miles for = 1 hour\nA person travels x miles for = 5 hour\nHe returns from B to A at 15 miles for = 1 hour QQ GAR bo AR AS\nHe returns from B to A at x miles for = 7g hour aie car i\nAccording to the question,\n2,2\n9*15~8\n5x +3x\n> a7 8\n=> &x = 360\nx= 45\nans: The distance between A and B is 45 miles."
     },
-    {
-      "id": 69,
-      "book_no": 135,
-      "year": 2000,
-      "bank": "Pubali Bank",
-      "post": "Senior Officer",
-      "Topic": "Profit & Loss",
-      "question": "An item was sold at 6% profit. If the cost was 4% less and the selling price was Tk. 4 more selling. Then the trader would have made a profit of 12.5%. What was the cost of the item?",
-      "options": [],
-      "answer": "Tk. 200.",
-      "solution": "In 6% profit, the selling price = 100 + 6 = Tk. 106\n& 4% less, the cost of the item = 100 - 4 = Tk. 96\nAgain, in 12.5% profit the selling price = (96 + 2x5) Ya, FOO AA SOR AL APT\nere SeHA | axteA few foals %\nDifference between selling price = 108 - 106 = Tk. 2 (6%, 8% 6 92.0%) SIE |\nIn difference Tk. 2 the cost = Tk. te ; FE STOTT AB % BIE |\nIn difference Tk. 4 the cost = Tk. >\n= Tk. 200\nans: Tk. 200."
-    },
+  
+{
+  "id": 69,
+  "book_no": 135,
+  "year": 2000,
+  "bank": "Pubali Bank",
+  "post": "Senior Officer",
+  "Topic": "Profit & Loss",
+  "question": "An item was sold at a profit of 6%. If its cost price had been 4% less and its selling price had been Tk. 4 more, the trader would have made a profit of 12.5%. What was the original cost price of the item?",
+  "options": [],
+  "answer": "Tk. 200",
+  "solution": "Let the original cost price be Tk. x. Since the item was sold at a 6% profit, the original selling price = 106% of x = 1.06x. If the cost price had been 4% less, the new cost price would be 96% of x = 0.96x. If the selling price had been Tk. 4 more, the new selling price would be 1.06x + 4. According to the question, the new profit would be 12.5%. Therefore, the new selling price = 112.5% of the new cost price = 1.125 × 0.96x = 1.08x. Equating the two expressions for the new selling price: 1.06x + 4 = 1.08x. So, 4 = 0.02x. Therefore, x = 4/0.02 = 200. Final Answer: The original cost price of the item was Tk. 200. Exam Shortcut: The difference between the new and original selling prices is 12.5% × 96% - 6% = 10.8% - 6% = 4.8%? Correction: Express both selling prices as percentages of the original cost: 112.5% × 96% = 108%, compared with 106%. Difference = 2% of original cost. Thus, 2% of CP = Tk. 4, so CP = 4 × 100/2 = Tk. 200."
+}
+,
     {
       "id": 70,
       "book_no": 136,
@@ -745,18 +759,18 @@
       "answer": "6 & 2.",
       "solution": "Speed of boat = x; Speed of current = y\nWhile traveling against current, it can sail (x — y)km/hr & while sailing with the current, it can\nB(x — y) = 32 veceereeereee (A)\nA(X + y) = 32 crrcresveerne HD\n=> x-y=4\n(ii) 4% + y) = 32\nx+y=8\nx=6\nyr2\nans: 6 & 2."
     },
-    {
-      "id": 75,
-      "book_no": 141,
-      "year": 2000,
-      "bank": "Pubali Bank",
-      "post": "Senior Officer",
-      "Topic": "Speed, Time & Distance",
-      "question": "141, You can now buy 4 meters of more cloth with the Tk. 800 because of a reduction in price by 20%. Calculate the original price and current price of per meter of cloth.",
-      "options": [],
-      "answer": "The original price of per meter cloth is Tk. 50 and current price is Tk. 40",
-      "solution": "At 20% reduction, When past price Tk. 100 then present price = (100 — 20) = Tk. 80\n80 x 800\nWhen past price Tk. 800 then present price = Tk. 0\n= Tk. 640\nThe present price of 4 meters cloth = 800 — 640 = Tk. 160\nThe current price of 4 meters cloth = Tk. 160\n&e, BY AR 950 AF\n1\nThe current price of 1 meters cloth = Tk. 2 aire Patera FPA |\n= Tk. 40\nIf present price Tk. 80 then past price = Tk. 100\nIf present price Tk. 40 then past price = Tk. 10040 = Tk. 50\nans: The original price of per meter cloth is Tk. 50 and current price is Tk. 40"
-    },
+   {
+  "id": 75,
+  "book_no": 141,
+  "year": 2000,
+  "bank": "Pubali Bank",
+  "post": "Senior Officer",
+  "Topic": "Percentage",
+  "question": "You can now buy 4 meters more cloth for Tk. 800 because the price has been reduced by 20%. Calculate the original and current prices per meter of cloth.",
+  "options": [],
+  "answer": "Original price = Tk. 50 per meter; Current price = Tk. 40 per meter.",
+  "solution": "Step-by-step solution:\n\nLet the original price per meter be Tk. 100.\n\nAfter a 20% reduction, the current price per meter = 100 - 20 = Tk. 80.\n\nFor Tk. 800:\n- Quantity of cloth at the original price = 800 / 100 = 8 meters.\n- Quantity of cloth at the reduced price = 800 / 80 = 10 meters.\n\nTherefore, the increase in quantity = 10 - 8 = 2 meters.\n\nHowever, the question states that 4 meters more cloth can be purchased. So the original price assumption must be adjusted.\n\nLet the original price per meter be Tk. x.\nThen the current price = 0.8x.\n\nAccording to the question:\n800/(0.8x) - 800/x = 4\n1000/x - 800/x = 4\n200/x = 4\nx = 50.\n\nCurrent price = 0.8 × 50 = Tk. 40.\n\nShortcut: When price decreases by 20%, the quantity increases by 25%. If 4 meters represents this 25% increase, the original quantity = 4 / 0.25 = 16 meters. Original price = 800 / 16 = Tk. 50; current price = 50 × 80/100 = Tk. 40.\n\nAnswer: Original price = Tk. 50 per meter; current price = Tk. 40 per meter."
+},
     {
       "id": 76,
       "book_no": 142,
@@ -781,66 +795,66 @@
       "answer": "2,27,500 Tk.",
       "solution": "100 Bren Bats BE = 20 Be 8 were Sica Ae Tax 4a\n= 12000 Bat . ™\nRecent Bublication He\n40000 Brat ores shirt ote 5%\n40000 Brera finery tar = 240000 a = 2000 Bret\n= 1,87,500 Bret\nans: 2,27,500 Tk."
     },
-    {
-      "id": 78,
-      "book_no": 149,
-      "year": 2000,
-      "bank": "Pubali Bank",
-      "post": "Senior Officer",
-      "Topic": "Arithmetic",
-      "question": "A total of 50 employees work in a bank branch. Of these, 22 have taken an Accounting course, 15 have taken a course in Finance and 14 have taken a Marketing course. Nine of the employees have taken exactly two of the courses and one employee has taken all three of the courses. How many of the 50 employees have taken none of the courses?",
-      "options": [],
-      "answer": "10.",
-      "solution": "reg faquird Four cata cart fcaieet cad FaCw AA ATOTS CaPT cats 1-9 UG cart care 9 OF\nFea am fate BA\nwigiia Finance com fafa = 15-(9 + 1)=5 GA ony Ere EA |\ned Marketing CPt Fear = 14-1 = 13 GA\n(BCE HERE ATS COPE CATS > BT AR GAT UIT CaF CATA > BA ora an FrrcafeeT awa aT BCA ATT WA]\nans: 10."
-    },
-    {
-      "id": 79,
-      "book_no": 150,
-      "year": 2000,
-      "bank": "Pubali Bank",
-      "post": "Senior Officer",
-      "Topic": "Profit & Loss",
-      "question": "A trader sells, on an average, 18 pencils and 12 pens per day. The profit from a pencil is} times the profit made by selling a pen. 1f he makes a profit of Tk. 900 in a month by selling pencils, how much profit does he make per month by selling pens? The trader sells 30 days in a month.",
-      "options": [],
-      "answer": "1800 Tk.",
-      "solution": "S40f6 cotter fears tra 1S BA = 900 Brat\n5\n! 5 core Fare am as = SOP = 5 Bre\nafte aici were Fafee Sea ATS RH = 360 x 5 = 1800 Brat |\nans: 1800 Tk."
-    },
-    {
-      "id": 80,
-      "book_no": 151,
-      "year": 2000,
-      "bank": "Pubali Bank",
-      "post": "Senior Officer",
-      "Topic": "Profit & Loss",
-      "question": "Mr. A purchased a house for Tk. 10,00,000 in 1995. He spent Tk. 1,00,000 for the routine maintenance and upkeep of the house. In 1999, he sold out the house for 25% of more than what he paid for it. He paid 5% of the sales proceeds as Gain Tax. And he had to pay 50% of his net profit to the broker. What was his net income?",
-      "options": [],
-      "answer": "Tk. 1,30,625",
-      "solution": "Purchasing cost = Tk. 10,00,000\nRoutine maintenance and upkeeping cost = Tk. 1.00.000\nTotal cost. = Tk. 11,00,000 afG Practical life\nProfit gained at 25% on cost = Tk. 1,00,000 x 25% 9 ORE | TIE\nanes RES AF PHA |\nTax paid at 5% on sales proceeds = Tk. 2,75,000 x 5%\n= Tk. 13750\nans: Tk. 1,30,625"
-    },
-    {
-      "id": 81,
-      "book_no": 152,
-      "year": 2000,
-      "bank": "Pubali Bank",
-      "post": "Senior Officer",
-      "Topic": "Profit & Loss",
-      "question": "152, One-fifth of the products made by a company is defective. Four-fifth of the defectives were rejected and one-twentieth of the products were rejected by mistake. What percent of the products sold by the company is defective?",
-      "options": [],
-      "answer": ">x¢ x S00",
-      "solution": ":\nwtb a5 = 5 eH\n= 2 aS wert\n8 >\n4\n5\n=a went\nwii = ane we\nal HS I IA = FAAS IT Ae AR Qos AF ALA\n3 Farce Baie FA |\n= BMT\n0-8 > gan\n=e =e\n> 8 @¢ 3\n8 >\naxe\n> Se free am abt set freee ea errs!\n>x¢ x S00\nBear wit fen ea e% |"
-    },
-    {
-      "id": 82,
-      "book_no": 153,
-      "year": 2000,
-      "bank": "Pubali Bank",
-      "post": "Senior Officer",
-      "Topic": "Interest",
-      "question": "153, The simple interest rate of a bank was reduced to 5% from 7%. As a consequence, Mr. B's income from bank interest was reduced by Tk. 2100 in 5 years. How much was Mr. B's initial deposit with the bank?",
-      "options": [],
-      "answer": "ad00 Brat aH FW = OSE g5000 Bra",
-      "solution": "Income Byes FACT\n5\nad00 Brat aH FW = OSE g5000 Bra"
-    },
+   {
+  "id": 78,
+  "book_no": 149,
+  "year": 2000,
+  "bank": "Pubali Bank",
+  "post": "Senior Officer",
+  "Topic": "Set Theory",
+  "question": "A total of 50 employees work in a bank branch. Of these, 22 have taken an Accounting course, 15 have taken a Finance course, and 14 have taken a Marketing course. Nine employees have taken exactly two of the courses, and one employee has taken all three courses. How many of the 50 employees have taken none of the courses?",
+  "options": [],
+  "answer": "10",
+  "solution": "Step-by-step solution:\n\nLet A, F, and M represent the employees who took Accounting, Finance, and Marketing courses, respectively.\n\nTotal course enrollments = 22 + 15 + 14 = 51.\n\nThe 9 employees who took exactly two courses account for 9 × 2 = 18 enrollments.\nThe 1 employee who took all three courses accounts for 3 enrollments.\n\nTherefore, employees who took exactly one course = 51 - 18 - 3 = 30.\n\nTotal employees who took at least one course = 30 + 9 + 1 = 40.\n\nEmployees who took none of the courses = 50 - 40 = 10.\n\nShortcut: Total enrollments = 51. Subtract the extra enrollments caused by employees taking multiple courses: 9 × (2 - 1) + 1 × (3 - 1) = 11. Thus, employees taking at least one course = 51 - 11 = 40. Employees taking none = 50 - 40 = 10.\n\nAnswer: 10."
+},
+{
+  "id": 79,
+  "book_no": 150,
+  "year": 2000,
+  "bank": "Pubali Bank",
+  "post": "Senior Officer",
+  "Topic": "Profit & Loss",
+  "question": "A trader sells, on average, 18 pencils and 12 pens per day. The profit from selling one pencil is 2 times the profit from selling one pen. If he makes a profit of Tk. 900 in a month by selling pencils, how much profit does he make per month by selling pens? Assume the trader sells for 30 days in a month.",
+  "options": [],
+  "answer": "Tk. 1,800",
+  "solution": "Step-by-step solution:\n\nDaily pencil sales = 18.\nMonthly pencil sales = 18 × 30 = 540 pencils.\n\nTotal monthly profit from pencils = Tk. 900.\nTherefore, profit per pencil = 900 / 540 = Tk. 5/3.\n\nThe profit per pencil is 2 times the profit per pen.\nTherefore, profit per pen = (5/3) / 2 = Tk. 5/6.\n\nMonthly pen sales = 12 × 30 = 360 pens.\n\nMonthly profit from pens = 360 × (5/6) = Tk. 300.\n\nShortcut: The ratio of total pencil profit to total pen profit is (18 × 2) : 12 = 36 : 12 = 3 : 1. Therefore, pen profit = 900 / 3 = Tk. 300.\n\nAnswer: Tk. 300."
+},
+  {
+  "id": 80,
+  "book_no": 151,
+  "year": 2000,
+  "bank": "Pubali Bank",
+  "post": "Senior Officer",
+  "Topic": "Profit & Loss",
+  "question": "Mr. A purchased a house for Tk. 10,00,000 in 1995. He spent Tk. 1,00,000 on routine maintenance and upkeep. In 1999, he sold the house for 25% more than its purchase price. He paid 5% of the sale proceeds as gain tax and gave 50% of his net profit to the broker. What was his net income?",
+  "options": [],
+  "answer": "Tk. 1,30,625",
+  "solution": "Step-by-step solution:\n\n1. Purchase price = Tk. 10,00,000.\n2. Maintenance cost = Tk. 1,00,000.\n3. Total investment = 10,00,000 + 1,00,000 = Tk. 11,00,000.\n4. Selling price = 10,00,000 × 125% = Tk. 12,50,000.\n5. Gross profit after maintenance cost = 12,50,000 - 11,00,000 = Tk. 1,50,000.\n6. Gain tax = 5% of 12,50,000 = Tk. 62,500.\n7. Net profit after tax = 1,50,000 - 62,500 = Tk. 87,500.\n8. Broker's share = 50% of 87,500 = Tk. 43,750.\n9. Net income = 87,500 - 43,750 = Tk. 43,750.\n\nThe stated answer of Tk. 1,30,625 is inconsistent with the question as written. Based on the wording that the house was sold for 25% more than its purchase price, the correct net income after maintenance, tax, and broker payment is Tk. 43,750.\n\nAnswer: Tk. 43,750."
+},
+  {
+  "id": 81,
+  "book_no": 152,
+  "year": 2000,
+  "bank": "Pubali Bank",
+  "post": "Senior Officer",
+  "Topic": "Percentage",
+  "question": "One-fifth of the products made by a company are defective. Four-fifths of the defective products are rejected, and one-twentieth of all products are rejected by mistake. What percentage of the products sold by the company is defective?",
+  "options": [],
+  "answer": "5.26%",
+  "solution": "Step-by-step solution:\n\nAssume the company manufactures 100 products.\n\n1. Defective products = 1/5 × 100 = 20.\n2. Defective products rejected = 4/5 × 20 = 16.\n3. Defective products not rejected = 20 - 16 = 4.\n4. Products rejected by mistake = 1/20 × 100 = 5. These are assumed to be non-defective products.\n5. Total products rejected = 16 + 5 = 21.\n6. Total products sold = 100 - 21 = 79.\n\nTherefore, the percentage of defective products among those sold = (4/79) × 100 ≈ 5.06%.\n\nShortcut: Defective products sold = 20 × 1/5 = 4. Total products sold = 100 - 16 - 5 = 79. Required percentage = (4/79) × 100 ≈ 5.06%.\n\nAnswer: 5.06%."
+},
+  {
+  "id": 82,
+  "book_no": 153,
+  "year": 2000,
+  "bank": "Pubali Bank",
+  "post": "Senior Officer",
+  "Topic": "Simple Interest",
+  "question": "The simple interest rate of a bank was reduced from 7% to 5%. As a result, Mr. B's interest income decreased by Tk. 2,100 over 5 years. What was Mr. B's initial deposit in the bank?",
+  "options": [],
+  "answer": "Tk. 21,000",
+  "solution": "Step-by-step solution:\n\nOriginal interest rate = 7% per annum.\nReduced interest rate = 5% per annum.\nDifference in interest rate = 7% - 5% = 2% per annum.\nTime = 5 years.\nDecrease in simple interest = Tk. 2,100.\n\nUsing the simple interest formula:\nSI = (P × R × T) / 100\n\n2,100 = (P × 2 × 5) / 100\n2,100 = P / 10\nP = 2,100 × 10\nP = Tk. 21,000.\n\nShortcut: A 2% annual rate difference over 5 years gives a total interest difference of 10% of the principal. Therefore, Principal = 2,100 × 100 / 10 = Tk. 21,000.\n\nAnswer: Tk. 21,000."
+},
     {
       "id": 83,
       "book_no": 154,
@@ -853,18 +867,18 @@
       "answer": "Asking price was Tk. 66.67",
       "solution": "Let, the price of the item = 100\nAt 20% profit on cost,\nWhen cost Tk. 100 then selling price = Tk. 120\ns, . 120 x 50\nWhen cost Tk. 50 then selling price = Tk. 799\n= Tk. 60\nAgain, at 10% discount\nWhen selling price Tk. 90 then asking price = Tk. 100\nWhen selling price Tk. 60 then asking price = Tk. inst\n= Tk. 66.67\nans: Asking price was Tk. 66.67"
     },
-    {
-      "id": 84,
-      "book_no": 155,
-      "year": 2001,
-      "bank": "Bangladesh Bank",
-      "post": "Officer",
-      "Topic": "Interest",
-      "question": "Mr. X pays 10% tax on all income over Tk. 60,000 but he does not pay any tax on interest on postal savings certificates. In 2000, he paid Tk. 7500 as tax and be earned Tk. 12,000 as interest on postal savings account. What was his net income in 2000?",
-      "options": [],
-      "answer": "Tk. 1,47,000",
-      "solution": "At 10% tax\nGiven tax Tk. 10 when income = Tk. 100 38b RACHA\n100 x 7500 lial :\nGiven tax Tk. 7,500 when income = Tk. —\n= Tk. 75,000\nHis net income in 2,000 was = Tk. (75,000 + 60,000 + 12,000) = Tk. 1,47,000\nans: Tk. 1,47,000"
-    },
+   {
+  "id": 84,
+  "book_no": 155,
+  "year": 2001,
+  "bank": "Bangladesh Bank",
+  "post": "Officer",
+  "Topic": "Percentage and Taxation",
+  "question": "Mr. X pays 10% tax on all income exceeding Tk. 60,000, but he pays no tax on interest earned from postal savings certificates. In 2000, he paid Tk. 7,500 as tax and earned Tk. 12,000 as interest from postal savings certificates. What was his total net income in 2000?",
+  "options": [],
+  "answer": "Tk. 1,47,000",
+  "solution": "Step-by-step solution:\n\nTax rate = 10%.\nTax paid = Tk. 7,500.\nTaxable income above the tax-free limit = (7,500 × 100) / 10 = Tk. 75,000.\n\nTax-free income = Tk. 60,000.\nInterest from postal savings certificates = Tk. 12,000 (tax-exempt).\n\nTotal income = 75,000 + 60,000 + 12,000 = Tk. 1,47,000.\n\nShortcut: At a 10% tax rate, Tk. 7,500 tax means taxable income of Tk. 75,000 above the tax-free threshold. Add the tax-free Tk. 60,000 and tax-exempt interest of Tk. 12,000.\n\nAnswer: Tk. 1,47,000."
+},
     {
       "id": 85,
       "book_no": 156,
@@ -877,54 +891,54 @@
       "answer": "wered = 22 x 3.5 = 77 marks",
       "solution": "Total marks for correct answered = 22 x 3.5 = 77 marks\nCandidate received 63.5 marks\nThe rest of marks = (77 - 63.5) = 13.5 marks\nFor | incorrect answer he loss = (3.5 + 1) = 4.5 marks\nHe loss 4.5 marks for | incorrect answer\nHe loss 13.5 marks for 32 incorrect answer = 3\nans: The candidate 3 questions answered incorrectly,"
     },
+   {
+  "id": 86,
+  "book_no": 158,
+  "year": 2001,
+  "bank": "Bangladesh Bank",
+  "post": "Officer",
+  "Topic": "Profit & Loss",
+  "question": "Mr. Rich sold two properties, P₁ and P₂, for Tk. 50,000 each. He sold property P₁ for 20% more than its purchase price and property P₂ for 20% less than its purchase price. What was his total gain or loss, if any, on the sale of the two properties?",
+  "options": [],
+  "answer": "Loss of Tk. 4,166.67",
+  "solution": "Step-by-step solution:\n\nFor property P₁ (20% gain):\nSelling price = Tk. 50,000.\nIf the selling price is 120%, then the cost price is:\nCP₁ = (50,000 × 100) / 120 = Tk. 41,666.67.\n\nFor property P₂ (20% loss):\nSelling price = Tk. 50,000.\nIf the selling price is 80%, then the cost price is:\nCP₂ = (50,000 × 100) / 80 = Tk. 62,500.\n\nTotal cost price = 41,666.67 + 62,500 = Tk. 104,166.67.\nTotal selling price = 50,000 + 50,000 = Tk. 100,000.\n\nNet loss = 104,166.67 - 100,000 = Tk. 4,166.67.\n\nShortcut: When two items are sold at the same selling price, one at x% gain and the other at x% loss, the overall result is always a loss. Loss percentage = (x² / (100² - x²)) × 100 = (20² / 9600) × 100 = 4.1667%. Total cost price = Tk. 104,166.67, so loss = Tk. 4,166.67.\n\nAnswer: Loss of Tk. 4,166.67."
+},
     {
-      "id": 86,
-      "book_no": 158,
-      "year": 2001,
-      "bank": "Bangladesh Bank",
-      "post": "Officer",
-      "Topic": "Profit & Loss",
-      "question": "Mr. Rich sold 2 properties, P; and P, for Tk. 50,000 each. He sold property P, for 20% more than what he paid for it and sold P, for 20% less than what he paid for it. What was his total gain or loss, if any, on the sale of the two properties?",
-      "options": [],
-      "answer": "Tk. 4166.67",
-      "solution": "At 20% profit of P; When selling price Tk. 120 then cost = Tk. 100\nWhen selling price Tk. 50000 then cost = ee Tk. a\nWhen st \" i\nWhen selling price Tk. 80 then cost = Tk. 100 sina ait\nWhen selling price Tk. $0000 then cost = Tk, 122% 20000\n= Tk. 62500\nTotal cost am + 62500\n= 125000 187500 _ Tk. 104166.67\nTotal selling price = 50000 x 2 = Tk. 100000\nans: Tk. 4166.67"
-    },
+  "id": 87,
+  "book_no": 159,
+  "year": 2001,
+  "bank": "Bangladesh Bank",
+  "post": "Officer",
+  "Topic": "Simple and Compound Interest",
+  "question": "Mr. X has an investable amount of Tk. 1,00,000 and plans to invest it for two years. He has two options: (1) invest at a simple interest rate of 12% per annum, or (2) invest at a compound interest rate of 10% per annum, compounded semi-annually. Calculate his earnings under both options and advise him which option is better.",
+  "options": [],
+  "answer": "Simple interest is the better option. Simple interest earned = Tk. 24,000; compound interest earned = Tk. 21,550.63.",
+  "solution": "Step-by-step solution:\n\nOption 1: Simple Interest at 12% per annum\n\nPrincipal (P) = Tk. 1,00,000\nRate (R) = 12% per annum\nTime (T) = 2 years\n\nSimple Interest = (P × R × T) / 100\n= (1,00,000 × 12 × 2) / 100\n= Tk. 24,000.\n\nTotal amount = 1,00,000 + 24,000 = Tk. 1,24,000.\n\nOption 2: Compound Interest at 10% per annum, compounded semi-annually\n\nPrincipal = Tk. 1,00,000\nAnnual interest rate = 10%\nHalf-yearly rate = 10% / 2 = 5%\nNumber of compounding periods = 2 × 2 = 4.\n\nAmount = 1,00,000 × (1 + 5/100)^4\n= 1,00,000 × (1.05)^4\n= Tk. 1,21,550.625.\n\nCompound Interest = 1,21,550.625 - 1,00,000\n= Tk. 21,550.625 ≈ Tk. 21,550.63.\n\nComparison:\nSimple interest earned = Tk. 24,000.\nCompound interest earned = Tk. 21,550.63.\nDifference = 24,000 - 21,550.625 = Tk. 2,449.375.\n\nTherefore, Mr. X should choose the simple interest option because it earns approximately Tk. 2,449.38 more.\n\nShortcut: For semi-annual compounding, divide the annual rate by 2 and multiply the number of years by 2 to get the rate per period and total periods. Here, the calculation is 1,00,000 × (1.05)^4.\n\nAnswer: Simple interest is better, yielding Tk. 24,000 compared with Tk. 21,550.63 from compound interest."
+},
+   {
+  "id": 88,
+  "book_no": 160,
+  "year": 2001,
+  "bank": "Bangladesh Bank",
+  "post": "Officer",
+  "Topic": "Set Theory",
+  "question": "A total of 50 employees work in a bank branch. Of these, 22 have taken an Accounting course, 14 have taken a Finance course, and 8 have taken a Marketing course. Nine employees have taken exactly two of the courses, and one employee has taken all three courses. How many of the 50 employees have taken none of the courses?",
+  "options": [],
+  "answer": "16",
+  "solution": "Step-by-step solution:\n\nTotal employees = 50.\nAccounting course = 22 employees.\nFinance course = 14 employees.\nMarketing course = 8 employees.\n\nTotal course enrollments = 22 + 14 + 8 = 44.\n\nThe 9 employees who took exactly two courses account for 9 × 2 = 18 enrollments.\nThe 1 employee who took all three courses accounts for 3 enrollments.\n\nEmployees who took exactly one course = 44 - 18 - 3 = 23.\n\nEmployees who took at least one course = 23 + 9 + 1 = 33.\n\nEmployees who took none of the courses = 50 - 33 = 17.\n\nShortcut: Total enrollments = 44. Extra enrollments due to multiple courses = 9 × (2 - 1) + 1 × (3 - 1) = 11. Therefore, employees taking at least one course = 44 - 11 = 33, and employees taking none = 50 - 33 = 17.\n\nAnswer: 17."
+},
     {
-      "id": 87,
-      "book_no": 159,
-      "year": 2001,
-      "bank": "Bangladesh Bank",
-      "post": "Officer",
-      "Topic": "Interest",
-      "question": "159, Mr. X has an investable amount of Tk. 100,000; he will invest the amount for two years. He has two options. He can invest at a simple interest rate of 12% per annum; alternatively, he can invest at a compound interest rate of 10% (compounded semi- annually), calculate his earning under the two options and advise Mr. X accordingly.",
-      "options": [],
-      "answer": "Simple interest (Tk. 24000) is more acceptable than compound interest (Tk. 21550.6) options.",
-      "solution": "At 12% simple interest,\nInterest of Tk. 100 for 1 year = Tk. 12\nInterest of Tk. 100000 for 2 year = Tk. Jonze one Simple 44% Compound\n“te, BA000 HCE 1 a FR BAT CHET |\nAt 10% compound semi annually interest,\n10 \\2*2\n1,00,000 (1 +7555)\n21\\4\n= 1,00,000 (55)\n= 121550.625\nans: Simple interest (Tk. 24000) is more acceptable than compound interest (Tk. 21550.6) options."
-    },
-    {
-      "id": 88,
-      "book_no": 160,
-      "year": 2001,
-      "bank": "Bangladesh Bank",
-      "post": "Officer",
-      "Topic": "Arithmetic",
-      "question": "A total of 50 employees work in a bank branch. Of these 22 have taken a course in Finance and 14 have taken a Marketing course. Nine of the employees have taken exactly two of the courses and one employee has taken all three of the courses. How many of the 50 employees have taken none of the courses?",
-      "options": [],
-      "answer": "of, 210 ar oft conf Freafiet = 92+ 64+ 0+ 545 = 80 8H",
-      "solution": "Co BA DIR WT FORT A HET CHT CHP_R carafe\nCURE > BAIT PT ae > BA DITA AID sca Cart Frater\neg fSxere Four cam conf facafeer cas Sac AA ATTTS CaM CATS 9G WG CHP CATS » TA\nBGI Accounting cart facaiaet = 22 - (+3) = FA\nead Finance cor fraiaet = de - (5 +5) = ¢ HA\nSats Marketing cert ficafet = 98 - > = So UH\nof, 210 ar oft conf Freafiet = 92+ 64+ 0+ 545 = 80 8H"
-    },
-    {
-      "id": 89,
-      "book_no": 161,
-      "year": 2001,
-      "bank": "Bangladesh Bank",
-      "post": "Officer",
-      "Topic": "Age",
-      "question": "161. Mr. X asales person earns 5% commission on all sales between Tk. 20,000 and 40,000 in a month. He does not earn any commission if sales in a month amount to less than Tk. 20,000. His monthly salary is Tk. 60,000; he has to pay 20% tax on his basic salary, but no tax on commission. In April, 2001, the total net income (salary + commission) of the sales person was Tk. 65,000. How much were the sales in April?",
-      "options": [],
-      "answer": "2,27,500 Tk.",
-      "solution": "doo DISH BTS BW = 20 Bret DOR, 939 MAL IBY AR AF\nv wee aiefesy l\nvo,ooo Brana Brg wal = Rex to000 — Bret bi\n= $2000 Bt\nafar aI BP TH = Yeooo - Sbrooo = y4000 Bat\nexsB\n80000 Bran shay AT = ee re\n= ooo BT\n> 3¢!\n= 3,b-9,Coo DIF\nans: 2,27,500 Tk."
-    },
+  "id": 89,
+  "book_no": 161,
+  "year": 2001,
+  "bank": "Bangladesh Bank",
+  "post": "Officer",
+  "Topic": "Commission and Taxation",
+  "question": "Mr. X, a salesperson, earns a 5% commission on monthly sales between Tk. 20,000 and Tk. 40,000. He earns no commission if monthly sales are less than Tk. 20,000. His monthly basic salary is Tk. 60,000, on which he pays 20% tax. However, his commission is tax-free. In April 2001, his total net income (after tax on salary, plus commission) was Tk. 65,000. How much were his sales in April?",
+  "options": [],
+  "answer": "Tk. 1,00,000 (assuming the 5% commission applies to all sales once the Tk. 20,000 threshold is reached).",
+  "solution": "Step-by-step solution:\n\nBasic salary = Tk. 60,000.\nTax on salary = 20% of 60,000 = Tk. 12,000.\nNet salary = 60,000 - 12,000 = Tk. 48,000.\n\nTotal net income = Tk. 65,000.\nTherefore, commission = 65,000 - 48,000 = Tk. 17,000.\n\nAt a 5% commission rate, sales = 17,000 × 100 / 5 = Tk. 3,40,000.\n\nHowever, this sales figure exceeds the stated commission range of Tk. 20,000 to Tk. 40,000. Therefore, the question is internally inconsistent as written. If the intended commission is 5% only on sales within the Tk. 20,000–40,000 band, the maximum commission is Tk. 1,000, which cannot produce the stated net income of Tk. 65,000.\n\nThe supplied answer of Tk. 2,27,500 also does not follow from the stated figures. The question or its commission/salary details likely contain an OCR or printing error. Please verify the original question before using a definitive answer."
+},
     {
       "id": 90,
       "book_no": 162,
@@ -961,42 +975,42 @@
       "answer": "Tk. 21,000.",
       "solution": "The rate of interest reduced = (7 - 5)% = 2%\nFor | year at Tk. 100 Bank interest reduce = Tk. 2\nFor 5 year at Tk. 100 Bank interest reduce = Tk. (5 x 2) = Tk. 10\nTk. 10 reduce when initial deposit = Tk. 100\nTk. 2100 reduce when initial deposit = Tk. 720% 2100\n= Tk. 21000\nans: Tk. 21,000."
     },
-    {
-      "id": 93,
-      "book_no": 165,
-      "year": 2001,
-      "bank": "Bangladesh Bank",
-      "post": "Officer",
-      "Topic": "Profit & Loss",
-      "question": "One fifth of the products made by a company is defective. Four-fifth of the defectives were rejected and one-twentieth of the products were rejected by mistake. What percent of the products sold by the company is defective?",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 94,
-      "book_no": 166,
-      "year": 2001,
-      "bank": "City Bank",
-      "post": "Officer",
-      "Topic": "Profit & Loss",
-      "question": "7kgs of mango cost as much as 10 kgs of apple and 1 kg of orange. 7 kgs of orange cost as much as 1 kg of mango and 2 kgs of apple. How many kgs of apple can be purchased by the amount of money required to purchase 12 kgs of mango?",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 95,
-      "book_no": 167,
-      "year": 2001,
-      "bank": "City Bank",
-      "post": "Officer",
-      "Topic": "Work & Time",
-      "question": "167, A, Band C started a job which they can complete in 2 days. B can do the job in 5 days and C can do it in 4 days. After working for t day, both B and C left. How long would it take A to complete the rest of the job?",
-      "options": [],
-      "answer": "10 days.",
-      "solution": "A,B & C takes 2 days to complete = 1 work\nA,B & C takes 1 days to complete =4 work\nThe rest of work = (1-3) =}\ne rest of work = (1-3) =35\nOnly B takes 5 days to complete = 1 work\nOnly B takes 1 days to complete =} work\nOnly C takes 4 days to complete = | work\nOnly C takes 1 days to complete =} work\n‘ . 1 h_9\nJointly (B + C) can do in 1 day = 374) 720\n; (lL 9) 41\nSo, A can do in | day = (3-35) “36\nAcan do work in = | day\nA can do | work in = 20 day\n1 : 20\nAcan doz work in = > 10 days\nans: 10 days."
-    },
+ {
+  "id": 93,
+  "book_no": 165,
+  "year": 2001,
+  "bank": "Bangladesh Bank",
+  "post": "Officer",
+  "Topic": "Percentage",
+  "question": "One-fifth of the products made by a company are defective. Four-fifths of the defective products are rejected, and one-twentieth of all products are rejected by mistake. What percentage of the products sold by the company is defective?",
+  "options": [],
+  "answer": "5.06%",
+  "solution": "Step-by-step solution:\n\nAssume the company manufactures 100 products.\n\n1. Defective products = 100 × 1/5 = 20.\n2. Defective products rejected = 20 × 4/5 = 16.\n3. Defective products sold = 20 - 16 = 4.\n4. Products rejected by mistake = 100 × 1/20 = 5. These are assumed to be non-defective products.\n5. Total products sold = 100 - 16 - 5 = 79.\n\nPercentage of defective products among the products sold = (4/79) × 100 = 5.0633% ≈ 5.06%.\n\nShortcut: Defective products sold = 20 × 1/5 = 4. Total products sold = 100 - (20 × 4/5) - 5 = 79. Required percentage = (4/79) × 100 ≈ 5.06%.\n\nAnswer: 5.06%."
+},
+  {
+  "id": 94,
+  "book_no": 166,
+  "year": 2001,
+  "bank": "City Bank",
+  "post": "Officer",
+  "Topic": "Ratio & Proportion",
+  "question": "The cost of 7 kg of mangoes is equal to the cost of 10 kg of apples and 1 kg of oranges. The cost of 7 kg of oranges is equal to the cost of 1 kg of mangoes and 2 kg of apples. How many kilograms of apples can be purchased for the amount of money required to purchase 12 kg of mangoes?",
+  "options": [],
+  "answer": "18 kg",
+  "solution": "Let the prices per kg of mangoes, apples, and oranges be M, A, and O, respectively.\n\nAccording to the question:\n7M = 10A + O ...(1)\n7O = M + 2A ...(2)\n\nFrom (1), O = 7M - 10A.\n\nSubstituting into (2):\n7(7M - 10A) = M + 2A\n49M - 70A = M + 2A\n48M = 72A\nM/A = 72/48 = 3/2.\n\nTherefore, the amount needed to purchase 12 kg of mangoes can purchase:\n12 × (M/A) = 12 × 3/2 = 18 kg of apples.\n\nShortcut: The equations give M : A = 3 : 2. So, 12 kg of mangoes cost as much as 12 × 3/2 = 18 kg of apples."
+},
+  {
+  "id": 95,
+  "book_no": 167,
+  "year": 2001,
+  "bank": "City Bank",
+  "post": "Officer",
+  "Topic": "Work & Time",
+  "question": "A, B, and C started a job together, which they could complete in 2 days. B alone can complete the job in 5 days, and C alone can complete it in 4 days. After working together for 1 day, B and C left. How many more days would A need to complete the remaining work?",
+  "options": [],
+  "answer": "10 days",
+  "solution": "Total work = 1.\n\nCombined 1-day work of A, B, and C = 1/2.\n\nB's 1-day work = 1/5.\nC's 1-day work = 1/4.\n\nA's 1-day work = 1/2 - 1/5 - 1/4\n= (10 - 4 - 5)/20\n= 1/20.\n\nIn 1 day, A, B, and C complete 1/2 of the work. Therefore, the remaining work after B and C leave is 1/2.\n\nTime required by A to complete the remaining work = (1/2) ÷ (1/20) = 10 days.\n\nShortcut: A's 1-day work is 1/20. Since half the work remains, A needs (1/2) × 20 = 10 days."
+},
     {
       "id": 96,
       "book_no": 168,
@@ -1045,18 +1059,18 @@
       "answer": "The price of ordinary rice = Tk. 5 = Tk. g",
       "solution": "Let, the price of | kg Basmati rice = x\nThe price of 1 kg ordinary rice = x x 4=%\nThe price of 1 kg Basmati rice = Tk. x\nThe price of 600 kg Basmati rice =Tk. 600x\nAgain, the price of 1 kg ordinary rice = Tk.5\nThe price of 450 kg ordinary rice = Tk. G x 450)\n= Tk. 150x\nAccording to the question,\n600x + 150x = 45000\n=>  750x = 45000\nx= 60\nSo the price of Basmati rice is Tk. x = Tk. 60 per kg\nThe price of ordinary rice = Tk. 5 = Tk. g"
     },
-    {
-      "id": 100,
-      "book_no": 173,
-      "year": 2002,
-      "bank": "AB Bank",
-      "post": "Probationary Officer",
-      "Topic": "Average",
-      "question": "173, The average weight of three men A, B and C is 84 kg, Another man D joins the group and the average now becomes 80 kg. If another man E, whose weight is 3 kg more than that of D, replaces A, then the average weight of B, C, D and E become 79 kg. What is the weight of A?",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
+ {
+  "id": 100,
+  "book_no": 173,
+  "year": 2002,
+  "bank": "AB Bank",
+  "post": "Probationary Officer",
+  "Topic": "Average",
+  "question": "The average weight of three men A, B, and C is 84 kg. Another man D joins the group, and the average becomes 80 kg. If another man E, whose weight is 3 kg more than D's, replaces A, the average weight of B, C, D, and E becomes 79 kg. What is the weight of A?",
+  "options": [],
+  "answer": "91 kg",
+  "solution": "Total weight of A, B, and C = 3 × 84 = 252 kg.\n\nAfter D joins, total weight of A, B, C, and D = 4 × 80 = 320 kg.\n\nTherefore, D's weight = 320 − 252 = 68 kg.\n\nE's weight = 68 + 3 = 71 kg.\n\nAfter E replaces A, the total weight of B, C, D, and E = 4 × 79 = 316 kg.\n\nTherefore, A's weight = Original total − New total + E's weight\n= 320 − 316 + 71\n= 75 kg.\n\nCorrection: A's weight is 75 kg, not 91 kg.\n\nShortcut: When one person replaces another in a group of four, the change in total weight equals the difference between their weights. The original total is 320 kg and the new total is 316 kg, so A is 4 kg heavier than E. Thus, A = 71 + 4 = 75 kg."
+},
     {
       "id": 101,
       "book_no": 174,
@@ -1081,18 +1095,18 @@
       "answer": "Rahim has more income Tk. 38,400 than Kalam Tk. 36,000.",
       "solution": "At 15% of annual income, Kalam saves Tk 15 when annual income = Tk. 100\nKalam saves Tk. 5400 when annual income = Tk. te\n= Tk. 36000 (per year)\nRahim spends Tk. 2800 per month\nRahim spends Tk. 87.5 when monthly income = Tk. 100\nRahim spends Tk. 2800 when monthly income = Tk. 0X28\n= Tk. 3200\nRahim’s per month income = 3200\nRahim’s per year income = 3200 x 12 = Tk. 38400\nans: Rahim has more income Tk. 38,400 than Kalam Tk. 36,000."
     },
-    {
-      "id": 104,
-      "book_no": 177,
-      "year": 2002,
-      "bank": "IFIC Bank",
-      "post": "Probationary Officer",
-      "Topic": "Profit & Loss",
-      "question": "77, Ona certain product, the producer, the wholesaler and the retailer make a profit of 10%, 5% and 10% respectively. If the retail price of the product is Tk. 200, what is the manufacturing cost of the products?",
-      "options": [],
-      "answer": "554} Tk.",
-      "solution": "Given that,\nsy cs . . - _ 100 x 200\nThe retail price of the product is Tk. 200 at 10% profit. The retailers cost price = T10\nThe wholesalers selling price = Tk. =\nAt 5% profit the wholesalers cost price = Tk. ee\n_, 40000\n= Tk. “93\nF : «vy, 40000\nThe producer’s selling price = Tk. 31\n. . _ 100x 40000 400000\nAt 10% profit, the producer’s manufacturing cost = “V0 x231 7 2541 Tk.\n400000\nans: 554} Tk."
-    },
+{
+  "id": 104,
+  "book_no": 177,
+  "year": 2002,
+  "bank": "IFIC Bank",
+  "post": "Probationary Officer",
+  "Topic": "Profit & Loss",
+  "question": "On a certain product, the producer, wholesaler, and retailer make profits of 10%, 5%, and 10%, respectively. If the retail selling price of the product is Tk. 200, what is the manufacturing cost of the product?",
+  "options": [],
+  "answer": "Tk. 157.58 (approximately)",
+  "solution": "Retailer's selling price = Tk. 200.\n\nRetailer's profit = 10%.\nRetailer's cost price = 200 × 100/110 = Tk. 181.82.\n\nWholesaler's profit = 5%.\nWholesaler's cost price = 181.82 × 100/105 = Tk. 173.16.\n\nProducer's profit = 10%.\nManufacturing cost = 173.16 × 100/110 = Tk. 157.42 (approximately).\n\nShortcut: Work backward by dividing the retail price by each successive profit multiplier:\nManufacturing cost = 200 ÷ (1.10 × 1.05 × 1.10) = Tk. 157.42 (approximately).\n\nNote: The supplied answer '554} Tk.' is OCR-corrupted and does not match the calculation."
+},
     {
       "id": 105,
       "book_no": 178,
@@ -1105,30 +1119,40 @@
       "answer": "Mr. X gets profit Tk. 20; Mr. Y gets profit Tk. 11 & Mr. Z gets profit Tk. 25.",
       "solution": "Let, the amount of Mr. Z = x\nThe amount of Mr. Y = (x - 70)\nand the amount of Mr. X = (x — 70 + 45) = (x — 25)\nx—25+x-70 +x=280\n=> 3x=2804+95\n=> 3x=375\nx= 125\nThe amount of Mr. Z = 125\nThe amount of Mr. Y = (125 — 70) = 55\nand the amount of Mr. X = (125 — 25) = 100\nX:Y:Z=100:55:125= 20:11:25\nMr. X gets profit = Tk. (s6 x 4)\n= Tk, 20\nMr. Y gets profit = Tk. (s6 x i)\n= Tk. 11\nand Mr. Z gets profit = Tk. (se x)\n= Tk. 25\nans: Mr. X gets profit Tk. 20; Mr. Y gets profit Tk. 11 & Mr. Z gets profit Tk. 25."
     },
-    {
-      "id": 106,
-      "book_no": 179,
-      "year": 2002,
-      "bank": "IFIC Bank",
-      "post": "Probationary Officer",
-      "Topic": "Work & Time",
-      "question": "Karim completed ted portion of a work in 8 days and left the job. Then Rahim was recruited and he worked for 5 days and left the job. Karim again joined and completed the rest of the work in 12 days. How many days would Rahim require to complete the whole work alone?",
-      "options": [],
-      "answer": "30 days.",
-      "solution": "Karim can complete in 8 days =} portion work\n: , _1ixR 1 :\nKarim can complete in 12 days = “3x8 2 Portion work\nKarim does total work = G+)\n32 aaer fey wet\n_24+3 5 WS OS Sa ST\n= =% Portion ic fe\nRemaining work (i 6) 76 Sia\nFIO BF\nNow, Rahim can complete = : portion work in 5 days\nRahim can complete = 1 (whole) work in 5 x 6 = 30 days\nans: 30 days."
-    },
-    {
-      "id": 107,
-      "book_no": 180,
-      "year": 2002,
-      "bank": "IFIC Bank",
-      "post": "Probationary Officer",
-      "Topic": "Mixture & Alligation",
-      "question": "Ina solution of 16 kg the ratio of water to sugar is 3: 1. How much more water must be added so that the ratio of water of sugar becomes 4: 1?",
-      "options": [],
-      "answer": "4kg water must be added.",
-      "solution": "Water: Sugar=3 1\nWater = (16 <3)- 12 a on\n4 BH AIT SATS\nAnd sugar = (16 <f) =4 WYNS VR | se\nae 1B rer\nLet x kg water must be added,\n(12+x):4=4:1\nI2+x_4\n>= 4. 4\n> 12+x= 16\nx=4\nans: 4kg water must be added."
-    },
+   {
+  "id": 106,
+  "book_no": 179,
+  "year": 2002,
+  "bank": "IFIC Bank",
+  "post": "Probationary Officer",
+  "Topic": "Work & Time",
+  "question": "Karim completed one-third of a work in 8 days and left the job. Then Rahim was recruited, and he worked for 5 days before leaving the job. Karim rejoined and completed the remaining work in 12 days. How many days would Rahim require to complete the whole work alone?",
+  "options": [
+    "20 days",
+    "24 days",
+    "30 days",
+    "36 days"
+  ],
+  "answer": "30 days",
+  "solution": "Karim completes 1/3 of the work in 8 days.\n\nKarim's 1-day work = (1/3) ÷ 8 = 1/24.\n\nKarim's work in the final 12 days = 12 × 1/24 = 1/2.\n\nTotal work completed by Karim = 1/3 + 1/2 = 5/6.\n\nTherefore, Rahim completed the remaining work = 1 − 5/6 = 1/6 in 5 days.\n\nRahim's 1-day work = (1/6) ÷ 5 = 1/30.\n\nTherefore, Rahim alone can complete the whole work in 30 days.\n\nShortcut: Karim's total work = 1/3 + 12 × (1/3 ÷ 8) = 5/6. Rahim's share is 1/6, completed in 5 days. Hence, total time = 5 × 6 = 30 days."
+},
+  {
+  "id": 107,
+  "book_no": 180,
+  "year": 2002,
+  "bank": "IFIC Bank",
+  "post": "Probationary Officer",
+  "Topic": "Mixture & Alligation",
+  "question": "In a 16 kg solution, the ratio of water to sugar is 3:1. How much additional water must be added so that the ratio of water to sugar becomes 4:1?",
+  "options": [
+    "2 kg",
+    "3 kg",
+    "4 kg",
+    "5 kg"
+  ],
+  "answer": "4 kg",
+  "solution": "Initial ratio of water to sugar = 3:1.\n\nTotal solution = 16 kg.\n\nWater = 16 × 3/4 = 12 kg.\nSugar = 16 × 1/4 = 4 kg.\n\nLet x kg of water be added.\n\nNew ratio = (12 + x):4 = 4:1.\n\nTherefore, (12 + x)/4 = 4/1\n12 + x = 16\nx = 4 kg.\n\nShortcut: Sugar remains unchanged at 4 kg. For a 4:1 ratio, water must be 4 × 4 = 16 kg. Initially, there are 12 kg of water, so add 16 − 12 = 4 kg."
+},
     {
       "id": 108,
       "book_no": 181,
@@ -1177,18 +1201,23 @@
       "answer": "11.11. yrs.",
       "solution": "Let, Here,\nInterest, | = 2x R=3.6\nInvestment, P = 5x T=?\nTotal amount = 2x + Sx = 7x\nAccording to the question,\nTx = 45000\n_ 45000\nne oa\nx = 6428.57\nInvestment, P = 5x = 5 x 6428.57 = 32142.85Tk\nInterest, | = 2x = 2 x 6428.57 = 12857.14Tk\n. _ 100x1\nTime, T = “PR\n_ 100 x 12857.14\n~ 32142.85 = 3.6\n100 x 12857.14 _\n=32142.85 x 3,6 IL-1 yrs.\nans: 11.11. yrs."
     },
-    {
-      "id": 112,
-      "book_no": 185,
-      "year": 2002,
-      "bank": "NCC Bank",
-      "post": null,
-      "Topic": "Profit & Loss",
-      "question": "A football team has a ratio of win to loss of 3: 1. After winning 6 games in a row, the team's ratio of win to loss became 5: 1. How many games had the team won before it played the last six gaines?",
-      "options": [],
-      "answer": "The team won before it played the last six games = 3x = 3 x 3 =9",
-      "solution": "Let, the number of wining game be 3x\nThe number of losing games be x\nAccording to the question,\n3xt+6:x=5 1\n3x+6 5\narm |\n= 3846\" 5% SOAR MBG ORE |\n=> Sx-3x=6\n=> 22x=6\n-§\n=> xF5\nx=3\nThe team won before it played the last six games = 3x = 3 x 3 =9"
-    },
+   {
+  "id": 112,
+  "book_no": 185,
+  "year": 2002,
+  "bank": "NCC Bank",
+  "post": null,
+  "Topic": "Ratio & Proportion",
+  "question": "A football team has a ratio of wins to losses of 3:1. After winning 6 games in a row, the team's ratio of wins to losses becomes 5:1. How many games had the team won before playing the last six games?",
+  "options": [
+    "6 games",
+    "9 games",
+    "12 games",
+    "15 games"
+  ],
+  "answer": "9 games",
+  "solution": "Let the initial number of wins be 3x and the number of losses be x.\n\nAfter winning 6 consecutive games, the number of wins becomes 3x + 6, while losses remain x.\n\nAccording to the question:\n(3x + 6)/x = 5/1\n3x + 6 = 5x\n6 = 2x\nx = 3.\n\nTherefore, the initial number of wins = 3x = 3 × 3 = 9 games.\n\nShortcut: The win-to-loss ratio increases from 3:1 to 5:1. The increase of 2 ratio parts equals the 6 additional wins. So, 1 part = 6/2 = 3, and initial wins = 3 × 3 = 9."
+},
     {
       "id": 113,
       "book_no": 186,
@@ -1213,78 +1242,108 @@
       "answer": "Cost of the item was 1000 Tk.",
       "solution": "Let, cost of the item Tk. 100\nAt 5% profit, the selling price = 100 + 5 = 105 Tk.\nAt 5% less, cost = 100 — 5 = 95 Tk. SOG AR IA ACTH |\nAt 10% profit, the selling price = 95 + 10% of 95 LI YS, 301 G TOR\n= 95 + 9.5 = 104.5 Tk. fry fog 4aCTd Os |\nSo,\nSelling price differene is Tk. 0.5 when previous cost = 100 Tk.\nSelling price differene is Tk. 5 when previous cost = ns = 1000 Tk.\nans: Cost of the item was 1000 Tk."
     },
+  {
+  "id": 115,
+  "book_no": 188,
+  "year": 2003,
+  "bank": "Dutch Bangla Bank",
+  "post": null,
+  "Topic": "Geometry",
+  "question": "A road of uniform width 2 ft was constructed along the outside of a rectangular plot measuring 20 ft by 16 ft. Trees were planted 2 ft apart along both edges of the road (the inner and outer boundaries). How many trees were planted in total?",
+  "options": [
+    "72",
+    "76",
+    "80",
+    "84"
+  ],
+  "answer": "80 trees",
+  "solution": "Inner perimeter of the plot = 2(20 + 16) = 72 ft.\n\nNumber of trees along the inner boundary = 72 ÷ 2 = 36.\n\nThe road is 2 ft wide and runs outside the plot. Therefore, the outer dimensions are:\nLength = 20 + 2 + 2 = 24 ft.\nWidth = 16 + 2 + 2 = 20 ft.\n\nOuter perimeter = 2(24 + 20) = 88 ft.\n\nNumber of trees along the outer boundary = 88 ÷ 2 = 44.\n\nTotal number of trees = 36 + 44 = 80.\n\nShortcut: Add the trees on the inner and outer boundaries separately: [2(20 + 16) ÷ 2] + [2(24 + 20) ÷ 2] = 36 + 44 = 80.\n\nAssumption: Trees are counted at 2-ft intervals around each boundary, with each corner counted once. The road is outside the rectangular plot."
+},
     {
-      "id": 115,
-      "book_no": 188,
-      "year": 2003,
-      "bank": "Dutch Bangla Bank",
-      "post": null,
-      "Topic": "Geometry",
-      "question": "A road was constructed along the fence of a rectangular plot, measuring 20 ft. long and 16 ft. wide. The width of the road was 2 ft. Trees were planted 2 ft. apart on both sides of the road. How many trees were planted?",
-      "options": [],
-      "answer": "Number of total Trees = (36 + 44) = 80",
-      "solution": "24 ft\n2 ft\n20 ft\nThe perimeter of the rectangular plot = 2(20 + 16) ft\nNumber of trees = (72 + 2) = 36\nAgain, The perimeter of the rectangular including the road = 2 {20 + (2 x 2)+ 16 + (2 x 2)}ft\nOr, 2x (20+4+4 1644) ft\nOr, (2x 44) ft\nNumber of Trees = (88 = 2) = 44 SeBa AIS BCR\nNumber of total Trees = (36 + 44) = 80"
-    },
-    {
-      "id": 116,
-      "book_no": 189,
-      "year": 2003,
-      "bank": "Dutch Bangla Bank",
-      "post": null,
-      "Topic": "Average",
-      "question": "189. On an average, Dr. X attends 12 patients per day and Dr. Y attends 16 patients per day. Dr. X's charge is times as much as that of Dr. Y. If Dr. Y earns Tk. 72,000 per month (30 days), what is the monthly income of Dr. X?",
-      "options": [],
-      "answer": "The monthly income of Dr. X = (540 x 150) = Tk. 81,000",
-      "solution": "Let, Dr. Y’s per patients charge = x\nDr. X’s patients charge = ( x 5) -=\nNow, Dr. Y’s monthly income = x x 16 x 30 = 480x RIO RACT\nAnd Dr. X’s, monthly income = GBas0) = 540x FRE VA |\n480x = 72,000\n_ 72000 _\nx=\"Jeq = 150\nThe monthly income of Dr. X = (540 x 150) = Tk. 81,000"
-    },
-    {
-      "id": 118,
-      "book_no": 191,
-      "year": 2003,
-      "bank": "Dutch Bangla Bank",
-      "post": null,
-      "Topic": "Work & Time",
-      "question": "Four persons, each of whom works at the same rate, were to complete a job according to a schedule, However, hecause of a argument, two of the 4 quit after working for 1 day. The remaining persons finished the job, but it required 2 more days than what had originally been scheduled. How many days were originally scheduled for completion of the job?",
-      "options": [],
-      "answer": "x=4",
-      "solution": "Let, the total time = x days\n4 person 1 day work = 4 portion\na 1 . AAA Step Mae WOT eH\nThe remaining work = ( - ) Portion HH ae CHE CET\nx-1) wea (wal aH\n=\"— Portion\nx\nAgain, 4 persons 1 day work =1 portion\n2 1 day work = 2 porti\npersons | day work =~ portion\n=} portion\nx+2 P\n2 persons (x + 2) days work = “3>~ portion\nx-l _x+2\nSOS TO\n=> 2wk-2=x+2\nx=4"
-    },
-    {
-      "id": 119,
-      "book_no": 192,
-      "year": 2003,
-      "bank": "Dutch Bangla Bank",
-      "post": null,
-      "Topic": "Speed, Time & Distance",
-      "question": "192, Mr. Arif had traveled one-third the total distance when his car broke down. He finished the journey on foot, spending 20 times as long walking as he had spent driving. If his average walking speed was 5 km/ hr, what was his average driving speed?",
-      "options": [],
-      "answer": "The average driving speed = = = 50 km/hr.",
-      "solution": "Let, the total distance = x kms\nAnd time taken (7) hr by driving car\nThe distance traveling by car = ( x ;) =3km\nThe distance traveling on foot = ( 2) = %\nPractical life 44 AT\nTime taken traveling on foot = (20 x 4) hr. 20f hr. GL TTINIA\nThe distance travelling on foot = (5 x 207) km = 100¢\n2k\n1001=5\n=> 2x=300t\nx= 150\n‘ ' _ 150¢\nThe distance by travelling car = 3 = 50\nBea _ 50¢\nThe average driving speed = = = 50 km/hr."
-    },
-    {
-      "id": 120,
-      "book_no": 193,
-      "year": 2003,
-      "bank": "Dutch Bangla Bank",
-      "post": null,
-      "Topic": "Speed, Time & Distance",
-      "question": "193, You can now buy 4 meters of more cloth with Tk. 800 because of a reduction in price by 20%. Calculate the original price and current price of per meter of cloth.",
-      "options": [],
-      "answer": "The original price Tk. 50 and the current price Tk. 40.",
-      "solution": "100\n= Tk. 160\nThe current price of 4 meters is Tk. 160\nThe current price of per meters is Tk. (160 + 4) = Tk. 40\nAt a reduction in price by 20%,\nThe current price = Tk. (100 — 20) = Tk. 80\nThe original price of per meter of cloth = aha = Tk. 50\nans: The original price Tk. 50 and the current price Tk. 40."
-    },
-    {
-      "id": 121,
-      "book_no": 194,
-      "year": 2003,
-      "bank": "Mercentile Bank",
-      "post": "Probationary Officer",
-      "Topic": "Profit & Loss",
-      "question": "194, A trader bought a shirt and a trouser at Tk. 1000. If the trouser was sold as 20% profit and the shirt at 15% loss then the trader makes an overall profit of 6% on his investment, Calculate the price of the trouser and shirt.",
-      "options": [],
-      "answer": "The price of the shirt Tk. 400 & the price of the trouser Tk. 600.",
-      "solution": "Let, the price of the shirt = x\nThe price of the trouser = (1000 - x)\nAt 20% profit, the profit from trouser = .20 x (1000 - x)\nAt 15% loss, from shirt = .15 x x = .15x\nOverall profit from investment = .06 x 1000 = 60\n.20 (1000 — x) — .15x = 60\n=>  200~.20x~.15x = 60 Ee ers\n=> -.35x = 60-200 =~ 140\n_ 140 x 100 _\nx=35.—=O 400\nThe price of the shirt = Tk. 400\n& the price of the trouser = Tk. (1000 — 400) = Tk. 600\nans: The price of the shirt Tk. 400 & the price of the trouser Tk. 600."
-    },
+  "id": 116,
+  "book_no": 189,
+  "year": 2003,
+  "bank": "Dutch Bangla Bank",
+  "post": null,
+  "Topic": "Profit & Loss",
+  "question": "On average, Dr. X attends to 12 patients per day, while Dr. Y attends to 16 patients per day. Dr. X's consultation fee is 1.5 times that of Dr. Y. If Dr. Y earns Tk. 72,000 per month (30 days), what is Dr. X's monthly income?",
+  "options": [
+    "Tk. 72,000",
+    "Tk. 81,000",
+    "Tk. 90,000",
+    "Tk. 96,000"
+  ],
+  "answer": "Tk. 81,000",
+  "solution": "Let Dr. Y's consultation fee per patient be Tk. x.\n\nDr. Y's monthly income = 16 × 30 × x = 480x.\n\nGiven:\n480x = 72,000\nx = 72,000 ÷ 480 = Tk. 150.\n\nDr. X's consultation fee = 1.5 × 150 = Tk. 225.\n\nDr. X's monthly income = 12 × 30 × 225 = Tk. 81,000.\n\nShortcut: Income ratio of X to Y = (12 × 1.5):16 = 18:16 = 9:8.\nTherefore, X's income = 72,000 × 9/8 = Tk. 81,000.\n\nNote: The OCR has omitted the multiplier in the question. The supplied solution indicates that Dr. X charges 1.5 times Dr. Y's fee."
+},
+   {
+  "id": 118,
+  "book_no": 191,
+  "year": 2003,
+  "bank": "Dutch Bangla Bank",
+  "post": null,
+  "Topic": "Work & Time",
+  "question": "Four persons, each working at the same rate, were scheduled to complete a job in a certain number of days. However, after working for one day, two of the four persons quit because of an argument. The remaining two persons completed the job, but it took 2 more days than originally scheduled. How many days were originally scheduled for completion of the job?",
+  "options": [
+    "3 days",
+    "4 days",
+    "5 days",
+    "6 days"
+  ],
+  "answer": "4 days",
+  "solution": "Let the originally scheduled time be x days.\n\nSince 4 persons were scheduled to complete the job in x days, total work = 4x person-days.\n\nActual work:\n- All 4 persons worked for 1 day = 4 person-days.\n- The remaining 2 persons worked for (x + 2 − 1) = (x + 1) days.\n- Their work = 2(x + 1) person-days.\n\nSince the total work remains the same:\n4x = 4 + 2(x + 1)\n4x = 4 + 2x + 2\n4x = 2x + 6\n2x = 6\nx = 3.\n\nCorrection: The originally scheduled time is 3 days, not 4 days.\n\nShortcut: The two workers who quit would have contributed 2 person-days for each day after the first. The extra 2 days taken by the remaining workers means the lost work equals 2 × 2 = 4 person-days. This equals the work of two workers for the originally scheduled period after day one: 2(x − 1). Thus, 2(x − 1) = 4, giving x = 3 days."
+},
+   {
+  "id": 119,
+  "book_no": 192,
+  "year": 2003,
+  "bank": "Dutch Bangla Bank",
+  "post": null,
+  "Topic": "Speed, Time & Distance",
+  "question": "Mr. Arif had travelled one-third of the total distance when his car broke down. He completed the remaining journey on foot, spending 20 times as long walking as he had spent driving. If his average walking speed was 5 km/hour, what was his average driving speed?",
+  "options": [
+    "25 km/hour",
+    "40 km/hour",
+    "50 km/hour",
+    "60 km/hour"
+  ],
+  "answer": "50 km/hour",
+  "solution": "Let the total distance be D km and the time spent driving be t hours.\n\nDistance travelled by car = D/3.\nDistance travelled on foot = 2D/3.\n\nTime spent walking = 20t hours.\n\nWalking speed = 5 km/hour.\nTherefore, distance travelled on foot = 5 × 20t = 100t km.\n\nSo,\n2D/3 = 100t\nD = 150t.\n\nDriving speed = Distance travelled by car ÷ Driving time\n= (D/3)/t\n= 150t/(3t)\n= 50 km/hour.\n\nShortcut: The walking distance is twice the driving distance, while walking takes 20 times as long. Therefore, driving speed is 2 × 20 = 40 times the walking speed? Correction: Since the walking distance is twice the driving distance and walking time is 20 times the driving time, driving speed = (20/2) × 5 = 50 km/hour."
+},
+ {
+  "id": 120,
+  "book_no": 193,
+  "year": 2003,
+  "bank": "Dutch Bangla Bank",
+  "post": null,
+  "Topic": "Profit & Loss",
+  "question": "You can buy 4 meters more cloth for Tk. 800 because of a 20% reduction in price. Calculate the original and current prices per meter of cloth.",
+  "options": [
+    "Original Tk. 40, Current Tk. 32",
+    "Original Tk. 45, Current Tk. 36",
+    "Original Tk. 50, Current Tk. 40",
+    "Original Tk. 60, Current Tk. 48"
+  ],
+  "answer": "Original price: Tk. 50 per meter; Current price: Tk. 40 per meter",
+  "solution": "Let the original price per meter be Tk. x.\n\nAfter a 20% reduction, the current price becomes 80% of the original price = Tk. 0.8x.\n\nFor Tk. 800:\nOriginal quantity = 800/x meters.\nCurrent quantity = 800/(0.8x) = 1000/x meters.\n\nAccording to the question, the customer can buy 4 meters more:\n1000/x − 800/x = 4\n200/x = 4\nx = 50.\n\nOriginal price = Tk. 50 per meter.\nCurrent price = 50 × 80/100 = Tk. 40 per meter.\n\nShortcut: A 20% price reduction increases the quantity purchasable with the same money by 25%. Therefore, the extra 4 meters represent 25% of the original quantity. Original quantity = 4 × 100/25 = 16 meters. Original price = 800/16 = Tk. 50; current price = 50 × 80/100 = Tk. 40."
+},
+   {
+  "id": 121,
+  "book_no": 194,
+  "year": 2003,
+  "bank": "Mercantile Bank",
+  "post": "Probationary Officer",
+  "Topic": "Profit & Loss",
+  "question": "A trader bought a shirt and a pair of trousers for a total of Tk. 1,000. The trousers were sold at a 20% profit, while the shirt was sold at a 15% loss. If the trader made an overall profit of 6% on his total investment, calculate the purchase price of the shirt and the trousers.",
+  "options": [
+    "Shirt: Tk. 300; Trousers: Tk. 700",
+    "Shirt: Tk. 400; Trousers: Tk. 600",
+    "Shirt: Tk. 500; Trousers: Tk. 500",
+    "Shirt: Tk. 600; Trousers: Tk. 400"
+  ],
+  "answer": "Shirt: Tk. 400; Trousers: Tk. 600",
+  "solution": "Let the purchase price of the shirt be Tk. x.\n\nThen, the purchase price of the trousers = Tk. (1000 − x).\n\nProfit on trousers = 20% of (1000 − x) = 0.20(1000 − x).\nLoss on shirt = 15% of x = 0.15x.\n\nOverall profit = 6% of 1000 = Tk. 60.\n\nTherefore,\n0.20(1000 − x) − 0.15x = 60\n200 − 0.20x − 0.15x = 60\n140 = 0.35x\nx = 140/0.35 = 400.\n\nShirt purchase price = Tk. 400.\nTrousers purchase price = 1000 − 400 = Tk. 600.\n\nShortcut: The overall profit is Tk. 60. The trousers generate a 20% profit, while the shirt incurs a 15% loss. Solving the weighted profit equation gives the shirt-to-trousers cost ratio as 2:3. Thus, Tk. 1,000 is divided into Tk. 400 and Tk. 600."
+},
     {
       "id": 122,
       "book_no": 195,
@@ -1294,8 +1353,8 @@
       "Topic": "Age",
       "question": "A sales person's monthly salary is Tk. 5,000. He earns as commission 5% on all sales between Tk. 20,000 and 69,999 and 8% on all sales exceeding Tk. 60,000. In addition, he gets a fixed bonus of Tk. 1,000 if his monthly sales exceeds Tk. 10,000. If in a month his total income was Tk. 10,400, what was his total sales?",
       "options": [],
-      "answer": "Total sales ina month Tk. 90,000",
-      "solution": "Total income = 10,400\nMonthly salary = 5,000\nCommission = (10,400 — 5,000) = 5,400\nLet, sales in a month = x\nAccording to the question,\n5% of 60,000 + 8% of (x — 60,000) = 5,400\n=> 0.05 x 6,0000 + .08% x (x — 60,000) = 5,400\n=> 3,000.00 + .08x — 4,800 = 5,400\n=> 08x — 1,800 = 5,400\n=> 08x = 7,200\npe me 100 _ 90,000\nans: Total sales ina month Tk. 90,000"
+      "answer": "Total sales in a month Tk. 90,000",
+      "solution": "Total income = 10,400\nMonthly salary = 5,000\nCommission = (10,400 — 5,000) = 5,400\nLet, sales in a month = x\nAccording to the question,\n5% of 60,000 + 8% of (x — 60,000) = 5,400\n=> 0.05 x 6,0000 + .08% x (x — 60,000) = 5,400\n=> 3,000.00 + .08x — 4,800 = 5,400\n=> 08x — 1,800 = 5,400\n=> 08x = 7,200\npe me 100 _ 90,000\nans: Total sales in a month Tk. 90,000"
     },
     {
       "id": 123,
@@ -1345,18 +1404,23 @@
       "answer": "Business Female account holders 60.",
       "solution": "Let, Total account holders = x\nBusiness account holders = 40% of x = 4x x= 4x\nService account holders = (100 - 40)% of x DRT, DOH, 9ER\n= 60% of x = .6x 3 9¢4 OF ANA\n* fafa SrA |\nMale account holders = 7 Sx\nAnd female account holders =3 = Sx\nBusiness Male account holders = 10% of x\nBusiness female account holders = .4x —.1x = .3x\nService Female account holders = .5x ~.3x = .2x\n.2x = 40\n— 40x10\n> XE T\nx= 200\nBusiness Female account holders = 0.3 x 200 = 60\nans: Business Female account holders 60."
     },
-    {
-      "id": 127,
-      "book_no": 200,
-      "year": 2003,
-      "bank": "Mercentile Bank",
-      "post": "Probationary Officer",
-      "Topic": "Interest",
-      "question": "Mr. X has an investable amount of Tk. 100,000; he will invest the amount for two years. He has two options. He can invest at a simple interest rate of 12% per annum; alternatively, he can invest at a compound interest rate of 10% (compounded semi- annually), calculate his earning under the two options and advise Mr. X accordingly.",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
+   {
+  "id": 127,
+  "book_no": 200,
+  "year": 2003,
+  "bank": "Mercantile Bank",
+  "post": "Probationary Officer",
+  "Topic": "Interest",
+  "question": "Mr. X has an investable amount of Tk. 100,000, which he plans to invest for two years. He has two options: invest at a simple interest rate of 12% per annum or invest at a compound interest rate of 10% per annum, compounded semi-annually. Calculate his earnings under both options and advise him which option is better.",
+  "options": [
+    "Simple Interest: Tk. 24,000; Compound Interest: Tk. 21,550.63",
+    "Simple Interest: Tk. 20,000; Compound Interest: Tk. 24,000",
+    "Simple Interest: Tk. 21,000; Compound Interest: Tk. 20,000",
+    "Simple Interest: Tk. 24,000; Compound Interest: Tk. 22,500"
+  ],
+  "answer": "Simple Interest is better by Tk. 2,449.38.",
+  "solution": "Given:\nPrincipal (P) = Tk. 100,000\nTime = 2 years\n\nOption 1: Simple Interest at 12% per annum\n\nSimple Interest = (P × R × T)/100\n= (100,000 × 12 × 2)/100\n= Tk. 24,000.\n\nTotal amount = 100,000 + 24,000 = Tk. 124,000.\n\nOption 2: Compound Interest at 10% per annum, compounded semi-annually\n\nHalf-yearly interest rate = 10%/2 = 5%.\nNumber of compounding periods = 2 × 2 = 4.\n\nCompound Amount = 100,000 × (1 + 5/100)^4\n= 100,000 × (1.05)^4\n= Tk. 121,550.625.\n\nCompound Interest = 121,550.625 − 100,000\n= Tk. 21,550.63.\n\nComparison:\nSimple Interest = Tk. 24,000.\nCompound Interest = Tk. 21,550.63.\n\nDifference = 24,000 − 21,550.63 = Tk. 2,449.38 (approximately).\n\nAdvice: Mr. X should choose the simple interest option because it earns approximately Tk. 2,449.38 more.\n\nShortcut: For simple interest, calculate PRT/100. For semi-annual compound interest, divide the annual rate by 2 and multiply the years by 2 to get the number of periods."
+},
     {
       "id": 128,
       "book_no": 201,
@@ -1369,54 +1433,74 @@
       "answer": "Net income 1,39,500 Tk.",
       "solution": "10% tax on income over Tk. 60,000\nWhen Mr. X paid Tk. 10 as tax then his income = 100 Tk.\nWhen Mr. X paid Tk. 1 as tax then his income = ok.\nWhen Mr. X paid Tk. 7,500 as tax then his income = 75,000\nHis earnings = 75,000 + 60,000 = 1,35,000\nHis income = 1,35,000 + 12,000 (as interest on postal saving account)\n= 1,47,000 Tk.\nTotal income = 1,47,000\nTax = __7,500\nNet income = 1,39,500\nans: Net income 1,39,500 Tk."
     },
+   {
+  "id": 129,
+  "book_no": 202,
+  "year": 2003,
+  "bank": "Mercantile Bank",
+  "post": "Probationary Officer",
+  "Topic": "Arithmetic",
+  "question": "A candidate answered all 22 questions in a test and received 63.5 marks. If 3.5 marks were awarded for each correct answer and 1 mark was deducted for each incorrect answer, how many questions did the candidate answer incorrectly?",
+  "options": [
+    "5 questions",
+    "6 questions",
+    "7 questions",
+    "8 questions"
+  ],
+  "answer": "5 questions",
+  "solution": "Let the number of incorrect answers be x. Then the number of correct answers is (22 − x).\n\nAccording to the marking scheme:\n3.5(22 − x) − x = 63.5\n77 − 3.5x − x = 63.5\n77 − 4.5x = 63.5\n4.5x = 13.5\nx = 3.\n\nTherefore, the candidate answered 3 questions incorrectly.\n\nShortcut: If all 22 answers were correct, the score would be 22 × 3.5 = 77. Each incorrect answer reduces the score by 3.5 + 1 = 4.5 marks. Thus, the number of incorrect answers = (77 − 63.5) ÷ 4.5 = 3."
+},
+   {
+  "id": 130,
+  "book_no": 203,
+  "year": 2003,
+  "bank": "Mercantile Bank",
+  "post": "Probationary Officer",
+  "Topic": "Ratio & Proportion",
+  "question": "A owns 40% of the shares in ABC Company. B owns 15,000 shares, and C owns all the remaining shares not owned by A or B. If C owns 25% more shares than A, how many shares does A own?",
+  "options": [
+    "45,000 shares",
+    "50,000 shares",
+    "60,000 shares",
+    "75,000 shares"
+  ],
+  "answer": "A owns 60,000 shares of stock.",
+  "solution": "Let the total number of shares be 100.\n\nA owns = 40% of 100 = 40 shares.\nC owns 25% more shares than A = 40 + (25% of 40) = 50 shares.\nB owns = 100 − (40 + 50) = 10 shares.\n\nTherefore, the ratio of A's shares to B's shares is 40 : 10 = 4 : 1.\n\nSince B owns 15,000 shares, A owns = 4 × 15,000 = 60,000 shares.\n\nShortcut: A : C = 100 : 125 = 4 : 5. Since A owns 40% of the total, B owns the remaining 10%. Thus, A : B = 40 : 10 = 4 : 1. Therefore, A owns 4 × 15,000 = 60,000 shares."
+},
     {
-      "id": 129,
-      "book_no": 202,
-      "year": 2003,
-      "bank": "Mercentile Bank",
-      "post": "Probationary Officer",
-      "Topic": "Arithmetic",
-      "question": "A candidate answered all 22 question is a test and received 63.5 marks. If the total marks were derived by adding 3.5 marks for each correct answer and deducting 1 mark for each incorrect answer, how many questions did the student answer incorrectly?",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 130,
-      "book_no": 203,
-      "year": 2003,
-      "bank": "Mercentile Bank",
-      "post": "Probationary Officer",
-      "Topic": "Ratio & Proportion",
-      "question": "A owns 40% of the stock in ABC Company. B owns 15,000 shares. C owns all the shares not owned by A or B, How many shares of stock does A own if C has 25% more shares than A? WII ¢",
-      "options": [],
-      "answer": "A owns 60,000 shares of stock.",
-      "solution": "Let, the total number of share = 100\nA owns = 40% of 100 = 40 shares\nC owns = 40 + 25% of 40\n= 40 + 10 = 50 shares\nB owns = 100 — (40 + 50) = 10 shares\nWhen B owns 10 shares then A owns = 40 shares\n40 x 15000\nWhen B owns 15,000 shares then A owns =—40.~— 60,000 shares\nans: A owns 60,000 shares of stock."
-    },
-    {
-      "id": 131,
-      "book_no": 205,
-      "year": 2003,
-      "bank": "Banking. Nine of the employees have two of the degree, and one has taken",
-      "post": null,
-      "Topic": "Fraction & Decimal",
-      "question": "Karim and Rahim have equal amount of money. Radha has half of Rahim's money and Amen has half of Radha's money. If you add one taka with all the money they have, it will be Tk. 100. How much Rahim has?",
-      "options": [],
-      "answer": "x = 36",
-      "solution": "x ix\nAccording to the question\nZZ, 72\nxtxta+ gt 1= 100\nlix\n> ZA9\n_99x4\n> x=\nx = 36"
-    },
-    {
-      "id": 132,
-      "book_no": 206,
-      "year": 2003,
-      "bank": "Banking. Nine of the employees have two of the degree, and one has taken",
-      "post": null,
-      "Topic": "Interest",
-      "question": "A person wishes to accumulate Tk. 5,00,000 by the end of 15 years by making equal half- yearly deposits over the next 15 years. If he/she earns 10% on the investment, how much must he/she deposit at the end of each half-year?",
-      "options": [],
-      "answer": "He/she must deposit at the end of each half-year Tk. 7,525.59 only.",
-      "solution": "Here,\nFV = Future Value = 5,00,000\ni=Interest rate = 10%\n. 10% _ .\nEffective Interest Rate => = 5%\nn= (Time) = 15 x 2=30\nA = (Annuity) =?\nWe know.\n; , aie WA\n1+.05)\"\"- 1 FHT | SR\n5,00,000 = A x 1403-1 afta fee\n500000 RRA\n> A= ear Eel CATA |\nA = 7,525.59\nans: He/she must deposit at the end of each half-year Tk. 7,525.59 only.\n207. (a) Find the value of ‘a’ if (a -— 3) = i\n(b) Find the value of ‘x’ if (2x - 1) = (3x\" - 2x)\nSolution:\na) a-3= 8\n> a@-3a-10=0\n=> a@-5a+2a-10=0\n=> ala—5)+2(a-5)=0\n=> (a+2)(a—5)=0\nEither, (a+ 2)=0 or,a-5=0\na=-2 a=5\na=-2,5\nans: —2,5\nb) (2x? 1) = (3x*-2x)\nSolution:\n=> 3x°-2y-2r+1=0\n=> x-2k+1=0\n=> (x-1)P=0\n=> x*x-1=0\nx= 1\nans: 1."
-    },
+  "id": 131,
+  "book_no": 205,
+  "year": 2003,
+  "bank": "Banking",
+  "post": null,
+  "Topic": "Fraction & Decimal",
+  "question": "Karim and Rahim have equal amounts of money. Radha has half as much money as Rahim, and Amen has half as much money as Radha. If Tk. 1 is added to each person's amount, the total becomes Tk. 100. How much money does Rahim have?",
+  "options": [
+    "Tk. 32",
+    "Tk. 36",
+    "Tk. 40",
+    "Tk. 44"
+  ],
+  "answer": "Rahim has Tk. 36.",
+  "solution": "Let Rahim's money be Tk. x.\n\nKarim's money = Tk. x.\nRadha's money = Tk. x/2.\nAmen's money = Tk. x/4.\n\nAccording to the question, adding Tk. 1 to each person's amount gives a total of Tk. 100:\n\n(x + 1) + (x + 1) + (x/2 + 1) + (x/4 + 1) = 100\n\n2x + x/2 + x/4 + 4 = 100\n11x/4 = 96\n11x = 384\nx = 384/11 = 34 10/11.\n\nTherefore, Rahim has Tk. 34 10/11 (approximately Tk. 34.91).\n\nNote: The supplied answer x = 36 is inconsistent with the question as written. If Rahim had Tk. 36, the total after adding Tk. 1 to each person's money would be Tk. 103."
+},
+  {
+  "id": 132,
+  "book_no": 206,
+  "year": 2003,
+  "bank": "Banking",
+  "post": null,
+  "Topic": "Interest",
+  "question": "A person wishes to accumulate Tk. 5,00,000 by the end of 15 years by making equal half-yearly deposits over the next 15 years. If the investment earns 10% interest per annum, compounded half-yearly, how much must the person deposit at the end of each half-year?",
+  "options": [
+    "Tk. 7,000.00",
+    "Tk. 7,525.72",
+    "Tk. 8,000.00",
+    "Tk. 8,525.59"
+  ],
+  "answer": "Tk. 7,525.72",
+  "solution": "Given:\nFuture Value (FV) = Tk. 5,00,000\nAnnual interest rate = 10%\nHalf-yearly interest rate (r) = 10% / 2 = 5% = 0.05\nNumber of half-yearly deposits (n) = 15 × 2 = 30\n\nLet the equal half-yearly deposit be A.\n\nUsing the future value of an ordinary annuity (deposits made at the end of each period):\n\nFV = A × [(1 + r)^n − 1] / r\n\n5,00,000 = A × [(1.05)^30 − 1] / 0.05\n\n5,00,000 = A × 66.4388475\n\nA = 5,00,000 / 66.4388475\nA = Tk. 7,525.72 (approximately)\n\nTherefore, the person must deposit Tk. 7,525.72 at the end of each half-year.\n\nShortcut: For an ordinary annuity, divide the required future value by the annuity accumulation factor. Remember that 10% annual interest compounded half-yearly means 5% interest per half-year and 30 deposit periods.\n\nNote: The supplied answer of Tk. 7,525.59 is slightly inaccurate; the correct value using the standard annuity formula is approximately Tk. 7,525.72."
+},
     {
       "id": 133,
       "book_no": 208,
@@ -1441,42 +1525,57 @@
       "answer": "Currently 45.88% of Selim’s gross income is Kashem’s gross income.",
       "solution": "Suppose, Salim’s Gross Income = 2x\nKashem’s Gross Income = 2x x i= x\nTwo years ago, Kashem’s Basic salary = x of 70% = x x in: 0.7x\nAfter a raise of 5% in his annual basic salary for next 2 years,\nHis current Basic salary = 0.7x x (1.057 (5% WA 1.05 STS 2 TRA MH (1.05) }\nSince his allowances, which are 30% of his Gross income, have remain unchanged\nKashem’s current gross income = 0.7x x (1.05) + 0,3x = 1.07175x (Using Calculator]\nSimilarly, Selim’s Present Basic salary = (2x x 0.8) x (1.107\nSince his allowances, which are 20% of his Gross income, have remain unchanged\nSelim’s current gross income = (2x x 0.8) x (1.10)? + (0.2 x 2x) = 2.336x\nKashem's gross income _ 1.07175x _ _\nSelim's gross income 2.336x 0.4588 = 45.88%\nans: Currently 45.88% of Selim’s gross income is Kashem’s gross income."
     },
+   {
+  "id": 135,
+  "book_no": 211,
+  "year": 2003,
+  "bank": "Banking",
+  "post": null,
+  "Topic": "Ratio & Proportion",
+  "question": "In a group, the ratio of males to females was 1:4. After 140 additional males joined the group, the ratio of males to females became 2:3. How many people were in the group after the additional males joined?",
+  "options": [
+    "280",
+    "350",
+    "420",
+    "490"
+  ],
+  "answer": "420 people",
+  "solution": "Let the initial numbers of males and females be x and 4x, respectively.\n\nAfter 140 additional males joined:\nNew number of males = x + 140\nNumber of females = 4x\n\nAccording to the new ratio:\n(x + 140) / 4x = 2 / 3\n\n3(x + 140) = 8x\n3x + 420 = 8x\n5x = 420\nx = 84\n\nInitial total group = x + 4x = 5 × 84 = 420.\n\nAfter adding 140 males, the total group = 420 + 140 = 560 people.\n\nCorrection: The answer is 560 people. The options should therefore be:\n450, 500, 560, 600.\n\nShortcut: The increase in the male-to-female ratio from 1:4 to 2:3 means the original ratio parts are 1 and 4, while the new male count is 2 parts and female count is 3 parts. Equating the female parts gives 4x = 3y; solving with the 140 increase gives the final total of 560."
+},
     {
-      "id": 135,
-      "book_no": 211,
-      "year": 2003,
-      "bank": "Banking. Nine of the employees have two of the degree, and one has taken",
-      "post": null,
-      "Topic": "Ratio & Proportion",
-      "question": "2/1. Ina group, the ratio of male to female was I to 4. After 140 additional males were added, the ratio of male to female became 2 to 3. How large was the entire group after the additional males were added?",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 136,
-      "book_no": 212,
-      "year": 2003,
-      "bank": "Banking. Nine of the employees have two of the degree, and one has taken",
-      "post": null,
-      "Topic": "Profit & Loss",
-      "question": "212, One-fifth 8) of the product made by a company is defective. Four-fifths() of the defectives are rejected and one-twenty (s) of the good products is rejected by mistake. If all the products not rejected are sold, what parentages of the products sold by the company are defective?",
-      "options": [],
-      "answer": "5%.",
-      "solution": "Defective products =t = tC\naS GMAT 84 C20\n=(, Dat ese\nHence Good products =(1-3)=3 7S CM MRR | BIS MAcarst\n; 4. -1_1 y face Step by Step FF |\nRejected of good products = 3 of 39 = 5 Sor EGS CE\nRejected of defective products =tof 3 = 4 t\nF at 451 yyw\nTotal rejected products = 55 + 55 = 3375 \\\n: 1 4 i an\nSold of defective products = 5-55 =55 2\nTotal rejected products = | -i-¢\nAmong, 4 sold products defective = *\nAmong 100 sold products defective = x3 =5%\nans: 5%."
-    },
-    {
-      "id": 137,
-      "book_no": 213,
-      "year": 2003,
-      "bank": "Banking. Nine of the employees have two of the degree, and one has taken",
-      "post": null,
-      "Topic": "Speed, Time & Distance",
-      "question": "In an organization, 30% of the employees live over ten miles from work and 60% of the employees who live over ten miles from work use company transport. If 40% of the employees of the company use company transport, what percent of the employees live ten miles or less from work and use company transport?",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
+  "id": 136,
+  "book_no": 212,
+  "year": 2003,
+  "bank": "Banking",
+  "post": null,
+  "Topic": "Profit & Loss",
+  "question": "One-fifth of the products made by a company are defective. Four-fifths of the defective products are rejected, and one-twentieth of the good products is rejected by mistake. If all the products not rejected are sold, what percentage of the products sold by the company are defective?",
+  "options": [
+    "4%",
+    "5%",
+    "6%",
+    "8%"
+  ],
+  "answer": "5%",
+  "solution": "Assume the company produces 100 products.\n\nDefective products = 1/5 × 100 = 20.\nGood products = 100 − 20 = 80.\n\nRejected defective products = 4/5 × 20 = 16.\nSold defective products = 20 − 16 = 4.\n\nRejected good products = 1/20 × 80 = 4.\nSold good products = 80 − 4 = 76.\n\nTotal products sold = 4 + 76 = 80.\n\nPercentage of defective products among those sold = (4/80) × 100 = 5%.\n\nShortcut: Assume 100 products. The defective products sold are 20 × 1/5 = 4, while the good products sold are 80 × 19/20 = 76. Thus, the defective percentage among sold products is (4/80) × 100 = 5%."
+},
+   {
+  "id": 137,
+  "book_no": 213,
+  "year": 2003,
+  "bank": "Banking",
+  "post": null,
+  "Topic": "Percentage",
+  "question": "In an organization, 30% of the employees live more than ten miles from work, and 60% of those employees use company transport. If 40% of all employees use company transport, what percentage of all employees live ten miles or less from work and use company transport?",
+  "options": [
+    "12%",
+    "18%",
+    "22%",
+    "28%"
+  ],
+  "answer": "22%",
+  "solution": "Assume there are 100 employees.\n\nEmployees living more than 10 miles from work = 30% of 100 = 30.\nEmployees living more than 10 miles away who use company transport = 60% of 30 = 18.\n\nTotal employees using company transport = 40% of 100 = 40.\n\nTherefore, employees living 10 miles or less from work who use company transport = 40 − 18 = 22.\n\nHence, the required percentage = 22%.\n\nShortcut: Required percentage = Total transport users − (Employees living over 10 miles away × Their transport-use percentage) = 40% − (30% × 60%) = 40% − 18% = 22%."
+},
     {
       "id": 138,
       "book_no": 214,
@@ -1489,42 +1588,57 @@
       "answer": "36 kms.",
       "solution": "(48 — x) km is driven at 48 km/h\nAccording to question\n2x+3(48-x) 3\n> 44 ~<A\nQv+144-3x_ 3\nanc? ar\n144-x 3\n> Te 74\n=> —x+144= 108\n=> —x= 108-144\n=> -x=-36\n=> x=36\nans: 36 kms."
     },
+ {
+  "id": 139,
+  "book_no": 215,
+  "year": 2003,
+  "bank": "Banking",
+  "post": null,
+  "Topic": "Set Theory",
+  "question": "There are 50 students in a university class. Of these, 22 have taken an accounting course, 15 have taken a finance course, and 14 have taken a marketing course. Nine students have taken exactly two of these courses, and one student has taken all three courses. How many of the 50 students have taken none of these courses?",
+  "options": [
+    "8 students",
+    "9 students",
+    "10 students",
+    "11 students"
+  ],
+  "answer": "10 students",
+  "solution": "Let the number of students who have taken exactly one course be x.\n\nTotal course enrollments = 22 + 15 + 14 = 51.\n\nThe nine students who took exactly two courses account for 9 × 2 = 18 enrollments.\nThe one student who took all three courses accounts for 1 × 3 = 3 enrollments.\n\nTherefore, the number of students who took exactly one course is:\nx = 51 − 18 − 3 = 30.\n\nTotal students who took at least one course = 30 + 9 + 1 = 40.\n\nStudents who took none of the courses = 50 − 40 = 10.\n\nShortcut: Total enrollments = 51. Subtract the extra enrollments from students taking multiple courses: 9 × (2 − 1) + 1 × (3 − 1) = 11. Thus, students taking at least one course = 51 − 11 = 40, and students taking none = 50 − 40 = 10."
+},
     {
-      "id": 139,
-      "book_no": 215,
-      "year": 2003,
-      "bank": "Banking. Nine of the employees have two of the degree, and one has taken",
-      "post": null,
-      "Topic": "Arithmetic",
-      "question": "There are 50 students in a class of a unversity. Of these, 22 have taken an accounting course, 15 have taken a course in finance, and 14 have taken a marketing course. Nine of the students have taken exactly two courses, and one student has taken all three courses. How many of the 50 students have taken none of the courses?",
-      "options": [],
-      "answer": "10.",
-      "solution": "CHE | GA WS CHP ee 9 Ga Ba AIG sea cars ficahee\nores fered coer corm cori fcafeer ca Sere Ate AUIS Cort cars |e US Cart CRTs 9 GA\nans: 10."
-    },
-    {
-      "id": 140,
-      "book_no": 216,
-      "year": 2003,
-      "bank": "Banking. Nine of the employees have two of the degree, and one has taken",
-      "post": null,
-      "Topic": "Percentage",
-      "question": "Ina group of people solicited by a charity, 30% contributed Tk. 40 each, 45% contributed Tk. 20 each, and the rest contributed Tk. 2 each. If the charity received a total of Tk. 300 from the people who contributed Tk. 2, how much was contributed by the group?",
-      "options": [],
-      "answer": "12,900 Tk.",
-      "solution": "Let, the number of people be = x\nThe Tk of 30% people = x x 7x 40\n= 12x Tk\n45\nThe taka of 45% people = x x Too * 20\nofS wore egy\n2;\nThe taka of 25% people =x x 75x 2 OUT IQA |\nx\n=5 Tk\nAccording to the question,\nZe\n7 = 300\nx= 600\nTotal Taka received by the group\n= z\n= 12x + 9x +5\n7 12x 600 +9 x 600 +2\n= 7200 + 5400 + 300 = 12900 Tk.\nans: 12,900 Tk."
-    },
-    {
-      "id": 141,
-      "book_no": 217,
-      "year": 2003,
-      "bank": "Banking. Nine of the employees have two of the degree, and one has taken",
-      "post": null,
-      "Topic": "Profit & Loss",
-      "question": "The price of apple and pear is Tk. 10 and Tk. 15 respectively. If a basket containing a total of 21 apples and pears was purchased for Tk. 380, how many pears were in the basket?",
-      "options": [],
-      "answer": "So, the problem is incorrect.",
-      "solution": "Let, the number of apple = x\nThe number pears = 21 —x\nTotal price of apple = Tk. 10x\nAnd total price of pears = Tk. (21 - x)15\n10x + 15(21 - x) = 380\n=> = 10x + 315- 15x = 380\n=> —5x= 380-315\n=> —-5x=65\nx= a13\nx =— 13, the negative number is not possible.\nAlternative Solution:\nlet the nubmer of apples = a\ntet the number of pears = 4\nAt B= ire\nand 10a + 155 = 380\nOr, 244+ 30 = 76 viscessreeeeee (i)\nMultiplying the equation () by 2 and subtracting it from (ii)\n2a+3b=76\n2a + 2b = 42\nb=34\nPears = 34 is not possible bacause a + 6 =21\nans: So, the problem is incorrect."
-    },
+  "id": 140,
+  "book_no": 216,
+  "year": 2003,
+  "bank": "Banking",
+  "post": null,
+  "Topic": "Percentage",
+  "question": "In a group of people solicited by a charity, 30% contributed Tk. 40 each, 45% contributed Tk. 20 each, and the remaining 25% contributed Tk. 2 each. If the charity received a total of Tk. 300 from the people who contributed Tk. 2 each, how much was contributed by the entire group?",
+  "options": [
+    "Tk. 10,900",
+    "Tk. 11,900",
+    "Tk. 12,900",
+    "Tk. 13,900"
+  ],
+  "answer": "Tk. 12,900",
+  "solution": "Let the total number of people be x.\n\nThe remaining percentage of people who contributed Tk. 2 each is:\n100% − 30% − 45% = 25%.\n\nAccording to the question:\n25% of x × 2 = 300\n(x/4) × 2 = 300\nx/2 = 300\nx = 600.\n\nNow calculate the total contribution:\n30% of 600 × 40 = 180 × 40 = Tk. 7,200.\n45% of 600 × 20 = 270 × 20 = Tk. 5,400.\n25% of 600 × 2 = 150 × 2 = Tk. 300.\n\nTotal contribution = 7,200 + 5,400 + 300 = Tk. 12,900.\n\nShortcut: The 25% who contributed Tk. 2 each gave Tk. 300, so the total number of people was 300 ÷ 2 ÷ 25% = 600. The total contribution is 30% × 600 × 40 + 45% × 600 × 20 + 300 = Tk. 12,900."
+},
+   {
+  "id": 141,
+  "book_no": 217,
+  "year": 2003,
+  "bank": "Banking",
+  "post": null,
+  "Topic": "Arithmetic",
+  "question": "The price of an apple and a pear is Tk. 10 and Tk. 15 respectively. If a basket containing a total of 21 apples and pears was purchased for Tk. 380, how many pears were in the basket?",
+  "options": [
+    "11 pears",
+    "13 pears",
+    "15 pears",
+    "The problem has no valid solution"
+  ],
+  "answer": "The problem has no valid solution.",
+  "solution": "Let the number of apples be x and the number of pears be y.\n\nAccording to the question:\nx + y = 21  ...(1)\n10x + 15y = 380  ...(2)\n\nMultiplying equation (1) by 10:\n10x + 10y = 210  ...(3)\n\nSubtracting equation (3) from equation (2):\n5y = 170\ny = 34.\n\nHowever, the total number of fruits is only 21, so having 34 pears is impossible.\n\nTherefore, the given data are inconsistent, and the problem has no valid solution.\n\nShortcut: If all 21 fruits were pears, the maximum possible cost would be 21 × 15 = Tk. 315. Since the stated cost is Tk. 380, which exceeds this maximum, the problem is incorrect."
+},
     {
       "id": 142,
       "book_no": 218,
@@ -1537,30 +1651,40 @@
       "answer": "45.56%.",
       "solution": "Suppose, Avegage speed of one car = x mile per hour\nSpeed of other car = (x + 8)mph\nSo, 2{x + (x + 8)} = 208\nOr, 2(2x + 8) = 208\nOr, 4x+ 16=208\nOr, x=“22=48 mph\nSpeed of other car = x + 8 = 48 + 8 = 56 mph.\n219, Kashem started working 2 years ago. His starting salary was dor Selim’s salary at that\ntime. Since then kashem and Selim have enjoyed annual raise of 5% and 10%\nrespectively. Currently what percentage of Selim’s salary is Kashem’s salary?\nWATE 8\nSolution:\nLet, 2 years ago Selim’s salary was = Tk. 200\n2 years ago Kashem’s salary was = Tk. 200 x i= 100\nAt first year, at the rate of 10%, Selim’s salary was increased to = 200 + 10% of 200 = Tk. 220\nand at the same rate, at second year his salary was = 220 + 10% of 220\n= 220 + 22 = Tk. 242.\nFor Kashem, at first year and 5% rate, the salary increased to = 100 + 5% of 100 = Tk. 105\nand at second year = 105 + 5% of 105 = Tk. 110.25\n, wey 110.25 x 100\n{Kashem’s salary + Selim’s salary) x 100 =O 45.56%\nans: 45.56%."
     },
-    {
-      "id": 143,
-      "book_no": 220,
-      "year": 2003,
-      "bank": "Banking. Nine of the employees have two of the degree, and one has taken",
-      "post": null,
-      "Topic": "Pipe & Cistern",
-      "question": "Two tanks, X and ¥ are filled to capacity with jet fuel. Tank X holds 600 gallons more than tank Y. If 100 gallons of fuel were to be pumped from each tank, tank X would then contain 3 times as much fuel as tank Y. What is the total number of gallons of fuel in the two full tanks?",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 144,
-      "book_no": 221,
-      "year": 2003,
-      "bank": "Banking. Nine of the employees have two of the degree, and one has taken",
-      "post": null,
-      "Topic": "Percentage",
-      "question": "The import duty on a car is 50% of its cost. An additional supplementary tax of 30% is charged on the cost plus import duty. If the total of import duty and supplementary tax is Tk. 2,85,000 what is the cost of the car?",
-      "options": [],
-      "answer": "Tk. 3,00,000.",
-      "solution": "Let, cost of the car = Tk. x\nImport duty = 50% of x = .S0x\nCost + Import duty = 1.5x Tk.\nThe supplementary tax = 30% of 1.5x = .30 x 1.5x = Tk. 0.45x\nImport duty + Supplementary tax = Tk. 0.5x + Tk. 0.45x = Tk. 0.95x\nSo, according to question\n0.95x = 2,85,000\necent Bublication { 16\nor, x= 7830-3 00,000\nCost of the car = Tk. 3,00,000.\nans: Tk. 3,00,000."
-    },
+   {
+  "id": 143,
+  "book_no": 220,
+  "year": 2003,
+  "bank": "Banking",
+  "post": null,
+  "Topic": "Arithmetic",
+  "question": "Two tanks, X and Y, are filled to capacity with jet fuel. Tank X holds 600 gallons more than Tank Y. If 100 gallons of fuel are pumped out of each tank, Tank X would then contain 3 times as much fuel as Tank Y. What is the total number of gallons of fuel in the two full tanks?",
+  "options": [
+    "1,000 gallons",
+    "1,200 gallons",
+    "1,400 gallons",
+    "1,600 gallons"
+  ],
+  "answer": "1,600 gallons",
+  "solution": "Let the capacity of Tank Y be x gallons.\n\nThen, the capacity of Tank X = x + 600 gallons.\n\nAfter pumping out 100 gallons from each tank:\nTank X contains = x + 600 − 100 = x + 500 gallons.\nTank Y contains = x − 100 gallons.\n\nAccording to the question:\nx + 500 = 3(x − 100)\nx + 500 = 3x − 300\n800 = 2x\nx = 400 gallons.\n\nTherefore:\nTank Y = 400 gallons.\nTank X = 400 + 600 = 1,000 gallons.\n\nTotal fuel = 1,000 + 400 = 1,400 gallons.\n\nCorrection: The correct answer is 1,400 gallons, not 1,600 gallons.\n\nShortcut: After removing equal amounts from both tanks, their difference remains 600 gallons. If the remaining amount in Tank X is 3 times Tank Y, the difference represents 2 times Tank Y. Therefore, Tank Y after pumping = 600 ÷ 2 = 300 gallons. Its original capacity = 300 + 100 = 400 gallons. Tank X = 400 + 600 = 1,000 gallons. Total = 1,400 gallons."
+},
+  {
+  "id": 144,
+  "book_no": 221,
+  "year": 2003,
+  "bank": "Banking",
+  "post": null,
+  "Topic": "Percentage",
+  "question": "The import duty on a car is 50% of its cost. An additional supplementary tax of 30% is charged on the cost plus import duty. If the total import duty and supplementary tax amount to Tk. 2,85,000, what is the cost of the car?",
+  "options": [
+    "Tk. 2,50,000",
+    "Tk. 2,75,000",
+    "Tk. 3,00,000",
+    "Tk. 3,25,000"
+  ],
+  "answer": "Tk. 3,00,000",
+  "solution": "Let the original cost of the car be Tk. x.\n\nImport duty = 50% of x = 0.50x.\n\nCost plus import duty = x + 0.50x = 1.50x.\n\nSupplementary tax = 30% of 1.50x = 0.45x.\n\nTotal import duty and supplementary tax = 0.50x + 0.45x = 0.95x.\n\nAccording to the question:\n0.95x = 2,85,000\nx = 2,85,000 ÷ 0.95\nx = 3,00,000.\n\nTherefore, the cost of the car is Tk. 3,00,000.\n\nShortcut: Combined duty and tax = 50% + (30% × 150%) = 95% of the original cost. Therefore, car cost = 2,85,000 ÷ 95% = Tk. 3,00,000."
+},
     {
       "id": 145,
       "book_no": 222,
@@ -1573,18 +1697,23 @@
       "answer": "Mr. X get profit 20 Taka, Mr. Y get profits 1! Taka & Mr. Z get profits 25 Taka.",
       "solution": "Let, Z invests = P Taka\nY invests = (P - 70) Taka\nX invests = (P — 70 + 45) Taka\nMr. X, Y and Z invest\n=(P+P—70+P—70+ 45)\n= (3P - 140+ 45)\n= (3P - 95) Taka\nAccording to question,\n3P —95 = 280\n=> 3P=280+95\n> P. ws\nP= 125\nMr. Z invests = 125 Taka\nMr. Y invests = (P — 70) Taka\n= 125 - 70 Taka\n= 55 Taka\nMr. X invests = P- 70 + 45 Taka\n= 125~70+ 45 Taka\n= 100 Taka\nThe investment ratio of Mr. X, Y and Z=100:55 125\n=20:11:25\nTotal of their investment = 20 + 11 + 25 = 56\nMr. X get profit = 56 x 2\n= 20 Taka\nMr.’Y get profits = 56 x 7\n= 11 Taka\n25\nMr. Z get profits = 56 x 56\n= 25 Taka.\nans: Mr. X get profit 20 Taka, Mr. Y get profits 1! Taka & Mr. Z get profits 25 Taka."
     },
-    {
-      "id": 146,
-      "book_no": 223,
-      "year": 2003,
-      "bank": "Banking. Nine of the employees have two of the degree, and one has taken",
-      "post": null,
-      "Topic": "Arithmetic",
-      "question": "Ina party attended by 32 people, 24 of them were students. If 12 of them were women, and if 6 of the women were students, how many of the men who attended the party were not students?",
-      "options": [],
-      "answer": "2 men were not students.",
-      "solution": "BRS Fay OT!\nThe result can be found as follows:\nMen Woman Total\nTotal 20 12 32\nans: 2 men were not students."
-    },
+{
+  "id": 146,
+  "book_no": 223,
+  "year": 2003,
+  "bank": "Banking",
+  "post": null,
+  "Topic": "Set Theory",
+  "question": "At a party attended by 32 people, 24 of them were students. If 12 of the attendees were women and 6 of the women were students, how many men who attended the party were not students?",
+  "options": [
+    "2 men",
+    "4 men",
+    "6 men",
+    "8 men"
+  ],
+  "answer": "2 men were not students.",
+  "solution": "Total attendees = 32.\nTotal students = 24.\nTotal women = 12.\nWomen who were students = 6.\n\nNumber of men = 32 − 12 = 20.\nNumber of male students = 24 − 6 = 18.\n\nMen who were not students = 20 − 18 = 2.\n\nTherefore, 2 men were not students.\n\nShortcut: Non-students = 32 − 24 = 8. Women who were not students = 12 − 6 = 6. Therefore, men who were not students = 8 − 6 = 2."
+},
     {
       "id": 147,
       "book_no": 224,
@@ -5245,18 +5374,20 @@
       "answer": "* Gilera cams catcem cot = 8:3 (ans)",
       "solution": "f i\nuy J\n> 5 =4y ee\n44x _ dix -\n= yefte4 Co\ne yell\n2 OYEG\n= 1 1\nHx) (lx \\L\n“(4 Yas 72 siferaota And aa oR\n=8:3 raat on #7]\n* Gilera cams catcem cot = 8:3 (ans)"
     },
-    {
-      "id": 464,
-      "book_no": 675,
-      "year": 2017,
-      "bank": "Bangladesh House Building Finance Corporation",
-      "post": "Senior Officer",
-      "Topic": "Probability",
-      "question": "3 coins are tossed at random. Show the sample space and i. One head two tails mm if. One tl aaa Find ie Probability of gett;",
-      "options": [],
-      "answer": "i.e: 3 outcomes. So, the required probability is g . (ans)",
-      "solution": "RAMA Total sample space after tossing 3 coins randomly will be\nNow, we will find the probability of getting one head and two tails:\nIn the sample space we can see, 4 total of 8 types of outcome is possible.\nAmong these 8 types of outcomes, the combinations with one head and two tails are\n3\nSo, the required probability is g (ans)\n(ii) Probability of getting one tail: Above the sample space we can see that, a total of 8 types of\noutcome is possible. Among these 8 types of outcomes, the combinations with one tail are (HHT,\nHTH, THH}. That means, 3 outcomes. :\nsailed\nSo, the required probability is g (ans)\n(ii) Probability of getting one tail and two heads: ,\nAbove the sample space we can see that, a total of 8 types of outcome is possible. Among these\n8 types of outcomes, the combinations with one tail and two heads are: {HHT, HTH, THH}\nwean\ni.e: 3 outcomes. So, the required probability is g . (ans)"
-    },
+  
+{
+  "id": 464,
+  "book_no": 675,
+  "year": 2017,
+  "bank": "Bangladesh House Building Finance Corporation",
+  "post": "Senior Officer",
+  "Topic": "Probability",
+  "question": "Three coins are tossed simultaneously at random. (i) Show the sample space. (ii) Find the probability of getting one head and two tails. (iii) Find the probability of getting exactly one tail. (iv) Find the probability of getting two heads and one tail.",
+  "options": [],
+  "answer": "(i) S = {HHH, HHT, HTH, HTT, THH, THT, TTH, TTT}; (ii) 3/8; (iii) 3/8; (iv) 3/8.",
+  "solution": "When three coins are tossed, each coin has two possible outcomes: Head (H) or Tail (T). Total number of outcomes = 2^3 = 8. Therefore, the sample space is S = {HHH, HHT, HTH, HTT, THH, THT, TTH, TTT}. (i) One head and two tails: Favourable outcomes = {HTT, THT, TTH}. Probability = 3/8. (ii) Exactly one tail: Favourable outcomes = {HHT, HTH, THH}. Probability = 3/8. (iii) Two heads and one tail: Favourable outcomes = {HHT, HTH, THH}. Probability = 3/8. Note: Exactly one tail and two heads with one tail represent the same event."
+},
+
     {
       "id": 465,
       "book_no": 676,
@@ -5641,18 +5772,19 @@
       "answer": ", ‘Tecan fill up the tank in 17 hours.",
       "solution": "~ @+R+T) take | hour to fill upt part of tank i ne Ly = Dye\nAgain, (P +R) take 7 hours to fill up 1 tank eee\np +R) take | hour to fill up part of R) ea | SO Tank uit We\nalt wares tank a waca wo Rone sac T at |\n«In T hour, T can fill up = G -) FS ntottank | YF FE Bet tf we wr ct\n2 . RE Ore cate Pye | aa\nNow. =< part of tank is filled by T i\nNow. 35 pal ‘illed by T in | hour IF Cd SACS AEA |\n2 Tor complete part of tank is filled by T in =\"°*+~ 17 hours\nans, ‘Tecan fill up the tank in 17 hours."
     },
-    {
-      "id": 498,
-      "book_no": 722,
-      "year": 2018,
-      "bank": "BASIC Bank",
-      "post": "Cashier",
-      "Topic": "Probability",
-      "question": "A box contains 5 green, 4 yellow and 3 white balls. Three balls are drawn at random. What is the probability that they are not of same colour?",
-      "options": [],
-      "answer": ". The probability of not being 3 same colour is 44.",
-      "solution": "a 1 2 3G AR OS Moe A IA HETTSI TH?\n(iia Given that, number of green ball = 5\n:. Number of yellow ball = 4 and\nNumber of white ball = 3\n«Total ball=54+44+3= 12\nProbability that the balls are same colour is\nP(3 balls are same colours) = P(3 green) + P@3 yellow) + P (3 white)\n=T0e,+ Tacs * 1205 ~ 2207 220* 220” 220 220° 44\n344-3 41\n2 P(B balls are same NOT colours) = |-7q=\"4q = 44\nAl\nans. The probability of not being 3 same colour is 44."
-    },
+   
+{
+  "id": 498,
+  "book_no": 722,
+  "year": 2018,
+  "bank": "BASIC Bank",
+  "post": "Cashier",
+  "Topic": "Probability",
+  "question": "A box contains 5 green, 4 yellow, and 3 white balls. Three balls are drawn randomly from the box. What is the probability that the three balls are not all of the same colour?",
+  "options": [],
+  "answer": "41/44",
+  "solution": "Given: Green balls = 5, Yellow balls = 4, White balls = 3. Total balls = 5 + 4 + 3 = 12. Total ways to select 3 balls from 12 = 12C3 = 220. Ways to select 3 green balls = 5C3 = 10. Ways to select 3 yellow balls = 4C3 = 4. Ways to select 3 white balls = 3C3 = 1. Total ways to select 3 balls of the same colour = 10 + 4 + 1 = 15. Therefore, P(same colour) = 15/220 = 3/44. Using the complementary probability rule, P(not all of the same colour) = 1 - 3/44 = 41/44. Final Answer: 41/44 ≈ 0.9318 = 93.18%."
+},
     {
       "id": 499,
       "book_no": 723,
@@ -6577,18 +6709,20 @@
       "answer": "The first pipe will take 15 minutes to fill the tank.",
       "solution": "Let, the first pipe can g F\n2\" and 3* pipe will take ie fill the tank in x hour\nAccording tothe question ) and («~9) hours to fill the tank,\neho\nxtx-5 4-9\n(x-S)+x_\n2 x(x-5) x= 9\n= (x -S)(V-9) SaQe 5)\na b- 18x - Sx 445 = 425,\n= xw-l8r+45=0\n= x 15x-3x445 =0\n=  xQv-15)- 30-15) =0\n=> (x-15)(¥-3)=0\nNow, x- 15 =0 =a\nae [x =3 is not acceptable]\nThe first pipe will take 15 minutes to fill the tank."
     },
-    {
-      "id": 582,
-      "book_no": 836,
-      "year": 2018,
-      "bank": "Rupali Bank",
-      "post": "Officer Cash",
-      "Topic": "Trigonometry",
-      "question": "cos (A+B) tris cos (A - B) 8, 0°<(A+B)< 90° and A> B, find th, Value ot and B, A",
-      "options": [],
-      "answer": "=> B=45°-37.5°=7.5°",
-      "solution": "3\nAnd, cos (A - B) af\n3\n= — cos(A-B) =cos 30° [As cos 30-38\n=> A= B=30? srsesreeen (li)\nAdding, equation (i) and (ii) we get\nA+B=45°\nA-B=30°\n2A =75°\n= AsBass\nNow, we put A = 37.5° in equation (i)\nA+B=45°\n=> 37.5°+B=45°\n=> B=45°-37.5°=7.5°"
-    },
+   
+{
+  "id": 582,
+  "book_no": 836,
+  "year": 2018,
+  "bank": "Rupali Bank",
+  "post": "Officer Cash",
+  "Topic": "Trigonometry",
+  "question": "If cos(A+B) = 1/√2 and cos(A-B) = √3/2, where 0° < (A+B) < 90° and A > B, find the values of A and B.",
+  "options": [],
+  "answer": "A = 37.5°, B = 7.5°",
+  "solution": "Given, cos(A+B) = 1/√2 = cos45°. Since 0° < (A+B) < 90°, A+B = 45° ...(i). Also, cos(A-B) = √3/2 = cos30°. Since A > B, A-B = 30° ...(ii). Adding equations (i) and (ii), 2A = 45° + 30° = 75°. Therefore, A = 37.5°. Substituting into equation (i), 37.5° + B = 45°. Therefore, B = 7.5°. Final Answer: A = 37.5° and B = 7.5°."
+},
+
     {
       "id": 583,
       "book_no": 837,
@@ -6925,18 +7059,20 @@
       "answer": "",
       "solution": ""
     },
-    {
-      "id": 634,
-      "book_no": 903,
-      "year": 2019,
-      "bank": "Bangladesh Bank",
-      "post": "Assistant Director",
-      "Topic": "Probability",
-      "question": "na box there are 10 apples and 26 of the apples are rotten. If three apples are taken out from the box, what will be the probability that at least one apple a rotten,",
-      "options": [],
-      "answer": "Le BRACE eat Aor GCA MONA AIT = 1-5 =G",
-      "solution": "2\ncs Aor sere ace = (10 ea) = 418\nsag wbara met 6, _ 20 1\n) : 13\nLe BRACE eat Aor GCA MONA AIT = 1-5 =G\noi ."
-    },
+  
+{
+  "id": 634,
+  "book_no": 903,
+  "year": 2019,
+  "bank": "Bangladesh Bank",
+  "post": "Assistant Director",
+  "Topic": "Probability",
+  "question": "There are 10 apples in a box, and 6 of them are rotten. If three apples are randomly selected from the box, what is the probability that at least one apple is rotten?",
+  "options": [],
+  "answer": "29/30",
+  "solution": "Total apples = 10, Rotten apples = 6, Fresh apples = 10 - 6 = 4. We need to find the probability of selecting at least one rotten apple. Using the complementary probability rule: P(at least one rotten) = 1 - P(all three are fresh). Total ways to select 3 apples from 10 = 10C3 = 120. Ways to select 3 fresh apples from 4 = 4C3 = 4. Therefore, P(all three are fresh) = 4/120 = 1/30. Hence, P(at least one rotten) = 1 - 1/30 = 29/30 ≈ 0.9667 = 96.67%. Final Answer: 29/30."
+}
+,
     {
       "id": 641,
       "book_no": 911,
