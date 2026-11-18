@@ -3781,18 +3781,23 @@
       "answer": "The overall annual rate of interest is 11.89%.",
       "solution": "4 12.50\nHere, for Tk. 10,000 interest, 1, = 10,000 x | x “00.\n= 1,250 Tk. Fe MT Step\n1 op OCH CRATE\nFor Tk. 15,000 interest of 6 month = 15,000 x 2* Too Practice FFA |\n= 900 Tk.\nFor Tk. 15,000 Interest for 1 year would be, I, = 900 x 2\n= 1,800 Tk.\n+ 3 11.50\nNow, For Tk. 20,000 interest of 3 month = 20,000 x T2* 100°\n= 575 Tk.\nFor Tk, 20,000, Interest for 1 year would be, 1; = 575 x 4\n= 2,300 Tk.\nTotal investment = 10,000 + 15,000 + 20,000\n= 45,000 Tk.\nTotal interest for | year =1, +1, +1;\n= 1,250 + 1,800 + 2,300\n= 5,350 Tk.\nAfter investing Tk. 45,000 in one year we have = 5,350 Tk.\nAfter investing Tk. 100 in one year we have = ae = 11,89 Tk.\nans: The overall annual rate of interest is 11.89%."
     },
-    {
-      "id": 319,
-      "book_no": 452,
-      "year": 2014,
-      "bank": "Mutual Trust Bank",
-      "post": "Management Trainee Officer",
-      "Topic": "Speed, Time & Distance",
-      "question": "During the next Tree Plantation Week, Mutual Trust Bank is considering planting trees in one of its own rectangular piece of land which is 90 feet long and 66 feet wide. This surrounded by boundary wall of 5 feet height. It has been decided that trees will be planted leaving 5 feet land free from the wall in all four sides. It was also decided that the distance from one tree to another in both row and column will be 4 feet. What is the maximum number of trees that can be planted in the land?",
-      "options": [],
-      "answer": "315.",
-      "solution": "90\n[=<\nBasic: WA ANA CR AAG CAM a GS PT Gee ay aa |S API cars farm Facw AeA 1 FElT HS\nFBTT Fist x VAT\nGiven that, the length of the Jand = 90 feet.\nAccording to the question, possible length of the rectangle for plantation = 90 ~ 5 x 2 = 80 feet.\nAnd, width of the rectangle for plantation = 66 —5 x 2 = 56 feet.\nPossible row = B 1= 15 and possible column =, 1=21,\nMaximum tress = 21 x 15 =315.\nans: 315."
-    },
+  {
+  "id": 319,
+  "book_no": 452,
+  "year": 2014,
+  "bank": "Mutual Trust Bank",
+  "post": "Management Trainee Officer",
+  "Topic": "Speed, Time & Distance",
+  "question": "During the next Tree Plantation Week, Mutual Trust Bank plans to plant trees on a rectangular piece of land measuring 90 feet in length and 66 feet in width. The land is surrounded by a 5-foot-high boundary wall. Trees will be planted leaving a 5-foot-wide strip of land free along all four sides next to the boundary wall. The distance between two consecutive trees in each row and each column will be 4 feet. What is the maximum number of trees that can be planted?",
+  "options": [
+    "280",
+    "300",
+    "315",
+    "336"
+  ],
+  "answer": "315",
+  "solution": "Given:\nLength of the land = 90 feet\nWidth of the land = 66 feet\nDistance to be kept free from the wall = 5 feet on each side\nDistance between consecutive trees = 4 feet\n\n**Step 1: Calculate the plantation area's dimensions.**\nUsable length = 90 − (5 × 2) = 80 feet\nUsable width = 66 − (5 × 2) = 56 feet\n\n**Step 2: Calculate the number of trees along the length.**\nNumber of trees in each row = (80 ÷ 4) + 1\n= 20 + 1\n= 21\n\n**Step 3: Calculate the number of rows along the width.**\nNumber of rows = (56 ÷ 4) + 1\n= 14 + 1\n= 15\n\n**Step 4: Calculate the maximum number of trees.**\nTotal trees = 21 × 15 = 315\n\nTherefore, the maximum number of trees that can be planted is **315**.\n\n**Shortcut:** When trees are placed at both ends of a row with equal spacing, the number of trees = (Available length ÷ Spacing) + 1. Thus, total trees = (80 ÷ 4 + 1) × (56 ÷ 4 + 1) = 21 × 15 = 315."
+},
     {
       "id": 320,
       "book_no": 453,
