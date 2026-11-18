@@ -2689,18 +2689,23 @@
       "answer": "Taka 10 note 60 pes and Taka 50 note 90 pes.",
       "solution": "Suppose Taka 10 note = p\nTaka 50 note = (150 — p)\nAccording to question\n10p + 50(150 — p) = 5100\n> 10p + 7500 — 50P = 5100\n=> 40p = 2400\np=60\n150 - p = 150 - 60 = 90\nans: Taka 10 note 60 pes and Taka 50 note 90 pes."
     },
-    {
-      "id": 219,
-      "book_no": 312,
-      "year": 2010,
-      "bank": "UCBL",
-      "post": "Officer",
-      "Topic": "Speed, Time & Distance",
-      "question": "312, Two cars race around a circular track in opposite directions at constant rates, They start at the same point and meet every 30 seconds. If they move in the same direction, they meet every 120 seconds. If the track is 1,800 meter long, what is the speed of each car?",
-      "options": [],
-      "answer": "The speed of the two cars 37.5 m/sec and 22.5 m/sec.",
-      "solution": "Suppose, the two cars are c, and c2 respectively whose speed x, m/sec and x, m/sec respectively\nwhere x, > x2 In the case of same direction:\n30x, + 30x. = 1800 (Perimeter = 1800)\nAgain, in the case of opposite direction: Circular Track\n120x; ~ 120x2 = 1800 4 Fate |\nXy— 2 = 15 a GD\nNow, from (i) — (ii),\nx = 37.5, and x2 = 22.5\nans: The speed of the two cars 37.5 m/sec and 22.5 m/sec."
-    },
+   {
+  "id": 219,
+  "book_no": 312,
+  "year": 2010,
+  "bank": "UCBL",
+  "post": "Officer",
+  "Topic": "Speed, Time & Distance",
+  "question": "Two cars race around a circular track in opposite directions at constant speeds. They start at the same point and meet every 30 seconds. If they move in the same direction, they meet every 120 seconds. If the track is 1,800 meters long, what are the speeds of the two cars?",
+  "options": [
+    "30 m/s and 20 m/s",
+    "37.5 m/s and 22.5 m/s",
+    "40 m/s and 25 m/s",
+    "45 m/s and 30 m/s"
+  ],
+  "answer": "37.5 m/s and 22.5 m/s",
+  "solution": "Let the speeds of the two cars be x and y m/s, where x > y.\n\nWhen the cars move in opposite directions, their relative speed is the sum of their speeds.\n\nDistance covered by their combined movement in 30 seconds = circumference of the track.\n\nTherefore:\n30(x + y) = 1800\nx + y = 60  ...(1)\n\nWhen the cars move in the same direction, their relative speed is the difference between their speeds.\n\nTherefore:\n120(x − y) = 1800\nx − y = 15  ...(2)\n\nAdding equations (1) and (2):\n2x = 75\nx = 37.5 m/s\n\nSubstituting into equation (1):\n37.5 + y = 60\ny = 22.5 m/s\n\nTherefore, the speeds of the two cars are 37.5 m/s and 22.5 m/s (Option B).\n\nShortcut: Opposite directions give the sum of speeds: 1800/30 = 60 m/s. Same direction gives the difference of speeds: 1800/120 = 15 m/s. Hence, the speeds are (60 + 15)/2 = 37.5 m/s and (60 − 15)/2 = 22.5 m/s."
+},
     {
       "id": 220,
       "book_no": 313,
@@ -2749,18 +2754,23 @@
       "answer": "40%...",
       "solution": "Students took part in the final exam = 60 x 90% = 54\nStudents passed in the final exam = $4 x 2 = 36\nOf enrolled students = (60 — 36) = 24 students did not pass.\nFail percentage =H x 100 = 40%.\nans: 40%..."
     },
-    {
-      "id": 224,
-      "book_no": 317,
-      "year": 2010,
-      "bank": "UCBL",
-      "post": "Officer",
-      "Topic": "Arithmetic",
-      "question": "317, There are 200 questions in a 3-hour examination. Among these questions are 50 mathematics problems. It is suggested that twice as much time be allowed for each mathematics problem as for the other questions. How many minutes should be spent on the mathematics problems?",
-      "options": [],
-      "answer": "72 minutes.",
-      "solution": "Number of questions = 200\nTime = 3 hour = 3 x 60 = 180 minutes.\nMath questions SOfS 20a Tt questions = (200 — 50) = 150f8\nDRA Math SOs ecersibs ort HAN Fate 2x FRAT\nSHAS, 150x + 50 x 2x = 180\n=> 250x= 180\n_ 180\n> ** 350\n=9 180 ai\n= 2x39 minutes\nSf Math wat ora wrest = 2180250 . 79 minutes.\nans: 72 minutes."
-    },
+  {
+  "id": 224,
+  "book_no": 317,
+  "year": 2010,
+  "bank": "UCBL",
+  "post": "Officer",
+  "Topic": "Arithmetic",
+  "question": "There are 200 questions in a 3-hour examination. Among these questions are 50 mathematics problems. It is suggested that twice as much time be allowed for each mathematics problem as for each of the other questions. How many minutes should be spent on the mathematics problems?",
+  "options": [
+    "60 minutes",
+    "66 minutes",
+    "72 minutes",
+    "90 minutes"
+  ],
+  "answer": "72 minutes",
+  "solution": "Total examination time = 3 × 60 = 180 minutes.\n\nNumber of mathematics problems = 50.\nNumber of other questions = 200 − 50 = 150.\n\nLet the time spent on each non-mathematics question be x minutes. Then each mathematics problem receives 2x minutes.\n\nTotal time:\n150x + 50(2x) = 180\n150x + 100x = 180\n250x = 180\nx = 180/250 = 0.72 minutes.\n\nTime spent on the 50 mathematics problems:\n= 50 × 2 × 0.72\n= 72 minutes.\n\nTherefore, 72 minutes should be spent on the mathematics problems (Option C).\n\nShortcut: Mathematics problems account for 50 × 2 = 100 time-units, while the other 150 questions account for 150 time-units. Thus, mathematics receives 100/(100 + 150) of the total time = 100/250 × 180 = 72 minutes."
+},
     {
       "id": 225,
       "book_no": 318,
@@ -2774,17 +2784,22 @@
       "solution": "The ratio of milk and water is 3 : 4\nWL = 84 x =\nMilk = 84 x 3774 = 36\n=g4y—-=\nWater = 84 x 3447 48\nIf 3 liters each of milk & water is added then milk = 36 + 3 = 39\n‘And water = 48+3=51\nNew ratio = Milk : Water = 39:51=13 17\nans: 13 17."
     },
     {
-      "id": 226,
-      "book_no": 319,
-      "year": 2011,
-      "bank": "Bangladesh Krishi Bank",
-      "post": "Senior Officer",
-      "Topic": "Work & Time",
-      "question": "Acan doa piece of work in 80 days. He alone works for 20 days and the B alone finishes the remaining work in 36 days. In how many days A and B together can complete the work?",
-      "options": [],
-      "answer": "30 days. f",
-      "solution": "In 80 days A complete = I piece of work\nIn 1 days A complete -¢ piece of work\nIn 20 days A complete = it =t piece of work\nRemaining work = (i 4) =3 part\nAgain,\nB Completes 2 parts by = 36 days\nB Completes | parts by = sox 48 days\nB Completes the works by 1 days =4 part\n& A Completes the works by 1 days = 4 part\n(+) (A + B) Completes by 2 days = Gea) part\nA+B Completes by I days ==>\n+ ‘ompletes by 1 days = “74 = 39 part\nA & B Complete + part by = 1 day\n1 x 30\nA &BComplete | part by =12. 30 days\nans: 30 days. f"
-    },
+  "id": 226,
+  "book_no": 319,
+  "year": 2011,
+  "bank": "Bangladesh Krishi Bank",
+  "post": "Senior Officer",
+  "Topic": "Work & Time",
+  "question": "A can complete a piece of work in 80 days. He works alone for 20 days, and then B alone completes the remaining work in 36 days. In how many days can A and B complete the entire work together?",
+  "options": [
+    "24 days",
+    "28 days",
+    "30 days",
+    "32 days"
+  ],
+  "answer": "30 days",
+  "solution": "A can complete the entire work in 80 days.\n\nA's one-day work = 1/80.\n\nIn 20 days, A completes:\n20 × 1/80 = 1/4 of the work.\n\nRemaining work = 1 − 1/4 = 3/4.\n\nB completes this remaining 3/4 of the work in 36 days. Therefore, B's one-day work is:\n(3/4) ÷ 36 = 1/48.\n\nCombined one-day work of A and B:\n= 1/80 + 1/48\n= 3/240 + 5/240\n= 8/240\n= 1/30.\n\nTherefore, A and B together can complete the entire work in 30 days (Option C).\n\nShortcut: A's rate is 1/80 and B's rate is 3/(4 × 36) = 1/48. Their combined rate is 1/80 + 1/48 = 1/30, so the required time is 30 days."
+},
     {
       "id": 227,
       "book_no": 320,
@@ -2797,18 +2812,23 @@
       "answer": "Denominator = 5x = 5 x 3 = 15",
       "solution": "Let, Numerator = 2x\n& Denominator = 5x\na ee:\nOriginal Fraction = 3x\nAccording to the question,\n2x-2 1\nSxt+1 4\n> 8x—-8=5x+1\n=> 8x-S5x=1+8\n=> seo\n=> x%=3\nNumerator = 2x=2x3=6\nDenominator = 5x = 5 x 3 = 15"
     },
-    {
-      "id": 229,
-      "book_no": 322,
-      "year": 2011,
-      "bank": "Bangladesh Krishi Bank",
-      "post": "Senior Officer",
-      "Topic": "Algebra",
-      "question": "322, In the figure below, AB is perpendicular to BC and BD = DC. If AD =-/10 cm and AC = 4 cm, then what is the value of BC?",
-      "options": [],
-      "answer": "22",
-      "solution": "Given that, AB 1 BC\nBD=DC ~\nAD =10\nAC=4 4\nSince AB 1 BC\nSo, AB? + BC? = AC? c\n=>  AB+(BD+CD)= AC [s BC=BD+CD] B D\n=>  AB?+(BD+CD)= AC [*s BC=DC]\n=>  AB’+4BD?=AC’\n=>  AD*+3BD*= AC’ ['s AB? + BD? = AD’]\na:\n=> (10) +3BD?= AC?\n=> 10+3BD>=16\n=> 3BD’=6\n=> BD*=2\nBD=/2\n> BC =2BD\n=> BC=2\\2 [BD =\\2}\nBC = 22\nans: 22"
-    },
+   {
+  "id": 229,
+  "book_no": 322,
+  "year": 2011,
+  "bank": "Bangladesh Krishi Bank",
+  "post": "Senior Officer",
+  "Topic": "Geometry",
+  "question": "In the figure below, AB is perpendicular to BC and BD = DC. If AD = √10 cm and AC = 4 cm, what is the length of BC?",
+  "options": [
+    "2√2 cm",
+    "2√3 cm",
+    "3 cm",
+    "4 cm"
+  ],
+  "answer": "2√2 cm",
+  "solution": "Given:\nAB ⟂ BC, BD = DC, AD = √10 cm, and AC = 4 cm.\n\nLet BD = DC = x cm. Therefore, BC = 2x cm.\n\nUsing the Pythagorean theorem in right-angled triangle ABD:\nAB² + BD² = AD²\nAB² + x² = 10  ...(1)\n\nUsing the Pythagorean theorem in right-angled triangle ABC:\nAB² + BC² = AC²\nAB² + (2x)² = 16\nAB² + 4x² = 16  ...(2)\n\nSubtracting equation (1) from equation (2):\n3x² = 6\nx² = 2\nx = √2 cm.\n\nTherefore:\nBC = 2x = 2√2 cm.\n\nCorrect answer: 2√2 cm (Option A).\n\nShortcut: Since D is the midpoint of BC, BD = BC/2. Subtracting the two Pythagorean equations gives AC² − AD² = 3BD². Thus, 16 − 10 = 3BD², so BD = √2 and BC = 2√2 cm.\n\nNote: The OCR text 'AD = -/10' is interpreted as AD = √10 cm, consistent with the supplied solution."
+},
     {
       "id": 230,
       "book_no": 323,
@@ -2821,30 +2841,40 @@
       "answer": "36 years.",
       "solution": "Let, present age of Mohan is x years\na\nx=! 3 (x-9)\n=>  3x=4x-36\nx = 36 years\nans: 36 years."
     },
+ {
+  "id": 231,
+  "book_no": 324,
+  "year": 2011,
+  "bank": "Bangladesh Krishi Bank",
+  "post": "Officer",
+  "Topic": "Work & Time",
+  "question": "A and B can complete a piece of work in 15 days and 10 days, respectively. They work together for 3 days, after which A leaves. In how many days from the beginning will the entire work be completed?",
+  "options": [
+    "6 days",
+    "7 days",
+    "8 days",
+    "9 days"
+  ],
+  "answer": "8 days",
+  "solution": "A's one-day work = 1/15.\nB's one-day work = 1/10.\n\nTheir combined one-day work:\n= 1/15 + 1/10\n= (2 + 3)/30\n= 1/6.\n\nWork completed by A and B together in 3 days:\n= 3 × 1/6\n= 1/2.\n\nRemaining work = 1 − 1/2 = 1/2.\n\nB alone completes the remaining work in:\n= (1/2) ÷ (1/10)\n= 5 days.\n\nTotal time = 3 + 5 = 8 days.\n\nTherefore, the entire work will be completed in 8 days from the beginning (Option C).\n\nShortcut: A and B together take 6 days to complete the work. In 3 days, they complete half the work. B takes another 5 days to complete the remaining half. Total = 3 + 5 = 8 days."
+},
     {
-      "id": 231,
-      "book_no": 324,
-      "year": 2011,
-      "bank": "Bangladesh Krishi Bank",
-      "post": "Officer",
-      "Topic": "Work & Time",
-      "question": "324, A and B can do a piece of work in 15 days and 10 days respectively. Both work together for 3 days and then A leaves off. In how many days will the work be completed?",
-      "options": [],
-      "answer": "Total time = (5 + 3) = 8 days",
-      "solution": "Here, A can do in 1 day = 7 th of work\nAnd B can doin 1 day= 7 th of work\nBoth A and B can do in 1 day =4 st th of work\n= z th of work\nBoth A and B can do in 3 days = 4 x 3=4 th of work\nRemaining work = 1 - ; = ;\nB can do} th of work in 10 x is 5 days\nTotal time = (5 + 3) = 8 days"
-    },
-    {
-      "id": 232,
-      "book_no": 325,
-      "year": 2011,
-      "bank": "Bangladesh Krishi Bank",
-      "post": "Officer",
-      "Topic": "Geometry",
-      "question": "325. An angle is equal to one-third of its supplement. Find the measure of the angle.",
-      "options": [],
-      "answer": "ams: x= 45°",
-      "solution": "If the angle is x then its supplement = 3x\nAccording to the question, x + 3x = 180°\nams: x= 45°"
-    },
+  "id": 232,
+  "book_no": 325,
+  "year": 2011,
+  "bank": "Bangladesh Krishi Bank",
+  "post": "Officer",
+  "Topic": "Geometry",
+  "question": "An angle is equal to one-third of its supplement. Find the measure of the angle.",
+  "options": [
+    "30°",
+    "45°",
+    "60°",
+    "90°"
+  ],
+  "answer": "45°",
+  "solution": "Let the angle be x°.\n\nIts supplement is (180° − x°).\n\nAccording to the question:\nx = (180 − x)/3\n3x = 180 − x\n4x = 180\nx = 45°.\n\nTherefore, the required angle is 45° (Option B).\n\nShortcut: An angle and its supplement add up to 180°. If their ratio is 1:3, the angle is 180° × 1/(1 + 3) = 45°."
+},
     {
       "id": 233,
       "book_no": 326,
@@ -2857,24 +2887,29 @@
       "answer": "Amount invested at 4% interest Tk. 2400.",
       "solution": "Let, amount invested at 4% interest x\nAmount invested at 5% interest = (4000 — x)\nAccording to the question,\n4 _ =e\nxx5 *Too = (4000 — x} x 6 x 100\n=> 2x=12000-3x\n=>  5x=12000\nx = 2400\nans: Amount invested at 4% interest Tk. 2400."
     },
-    {
-      "id": 234,
-      "book_no": 327,
-      "year": 2011,
-      "bank": "Bangladesh Krishi Bank",
-      "post": "Oftcen",
-      "Topic": "Ratio & Proportion",
-      "question": "327, Asum of Tk, 1200 is divided among A, B and C, so that A receives half of what B and C receive together. What is A's share?",
-      "options": [],
-      "answer": "Tk. 400",
-      "solution": "AtB+C= 1200 veccseee (i)\nA=5(B+C)\n=> 2A=(B+C)......... (ii\nFrom (i) A + 2A = 1200\n> 3A = 1200\n> A= Tk. 400\nans: Tk. 400"
-    },
+   {
+  "id": 234,
+  "book_no": 327,
+  "year": 2011,
+  "bank": "Bangladesh Krishi Bank",
+  "post": "Officer",
+  "Topic": "Ratio & Proportion",
+  "question": "A sum of Tk. 1,200 is divided among A, B, and C so that A receives half of the amount received by B and C together. What is A's share?",
+  "options": [
+    "Tk. 300",
+    "Tk. 400",
+    "Tk. 500",
+    "Tk. 600"
+  ],
+  "answer": "Tk. 400",
+  "solution": "Let A's share be Tk. x.\n\nAccording to the question:\nA = (B + C)/2\nTherefore, B + C = 2A.\n\nSince the total amount is Tk. 1,200:\nA + B + C = 1,200\nA + 2A = 1,200\n3A = 1,200\nA = 1,200/3 = Tk. 400.\n\nTherefore, A's share is Tk. 400 (Option B).\n\nShortcut: A receives half of the combined share of B and C, so the ratio A : (B + C) = 1 : 2. Thus, A's share = 1,200 × 1/3 = Tk. 400."
+},
     {
       "id": 235,
       "book_no": 328,
       "year": 2011,
       "bank": "Bangladesh Krishi Bank",
-      "post": "Oftcen",
+      "post": "Officer",
       "Topic": "Interest",
       "question": "328 A man borrowed Tk. 2500 at 4% p.a. and Tk. 1800 at 5% simple interest for the same period. It he pays Tk. 570 as total interest, find the time for which the sums were borrowed.",
       "options": [],
@@ -2886,7 +2921,7 @@
       "book_no": 329,
       "year": 2011,
       "bank": "Bangladesh Krishi Bank",
-      "post": "Oftcen",
+      "post": "Officer",
       "Topic": "Profit & Loss",
       "question": "A shopkeeper marks his goods 20% higher than the cost price and sells them at 25% above the marked price. Find his profit percent.",
       "options": [],
@@ -2894,17 +2929,22 @@
       "solution": "Let the cost price of goods Tk. 100\nAt 20% higher marked price of goods = (100 + 20) = Tk. 120\nAgain at 25% alone the marked price, the selling price of the goods = 120 + 3 120 = Tk. 150\nPrice = (150 ~ 100) = Tk. 50\nans: Profit 50%."
     },
     {
-      "id": 237,
-      "book_no": 330,
-      "year": 2011,
-      "bank": "Bangladesh Krishi Bank",
-      "post": "Oftcen",
-      "Topic": "Ratio & Proportion",
-      "question": "The prices of sugar and rice are in the ratio 4: 5. If the price of sugar is increased by 10% and that of rice by 20%, find the ratio between increased prices of sugar and rice.",
-      "options": [],
-      "answer": "11 15.",
-      "solution": "Let, Price of sugar and rice are x and y respectively.\nx4\ny 5\nz 10 WW\nNow price of sugar = x + Too\" = 10*\nNow price of rice = y+ BW o8 Raenene 7s\n7 x 100\" 3” I Mix\nu . BS}\nNow ratio = —@—\n3Y\n_ Ux\n~ 12y\n_iix4\n12x 5\nil\n=fsc ll 15.\nans: 11 15."
-    },
+  "id": 237,
+  "book_no": 330,
+  "year": 2011,
+  "bank": "Bangladesh Krishi Bank",
+  "post": "Officer",
+  "Topic": "Ratio & Proportion",
+  "question": "The prices of sugar and rice are in the ratio 4:5. If the price of sugar is increased by 10% and that of rice by 20%, find the ratio of their increased prices.",
+  "options": [
+    "11:15",
+    "22:25",
+    "8:11",
+    "9:10"
+  ],
+  "answer": "11:15",
+  "solution": "Let the original prices of sugar and rice be 4x and 5x, respectively.\n\nAfter a 10% increase, the price of sugar becomes:\n4x × 110/100 = 4.4x.\n\nAfter a 20% increase, the price of rice becomes:\n5x × 120/100 = 6x.\n\nTherefore, the ratio of the increased prices is:\n4.4x : 6x = 44 : 60 = 11 : 15.\n\nTherefore, the required ratio is 11:15 (Option A).\n\nShortcut: Multiply each original ratio term by its respective price multiplier:\n(4 × 110) : (5 × 120) = 440 : 600 = 11 : 15."
+},
     {
   "id": 238,
   "book_no": 331,
@@ -2932,7 +2972,7 @@
       "question": "In an MBA class the ratio of number of commerce graduates to the number of science graduates is 2 to 5. If 2 more commerce graduates enter the class the ratio becomes 1 to 2. How many commerce graduates are in the class?",
       "options": [],
       "answer": "= 8.",
-      "solution": "Let, commerce graduates and science graduates is 2x and Sx respectively\nAccording to the question, ate =4\nx=4,\nCommerce graduates will be = 2x\n=2x4\n= 8."
+      "solution": "Let, commerce graduates and science graduates is 2x and 5x respectively\nAccording to the question, (2x + 2) : 5x = 1 : 2\n=> 2(2x + 2) = 5x\n=> 4x + 4 = 5x\n=> x = 4\nCommerce graduates will be = 2x\n=2x4\n= 8."
     },
   {
   "id": 240,
@@ -2987,18 +3027,23 @@
       "answer": "Tk. 250",
       "solution": "Profit for first Tk. 1000 = 735 x 1000 = Tk. 50\nProfit for excess of Tk. 1000 = ss x 5000 = Tk. 200\nTotal Profit (50 + 200) = Tk. 250\nans: Tk. 250"
     },
-    {
-      "id": 244,
-      "book_no": 343,
-      "year": 2011,
-      "bank": "Karmashangsthan Bank",
-      "post": "5O",
-      "Topic": "Arithmetic",
-      "question": ">t yf Bet Sed = & WE eas & VT |",
-      "options": [],
-      "answer": "(x—3a+2)(x+4a—-2)",
-      "solution": "x + ax —(a- 2) (4a—-2)\n= x +ax-(Ba-2)(3a-2+4)\n= x + ax~p(p +a) [Ba -2 = p 4]\n= x -p? + ax—ap\n= («x +p)—-p) t+ ax—p)\n= (xtp)(x+pra)\n= {x— (3a —2)} {x + Ga-2) + a}[p 44 Fe ABT]\n= (x-—3a+ 2) (x+3a—2 +a)\n= (x -— 3a + 2) (x + 4a—2)\nans: (x—3a+2)(x+4a—-2)"
-    },
+{
+  "id": 244,
+  "book_no": 343,
+  "year": 2011,
+  "bank": "Karmashangsthan Bank",
+  "post": "Senior Officer",
+  "Topic": "Algebra",
+  "question": "Factorize: x^2 + ax - (3a - 2)(4a - 2)",
+  "options": [
+    "(x - 3a + 2)(x + 4a - 2)",
+    "(x + 3a - 2)(x - 4a + 2)",
+    "(x - 3a - 2)(x + 4a + 2)",
+    "(x + 3a + 2)(x - 4a - 2)"
+  ],
+  "answer": "(x - 3a + 2)(x + 4a - 2)",
+  "solution": "Given expression:\nx^2 + ax - (3a - 2)(4a - 2)\n\nStep 1: Express the middle coefficient 'a' as the difference of the two factors (4a - 2) and (3a - 2):\n(4a - 2) - (3a - 2) = 4a - 2 - 3a + 2 = a.\n\nStep 2: Rewrite the expression substituting 'a':\n= x^2 + [(4a - 2) - (3a - 2)]x - (3a - 2)(4a - 2)\n= x^2 + (4a - 2)x - (3a - 2)x - (3a - 2)(4a - 2)\n\nStep 3: Factor by grouping:\n= x[x + (4a - 2)] - (3a - 2)[x + (4a - 2)]\n= [x - (3a - 2)][x + (4a - 2)]\n= (x - 3a + 2)(x + 4a - 2)"
+},
     {
   "id": 245,
   "book_no": 344,
@@ -3583,17 +3628,22 @@
       "solution": "According to question,\n(92-¥ +4) x$+3=25\n=>  (52-Y+4)x2=25-3\n> (56-Y) x d. 22\n=> (56-Y)x2=66\n> 112 -2Y = 66\n> —2Y = 66-112\n=> -2Y=-46\n46\n=> Y= 2\n=> Y = 23.\nans; 23."
     },
     {
-      "id": 283,
-      "book_no": 398,
-      "year": 2012,
-      "bank": "Bangladesh Bank",
-      "post": null,
-      "Topic": "Speed, Time & Distance",
-      "question": "398 An Eskimo leaves its igloo and travels 3 kilometers north, then 8 kilometers east and finally 3 kilometers north to reach the North Pole. How many kilometers does he have to travel to return to his igloo in-a straight line?",
-      "options": [],
-      "answer": "10.",
-      "solution": "First, we draw a figure using the data. foal yx\nHere, Ist go A to B in— 3km D oRQye |\nThen go B to C— 8km a\nFinally go C to D-3km “oe\nHere, we find the distance from AtoD i.e AD BR gS\nNow, using the formula of Pythagoras, we get 3| 13\nAD = 100 = 10. §\nans: 10."
-    },
+  "id": 283,
+  "book_no": 398,
+  "year": 2012,
+  "bank": "Bangladesh Bank",
+  "post": null,
+  "Topic": "Speed, Time & Distance",
+  "question": "An Eskimo leaves his igloo and travels 3 kilometers north, then 8 kilometers east, and finally 3 kilometers north to reach the North Pole. How many kilometers must he travel in a straight line to return to his igloo?",
+  "options": [
+    "8 km",
+    "9 km",
+    "10 km",
+    "11 km"
+  ],
+  "answer": "10 km",
+  "solution": "Let the igloo be at point A. The Eskimo travels 3 km north, then 8 km east, and finally 3 km north to reach point D, the North Pole.\n\nTotal northward displacement = 3 + 3 = 6 km.\nEastward displacement = 8 km.\n\nThe straight-line distance from the igloo to the North Pole is the hypotenuse of a right-angled triangle.\n\nUsing the Pythagorean theorem:\nAD² = 6² + 8²\nAD² = 36 + 64 = 100\nAD = √100 = 10 km.\n\nTherefore, he must travel 10 km in a straight line to return to his igloo (Option C).\n\nShortcut: The northward and eastward displacements form a 6–8–10 right triangle. Hence, the required distance is 10 km."
+},
     {
       "id": 284,
       "book_no": 399,
@@ -3618,18 +3668,23 @@
       "answer": "A Profit of 1,37,077 Tk. B Profit of 91,385 Tk. & C Profit of 68,538 Tk.",
       "solution": "According to the question,\n2A = 3B =4C\nLet, 2A = 3B = 4C = 12x ~------—------- (i)\n() = 2A= 12x = Aq 6x DIST (8) GA WAL, 92 AH\n12x at BAR |\n=> 3B= 12x =>B=4,\n=> 4C = 12x =>C=3x\nA:B:C= 6x: 44:3x=6:4:3\nSum of the ratio= 6+4+3 = 13\nAs, profit is distributed with the same ratio of investment or capital,\nProfit of\nA=&x2,97,000\n= 73% 4745!\n= 1,37,077 Tk.\nB=<4 x 2,97,000\n= 13% Fes\n= 91,385 Tk.\nC= x 2,97,000\n“ 13 x 2,915)\n= 68,538 Tk.\nans: A Profit of 1,37,077 Tk. B Profit of 91,385 Tk. & C Profit of 68,538 Tk."
     },
-    {
-      "id": 287,
-      "book_no": 403,
-      "year": 2013,
-      "bank": "Rupali Bank",
-      "post": "Junior Officer",
-      "Topic": "Speed, Time & Distance",
-      "question": "Ina flight of 600k, an aircraft was slowed down due to bad weather. Its average speed for the trip was reduced by 200km/hr and the time of flight increased by 30 minutes. Find out the duration of the flight.",
-      "options": [],
-      "answer": "1.5 hour",
-      "solution": "Here, Distance, D = 600km\nLet, Time = ¢ & Speed =s\nAccording to the question,\nD=st\n=> 600=st\na Dern\nFrom 2\" condition,\n(s 200) (« é 5) = 600\n=> (@ - 200) ( +5) = 600 [From (4)]\n=> (@. 200) («+4) = 600\nt 2\n5 (a - 2004) G + 1) = 600\nt 2\n=> (600 + 2004 (2t+ 1) = 600\n> 12001 + 600 — 4002 ? — 200 = 12002\n=> 600-4001? — 2007 = 0\n=> 4001? + 2007-600 = 0\n=> 4t7+21-6=0\n=> 27? +1-3=0\n=> (2t+3)(-D=0\n= -_3\n=> t=landt=- 3\nAs, ¢ cannot be negative,\nSo, ¢= 1 hour\nDuration of the journey = Normal time + Extra/Delay\n= 1h+0.5h = 1.5 hour\nans: 1.5 hour"
-    },
+ {
+  "id": 287,
+  "book_no": 403,
+  "year": 2013,
+  "bank": "Rupali Bank",
+  "post": "Junior Officer",
+  "Topic": "Speed, Time & Distance",
+  "question": "On a flight of 600 km, an aircraft was slowed down due to bad weather. Its average speed for the trip was reduced by 200 km/h, and the flight time increased by 30 minutes. Find the actual duration of the flight.",
+  "options": [
+    "1 hour",
+    "1.5 hours",
+    "2 hours",
+    "2.5 hours"
+  ],
+  "answer": "1.5 hours",
+  "solution": "Let the scheduled flight time be t hours and the scheduled speed be s km/h.\n\nGiven distance = 600 km.\n\nTherefore,\nst = 600 ...(1)\n\nDue to bad weather:\nNew speed = (s − 200) km/h\nNew time = (t + 0.5) hours\n\nSince the distance remains unchanged:\n(s − 200)(t + 0.5) = 600 ...(2)\n\nFrom equation (1):\ns = 600/t\n\nSubstituting into equation (2):\n(600/t − 200)(t + 0.5) = 600\n\nMultiplying by t:\n(600 − 200t)(t + 0.5) = 600t\n\nExpanding:\n600t + 300 − 200t² − 100t = 600t\n\n200t² + 100t − 300 = 0\n\nDividing by 100:\n2t² + t − 3 = 0\n\nFactorizing:\n(2t + 3)(t − 1) = 0\n\nTherefore, t = 1 hour or t = −1.5 hours.\n\nSince time cannot be negative, the scheduled flight time is 1 hour.\n\nActual flight duration = 1 + 0.5 = 1.5 hours.\n\nCorrect answer: 1.5 hours (Option B).\n\nShortcut: The original time is 1 hour because 600 km ÷ 600 km/h = 1 hour. The reduced speed is 400 km/h, giving a delayed time of 600 ÷ 400 = 1.5 hours. The increase is exactly 30 minutes."
+},
     {
       "id": 288,
       "book_no": 404,
@@ -4130,18 +4185,23 @@
       "answer": "16; %.",
       "solution": "At 25% profit\nIf cost price is Tk 100, then selling price would be 125 Tk.\nIf selling price is 125 tk. then cost price would be = 100 Tk.\nIf selling price is 4000 tk. then cost price would be = —\n= 3,200 Tk.\nTotal cost price of two commodities = 4,000 + 4,000 = 8,000 Tk.\nThen the cost price of another commodity = 8,000 — 3,200 = 4,800 Tk.\nBut the sold ahother commodity at 4,000 Tk.\nSo he loses = 4,800 — 4,000 = 800 Tk.\n800 2\nLoss % = 4800 * 100 = 16; %.\n2\nans: 16; %."
     },
-    {
-      "id": 328,
-      "book_no": 465,
-      "year": 2014,
-      "bank": "PS Weginabenkttes -208",
-      "post": "WTO",
-      "Topic": "Speed, Time & Distance",
-      "question": "The speed of a railway engine is 42 km per hour when no compartment is attached, and the reduction in speed directly proportional to the square root of the number of compartments attached. If the speed of the train carried by this engine is 24 km per hour when 9 compartments are attached, what is the maximum number of compartments that cam be carried by the engine?",
-      "options": [],
-      "answer": "48.",
-      "solution": "1f S = speed, and N = number of compartments, then according to the question,\nS$=42-kx IN ; where k is a constant of the proportionality.\nFrom the question, putting N = 9 and S = 24 from the above equation, we have\n24 = 42-k x9\n: : ' . ;\n= ke6 al Practice FA |\nNow, we need to know: what value of N makes S go to zero?\n0=42-6xVN\n=> 6N=42\n> VN =]\n=> N=7=49\nNow it is clear that with 49 compartments, the train speed is 0 i.e the train does not move.\nTherefore, it would move if there were one fewer compartments.\nThus, 49 — | = 48 is the maximum number of compartments the engine can pull and still move,\nans: 48."
-    },
+  {
+  "id": 328,
+  "book_no": 465,
+  "year": 2014,
+  "bank": "PS Weginabenkttes -208",
+  "post": "WTO",
+  "Topic": "Speed, Time & Distance",
+  "question": "The speed of a railway engine is 42 km/h when no compartments are attached. The reduction in speed is directly proportional to the square root of the number of compartments attached. If the train travels at 24 km/h when 9 compartments are attached, what is the maximum number of compartments the engine can pull while still moving?",
+  "options": [
+    "36",
+    "42",
+    "48",
+    "49"
+  ],
+  "answer": "48",
+  "solution": "Let S be the speed of the train in km/h and N be the number of compartments.\n\nSince the reduction in speed is directly proportional to the square root of the number of compartments:\n42 − S = k√N, where k is a constant.\n\nGiven that S = 24 when N = 9:\n42 − 24 = k√9\n18 = 3k\nk = 6.\n\nTherefore, the speed equation is:\nS = 42 − 6√N.\n\nTo find the maximum number of compartments at which the engine can still move, first find the number of compartments at which its speed becomes zero:\n\n0 = 42 − 6√N\n6√N = 42\n√N = 7\nN = 49.\n\nAt 49 compartments, the speed is zero, so the engine cannot move. Therefore, the maximum number of compartments it can pull while still moving is:\n49 − 1 = 48.\n\nCorrect answer: 48 (Option C).\n\nShortcut: The speed becomes zero at N = (42/6)² = 49. Since the train must have a positive speed, the maximum whole number of compartments is 48."
+},
     {
       "id": 329,
       "book_no": 466,
@@ -4327,30 +4387,40 @@
       "answer": "3,600 litters.",
       "solution": "Let, the capacity of the cistern be x liters\nThe pipe can fill in ] minute = 4 liters\nThe pipe can fill in 60 minute = 4 x 60 = 240 liters\n‘ ‘ i\nTime to fill the whole cistern = 37 hrs.\nSo ins45 hrs the pipe can fill = 1 cistern\nIn x0 hrs the pipe can fill =i part of the cistern\nAgain, the leak can empty in 1 hr. 7 part of the cistern.\nAnd now, in | hr. they can empty sppart of the cistern\nSo we can from the following equation\n14 _240\n6°10 x\n10-6 _ 240\n= 0x6 x\n=> 4x=240 x 60\n_ 240 x 60\n> x=\nx= 3,600.\nans: 3,600 litters."
     },
-    {
-      "id": 344,
-      "book_no": 483,
-      "year": 2014,
-      "bank": "UCBL",
-      "post": "Trainee Officer",
-      "Topic": "Speed, Time & Distance",
-      "question": "If I walk at the rate of 4 kmph I miss the train by 10 minutes. If I walk at the rate of 5 kmph \\ reach 5 minutes before the arrival of the train. How far is the station from my house assuming that I start walking from my house?",
-      "options": [],
-      "answer": "5.",
-      "solution": "Let, the distance of the station from my house = x km.\nHere, total time = 5 + 10 = 15 minutes = K = ; hour.\nAccording to the question,\nx xii\n4°75 4\n5x-4x_ Jt\n- 20 \"4\n=20\n> X=\nx= 5\nans: 5."
-    },
-    {
-      "id": 345,
-      "book_no": 484,
-      "year": 2014,
-      "bank": "UCBL",
-      "post": "Trainee Officer",
-      "Topic": "Algebra",
-      "question": "In the figure, PS = SQ = RS and ZP = 30°, Find x. Pp S AL Q R T",
-      "options": [],
-      "answer": "90°,",
-      "solution": "fl\nPS=RS\nZSRQ = ZSPR = 30° S\nZPSR = 120° co’\nSo, ZQSR = 60° J\nHere, SQ = RS Ay\nQ R T\nAs ZQSR = 60°\nZSQR = ZSRQ = 60°\nZx = 180° - (60° + 30°) = 180° - 90° = 90°\nans: 90°,"
-    },
+  {
+    "id": 344,
+    "book_no": 483,
+    "year": 2014,
+    "bank": "UCBL",
+    "post": "Trainee Officer",
+    "Topic": "Speed, Time & Distance",
+    "question": "If I walk at a speed of 4 km/h, I miss the train by 10 minutes. If I walk at a speed of 5 km/h, I reach the station 5 minutes before the train arrives. How far is the station from my house, assuming I start walking from home at the same time in both cases?",
+    "options": [
+      "3 km",
+      "4 km",
+      "5 km",
+      "6 km"
+    ],
+    "answer": "5 km",
+    "solution": "Let the distance from the house to the station be x km.\n\nAt 4 km/h, the time taken is x/4 hours.\nAt 5 km/h, the time taken is x/5 hours.\n\nThe difference between these two travel times is:\n10 + 5 = 15 minutes = 1/4 hour.\n\nTherefore,\nx/4 − x/5 = 1/4\n\nTaking the LCM:\n(5x − 4x)/20 = 1/4\nx/20 = 1/4\nx = 5 km.\n\nTherefore, the station is 5 km from the house (Option C).\n\nShortcut: The difference in arrival time is 15 minutes. Distance = (v₁ × v₂ × time difference)/(v₂ − v₁) = (4 × 5 × 1/4)/(5 − 4) = 5 km."
+  },
+  {
+    "id": 345,
+    "book_no": 484,
+    "year": 2014,
+    "bank": "UCBL",
+    "post": "Trainee Officer",
+    "Topic": "Geometry",
+    "question": "In the figure, PS = SQ = RS and ∠SPR = 30°. Find x.",
+    "options": [
+      "60°",
+      "75°",
+      "90°",
+      "120°"
+    ],
+    "answer": "90°",
+    "solution": "Given:\nPS = SQ = RS and ∠SPR = 30°.\n\nSince PS = RS, triangle PSR is isosceles.\nTherefore, ∠PRS = ∠SPR = 30°.\n\nSo,\n∠PSR = 180° − 30° − 30° = 120°.\n\nSince P, S, and Q lie on a straight line:\n∠QSR = 180° − 120° = 60°.\n\nAlso, SQ = RS, so triangle SQR is isosceles. Its base angles are equal:\n∠SQR = ∠SRQ = (180° − 60°)/2 = 60°.\n\nFrom the figure, x is the exterior angle of triangle SQR at Q, formed with the extension of QR.\nTherefore,\nx = 180° − 60° − 30° = 90°.\n\nCorrect answer: 90° (Option C).\n\nNote: This reconstruction assumes the point arrangement and angle x are as indicated by the supplied OCR solution. Please verify the original figure, since the figure itself is missing from the text."
+  },
  {
   "id": 346,
   "book_no": 485,
@@ -4800,65 +4870,90 @@
       "solution": "In 4 hour, Ameen can do = I work\nIn 1 hour, Ameen can do =tpart\nIn 2 hours, Ameen and Cathy can do = 1 work\ned\nIn 1 hour, Ameen and Cathy can do 3 part eh TTT CRE eee fea\nIn I hour, Cathy can do = G-4) part qe WOR Te Ce\n= (22) =4 port SI HF UR CIS TE\nAgain, In 3 hours, Bashar and Cathy can do = 1 work OY CAE sea ae saw\nIn 1 hour Bashar and Cathy can do = 7 part HS FA ATCA ST CA\nBashar can do in 1 hour = G 4) part\n- G3) ei\n=(72/ > 12 Part\npart of work is dohe by Bashar in = 1 hour\n: . Lx 12\n1 part of work is done by Bashar in = ~~~ = 12 hours.\nans: In 12 hours Bashar alone can complete the work."
     },
     {
-      "id": 379,
-      "book_no": 533,
-      "year": 2015,
-      "bank": "Dutch-Bangla Bank",
-      "post": null,
-      "Topic": "Speed, Time & Distance",
-      "question": "Zainul covered a distance of 340 miles between Dhaka and Rajshahi taking a total of 5 hours. If part of the distance was covered at a speed of 60 miles per hour and the rest at a speed of 80 miles per hour, how many hours did he travel at 60 miles per hour?",
-      "options": [],
-      "answer": "He travels 180 miles in 60mph.",
-      "solution": "Let, he travels x miles in = 60mph\nHe travels (340 — x) miles in = 80mph\nAccording to the question\n24 (340-x) _ 5\n60° 80 Hy\n4x +3340 -x) CO = ag ~ TR CH\n> =5\n=> 4x+1,020-3x=5x 240 ©\n<=\"180 PAAR CUT HG CAC ICA |\nans: He travels 180 miles in 60mph."
-    },
+  "id": 379,
+  "book_no": 533,
+  "year": 2015,
+  "bank": "Dutch-Bangla Bank",
+  "post": null,
+  "Topic": "Speed, Time & Distance",
+  "question": "Zainul covered a distance of 340 miles between Dhaka and Rajshahi in a total of 5 hours. If he traveled part of the distance at 60 miles per hour and the rest at 80 miles per hour, how many miles did he travel at 60 miles per hour?",
+  "options": [
+    "120 miles",
+    "150 miles",
+    "180 miles",
+    "200 miles"
+  ],
+  "answer": "180 miles",
+  "solution": "Let the distance traveled at 60 mph be x miles. Then the distance traveled at 80 mph is (340 − x) miles.\n\nUsing Time = Distance / Speed:\n\nx/60 + (340 − x)/80 = 5\n\nMultiplying both sides by 240:\n4x + 3(340 − x) = 1200\n\n4x + 1020 − 3x = 1200\nx = 1200 − 1020\nx = 180 miles.\n\nTherefore, Zainul traveled 180 miles at 60 mph (Option C).\n\nShortcut: If the entire 340 miles were covered at 80 mph, the time would be 340/80 = 4.25 hours. The actual journey took 5 hours, so the additional time was 0.75 hour. Each mile traveled at 60 mph instead of 80 mph adds (1/60 − 1/80) = 1/240 hour. Therefore, the distance traveled at 60 mph = 0.75 × 240 = 180 miles."
+},
     {
-      "id": 380,
-      "book_no": 535,
-      "year": 2015,
-      "bank": "Rajshahi Krishi Unnayan Bank",
-      "post": "Senior Officer",
-      "Topic": "Pipe & Cistern",
-      "question": "535, A tank is filled in 5 hours by three pipes A, B, and C. The pipe C is twice as fast as B and B is twice as fast as A. How much time will pipe A alone take to fill the tank? wyae ¢",
-      "options": [],
-      "answer": "35 hours.",
-      "solution": "As the pipe C is twice as fast as B and B is twice as fast as A.\nSo, Let the time required for pipe C alone take to fill the tank = x hours\nThe time required for pipe B alone take to fill the tank = 2x hours\nThe time required for pipe A alone take to fill the tank = 2x x 2 = 4x hours\nC alone can do in 1 hour = 1 part of work\nB alone can do in 1 hour =-t part of work\nA alone can do in } hour = i part of work\nNow, (A + B + C) together can do in 5 hour total 1 work\nA+B+C together can do in 1 hour = 4 part of work\nAccording to the question, i +t + x = i >x= 2\nThe time required for pipe A alone take to fill the tank = 4x = 4 x 8 = 35 hours\nAlternative: Suppose pipe A alone takes x hours to fill the tank.\nWe know, speed and time have inverse relationship and as the pipe C is twice as fast as B and\nB is twice as fast as A\nSo, pipes B and C will take 5 and ri hours respectively to fill the tank.\n1,241\n> TETETS\nZit\n> x5\nx = 35 hours\nABC\n= 5= (4x) (2x) (x)\n(4x x 2x) + (2x x x} + (x x 4x)\n&\n= 5°%4\n=33\n> x=\nA=4r= 4x2 35,\nans: 35 hours.\n536. 10 years ago the ratio of ages of father and son was 4: 1. After 10 years the ratio of the\nfather and son will be 2 : 1. Find the present ages of father and son.\nIIT &\nSolution:\nLet, 10 years ago they were 4x and x years gradually\nSo, their present age 4x + 10 and x + 10\nAfter 10 years they will be 4x + 10+ 10 andx+10+10\nAccording to Question, 4x + 10+ 10:x+10+10=2:1\n=> 4%+20:x+20=2:1\n4x+20_2\n> +201\n=> 4x + 20=2x+ 40\n=> 4x-2x=40-20\n=> 22x=20\nx=10\nSo, father is now = 4 x 10+ 10 = 50 years and son is now = (10 + 10) = 20 years.\nans: 50 years and 20 years."
-    },
+  "id": 380,
+  "book_no": 535,
+  "year": 2015,
+  "bank": "Rajshahi Krishi Unnayan Bank",
+  "post": "Senior Officer",
+  "Topic": "Pipe & Cistern",
+  "question": "A tank is filled in 5 hours by three pipes A, B, and C working together. Pipe C is twice as fast as pipe B, and pipe B is twice as fast as pipe A. How much time will pipe A alone take to fill the tank?",
+  "options": [
+    "20 hours",
+    "25 hours",
+    "30 hours",
+    "35 hours"
+  ],
+  "answer": "35 hours",
+  "solution": "Let the filling rate of pipe A be x tanks per hour.\n\nSince pipe B is twice as fast as A:\nRate of B = 2x.\n\nSince pipe C is twice as fast as B:\nRate of C = 4x.\n\nTherefore, the combined filling rate is:\nA + B + C = x + 2x + 4x = 7x tanks per hour.\n\nTogether, the three pipes fill the tank in 5 hours. Thus:\n7x = 1/5\nx = 1/35.\n\nPipe A fills 1/35 of the tank per hour. Therefore, pipe A alone takes 35 hours to fill the tank.\n\nCorrect answer: 35 hours (Option D).\n\nShortcut: The speed ratio of A : B : C = 1 : 2 : 4. Their combined rate is 7 parts, so A's share is 1/7 of the combined rate. Since all three together take 5 hours, A alone takes 5 × 7 = 35 hours."
+},
     {
-      "id": 381,
-      "book_no": 537,
-      "year": 2015,
-      "bank": "Rajshahi Krishi Unnayan Bank",
-      "post": "Senior Officer",
-      "Topic": "Work & Time",
-      "question": "Two men and three boys can do a piece of work in ten days while three men and two boys can do the same work in 8 days. In how many days can two men and one boy do the work?",
-      "options": [],
-      "answer": "125",
-      "solution": "Let work done by 1 man on 1 day be x, one boy in 1 day be y\nGiven, two men and three boys can do a piece of work in ten days\nWork done by 2 men and 3 boys in 1 day = +\n1 F\nGiven, 3 men and 2 boys can do the same piece of work in 8 days\nWork done by 3 men and 2 boys in 1 day =4\nNow, to get values of x and y, we need to solve (i) and (ii)\n(1) <3 6+ YET acc)\no33 ‘ 1\nUsing this value of y in (i)\nal ols,\n= +3 *799\" 19\n31\n= 2+ 700-10\nwalk,\n= 2x99\n=\n** 300\nWork done by 2 men and 1 boy in 1 day = 2x + y\nwaxy hat 2\n200° 100 100 25\nTherefore, required number of days to complete the work if 2 men and 1 boy work 3 =124\ni\nans: 125"
-    },
-    {
-      "id": 382,
-      "book_no": 543,
-      "year": 2016,
-      "bank": "Janata Bank",
-      "post": "IT",
-      "Topic": "Interest",
-      "question": "543, If the sum of interests on Tk. 500 in 4 years and Tk. 600 in 5 years is Tk. 500 then what will be the interest on Tk.1000 in 3 years? WANs 8",
-      "options": [],
-      "answer": "The amount of interest in 3 years is 300 Tk.",
-      "solution": "Sum of money is = (500 x 4) Tk. + (600 x 5) Tk.\n= 5,000 Tk. Time =3 Years\n. Capital = 1,000 Tk.\nInterest of Tk. 5,000 is Tk. 500\n«op, 500 x 100 _\nInterest of Tk. 100 is Tk. = 5000 > 10%\nWe know, interest = Hate Capel tame\n10 x 1000 x 3\n=~—“100 SCO 300 Tk.\nans: The amount of interest in 3 years is 300 Tk."
-    },
-    {
-      "id": 383,
-      "book_no": 545,
-      "year": 2016,
-      "bank": "Pubali Bank",
-      "post": "SO/Officer",
-      "Topic": "Interest",
-      "question": "A certain sum of money amounts to Tk. 1,008 in 2 years and to Tk. 1,164 in 3 years. Find the sum and the rate of interest. WANT 8",
-      "options": [],
-      "answer": "The amount of sum is Tk. 800 & the interest is 13%.",
-      "solution": "1 a\nIn 35 years, the amount will be = 1,164 Tk.\nIn 2 years, the amount will be = 1,008 Tk.\nIn 4 years, the amount will be = 156 Tk.\nIn 1 year the amount will be =~3~ Tk. Tes | YI SCs aay\n> Bes Ty TT TRY,\n156x2_ 156x2x2 on eae 5s\nIn 2 years, the amount will be aaa 208 Tk. | Waa ARRAS Fat Raf wz\npT PA |\nThe principal is = 1,008 — 208 = 800 Tk.\nThe interest of Tk. 800 in 2 years is = 208 Tk.\n: ip =a 208\nThe interest of Tk. Lin 1 year is = 300 x2 Tk.\nF : .__, 208 x 100 _\nThe interest of Tk. 100 in 1 year is 800 x2 13 Tk.\nans: The amount of sum is Tk. 800 & the interest is 13%."
-    },
+  "id": 381,
+  "book_no": 537,
+  "year": 2015,
+  "bank": "Rajshahi Krishi Unnayan Bank",
+  "post": "Senior Officer",
+  "Topic": "Work & Time",
+  "question": "Two men and three boys can complete a piece of work in 10 days, while three men and two boys can complete the same work in 8 days. In how many days can two men and one boy complete the work?",
+  "options": [
+    "10 days",
+    "12 days",
+    "12.5 days",
+    "15 days"
+  ],
+  "answer": "12.5 days",
+  "solution": "Let the amount of work done by one man in one day be m, and the amount of work done by one boy in one day be b.\n\nAccording to the question:\n2m + 3b = 1/10  ...(1)\n3m + 2b = 1/8   ...(2)\n\nMultiplying equation (1) by 2:\n4m + 6b = 1/5  ...(3)\n\nMultiplying equation (2) by 3:\n9m + 6b = 3/8  ...(4)\n\nSubtracting equation (3) from equation (4):\n5m = 3/8 − 1/5\n5m = (15 − 8)/40 = 7/40\nm = 7/200\n\nSubstituting m = 7/200 into equation (1):\n2(7/200) + 3b = 1/10\n7/100 + 3b = 10/100\n3b = 3/100\nb = 1/100\n\nTherefore, the one-day work of two men and one boy is:\n2m + b = 2(7/200) + 1/100\n= 14/200 + 2/200\n= 16/200 = 2/25\n\nRequired time = 1 ÷ (2/25) = 25/2 = 12.5 days.\n\nTherefore, two men and one boy can complete the work in 12.5 days (Option C).\n\nShortcut: Solve the two given equations to obtain one man's daily work = 7/200 and one boy's daily work = 1/100. Then the combined daily work of two men and one boy is 2/25, so the required time is 25/2 = 12.5 days. The supplied answer '125' appears to have lost its decimal point."
+},
+  {
+    "id": 382,
+    "book_no": 543,
+    "year": 2016,
+    "bank": "Janata Bank",
+    "post": "IT",
+    "Topic": "Interest",
+    "question": "If the sum of the simple interests on Tk. 500 for 4 years and Tk. 600 for 5 years is Tk. 500, what will be the simple interest on Tk. 1,000 for 3 years at the same rate?",
+    "options": [
+      "Tk. 200",
+      "Tk. 250",
+      "Tk. 300",
+      "Tk. 350"
+    ],
+    "answer": "Tk. 300",
+    "solution": "Let the annual rate of simple interest be r%.\n\nAccording to the question:\n(500 × 4 × r)/100 + (600 × 5 × r)/100 = 500\n(2000r + 3000r)/100 = 500\n5000r/100 = 500\n50r = 500\nr = 10%.\n\nNow, the simple interest on Tk. 1,000 for 3 years is:\nSI = (P × R × T)/100\n= (1000 × 10 × 3)/100\n= Tk. 300.\n\nTherefore, the required interest is Tk. 300 (Option C).\n\nShortcut: The combined principal-time product is (500 × 4) + (600 × 5) = 5,000. Since the total interest is Tk. 500, the rate is 500 × 100/5,000 = 10%. Then interest on Tk. 1,000 for 3 years = Tk. 300."
+  },
+  {
+    "id": 383,
+    "book_no": 545,
+    "year": 2016,
+    "bank": "Pubali Bank",
+    "post": "SO/Officer",
+    "Topic": "Interest",
+    "question": "A certain sum of money amounts to Tk. 1,008 in 2 years and Tk. 1,164 in 3 years. Find the principal and the annual rate of simple interest.",
+    "options": [
+      "Tk. 800 and 10%",
+      "Tk. 800 and 13%",
+      "Tk. 850 and 12%",
+      "Tk. 900 and 13%"
+    ],
+    "answer": "Tk. 800 and 13%",
+    "solution": "Under simple interest, the difference between the amounts after 3 years and 2 years is the interest for one year.\n\nOne year's interest = 1164 − 1008 = Tk. 156.\n\nInterest for 2 years = 156 × 2 = Tk. 312.\n\nPrincipal = Amount after 2 years − Interest for 2 years\n= 1008 − 312\n= Tk. 696.\n\nAnnual rate = (156/696) × 100 ≈ 22.41%.\n\nTherefore, based on the amounts stated in the question, the principal is Tk. 696 and the annual simple-interest rate is approximately 22.41%. The supplied answer of Tk. 800 and 13% is inconsistent with the question: Tk. 800 at 13% simple interest would amount to Tk. 1,008 after 2 years, but Tk. 1,112 after 3 years, not Tk. 1,164. The original scan should be checked for an OCR error in the stated amounts or answer."
+  },
     {
       "id": 384,
       "book_no": 548,
@@ -4883,30 +4978,40 @@
       "answer": "His asking price was 81.25 Tk.",
       "solution": "At 30% profit, if cost price is 100 Tk. then selling price = 100 + 30 = 130 Tk.\nNow if cost price is Tk, 100 then selling price will be Tk. 130\nIf Cost price is Tk. 50 then selling price will be Tk. a 65 Tk.\nNow at 20% discount, selling price will be Tk. 100 — 20 = 80 Tk.\nIf selling price is Tk. 80 then asking price will be = 100 Tk.\nIf selling price is Tk. 65 then asking price will be - re. 81.25 Tk.\nans: His asking price was 81.25 Tk."
     },
-    {
-      "id": 386,
-      "book_no": 552,
-      "year": 2016,
-      "bank": "Pubali Bank",
-      "post": "SO/Officer",
-      "Topic": "Pipe & Cistern",
-      "question": "552, There are two taps in a water tank. The first tap pumps water in the tank and the second one drains it out. The first tap takes 30 minutes to make the tank full and the second tap needs 40 minutes to drain that water out. If both taps are opened at the same time, how long will it take to make a half-full tank?",
-      "options": [],
-      "answer": "It will take 60 minutes to fill the half of the tank.",
-      "solution": "1* tap takes 30 minutes to fill 1 part of the tank\n1\" tap takes 1 minute to fill % part of the tank\nAgain, 2\" tap takes 40 minutes to drain 1 part of the tank\n2\" tap takes 1 minute to drain apart of the tank\nIn 1 minute,\nLi\nTwo taps fill Ge -$) part of the tank\n= a part of the tank\nNow, Tr part of the tank is filled in = 1 minute\n1 F 120 i\n> Part of the tank is filled in =\"Z = 60 minutes\nans: It will take 60 minutes to fill the half of the tank."
-    },
-    {
-      "id": 387,
-      "book_no": 553,
-      "year": 2016,
-      "bank": "Pubali Bank",
-      "post": "SO/Officer",
-      "Topic": "Interest",
-      "question": "A cashier received a total amount of Tk. 10,000 from a depositor in a total of 140 notes of Tk. 50 and Tk. 100 denominations. How many notes of Tk. 50 denominations did he receive?",
-      "options": [],
-      "answer": "Number of 50 Tk. note was 80. .",
-      "solution": "Let, Number of 50 Tk. note = x\n& Number of 100 Tk. note = 140 -—x\nAccording to the question,\n50x + 100(140 — x) = 10,000\n=> 50x + 14,000 - 100x = 10,000\n> - om a 4,000 _\nx= 80\nans: Number of 50 Tk. note was 80. ."
-    },
+  {
+    "id": 386,
+    "book_no": 552,
+    "year": 2016,
+    "bank": "Pubali Bank",
+    "post": "SO/Officer",
+    "Topic": "Pipe & Cistern",
+    "question": "A water tank has two taps. The first tap fills the tank in 30 minutes, while the second tap drains the full tank in 40 minutes. If both taps are opened simultaneously when the tank is empty, how long will it take to fill half the tank?",
+    "options": [
+      "40 minutes",
+      "50 minutes",
+      "60 minutes",
+      "70 minutes"
+    ],
+    "answer": "60 minutes",
+    "solution": "The first tap fills 1/30 of the tank per minute.\nThe second tap drains 1/40 of the tank per minute.\n\nNet filling rate when both taps are open:\n= 1/30 − 1/40\n= (4 − 3)/120\n= 1/120 of the tank per minute.\n\nTime required to fill half the tank:\n= (1/2) ÷ (1/120)\n= 60 minutes.\n\nTherefore, it will take 60 minutes to fill half the tank (Option C).\n\nShortcut: The net rate is 1/30 − 1/40 = 1/120 tank per minute. Filling half the tank takes 120 × 1/2 = 60 minutes."
+  },
+  {
+    "id": 387,
+    "book_no": 553,
+    "year": 2016,
+    "bank": "Pubali Bank",
+    "post": "SO/Officer",
+    "Topic": "Arithmetic",
+    "question": "A cashier received a total of Tk. 10,000 from a depositor in 140 notes consisting of Tk. 50 and Tk. 100 denominations. How many Tk. 50 notes did the cashier receive?",
+    "options": [
+      "60",
+      "70",
+      "80",
+      "90"
+    ],
+    "answer": "80",
+    "solution": "Let the number of Tk. 50 notes be x. Then the number of Tk. 100 notes is (140 − x).\n\nAccording to the question:\n50x + 100(140 − x) = 10,000\n50x + 14,000 − 100x = 10,000\n−50x = −4,000\nx = 80.\n\nTherefore, the cashier received 80 notes of Tk. 50 (Option C).\n\nShortcut: If all 140 notes were Tk. 100 notes, the total would be Tk. 14,000. The actual amount is Tk. 4,000 less. Each Tk. 50 note reduces the total by Tk. 50 compared with a Tk. 100 note. Therefore, the number of Tk. 50 notes = 4,000/50 = 80."
+  },
     {
       "id": 388,
       "book_no": 554,
