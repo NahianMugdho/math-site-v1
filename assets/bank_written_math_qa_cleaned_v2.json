@@ -4722,474 +4722,660 @@
       "answer": "The purchase price of the shirt is Tk. 90,",
       "solution": "Let, the purchase price is Tk. x\n2\nHere, the gain = x of x%% =x x 7007 100 Tk\nAccording to the question,\n© oye\n1007 ¥ = 171\n=> x74 100x-17100=0\n=> 7+ 190x-90x- 17100 =0\n=> x(x + 190) - 90% + 190) = 0\n=> = (x+ 190) *- 90) =0\nSo, x = 90\nTherefore, the purchase price is Tk. 90\nans: The purchase price of the shirt is Tk. 90,"
     },
-    {
-      "id": 399,
-      "book_no": 571,
-      "year": 2016,
-      "bank": "Southeast Bank",
-      "post": "Probationary Officer",
-      "Topic": "Algebra",
-      "question": "py 44=2, What is the value of Rene x mages",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 400,
-      "book_no": 572,
-      "year": 2016,
-      "bank": "Bank Asia",
-      "post": null,
-      "Topic": "Average",
-      "question": "Average mark obtained by 300 students in a class is 80. When 10% of the students are excluded from the group, the average mark of remaining students 'is 85, Find average mark of the 10% of students excluded from the group?",
-      "options": [],
-      "answer": "Average mark of the 10% of students excluded from the group is 35 marks.",
-      "solution": "Average mark obtained by 300 students in a class = 80\nTotal marks of 300 students = 300 x 80 = 24000\nGiven that when 10% of the students are excluded from the group,\nthe average mark of remaining students is 85\nTotal 10% of the excluded students = 300 x 10% = 30\nremaining students = 300 - 30 = 270\nSo, the total marks of remaining 270 students = 270 x 85 = 22950\nThe total marks of excluded 10% students = 24000 - 22950 = 1050\nSo, the average mark of 10% excluded students = 1050 + 30 = 35 marks.\nans: Average mark of the 10% of students excluded from the group is 35 marks."
-    },
-    {
-      "id": 401,
-      "book_no": 573,
-      "year": 2016,
-      "bank": "Bank Asia",
-      "post": null,
-      "Topic": "Ratio & Proportion",
-      "question": "573, The ratio of gofd and silver in an ornament weighing 42 gram 4: 3. How much gold will need to be added to make the ratio of gold and silver 5 ; 3?",
-      "options": [],
-      "answer": "6 grams gold will need to be added to make the ratio of gold and silver 5 : 3.",
-      "solution": "The amount of gold in the ornament is = (42 x 7) = 24 grams\nThe amount of silver in the ornament is = 42 - 24 = 18 grams\nLet, x grams of gold to be added to make the ratio 5 : 3\nAccording to question, ee = 3\n=> 72+ 3x=90\n=> 3x =90-72\n=> 3x = 18\nx =6\n6 grams gold need to be added.\nans: 6 grams gold will need to be added to make the ratio of gold and silver 5 : 3."
-    },
-    {
-      "id": 402,
-      "book_no": 574,
-      "year": 2016,
-      "bank": "Bank Asia",
-      "post": null,
-      "Topic": "Pipe & Cistern",
-      "question": "574, A cistern can be filld in 10 hours but it takes 12 hours due to a leak in its bottom. If the cistern is full, then how much time the leak will take to empty the cistern?",
-      "options": [],
-      "answer": "60 hours time is needed for the leak to empty the cistern.",
-      "solution": "As the cistern can be filld in 10 hours but it takes 12 hours due to a leak in its bottom\nWork done by the cistern in 1 hour = Ga a\n6:5\n~ 60\nat\n60\napart of the cistern is emptied in 1 hour\n: : was 1x 60\n1 or Full part of the cistern is emptied in = — = 60 hours\nans: 60 hours time is needed for the leak to empty the cistern."
-    },
-    {
-      "id": 404,
-      "book_no": 576,
-      "year": 2016,
-      "bank": "Islami Bank",
-      "post": "TSO",
-      "Topic": "Speed, Time & Distance",
-      "question": "A man's running speed is 3 times of his walking speed. The man a distance and comes back walking total time taken by him is 2 hours. What is the distance in miles if he runs 9 miles per hours? ware 8",
-      "options": [],
-      "answer": "The distance in miles if he runs 9 miles per hours is 4.5 miles.",
-      "solution": "Given, Man’s running speed = 9 miles/hour\nMan’s walking speed = 3 = 3 miles/hour\nGiven, Total time taken by the man to complete the journey is 2 hours.\nLet, total distance covered by the man is x miles.\nAccording to question,\n548-2\nBasic Formula:\n=> x+3x =2\n9 Speed = Distance\n> 4x = 18 Time\n18 Distance = Speed x Time\n= x=— - __ Distance\n4 Time = “Speed eed\nx=45\nDistance covered by the man is 4.5 miles.\nans: The distance in miles if he runs 9 miles per hours is 4.5 miles."
-    },
-    {
-      "id": 405,
-      "book_no": 578,
-      "year": 2016,
-      "bank": "Islami Bank",
-      "post": "TSO",
-      "Topic": "Geometry",
-      "question": "If the length of a rectangular field is 30 feet more than its width and the perimeter is 380 feet. What is the area of the field in square feet?",
-      "options": [],
-      "answer": "The value is a - 4a” +2.",
-      "solution": "1\nGi +=\niven NES i a\n2\nafi\n2\nveo Wk\n1_\n> xt2+ 2 &\nLs\n=> xt =\" e-2\n(ee gta\n> x+y) = (a —2) [Squareing both sides]\n2 i ay = tay 2\n> x +2xxxt+(t =(@) -2xax2+2\n> #+2tced' 4a +4\n> Ftd ad + 4-2\nans: The value is a - 4a” +2."
-    },
-    {
-      "id": 406,
-      "book_no": 580,
-      "year": 2016,
-      "bank": "Dutch-Bangla Bank",
-      "post": "Probationary Officer",
-      "Topic": "Mixture & Alligation",
-      "question": "A 20 litre mixture of milk and water contains milk and water in the ratio 3:2. 10 litres of the mixture is removed and replaced with pure milk and the operation is repeated once more, At the end of the two removal and replacement, what is the ratio of milk and water in the resultant mixture?",
-      "options": [],
-      "answer": "The ratio of milk and water in the resultant mixture is 9: 1.",
-      "solution": "Sum of the ratio= 3 +2 =5\nAmount of milk in the mixture = 20 x 3. 12 litre\nAmount of water in the mixture = 20 z= 8 litre\nAfter removal of 10 litre mixture, the amount of milk will be = 10 x 3. 6 litres\n& After removal of 10 litre mixture, the amount of water will be = 10 x 25 4 litres\nAfter pouring 10 litre pure milk, the amount of milk in the new mixture will be = 10 +6 = 16 litres\n& the amount of water will remain unchanged, that is 4 litres.\nNow the ratio of milk & water in the new mixture will be= 16: 4=4:1\nAfter removal of 10 litre mixture, the amount of milk in that mixture will be = 10 x 4 = 8 litres\nAnd the amount of water will be = 10 x i= 2 litres\nNow, After addition of 10 litre pure milk in the mixture, the new amount of milk and water will\nbe (8 + 10) = 18 litres and 2 litres respectively.\nThe ratio of milk and water in the resultant mixture = 18:2=9: 1.\nans: The ratio of milk and water in the resultant mixture is 9: 1."
-    },
-    {
-      "id": 407,
-      "book_no": 581,
-      "year": 2016,
-      "bank": "Dutch-Bangla Bank",
-      "post": "Probationary Officer",
-      "Topic": "Speed, Time & Distance",
-      "question": "581, Abul and Balam ran, at their respective constant rates, a race of 480. In the first heat, ie Abul gives Balam a head start of 48 and beats him by fin of a minute. In the second heat, Abul gives Balam a head start of 144mm and is beaten by ath of a minute. What is Balam's speed in m/s?",
-      "options": [],
-      "answer": "Balam's speed is 12 meter/secound.",
-      "solution": "In the first heat, Distance of Balam from Abul is 432m\nNow, If Abul takes ¢ minutes, then Balam takes (« +h) minutes\nIn the second heat, Distance of Balam from Abul is 336m\n1\nSo, if Abul takes ¢ minutes, then Balam takes = (« >) minutes\n‘ oe |\nTherefore, to run (432 — 336) = 96m, Balam took time Gs +75) second\n. _ Distance\nAs velocity = “Time\nSo, Speed of Balam = 4\n(5 * 1)\n96\nSpeed of Balam = 773\n30\n_96\nA\n30\n_ 96x 30\n4\n= 720 meter/minute\n= “4 meter/secound\n= 12 meter/secound\nans: Balam's speed is 12 meter/secound."
-    },
-    {
-      "id": 408,
-      "book_no": 582,
-      "year": 2016,
-      "bank": "Modhumoti Bank",
-      "post": "Probationary Officer",
-      "Topic": "Work & Time",
-      "question": "A man has to go 104m to catch a bus. He walks part of the way at 7km/per hour and runs the rest of the way at 12kmyper hour. If he takes 1 hour 15 minutes to complete his journey, find how far he walked. wy $ ates Fn oR, Gas aH acs ats crs 10 fai Hq wfoaT saw Bre 1 @ 10 fofR HaTQa foR",
-      "options": [],
-      "answer": "His walking distance is 7 km.",
-      "solution": "We know, | hour 15 minutes = 1.25 hours\nLet, time taken by the man to walk is x hours\nTime taken by the man to walk is (1.25 — x) hours\nSo distance covered by walking is 7x km\nand distance covered by walking is 12(1.25 —x) km\nAs of question, 7x + 12(1.25— x)= 10\n=> 7x +15-12x= 10\n=> 12x-7x= 15-10\n=>5x=5\nx=]\nHe walked 1 hour to catch the bus.\nHis walking distance is = 7x km\n=7x1l=7km.\nans: His walking distance is 7 km."
-    },
-    {
-      "id": 409,
-      "book_no": 585,
-      "year": 2016,
-      "bank": "Modhumoti Bank",
-      "post": "Probationary Officer",
-      "Topic": "Geometry",
-      "question": "ABC is triangle in which AB = 3 cm, BC = 5 cm and AC = 4 cm. AD is a perpendicular from A to BC, Find the lenght of AD.",
-      "options": [],
-      "answer": "AD 2.4cm",
-      "solution": "Here, three arms of the triangle are a = BC = 5cm\nb=AC=4em\nc=AB=3cm\nSo perimeter of the triangle isa + 6+ c¢=(5+4+3)=l2cm\n3 12\nHalf of the perimeter, s = = 6\nArea of the triangle is = sts - ays - bs -c)\n= Y6(6 - 5X6 - 4)(6 - 3)\n= v 6x 1x2x3\n= 36\n= 6?\n=6\nAnd again, Area of the triangle is = ; x base x height\n1\n=3x §5xAD\nAs of question, 3 x 5x AD=6\n=> AD= aes\n-2\n=> AD= 5\nAD = 2.4cm\nans: AD 2.4cm"
-    },
-    {
-      "id": 411,
-      "book_no": 587,
-      "year": 2016,
-      "bank": "Dhaka Bank",
-      "post": "Trainee Officer",
-      "Topic": "Interest",
-      "question": "The simple interest on a sum of money will be Tk. 600 after 10 years. If the principal is trebied after 5 years, what will be the total interest at the end of the tenth year?",
-      "options": [],
-      "answer": "At the end of tenth year total interest will be 1.200 Tk.",
-      "solution": "Amount of interest in 10 years = 600 Tk.\nA . 600\nAmount of interest in I years = To = 60 Tk.\nIn simple interest, when the principal is trebled, the interest will also be trebled.\nAmount of interest in the first 5 years = 5 x 60 = 300 Tk.\nAnd the amount of interest in the next 5 years = 60 x 5 x 3 = 900 Tk.\nAt the end of tenth year total interest will be = 300 + 900 = 1,200 Tk.\nans: At the end of tenth year total interest will be 1.200 Tk."
-    },
-    {
-      "id": 412,
-      "book_no": 589,
-      "year": 2017,
-      "bank": "Janata Bank",
-      "post": "Electrical",
-      "Topic": "Profit & Loss",
-      "question": "A lamp is manufactured to sell for $35.00, which yields a profit of 25% of cost. If the profit is to be reduced to 15% of cost, what will be the new retail price of the lamp?",
-      "options": [],
-      "answer": "The new retail price of the lamp will be $32.20",
-      "solution": "Let, the cost of the lamp is $100\nNow, at 25% profit, the sales price = $(100 + 25) = $125\nIf sales price is $125 then cost price is $100 Ast Bey Cle Cost A\nIf sales price is $1 then cost price is st aar18 se eos\nClt# Retail price (4\nPMI |\nIf sales price is $35 then cost price is = $28\nAgain, at 15% profit, the sales or retail price = $(100 + 15) =$ 115\nIf cost price is $100 then retail price is $115\nIf cost price is $1 then retail price is sis\nIf cost price is $28 then retail price is gilbx28 $32.20\nans: The new retail price of the lamp will be $32.20"
-    },
-    {
-      "id": 413,
-      "book_no": 590,
-      "year": 2017,
-      "bank": "Janata Bank",
-      "post": "Civil",
-      "Topic": "Profit & Loss",
-      "question": "The price of a balcony seat in a theater is dog the price of a seat in the orchestra. When the theater is completely sold out, the total receipts from the 600 orchestra seats and the 450 balcony seats are $4500. What is the price of one orchestra seat?",
-      "options": [],
-      "answer": "The price of one orchestra seat is $6.",
-      "solution": "Since the price of a balcony seat in a theater is ; of the price of a orchestra seat,\nSo, let the price of a seat in the orchestra = $x\nThe price of a balcony seat = x x4 = 3\nAccording to the question,\n(600 x x) + ( 450 x4) = 4500 weeire aR wa Proa wes\nTS OF BTR | BIAS AR\n> 750x = 4500\n_ 4500 _\nx= \"759 ~ 6\nans: The price of one orchestra seat is $6."
-    },
-    {
-      "id": 414,
-      "book_no": 592,
-      "year": 2017,
-      "bank": "Sonali Bank",
-      "post": "IT",
-      "Topic": "Speed, Time & Distance",
-      "question": "A man goes upstream at 10 km/hr to a place and back downstream to the ant same point at 6 km/hr. What is his average speed in the journey?",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 415,
-      "book_no": 593,
-      "year": 2017,
-      "bank": "Sonali Bank",
-      "post": "IT",
-      "Topic": "Speed, Time & Distance",
-      "question": "A man is standing on a railway bridge which is 180m long. He finds that a oe train crosses the bridge in 20 seconds and crosses him in 8 seconds. Find the length of the train and its speed. - SPP PP 7 ere 304, The sum of ages of the father and son is 50 years, When the age of the son will be equal to the present age of the fath OO ee eon en are wi Dee ee a tien ge of the father, the sum of their ages will be we wats me ¢ 7 present ages of father and son. 505. . selling a table . 39, pain is a ani :",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 416,
-      "book_no": 595,
-      "year": 2017,
-      "bank": "Sonali Bank",
-      "post": "IT",
-      "Topic": "Profit & Loss",
-      "question": "By oF ie or 39, gain is as much in percent as its cost. What is",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 417,
-      "book_no": 597,
-      "year": 2017,
-      "bank": "Bangladesh Krishi Bank",
-      "post": "Senior Officer",
-      "Topic": "Speed, Time & Distance",
-      "question": "1 We ' aki ence his office at a certain fixed time. If he walks at the rate 5 km om : ber Hour: ( ml h) he is. late by 7 minutes, If he walks at the rate 6 kmh, he = eaeies the office 5 minutes earlier. How far is the office from his house?",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 418,
-      "book_no": 598,
-      "year": 2017,
-      "bank": "Bangladesh Krishi Bank",
-      "post": "Senior Officer",
-      "Topic": "Interest",
-      "question": "A man deposited Tk 5,000 with a bank that pays interest at the rate of 5% Big per annum every six month, The man will withdraw Tk 500 from his : principal plus any interest accrued at each six-month period. How much total interest can he expect to receive?",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 419,
-      "book_no": 599,
-      "year": 2017,
-      "bank": "Bangladesh Krishi Bank",
-      "post": "Senior Officer",
-      "Topic": "Work & Time",
-      "question": "A man earned Tk. 5,000 from interest and wages. If he doubles his Bis : investment and also gets 50% increased wages than before, his earning will : stand to Tk. 8,000. Determine the original income of the man both in terms : of interest and wages. Twenty men can finish a piece of work in 30 days. After how many days oe FT ; ' should 5 men leave the work so that it may be finished in 35 days?",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 420,
-      "book_no": 601,
-      "year": 2017,
-      "bank": "United Commercial Bank",
-      "post": "Management Trainee Officer",
-      "Topic": "Work & Time",
-      "question": "Mr. Zahid signed a contract for building a road of 1920 meters long within Te 44R 120 days. He employed 160 workers for this task. But after 24 days he found 7 that only 1/8 of the task has been finished. If Mr. Zahid wants to finish the road in time how many additional workers he has to employ?",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 421,
-      "book_no": 602,
-      "year": 2017,
-      "bank": "United Commercial Bank",
-      "post": "Management Trainee Officer",
-      "Topic": "Interest",
-      "question": "The simple interest on a sum of money will be Tk. 600 after 10 years. If the mul principal is trebled after 5 years, what will be the total interest at the end of the tenth year?",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 422,
-      "book_no": 605,
-      "year": 2017,
-      "bank": "Bangladesh Bank",
-      "post": "Cash Officer",
-      "Topic": "Profit & Loss",
-      "question": "Shakil started 'a business investing Tk. 25,000 in 2009. In 2010, he invested Sets an additional amount of Tk. 10,000 and Raihan joined him with an amount COnCins of Tk. 35,000, In 2011 Shakil invested another additional amount of He 10,000 and Jafor joined them with an amount of Tk. 35,000. W hat wil ye Raihan's share in the profit of Tk. 1,50,000 earned at the end of 3 years from the start of the business in 2009. r",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 423,
-      "book_no": 606,
-      "year": 2017,
-      "bank": "Bangladesh Bank",
-      "post": "Cash Officer",
-      "Topic": "Work & Time",
-      "question": "If 9 engines consume 24 metric tonnes of coal, when each is working 8 hours IS aay a day, how much coal will be required for 8 engines, each running 13 boars a ay day, it being given that 3 engines of former type consume as much as 4 engines of latter type? -",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 424,
-      "book_no": 607,
-      "year": 2017,
-      "bank": "Bangladesh Bank",
-      "post": "Cash Officer",
-      "Topic": "Interest",
-      "question": "Dawood invested certain amount in three different schemes A, B and Cwith web the rate of interest 10% p.a., 12% p. a. and 15% p. a respectively. If the the total interest accrued in one year was Tk. 3200 and the amount invested in Scheme C was 150% of the amount invested in Scheme A and 240% of ine Amount invested in Scheme B, what was the amount invested in Scheme B? ees",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 425,
-      "book_no": 608,
-      "year": 2017,
-      "bank": "Dutch-Bangla Bank",
-      "post": "Assistant Officer",
-      "Topic": "Permutation & Combination",
-      "question": "A picnic was arranged by m students. Total cost of the picnic was estimated Feat to be y taka. Unfortunately, z students withdrew their names from the picnic. How many more taka would each of the remaining students have to pa 2",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 426,
-      "book_no": 609,
-      "year": 2017,
-      "bank": "Dutch-Bangla Bank",
-      "post": "Assistant Officer",
-      "Topic": "Number System",
-      "question": "A number consists of 3 digits whose sum is 10. The middle digit is equal to Fe the sum of the other two and the number will be increased by 99 if these two eat digits are reversed. What is the number? = Bees eee",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 427,
-      "book_no": 611,
-      "year": 2017,
-      "bank": "Southeast Bank",
-      "post": "AQ",
-      "Topic": "Profit & Loss",
-      "question": "Selling 12 candies at a price of Tk 10 yields a loss of x% and selling 12 aS aS candies at a price of Tk 12 yields a profit of x%. What is the value of x?",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 428,
-      "book_no": 612,
-      "year": 2017,
-      "bank": "One Bank",
-      "post": "SCO",
-      "Topic": "Interest",
-      "question": "Salam used part of Tk. 100,000 to purchase a television. Of the remaining Ba portion, he invested 1/3 of it at 4 percent simple annual interest and 2/3 of it at 6 percent simple annual interest. If, after a year the income from the two investments totaled Tk. 320, what was the purchase price of the television?",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 429,
-      "book_no": 613,
-      "year": 2017,
-      "bank": "One Bank",
-      "post": "SCO",
-      "Topic": "Work & Time",
-      "question": "A man has to go 10km to catch a bus. He walks part of the way at 7km/per ot hour and runs the rest of the way at 12k:m/per hour. If he takes 1 hour 15 minutes to complete his journey, find how far he walked.",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 430,
-      "book_no": 614,
-      "year": 2017,
-      "bank": "One Bank",
-      "post": "SCO",
-      "Topic": "Geometry",
-      "question": "is 2ti i emirate The length of a rectangular field is 1 times of width. An amount of Tk. 10,260 was needéd to cover the field with grass at the rate of Tk. 1.9 per square meter, How much would it cost to fence the four sides of the rectangular field at the rate of Tk. 2.5 per meter?",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 431,
-      "book_no": 616,
-      "year": 2017,
-      "bank": "Janata Bank",
-      "post": "",
-      "Topic": "Work & Time",
-      "question": ") A number when divided successively by 4 and 5 leaves remainders 1 and 4 Ore respectively. When it is successively divided by 5 and 4, what will be the respective remainders? G17. & contactor undertakes to do a piece of work in 40 days. He engages 100 Ma 67H men at the beginning and 100 more after 35 days and completes the work in stipulated time. If he had not engaged the additional men, how many days behind schedule would it be finished?",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 432,
-      "book_no": 618,
-      "year": 2017,
-      "bank": "Janata Bank",
-      "post": "",
-      "Topic": "Average",
-      "question": "In a certain office, 1/3 of the workers are women, 1/2 of the women are elet married and 1/3 of the married women have children. If 3/4 of the men are married and 2,3 of the married men have children, what part of workers are without children? 679. The average weight of three men A, B and Cis 84 kg. Another man D joins te the group and the average now becomes 80 kg. If another man E, whose weight is 3 kg more than that of D, replaces A, then the averages weight of B, C,D and E becomes 79 kg. What is the weight of A?",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 433,
-      "book_no": 620,
-      "year": 2017,
-      "bank": "Modhumoti Bank",
-      "post": "Probationary Officer",
-      "Topic": "Work & Time",
-      "question": "A,B and C started a job which they can complete in 2 days. B can do the job Wes WaT in 5 days and C can do it in 4 days. After working for 1 day, both B and C left. How long would it take A to complete the rest of the job?",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 434,
-      "book_no": 621,
-      "year": 2017,
-      "bank": "Modhumoti Bank",
-      "post": "Probationary Officer",
-      "Topic": "Speed, Time & Distance",
-      "question": "A man's running speed is 3 times of his walking speed. He runs a distance ot and comes back by walking. Total time taken by him is 2 hours. What is the distance in miles if he runs 9 miles per hour?",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 435,
-      "book_no": 622,
-      "year": 2017,
-      "bank": "Modhumoti Bank",
-      "post": "Probationary Officer",
-      "Topic": "Profit & Loss",
-      "question": "A shirt was sold at 6% profit. If the Purchase price was 4% less and the a1e-{e selling price was Tk. 4 more, the profit would be 12.5%. What was the purchase price of the shirt? 23. soive the equations +5 eget aIPeInES",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 436,
-      "book_no": 628,
-      "year": 2017,
-      "bank": "Southeast Bank",
-      "post": "TCO",
-      "Topic": "Arithmetic",
-      "question": "Ree STN ero Ne ere Tart Stet es?",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 437,
-      "book_no": 629,
-      "year": 2017,
-      "bank": "Bank Asia",
-      "post": "Management Trainee",
-      "Topic": "Interest",
-      "question": "Mr. Karim borrowed Tk. 500 at 5% simple interest per year. After some Dig time, he borrowed Tk. 400 at 34 % simple interest per year for the second F , 4 time. Six months after the second time borrowing, he repaid both the : borrowed money along with interest and the amount repaid was Tk. 994.50, ; How many years after the first time borrowing Mr. Karim repaid the : borrowed money? : 4 q 7",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 438,
-      "book_no": 630,
-      "year": 2017,
-      "bank": "Bank Asia",
-      "post": "Management Trainee",
-      "Topic": "Work & Time",
-      "question": "Rahim can do a piece of work in 80 days. Rahim works for 10 days and 3 iq Karim alone finishes the rest of the work in 42 days. How much time would it take for the two of them together to complete the whole work?",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 439,
-      "book_no": 631,
-      "year": 2017,
-      "bank": "Bank Asia",
-      "post": "Management Trainee",
-      "Topic": "Geometry",
-      "question": "er : ae Tk. SRE 631. rhe length of a rectangular field is I} times of width. An amount of Tk. 10,260 was needed to cover the field with grass at the rate of 19 Tk. per jsanare meter. How much would it cost to fence the four sides of the rectangular field at the rate of Tk. 2.5 per meter?",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
+  {
+    "id": 399,
+    "book_no": 571,
+    "year": 2016,
+    "bank": "Southeast Bank",
+    "post": "Probationary Officer",
+    "Topic": "Algebra",
+    "question": "[OCR unclear] The question appears to contain an algebraic equation followed by a request to find the value of an expression. The original scan is required for accurate reconstruction.",
+    "options": [],
+    "answer": "Cannot be determined from the available text.",
+    "solution": "The OCR text, \"py 44=2, What is the value of Rene x mages\", is too corrupted to identify the equation and the required expression reliably. Please provide the original question image so that the question and its answer can be corrected accurately."
+  },
+  {
+    "id": 400,
+    "book_no": 572,
+    "year": 2016,
+    "bank": "Bank Asia",
+    "post": null,
+    "Topic": "Average",
+    "question": "The average marks obtained by 300 students in a class is 80. When 10% of the students are excluded, the average marks of the remaining students become 85. Find the average marks of the excluded students.",
+    "options": [
+      "30",
+      "35",
+      "40",
+      "45"
+    ],
+    "answer": "35 marks",
+    "solution": "Given:\nTotal students = 300\nAverage marks of all students = 80\nPercentage of excluded students = 10%\nAverage marks of the remaining students = 85\n\nStep 1: Calculate the total marks of all students.\nTotal marks = 300 × 80 = 24,000\n\nStep 2: Calculate the number of excluded students.\nExcluded students = 300 × 10/100 = 30\nRemaining students = 300 − 30 = 270\n\nStep 3: Calculate the total marks of the remaining students.\nTotal marks = 270 × 85 = 22,950\n\nStep 4: Calculate the average marks of the excluded students.\nTotal marks of excluded students = 24,000 − 22,950 = 1,050\nAverage marks = 1,050/30 = 35\n\nTherefore, the average marks of the excluded students are 35.\n\nShortcut: Use the weighted-average formula. Average of excluded students = [300 × 80 − 270 × 85]/30 = 35."
+  },
+  {
+    "id": 401,
+    "book_no": 573,
+    "year": 2016,
+    "bank": "Bank Asia",
+    "post": null,
+    "Topic": "Ratio & Proportion",
+    "question": "The ratio of gold to silver in an ornament weighing 42 grams is 4:3. How many grams of gold must be added to make the ratio of gold to silver 5:3?",
+    "options": [
+      "4 grams",
+      "5 grams",
+      "6 grams",
+      "8 grams"
+    ],
+    "answer": "6 grams",
+    "solution": "Given:\nTotal weight of the ornament = 42 grams\nInitial ratio of gold to silver = 4:3\nRequired ratio of gold to silver = 5:3\n\nStep 1: Calculate the initial quantities of gold and silver.\nTotal ratio parts = 4 + 3 = 7\nGold = 42 × 4/7 = 24 grams\nSilver = 42 × 3/7 = 18 grams\n\nStep 2: Let x be the amount of gold to be added.\nAccording to the required ratio:\n(24 + x)/18 = 5/3\n3(24 + x) = 18 × 5\n72 + 3x = 90\n3x = 18\nx = 6 grams\n\nTherefore, 6 grams of gold must be added.\n\nShortcut: Since silver remains unchanged at 18 grams, the required gold quantity is 18 × 5/3 = 30 grams. Gold to be added = 30 − 24 = 6 grams."
+  },
+  {
+    "id": 402,
+    "book_no": 574,
+    "year": 2016,
+    "bank": "Bank Asia",
+    "post": null,
+    "Topic": "Pipe & Cistern",
+    "question": "A cistern can be filled in 10 hours, but it takes 12 hours to fill it because of a leak at the bottom. If the cistern is full, how long will the leak take to empty it?",
+    "options": [
+      "40 hours",
+      "50 hours",
+      "60 hours",
+      "120 hours"
+    ],
+    "answer": "60 hours",
+    "solution": "Given:\nTime taken to fill the cistern without the leak = 10 hours\nTime taken to fill the cistern with the leak = 12 hours\n\nStep 1: Calculate the filling rate without the leak.\nFilling rate = 1/10 of the cistern per hour\n\nStep 2: Calculate the net filling rate with the leak.\nNet filling rate = 1/12 of the cistern per hour\n\nStep 3: Calculate the leak's emptying rate.\nLeak's rate = 1/10 − 1/12\n= (6 − 5)/60\n= 1/60 of the cistern per hour\n\nTherefore, the leak will empty the full cistern in 60 hours.\n\nShortcut: Leak's emptying time = (10 × 12)/(12 − 10) = 60 hours."
+  },
+  {
+    "id": 404,
+    "book_no": 576,
+    "year": 2016,
+    "bank": "Islami Bank",
+    "post": "TSO",
+    "Topic": "Speed, Time & Distance",
+    "question": "A man's running speed is three times his walking speed. He runs to a certain point and returns to his starting point on foot. If his running speed is 9 miles per hour and the total journey takes 2 hours, what is the one-way distance?",
+    "options": [
+      "3 miles",
+      "4 miles",
+      "4.5 miles",
+      "6 miles"
+    ],
+    "answer": "4.5 miles",
+    "solution": "Given:\nRunning speed = 9 miles/hour\nWalking speed = 9/3 = 3 miles/hour\nTotal journey time = 2 hours\n\nLet the one-way distance be x miles.\n\nStep 1: Calculate the time taken to run to the point.\nRunning time = x/9 hours\n\nStep 2: Calculate the time taken to walk back.\nWalking time = x/3 hours\n\nStep 3: Form an equation using the total time.\nx/9 + x/3 = 2\nx/9 + 3x/9 = 2\n4x/9 = 2\n4x = 18\nx = 18/4 = 4.5 miles\n\nTherefore, the one-way distance is 4.5 miles.\n\nShortcut: Since the running and walking speeds are 9 and 3 miles/hour, respectively, the total time is x(1/9 + 1/3) = 2. Solving gives x = 4.5 miles."
+  },
+  {
+    "id": 405,
+    "book_no": 578,
+    "year": 2016,
+    "bank": "Islami Bank",
+    "post": "TSO",
+    "Topic": "Geometry",
+    "question": "The length of a rectangular field is 30 feet more than its width, and its perimeter is 380 feet. What is the area of the field in square feet?",
+    "options": [
+      "8,000 square feet",
+      "8,400 square feet",
+      "8,800 square feet",
+      "9,000 square feet"
+    ],
+    "answer": "8,800 square feet",
+    "solution": "Given:\nLength = Width + 30 feet\nPerimeter = 380 feet\n\nLet the width be x feet.\nThen the length = (x + 30) feet.\n\nStep 1: Use the perimeter formula.\n2(Length + Width) = 380\n2(x + 30 + x) = 380\n2(2x + 30) = 380\n4x + 60 = 380\n4x = 320\nx = 80 feet\n\nTherefore:\nWidth = 80 feet\nLength = 80 + 30 = 110 feet\n\nStep 2: Calculate the area.\nArea = Length × Width\n= 110 × 80\n= 8,800 square feet\n\nTherefore, the area of the rectangular field is 8,800 square feet.\n\nShortcut: Half the perimeter is 190 feet. Since length exceeds width by 30 feet, width = (190 − 30)/2 = 80 feet and length = 110 feet. Area = 80 × 110 = 8,800 square feet."
+  },
+  {
+    "id": 406,
+    "book_no": 580,
+    "year": 2016,
+    "bank": "Dutch-Bangla Bank",
+    "post": "Probationary Officer",
+    "Topic": "Mixture & Alligation",
+    "question": "A 20-litre mixture of milk and water contains milk and water in the ratio 3:2. Ten litres of the mixture is removed and replaced with pure milk. The operation is repeated once more. What is the ratio of milk to water in the resultant mixture?",
+    "options": [
+      "7:3",
+      "4:1",
+      "9:1",
+      "19:1"
+    ],
+    "answer": "9:1",
+    "solution": "Initially, milk = 20 × 3/5 = 12 litres and water = 20 × 2/5 = 8 litres.\n\nFirst operation:\nAfter removing 10 litres of the mixture, milk remaining = 12 × 10/20 = 6 litres, and water remaining = 8 × 10/20 = 4 litres.\nAfter adding 10 litres of pure milk:\nMilk = 6 + 10 = 16 litres.\nWater = 4 litres.\n\nSecond operation:\nAfter removing 10 litres of the new mixture:\nMilk remaining = 16 × 10/20 = 8 litres.\nWater remaining = 4 × 10/20 = 2 litres.\nAfter adding 10 litres of pure milk:\nMilk = 8 + 10 = 18 litres.\nWater = 2 litres.\n\nTherefore, the final ratio of milk to water = 18:2 = 9:1.\n\nShortcut: When half of a mixture is removed and replaced with pure milk, the amount of water is halved each time. Initial water = 8 litres; after two operations, water = 8 × (1/2)² = 2 litres. Since the total mixture remains 20 litres, milk = 18 litres. Hence, the ratio is 9:1."
+  },
+  {
+  "id": 407,
+  "book_no": 581,
+  "year": 2016,
+  "bank": "Dutch-Bangla Bank",
+  "post": "Probationary Officer",
+  "Topic": "Speed, Time & Distance",
+  "question": "Abul and Balam ran a 480-metre race at their respective constant speeds. In the first heat, Abul gives Balam a 48-metre head start and beats him by 1/15 of a minute. In the second heat, Abul gives Balam a 144-metre head start and is beaten by 1/15 of a minute. What is Balam's speed in metres per second?",
+  "options": [
+    "10 m/s",
+    "12 m/s",
+    "14 m/s",
+    "16 m/s"
+  ],
+  "answer": "12 m/s",
+  "solution": "In the first heat, Abul runs 480 metres while Balam runs 480 - 48 = 432 metres. Abul wins by 1/15 minute = 4 seconds.\n\nIn the second heat, Abul runs 480 metres while Balam runs 480 - 144 = 336 metres. Balam wins by 1/15 minute = 4 seconds.\n\nLet Abul's speed be A m/s and Balam's speed be B m/s.\n\nFrom the first heat:\n432/B - 480/A = 4  ...(1)\n\nFrom the second heat:\n480/A - 336/B = 4  ...(2)\n\nAdding equations (1) and (2):\n(432 - 336)/B = 8\n96/B = 8\nB = 12 m/s.\n\n(Note: Substituting B = 12 into equation (1) gives 36 - 480/A = 4 => A = 15 m/s.)"
+},
+  {
+    "id": 408,
+    "book_no": 582,
+    "year": 2016,
+    "bank": "Modhumoti Bank",
+    "post": "Probationary Officer",
+    "Topic": "Work & Time",
+    "question": "A man has to travel 10 km to catch a bus. He walks part of the way at 7 km/h and runs the rest at 12 km/h. If he takes 1 hour 15 minutes to complete the journey, how far does he walk?",
+    "options": [
+      "5 km",
+      "6 km",
+      "7 km",
+      "8 km"
+    ],
+    "answer": "7 km",
+    "solution": "Total distance = 10 km.\nTotal time = 1 hour 15 minutes = 1.25 hours.\n\nLet the time spent walking be x hours. Then the time spent running is (1.25 − x) hours.\n\nDistance walked = 7x km.\nDistance run = 12(1.25 − x) km.\n\nAccording to the question:\n7x + 12(1.25 − x) = 10\n7x + 15 − 12x = 10\n−5x = −5\nx = 1 hour.\n\nDistance walked = 7 × 1 = 7 km.\n\nShortcut: If the entire 10 km were covered at 12 km/h, the time would be 10/12 hour. Walking instead of running for each kilometre adds time. The walking distance is 7 km, as verified by the equation above."
+  },
+
+  {
+    "id": 409,
+    "book_no": 585,
+    "year": 2016,
+    "bank": "Modhumoti Bank",
+    "post": "Probationary Officer",
+    "Topic": "Geometry",
+    "question": "ABC is a triangle in which AB = 3 cm, BC = 5 cm, and AC = 4 cm. AD is perpendicular to BC. Find the length of AD.",
+    "options": [
+      "1.8 cm",
+      "2.0 cm",
+      "2.4 cm",
+      "3.0 cm"
+    ],
+    "answer": "2.4 cm",
+    "solution": "The sides of the triangle are AB = 3 cm, AC = 4 cm, and BC = 5 cm. Since 3² + 4² = 5², the triangle is right-angled at A.\n\nStep 1: Calculate the area using the two perpendicular sides.\nArea = ½ × AB × AC\n= ½ × 3 × 4\n= 6 cm²\n\nStep 2: Calculate the area using BC as the base and AD as the height.\nArea = ½ × BC × AD\n6 = ½ × 5 × AD\n12 = 5 × AD\nAD = 12/5 = 2.4 cm\n\nTherefore, AD = 2.4 cm.\n\nShortcut: In a right triangle, the altitude from the right angle to the hypotenuse is (product of the two legs)/(hypotenuse). Thus, AD = (3 × 4)/5 = 2.4 cm."
+  },
+  {
+    "id": 411,
+    "book_no": 587,
+    "year": 2016,
+    "bank": "Dhaka Bank",
+    "post": "Trainee Officer",
+    "Topic": "Interest",
+    "question": "The simple interest on a sum of money is Tk. 600 after 10 years. If the principal is trebled after 5 years, what will be the total interest at the end of the tenth year?",
+    "options": [
+      "Tk. 900",
+      "Tk. 1,000",
+      "Tk. 1,200",
+      "Tk. 1,500"
+    ],
+    "answer": "Tk. 1,200",
+    "solution": "Given:\nInterest on the original principal for 10 years = Tk. 600\n\nStep 1: Calculate the interest for the first 5 years.\nInterest for 5 years = 600 × 5/10 = Tk. 300\n\nStep 2: Calculate the interest for the next 5 years.\nThe principal is trebled after 5 years. Therefore, the interest for the next 5 years is three times the interest for the first 5 years.\nInterest for the next 5 years = 300 × 3 = Tk. 900\n\nStep 3: Calculate the total interest.\nTotal interest = 300 + 900 = Tk. 1,200\n\nTherefore, the total interest at the end of 10 years is Tk. 1,200.\n\nShortcut: Under simple interest, interest is directly proportional to both principal and time. The first 5 years earn Tk. 300, and the next 5 years earn three times as much, or Tk. 900."
+  },
+  {
+    "id": 412,
+    "book_no": 589,
+    "year": 2017,
+    "bank": "Janata Bank",
+    "post": "Electrical",
+    "Topic": "Profit & Loss",
+    "question": "A lamp is marked to sell for $35.00, yielding a profit of 25% of its cost price. If the profit is reduced to 15% of the cost price, what will be the new selling price of the lamp?",
+    "options": [
+      "$30.20",
+      "$31.50",
+      "$32.20",
+      "$33.00"
+    ],
+    "answer": "$32.20",
+    "solution": "Given:\nOriginal selling price = $35\nOriginal profit = 25% of cost price\nNew profit = 15% of cost price\n\nStep 1: Calculate the original cost price.\nIf the cost price is 100, the selling price at 25% profit is 125.\nTherefore, cost price = 35 × 100/125 = $28\n\nStep 2: Calculate the new selling price.\nNew selling price = 28 × (100 + 15)/100\n= 28 × 1.15\n= $32.20\n\nTherefore, the new selling price is $32.20.\n\nShortcut: Original cost price = 35/1.25 = $28. New selling price = 28 × 1.15 = $32.20."
+  },
+  {
+    "id": 413,
+    "book_no": 590,
+    "year": 2017,
+    "bank": "Janata Bank",
+    "post": "Civil",
+    "Topic": "Profit & Loss",
+    "question": "The price of a balcony seat in a theatre is one-third of the price of an orchestra seat. When the theatre is completely sold out, the total receipts from 600 orchestra seats and 450 balcony seats are $4,500. What is the price of one orchestra seat?",
+    "options": [
+      "$4",
+      "$5",
+      "$6",
+      "$8"
+    ],
+    "answer": "$6",
+    "solution": "Assumption: The OCR-corrupted fraction in the question is reconstructed as 1/3, which is consistent with the supplied solution.\n\nLet the price of one orchestra seat be $x.\nThen the price of one balcony seat = x/3.\n\nAccording to the question:\n600x + 450(x/3) = 4,500\n600x + 150x = 4,500\n750x = 4,500\nx = 4,500/750\nx = 6\n\nTherefore, the price of one orchestra seat is $6.\n\nShortcut: The total receipts represent 600 + (450/3) = 750 orchestra-seat price units. Therefore, the price of one orchestra seat = 4,500/750 = $6."
+  },
+  {
+    "id": 414,
+    "book_no": 592,
+    "year": 2017,
+    "bank": "Sonali Bank",
+    "post": "IT",
+    "Topic": "Speed, Time & Distance",
+    "question": "A man travels upstream to a place at 10 km/h and returns downstream to the same starting point at 6 km/h. What is his average speed for the entire journey?",
+    "options": [
+      "7 km/h",
+      "7.5 km/h",
+      "8 km/h",
+      "8.5 km/h"
+    ],
+    "answer": "7.5 km/h",
+    "solution": "Given:\nUpstream speed = 10 km/h\nDownstream speed = 6 km/h\nThe distances in both directions are equal.\n\nLet the one-way distance be d km.\n\nTotal distance = 2d\nTotal time = d/10 + d/6\n= (3d + 5d)/30\n= 8d/30\n= 4d/15\n\nAverage speed = Total distance/Total time\n= 2d ÷ (4d/15)\n= 2d × 15/(4d)\n= 7.5 km/h\n\nTherefore, the average speed is 7.5 km/h.\n\nShortcut: For equal distances, average speed = 2uv/(u + v). Thus, average speed = (2 × 10 × 6)/(10 + 6) = 7.5 km/h."
+  },
+  {
+    "id": 415,
+    "book_no": 593,
+    "year": 2017,
+    "bank": "Sonali Bank",
+    "post": "IT",
+    "Topic": "Speed, Time & Distance",
+    "question": "A man is standing on a railway bridge that is 180 metres long. He finds that a train crosses the bridge in 20 seconds and crosses him in 8 seconds. Find the length and speed of the train.",
+    "options": [
+      "Length = 120 m; Speed = 54 km/h",
+      "Length = 150 m; Speed = 60 km/h",
+      "Length = 180 m; Speed = 54 km/h",
+      "Length = 120 m; Speed = 60 km/h"
+    ],
+    "answer": "Length = 120 m; Speed = 54 km/h",
+    "solution": "Given:\nLength of bridge = 180 m\nTime to cross the man = 8 seconds\nTime to cross the bridge = 20 seconds\n\nLet the train's length be L metres and its speed be v metres per second.\n\nStep 1: Use the time taken to cross the man.\nL/v = 8\nTherefore, L = 8v.\n\nStep 2: Use the time taken to cross the bridge.\n(L + 180)/v = 20\nL + 180 = 20v\n\nSubstitute L = 8v:\n8v + 180 = 20v\n180 = 12v\nv = 15 m/s\n\nStep 3: Calculate the train's length.\nL = 8 × 15 = 120 m\n\nConvert speed into km/h:\n15 × 18/5 = 54 km/h\n\nTherefore, the train is 120 metres long and travels at 54 km/h.\n\nShortcut: The additional distance covered while crossing the bridge is 180 m in (20 − 8) = 12 seconds. Speed = 180/12 = 15 m/s. Train length = 15 × 8 = 120 m."
+  },
+  {
+    "id": 416,
+    "book_no": 595,
+    "year": 2017,
+    "bank": "Sonali Bank",
+    "post": "IT",
+    "Topic": "Profit & Loss",
+    "question": "An article is sold for Tk. 39, and the gain percentage is numerically equal to its cost price in taka. What is the cost price of the article?",
+    "options": [
+      "Tk. 20",
+      "Tk. 25",
+      "Tk. 30",
+      "Tk. 35"
+    ],
+    "answer": "Tk. 30",
+    "solution": "Assumption: The corrupted question is reconstructed as asking for the cost price when the selling price is Tk. 39 and the gain percentage is numerically equal to the cost price in taka.\n\nLet the cost price be Tk. x.\nThen the gain percentage = x%.\n\nSelling price = Cost price × (100 + Gain percentage)/100\n39 = x(100 + x)/100\n3,900 = 100x + x²\nx² + 100x − 3,900 = 0\n(x + 130)(x − 30) = 0\n\nSince the cost price must be positive, x = 30.\n\nTherefore, the cost price is Tk. 30.\n\nShortcut: Test the positive root: a cost price of Tk. 30 gives a 30% gain, and 30 + 30% of 30 = Tk. 39."
+  },
+  {
+    "id": 417,
+    "book_no": 597,
+    "year": 2017,
+    "bank": "Bangladesh Krishi Bank",
+    "post": "Senior Officer",
+    "Topic": "Speed, Time & Distance",
+    "question": "A man walks to his office at a fixed time every day. If he walks at 5 km/h, he arrives 7 minutes late. If he walks at 6 km/h, he arrives 5 minutes early. How far is his office from his house?",
+    "options": [
+      "5 km",
+      "6 km",
+      "7 km",
+      "8 km"
+    ],
+    "answer": "6 km",
+    "solution": "Given:\nFirst walking speed = 5 km/h\nSecond walking speed = 6 km/h\nDifference in arrival times = 7 + 5 = 12 minutes = 1/5 hour\n\nLet the distance be d km.\n\nDifference in travel times = d/5 − d/6\n= (6d − 5d)/30\n= d/30 hours\n\nAccording to the question:\nd/30 = 1/5\nd = 30/5\nd = 6 km\n\nTherefore, the office is 6 km from his house.\n\nShortcut: Distance = (Difference in time × Product of speeds)/(Difference in speeds). Thus, d = (1/5 × 5 × 6)/(6 − 5) = 6 km."
+  },
+  {
+    "id": 418,
+    "book_no": 598,
+    "year": 2017,
+    "bank": "Bangladesh Krishi Bank",
+    "post": "Senior Officer",
+    "Topic": "Interest",
+    "question": "A man deposits Tk. 5,000 in a bank that pays interest at 5% per annum, calculated every six months. At the end of each six-month period, he withdraws Tk. 500 from the principal, along with any interest accrued for that period. How much total interest will he receive?",
+    "options": [
+      "Tk. 625",
+      "Tk. 650",
+      "Tk. 687.50",
+      "Tk. 750"
+    ],
+    "answer": "Tk. 687.50",
+    "solution": "Assumption: The OCR phrase is interpreted as 5% per annum, with interest calculated and paid every six months. Therefore, the six-month interest rate is 2.5%.\n\nInitial principal = Tk. 5,000\nPrincipal withdrawn every six months = Tk. 500\nInterest rate per six months = 5%/2 = 2.5%\n\nThe principal balances on which interest is earned are:\nTk. 5,000, 4,500, 4,000, 3,500, 3,000, 2,500, 2,000, 1,500, 1,000, and 500.\n\nThere are 10 six-month periods.\n\nSum of principal balances:\nS = 10/2 × (5,000 + 500)\n= 5 × 5,500\n= Tk. 27,500\n\nTotal interest = 27,500 × 2.5/100\n= Tk. 687.50\n\nTherefore, the total interest received is Tk. 687.50.\n\nShortcut: Add the principal balances for all 10 periods and multiply by the six-month rate: 27,500 × 0.025 = Tk. 687.50."
+  },
+  {
+    "id": 419,
+    "book_no": 599,
+    "year": 2017,
+    "bank": "Bangladesh Krishi Bank",
+    "post": "Senior Officer",
+    "Topic": "Interest",
+    "question": "A man earns Tk. 5,000 from interest and wages. If he doubles his investment and his wages increase by 50%, his total income becomes Tk. 8,000. Find his original income from interest and wages separately.",
+    "options": [
+      "Interest Tk. 1,000; Wages Tk. 4,000",
+      "Interest Tk. 1,500; Wages Tk. 3,500",
+      "Interest Tk. 2,000; Wages Tk. 3,000",
+      "Interest Tk. 2,500; Wages Tk. 2,500"
+    ],
+    "answer": "Interest Tk. 1,000; Wages Tk. 4,000",
+    "solution": "Let the original income from interest be Tk. x and the original wages be Tk. y.\n\nAccording to the question:\nx + y = 5,000  ...(1)\n\nWhen the investment is doubled, interest doubles. Wages increase by 50%.\nTherefore:\n2x + 1.5y = 8,000  ...(2)\n\nMultiply equation (1) by 1.5:\n1.5x + 1.5y = 7,500\n\nSubtract this equation from equation (2):\n0.5x = 500\nx = 1,000\n\nSubstitute into equation (1):\n1,000 + y = 5,000\ny = 4,000\n\nTherefore, the original interest income was Tk. 1,000 and the original wages were Tk. 4,000.\n\nShortcut: Let interest be I and wages be W. From I + W = 5,000 and 2I + 1.5W = 8,000, subtract 1.5 times the first equation from the second to get I = Tk. 1,000."
+  },
+  {
+    "id": 420,
+    "book_no": 601,
+    "year": 2017,
+    "bank": "United Commercial Bank",
+    "post": "Management Trainee Officer",
+    "Topic": "Work & Time",
+    "question": "Mr. Zahid signed a contract to build a 1,920-metre-long road within 120 days. He employed 160 workers. After 24 days, he found that only 1/8 of the work had been completed. If he wants to finish the road on time, how many additional workers must he employ?",
+    "options": [
+      "80",
+      "100",
+      "120",
+      "140"
+    ],
+    "answer": "120 additional workers",
+    "solution": "Given:\nTotal time = 120 days\nInitial workers = 160\nWork completed in 24 days = 1/8\n\nStep 1: Calculate the remaining work and time.\nRemaining work = 1 − 1/8 = 7/8\nRemaining time = 120 − 24 = 96 days\n\nStep 2: Calculate the required number of workers.\n160 workers complete 1/8 of the work in 24 days.\nLet the required total number of workers be x.\n\nUsing the worker-day relationship:\n160 × 24 × (7/8) = x × 96 × (1/8)\n\nSimplifying:\nx = (160 × 24 × 7)/(96)\nx = 280\n\nStep 3: Calculate the additional workers.\nAdditional workers = 280 − 160 = 120\n\nTherefore, Mr. Zahid must employ 120 additional workers.\n\nShortcut: Required workforce = 160 × (7/8) × (120/96) = 280. Additional workers = 280 − 160 = 120."
+  },
+  {
+    "id": 421,
+    "book_no": 602,
+    "year": 2017,
+    "bank": "United Commercial Bank",
+    "post": "Management Trainee Officer",
+    "Topic": "Interest",
+    "question": "The simple interest on a sum of money is Tk. 600 after 10 years. If the principal is trebled after 5 years, what will be the total interest at the end of the tenth year?",
+    "options": [
+      "Tk. 900",
+      "Tk. 1,000",
+      "Tk. 1,200",
+      "Tk. 1,500"
+    ],
+    "answer": "Tk. 1,200",
+    "solution": "Given:\nInterest on the original principal for 10 years = Tk. 600\n\nInterest for the first 5 years = 600 × 5/10 = Tk. 300\n\nAfter 5 years, the principal is trebled. Under simple interest, the interest for the next 5 years will therefore be three times the interest for the first 5 years.\nInterest for the next 5 years = 300 × 3 = Tk. 900\n\nTotal interest = 300 + 900 = Tk. 1,200\n\nTherefore, the total interest at the end of 10 years is Tk. 1,200.\n\nShortcut: Interest is proportional to principal and time. First 5 years: Tk. 300. Next 5 years on triple the principal: Tk. 900. Total = Tk. 1,200."
+  },
+  {
+    "id": 422,
+    "book_no": 605,
+    "year": 2017,
+    "bank": "Bangladesh Bank",
+    "post": "Cash Officer",
+    "Topic": "Profit & Loss",
+    "question": "Shakil started a business in 2009 by investing Tk. 25,000. In 2010, he invested an additional Tk. 10,000, and Raihan joined him with Tk. 35,000. In 2011, Shakil invested another Tk. 10,000, and Jafor joined them with Tk. 35,000. What will be Raihan's share of the profit of Tk. 1,50,000 earned at the end of 3 years from the start of the business?",
+    "options": [
+      "Tk. 40,000",
+      "Tk. 45,000",
+      "Tk. 50,000",
+      "Tk. 60,000"
+    ],
+    "answer": "Tk. 50,000",
+    "solution": "Profit is divided according to the capital multiplied by the investment period.\n\nShakil's investment:\nTk. 25,000 for 3 years, Tk. 10,000 for 2 years, and Tk. 10,000 for 1 year.\nCapital-time = 25,000 × 3 + 10,000 × 2 + 10,000 × 1\n= 75,000 + 20,000 + 10,000\n= 1,05,000\n\nRaihan's investment:\nTk. 35,000 for 2 years.\nCapital-time = 35,000 × 2 = 70,000\n\nJafor's investment:\nTk. 35,000 for 1 year.\nCapital-time = 35,000 × 1 = 35,000\n\nProfit-sharing ratio = 1,05,000 : 70,000 : 35,000\n= 3 : 2 : 1\n\nRaihan's share = 2/(3 + 2 + 1) × 1,50,000\n= 2/6 × 1,50,000\n= Tk. 50,000\n\nTherefore, Raihan's share is Tk. 50,000.\n\nShortcut: Convert each investment into capital-years. The ratio is 3:2:1, so Raihan receives 2/6 of the total profit."
+  },
+  {
+    "id": 423,
+    "book_no": 606,
+    "year": 2017,
+    "bank": "Bangladesh Bank",
+    "post": "Cash Officer",
+    "Topic": "Work & Time",
+    "question": "If 9 engines consume 24 metric tonnes of coal when each works 8 hours a day, how much coal will be required for 8 engines, each running 13 hours a day, given that 3 engines of the first type consume as much coal as 4 engines of the second type?",
+    "options": [
+      "24 metric tonnes",
+      "25 metric tonnes",
+      "26 metric tonnes",
+      "28 metric tonnes"
+    ],
+    "answer": "26 metric tonnes",
+    "solution": "Given:\n9 engines of the first type consume 24 metric tonnes in 8 hours.\n3 engines of the first type consume as much coal as 4 engines of the second type.\nRequired: Coal consumed by 8 engines of the second type working 13 hours.\n\nStep 1: Convert the number of engines using the consumption ratio.\n3 first-type engines = 4 second-type engines.\nTherefore, 8 second-type engines are equivalent to 6 first-type engines.\n\nStep 2: Apply direct proportion for the working hours and number of engines.\nRequired coal = 24 × (6/9) × (13/8)\n= 24 × 1/2 × 13/8\n= 26 metric tonnes\n\nTherefore, 26 metric tonnes of coal will be required.\n\nShortcut: Convert 8 second-type engines into 6 first-type engines, then use the proportion 24 × (6/9) × (13/8) = 26."
+  },
+  {
+    "id": 424,
+    "book_no": 607,
+    "year": 2017,
+    "bank": "Bangladesh Bank",
+    "post": "Cash Officer",
+    "Topic": "Interest",
+    "question": "Dawood invested money in three different schemes A, B, and C at simple interest rates of 10%, 12%, and 15% per annum, respectively. If the total interest earned in one year was Tk. 3,200, and the amount invested in Scheme C was 150% of the amount invested in Scheme A and 240% of the amount invested in Scheme B, how much was invested in Scheme B?",
+    "options": [
+      "Tk. 4,000",
+      "Tk. 5,000",
+      "Tk. 6,000",
+      "Tk. 8,000"
+    ],
+    "answer": "Tk. 5,000",
+    "solution": "Let the amounts invested in schemes A, B, and C be A, B, and C respectively.\n\nGiven:\nC = 1.5A\nC = 2.4B\nTotal annual interest = Tk. 3,200\n\nFrom C = 2.4B:\nB = C/2.4\n\nFrom C = 1.5A:\nA = C/1.5\n\nUsing the interest equation:\n0.10A + 0.12B + 0.15C = 3,200\n\nSubstitute A = C/1.5 and B = C/2.4:\n0.10(C/1.5) + 0.12(C/2.4) + 0.15C = 3,200\n0.0666667C + 0.05C + 0.15C = 3,200\n0.2666667C = 3,200\nC = Tk. 12,000\n\nTherefore:\nB = 12,000/2.4 = Tk. 5,000\n\nTherefore, Tk. 5,000 was invested in Scheme B.\n\nShortcut: Since C = 1.5A = 2.4B, take A:B:C = 8:5:12. Interest on these amounts per unit is 10% × 8 + 12% × 5 + 15% × 12 = 2.6667 units. The total interest of Tk. 3,200 gives B = Tk. 5,000."
+  },
+  {
+    "id": 425,
+    "book_no": 608,
+    "year": 2017,
+    "bank": "Dutch-Bangla Bank",
+    "post": "Assistant Officer",
+    "Topic": "Permutation & Combination",
+    "question": "A picnic was arranged by m students, and the total cost was estimated to be y taka. Unfortunately, z students withdrew from the picnic. How many additional taka will each of the remaining students have to pay?",
+    "options": [
+      "yz/m",
+      "yz/[m(m − z)]",
+      "y/(m − z)",
+      "y/m"
+    ],
+    "answer": "yz/[m(m − z)] taka",
+    "solution": "Given:\nInitial number of students = m\nTotal picnic cost = y taka\nNumber of students who withdrew = z\n\nStep 1: Calculate the original contribution per student.\nOriginal contribution = y/m\n\nStep 2: Calculate the new contribution per remaining student.\nRemaining students = m − z\nNew contribution = y/(m − z)\n\nStep 3: Calculate the additional amount each student must pay.\nAdditional amount = y/(m − z) − y/m\n= [ym − y(m − z)]/[m(m − z)]\n= [ym − ym + yz]/[m(m − z)]\n= yz/[m(m − z)]\n\nTherefore, each remaining student must pay an additional yz/[m(m − z)] taka.\n\nShortcut: New contribution minus original contribution = y/(m − z) − y/m = yz/[m(m − z)]."
+  },
+  {
+    "id": 426,
+    "book_no": 609,
+    "year": 2017,
+    "bank": "Dutch-Bangla Bank",
+    "post": "Assistant Officer",
+    "Topic": "Number System",
+    "question": "A three-digit number has digits whose sum is 10. The middle digit is equal to the sum of the other two digits. The number increases by 99 when its first and last digits are reversed. What is the number?",
+    "options": [
+      "235",
+      "253",
+      "352",
+      "523"
+    ],
+    "answer": "253",
+    "solution": "Let the three-digit number be 100a + 10b + c, where a, b, and c are its hundreds, tens, and units digits.\n\nGiven:\na + b + c = 10  ...(1)\nb = a + c  ...(2)\n\nSubstitute equation (2) into equation (1):\na + (a + c) + c = 10\n2a + 2c = 10\na + c = 5\nTherefore, b = 5.\n\nWhen the first and last digits are reversed, the number increases by 99:\n(100c + 50 + a) − (100a + 50 + c) = 99\n99(c − a) = 99\nc − a = 1\n\nNow solve:\na + c = 5\nc − a = 1\nAdding the equations gives 2c = 6, so c = 3 and a = 2.\n\nThus, the number is 253.\n\nShortcut: The digit sum and middle-digit condition give a + c = 5 and b = 5. Reversal increases the number by 99, so c − a = 1. Hence the digits are 2, 5, and 3."
+  },
+  {
+    "id": 427,
+    "book_no": 611,
+    "year": 2017,
+    "bank": "Southeast Bank",
+    "post": "AQ",
+    "Topic": "Profit & Loss",
+    "question": "Selling 12 candies for Tk. 10 results in a loss of x%. Selling 12 candies for Tk. 12 results in a profit of x%. Find the value of x.",
+    "options": [
+      "8%",
+      "9 1/11%",
+      "10%",
+      "11 1/9%"
+    ],
+    "answer": "9 1/11% (approximately 9.09%)",
+    "solution": "Let the cost price of 12 candies be Tk. C.\n\nSelling price in the first case = Tk. 10, with a loss of x%.\nTherefore:\n10 = C(100 − x)/100  ...(1)\n\nSelling price in the second case = Tk. 12, with a profit of x%.\nTherefore:\n12 = C(100 + x)/100  ...(2)\n\nDivide equation (2) by equation (1):\n12/10 = (100 + x)/(100 − x)\n6(100 − x) = 5(100 + x)\n600 − 6x = 500 + 5x\n100 = 11x\nx = 100/11 = 9 1/11%\n\nTherefore, x = 9 1/11%, approximately 9.09%.\n\nShortcut: When the same cost price gives equal percentage loss and profit, the two selling prices are proportional to (100 − x):(100 + x). Thus, 10/12 = (100 − x)/(100 + x), giving x = 100/11%."
+  },
+  {
+    "id": 428,
+    "book_no": 612,
+    "year": 2017,
+    "bank": "One Bank",
+    "post": "SCO",
+    "Topic": "Interest",
+    "question": "Salam used part of Tk. 100,000 to purchase a television. Of the remaining money, he invested one-third at 4% simple annual interest and two-thirds at 6% simple annual interest. If the total interest earned after one year was Tk. 320, what was the purchase price of the television?",
+    "options": [
+      "Tk. 30,000",
+      "Tk. 35,000",
+      "Tk. 40,000",
+      "Tk. 45,000"
+    ],
+    "answer": "Tk. 40,000",
+    "solution": "Let the remaining amount after purchasing the television be Tk. R.\n\nOne-third of R is invested at 4%:\nInterest = (R/3) × 4/100 = 0.013333R\n\nTwo-thirds of R is invested at 6%:\nInterest = (2R/3) × 6/100 = 0.04R\n\nTotal interest after one year = Tk. 320\n0.013333R + 0.04R = 320\n0.053333R = 320\nR = Tk. 6,000\n\nPurchase price of the television = 100,000 − 6,000\n= Tk. 94,000\n\nTherefore, the purchase price is Tk. 94,000.\n\nShortcut: The weighted interest rate on the remaining money is (1/3 × 4%) + (2/3 × 6%) = 5⅓%. Therefore, the remaining amount is 320 ÷ 0.053333... = Tk. 6,000, and the television costs Tk. 94,000."
+  },
+  {
+    "id": 429,
+    "book_no": 613,
+    "year": 2017,
+    "bank": "One Bank",
+    "post": "SCO",
+    "Topic": "Work & Time",
+    "question": "A man has to travel 10 km to catch a bus. He walks part of the way at 7 km/h and runs the rest at 12 km/h. If he takes 1 hour and 15 minutes to complete the journey, how far does he walk?",
+    "options": [
+      "5 km",
+      "6 km",
+      "7 km",
+      "8 km"
+    ],
+    "answer": "7 km",
+    "solution": "Given:\nTotal distance = 10 km\nWalking speed = 7 km/h\nRunning speed = 12 km/h\nTotal time = 1 hour 15 minutes = 5/4 hours\n\nLet the walking distance be x km.\nThen the running distance = (10 − x) km.\n\nAccording to the question:\nx/7 + (10 − x)/12 = 5/4\n\nMultiplying by 84:\n12x + 70 − 7x = 105\n5x = 35\nx = 7 km\n\nTherefore, he walks 7 km.\n\nShortcut: Let x be the walking distance. Use x/7 + (10 − x)/12 = 1.25. Solving gives x = 7 km."
+  },
+  {
+    "id": 430,
+    "book_no": 614,
+    "year": 2017,
+    "bank": "One Bank",
+    "post": "SCO",
+    "Topic": "Geometry",
+    "question": "The length of a rectangular field is 1½ times its width. It costs Tk. 10,260 to cover the field with grass at Tk. 1.90 per square metre. How much will it cost to fence the four sides of the field at Tk. 2.50 per metre?",
+    "options": [
+      "Tk. 650",
+      "Tk. 700",
+      "Tk. 750",
+      "Tk. 800"
+    ],
+    "answer": "Tk. 750",
+    "solution": "Assumption: The OCR-corrupted length-to-width ratio is interpreted as 1½:1, consistent with the duplicate question's OCR.\n\nGiven:\nGrass-covering cost = Tk. 10,260\nRate per square metre = Tk. 1.90\nLength = 1.5 × Width\nFencing rate = Tk. 2.50 per metre\n\nStep 1: Calculate the area of the field.\nArea = 10,260/1.90 = 5,400 m²\n\nStep 2: Calculate the dimensions.\nLet the width be w metres.\nLength = 1.5w\nArea = length × width\n5,400 = 1.5w²\nw² = 3,600\nw = 60 m\n\nLength = 1.5 × 60 = 90 m\n\nStep 3: Calculate the perimeter.\nPerimeter = 2(90 + 60) = 300 m\n\nStep 4: Calculate the fencing cost.\nCost = 300 × 2.50 = Tk. 750\n\nTherefore, the fencing cost is Tk. 750.\n\nShortcut: Area = 10,260/1.90 = 5,400 m². With length:width = 3:2, the dimensions are 90 m and 60 m. Perimeter = 300 m, so fencing cost = 300 × 2.50 = Tk. 750."
+  },
+  {
+    "id": 431,
+    "book_no": 616,
+    "year": 2017,
+    "bank": "Janata Bank",
+    "post": "",
+    "Topic": "Number System",
+    "question": "A number, when divided successively by 4 and 5, leaves remainders 1 and 4, respectively. When the same number is divided successively by 5 and 4, what will be the respective remainders?",
+    "options": [
+      "1 and 4",
+      "2 and 3",
+      "3 and 2",
+      "4 and 1"
+    ],
+    "answer": "2 and 3",
+    "solution": "Let the number be N.\n\nWhen divided successively by 4 and 5, the first remainder is 1 and the second remainder is 4.\nTherefore:\nN = 4q + 1\nwhere q = 5k + 4\n\nSubstituting:\nN = 4(5k + 4) + 1\nN = 20k + 17\n\nStep 1: Divide N by 5.\nN = 20k + 17 = 5(4k + 3) + 2\nFirst remainder = 2\n\nStep 2: Divide the quotient (4k + 3) by 4.\nThe remainder is 3.\n\nTherefore, the respective remainders are 2 and 3.\n\nShortcut: The original number is congruent to 17 modulo 20. Dividing by 5 gives remainder 2 and quotient congruent to 3 modulo 4."
+  },
+  {
+    "id": 432,
+    "book_no": 618,
+    "year": 2017,
+    "bank": "Janata Bank",
+    "post": "",
+    "Topic": "Average",
+    "question": "In a certain office, one-third of the workers are women. Half of the women are married, and one-third of the married women have children. Three-fourths of the men are married, and two-thirds of the married men have children. What fraction of all the workers are without children?",
+    "options": [
+      "5/18",
+      "7/18",
+      "11/18",
+      "13/18"
+    ],
+    "answer": "11/18",
+    "solution": "Let the total number of workers be 1.\n\nWomen = 1/3\nMen = 1 − 1/3 = 2/3\n\nStep 1: Calculate the fraction of all workers who are women with children.\nHalf of the women are married, and one-third of those married women have children.\nWomen with children = 1/3 × 1/2 × 1/3 = 1/18\n\nStep 2: Calculate the fraction of all workers who are men with children.\nThree-fourths of the men are married, and two-thirds of those married men have children.\nMen with children = 2/3 × 3/4 × 2/3 = 1/3\n\nStep 3: Calculate the fraction without children.\nFraction with children = 1/18 + 1/3\n= 1/18 + 6/18\n= 7/18\n\nFraction without children = 1 − 7/18 = 11/18\n\nTherefore, 11/18 of the workers are without children.\n\nShortcut: Women with children = 1/18; men with children = 1/3. Total with children = 7/18, so without children = 1 − 7/18 = 11/18."
+  },
+  {
+    "id": 433,
+    "book_no": 620,
+    "year": 2017,
+    "bank": "Modhumoti Bank",
+    "post": "Probationary Officer",
+    "Topic": "Work & Time",
+    "question": "A, B, and C can complete a job together in 2 days. B can complete the job alone in 5 days, and C can complete it alone in 4 days. After working together for 1 day, B and C leave. How long will A take to complete the remaining work?",
+    "options": [
+      "8 days",
+      "9 days",
+      "10 days",
+      "12 days"
+    ],
+    "answer": "10 days",
+    "solution": "Given:\nA, B, and C together complete the work in 2 days.\nB alone completes it in 5 days.\nC alone completes it in 4 days.\n\nStep 1: Calculate their daily work rates.\nA + B + C = 1/2\nB = 1/5\nC = 1/4\n\nA's rate = 1/2 − 1/5 − 1/4\n= (10 − 4 − 5)/20\n= 1/20\n\nStep 2: Calculate the work completed in the first day.\nTogether, they complete 1/2 of the work in 1 day.\nRemaining work = 1 − 1/2 = 1/2\n\nStep 3: Calculate the time A needs to finish the remaining work.\nTime = Remaining work/A's daily rate\n= (1/2)/(1/20)\n= 10 days\n\nTherefore, A will take 10 more days to complete the remaining work.\n\nShortcut: A's one-day work = 1/2 − 1/5 − 1/4 = 1/20. After one day, half the job remains, so A needs (1/2) ÷ (1/20) = 10 days."
+  },
+  {
+    "id": 434,
+    "book_no": 621,
+    "year": 2017,
+    "bank": "Modhumoti Bank",
+    "post": "Probationary Officer",
+    "Topic": "Speed, Time & Distance",
+    "question": "A man's running speed is three times his walking speed. He runs to a certain point and returns to his starting point by walking. The total journey takes 2 hours. If his running speed is 9 miles per hour, what is the one-way distance?",
+    "options": [
+      "3 miles",
+      "4 miles",
+      "4.5 miles",
+      "6 miles"
+    ],
+    "answer": "4.5 miles",
+    "solution": "Given:\nRunning speed = 9 miles/hour\nWalking speed = 9/3 = 3 miles/hour\nTotal journey time = 2 hours\n\nLet the one-way distance be x miles.\n\nTime taken to run = x/9 hours\nTime taken to walk back = x/3 hours\n\nAccording to the question:\nx/9 + x/3 = 2\nx/9 + 3x/9 = 2\n4x/9 = 2\n4x = 18\nx = 4.5 miles\n\nTherefore, the one-way distance is 4.5 miles.\n\nShortcut: Total time = x(1/9 + 1/3) = 2. Solving gives x = 4.5 miles."
+  },
+  {
+    "id": 435,
+    "book_no": 622,
+    "year": 2017,
+    "bank": "Modhumoti Bank",
+    "post": "Probationary Officer",
+    "Topic": "Profit & Loss",
+    "question": "A shirt was sold at a profit of 6%. If its purchase price had been 4% less and its selling price Tk. 4 more, the profit would have been 12.5%. What was the original purchase price of the shirt?",
+    "options": [
+      "Tk. 150",
+      "Tk. 180",
+      "Tk. 200",
+      "Tk. 250"
+    ],
+    "answer": "Tk. 200",
+    "solution": "Let the original purchase price be Tk. x.\n\nOriginal selling price = x × 106/100 = 1.06x\n\nAccording to the question:\nNew purchase price = 0.96x\nNew selling price = 1.06x + 4\n\nThe new profit percentage is 12.5%.\nTherefore:\nNew selling price = 0.96x × 112.5/100\n= 1.08x\n\nEquating the two expressions for the new selling price:\n1.06x + 4 = 1.08x\n4 = 0.02x\nx = 4/0.02\nx = 200\n\nTherefore, the original purchase price was Tk. 200.\n\nShortcut: Original SP = 1.06x. New SP = 1.06x + 4, but it must also equal 0.96x × 1.125 = 1.08x. Thus, 4 = 0.02x, giving x = Tk. 200."
+  },
+  {
+    "id": 436,
+    "book_no": 628,
+    "year": 2017,
+    "bank": "Southeast Bank",
+    "post": "TCO",
+    "Topic": "Arithmetic",
+    "question": "[OCR unreadable] The original question cannot be reconstructed reliably from the supplied text.",
+    "options": [],
+    "answer": "Cannot be determined from the available text.",
+    "solution": "The OCR text, \"Ree STN ero Ne ere Tart Stet es?\", does not preserve enough information to identify the question or calculate its answer. Please provide the original scan or a clearer image."
+  },
+  {
+    "id": 437,
+    "book_no": 629,
+    "year": 2017,
+    "bank": "Bank Asia",
+    "post": "Management Trainee",
+    "Topic": "Interest",
+    "question": "Mr. Karim borrowed Tk. 500 at 5% simple interest per annum. After some time, he borrowed another Tk. 400 at 3¼% simple interest per annum. Six months after the second borrowing, he repaid both loans along with their interest. The total amount repaid was Tk. 994.50. How many years after the first borrowing did he repay the loans?",
+    "options": [
+      "3.0 years",
+      "3.25 years",
+      "3.52 years",
+      "4.0 years"
+    ],
+    "answer": "3.52 years",
+    "solution": "Assumption: The OCR-corrupted second interest rate is interpreted as 3¼% per annum.\n\nFirst loan = Tk. 500 at 5% per annum\nSecond loan = Tk. 400 at 3.25% per annum\nTime from second borrowing to repayment = 6 months = 1/2 year\nTotal repayment = Tk. 994.50\n\nStep 1: Calculate the interest on the second loan.\nInterest = 400 × 3.25/100 × 1/2\n= Tk. 6.50\n\nStep 2: Calculate the interest on the first loan.\nTotal principal = 500 + 400 = Tk. 900\nTotal interest = 994.50 − 900 = Tk. 94.50\nInterest on first loan = 94.50 − 6.50 = Tk. 88\n\nStep 3: Calculate the duration of the first loan.\nLet the duration be t years.\n88 = 500 × 5/100 × t\n88 = 25t\nt = 88/25 = 3.52 years\n\nTherefore, Mr. Karim repaid the loans 3.52 years after the first borrowing.\n\nShortcut: Interest on the second loan is Tk. 6.50. Subtract both principal amounts and this interest from the total repayment: 994.50 − 900 − 6.50 = Tk. 88. Then t = 88/(500 × 5%) = 3.52 years."
+  },
+  {
+    "id": 438,
+    "book_no": 630,
+    "year": 2017,
+    "bank": "Bank Asia",
+    "post": "Management Trainee",
+    "Topic": "Work & Time",
+    "question": "Rahim can complete a piece of work in 80 days. Rahim works for 10 days, and then Karim alone completes the remaining work in 42 days. How long would Rahim and Karim take to complete the whole work together?",
+    "options": [
+      "24 days",
+      "30 days",
+      "35 days",
+      "40 days"
+    ],
+    "answer": "30 days",
+    "solution": "Given:\nRahim's completion time = 80 days\nRahim works alone for 10 days.\nKarim completes the remaining work in 42 days.\n\nStep 1: Calculate Rahim's daily work rate.\nRahim's rate = 1/80\n\nStep 2: Calculate the remaining work after Rahim works for 10 days.\nWork completed by Rahim = 10/80 = 1/8\nRemaining work = 1 − 1/8 = 7/8\n\nStep 3: Calculate Karim's daily work rate.\nKarim's rate = (7/8)/42\n= 7/336\n= 1/48\n\nStep 4: Calculate their combined daily work rate.\nCombined rate = 1/80 + 1/48\n= (3 + 5)/240\n= 8/240\n= 1/30\n\nTherefore, Rahim and Karim together can complete the whole work in 30 days.\n\nShortcut: Rahim's rate is 1/80 and Karim's rate is 1/48. Their combined rate is 1/80 + 1/48 = 1/30, so they need 30 days."
+  },
+  {
+    "id": 439,
+    "book_no": 631,
+    "year": 2017,
+    "bank": "Bank Asia",
+    "post": "Management Trainee",
+    "Topic": "Geometry",
+    "question": "The length of a rectangular field is 1½ times its width. It costs Tk. 10,260 to cover the field with grass at Tk. 1.90 per square metre. How much will it cost to fence the four sides of the field at Tk. 2.50 per metre?",
+    "options": [
+      "Tk. 650",
+      "Tk. 700",
+      "Tk. 750",
+      "Tk. 800"
+    ],
+    "answer": "Tk. 750",
+    "solution": "Given:\nGrass-covering cost = Tk. 10,260\nRate per square metre = Tk. 1.90\nLength = 1½ times the width\nFencing rate = Tk. 2.50 per metre\n\nStep 1: Calculate the area.\nArea = 10,260/1.90 = 5,400 m²\n\nStep 2: Find the dimensions.\nLet the width be w metres.\nLength = 1.5w\n1.5w² = 5,400\nw² = 3,600\nw = 60 m\nLength = 1.5 × 60 = 90 m\n\nStep 3: Calculate the perimeter.\nPerimeter = 2(90 + 60) = 300 m\n\nStep 4: Calculate the fencing cost.\nFencing cost = 300 × 2.50 = Tk. 750\n\nTherefore, the fencing cost is Tk. 750.\n\nShortcut: Area = 10,260/1.90 = 5,400 m². With a length-to-width ratio of 3:2, the dimensions are 90 m and 60 m. The perimeter is 300 m, so the cost is 300 × 2.50 = Tk. 750."
+  },
     {
       "id": 440,
       "book_no": 634,
@@ -5358,90 +5544,125 @@
       "answer": "So, the perimeter of the rhombus = 4 * 13 = 52 meters. (ans)",
       "solution": "Let, the length of the other diagonal = d meters\nArea of rhombus =F010 x d)=5d\nAccording to the question,\n=> Sd=120\n«  d=24\nSo, the length of the other diagonal = 24 meters. 5\nHalf of the I*' diagonal = 5 meters and half of the 2\" diagonal = 12\nOne side of the rhombus = V5\" + 12\" = 169 = 13\nSo, the perimeter of the rhombus = 4 * 13 = 52 meters. (ans)"
     },
-    {
-      "id": 455,
-      "book_no": 653,
-      "year": 2017,
-      "bank": "Pubali Bank",
-      "post": "TAT",
-      "Topic": "Geometry",
-      "question": "2 653. The area of an equilateral triangle is 3V3 square meter. Determine the area of a circle inscribed within the triangle. .",
-      "options": [],
-      "answer": "So, the required area =x 1? = 7 -2 = 3.1416 square meters approximately. (ans)",
-      "solution": "Let, the length of a side of the triangle = @ meters\n3S\nWe know, the area of an equilateral triangle = Bg\nBe WB\n=> @=12\n=> a=i2=2y3 meters. ;\n. 2. 2\nThe radius of the circle “5% 2n3 = | meter (the length of radius is G times of a triangle side)\nSo, the required area =x 1? = 7 -2 = 3.1416 square meters approximately. (ans)"
-    },
-    {
-      "id": 456,
-      "book_no": 654,
-      "year": 2017,
-      "bank": "Ee BankiLtdl",
-      "post": "AEO RG",
-      "Topic": "Set Theory",
-      "question": "Inaclass of 40 students, each student plays at least one of the games: chess, carom and table tennis. Among the students, 18 play chess, 20 play table tennis and 27 play carom. Further, 7 students play both chess and table tennis, 12 play both table tennis and carom and 4 play chess, carom and table tennis together. Find the number of students who play chess and carom but hot table tennis.",
-      "options": [],
-      "answer": "wer: 2",
-      "solution": "Here, n(total) = 40\n+ n(chess) = 18, n(TT) = 20, n(carom) = 27.\nn(chess & TT & carom) = 4\n4 ~\nWe have.\nn(total) = n(chess) + n(TT) + n(carom) - n(chess & TT) — 7\n(chess & TT & carom) ) - (TT & carom) ~ n(chess & carom)\n40 = 18 + 20 + 27-7 -12-n(chess & carom) +4\nn(chess & carom) = 10\nSo, total number of students who play both chess & carom is = 10\nBut there are 4 students who play all the three games, ri\nthe number of students wh y a\nSo, the Ss “ play chess an‘l carom but not table tennis is = 10-4 = 6. (ans)\n655. ‘Aslam and Babul invested in a business in the ratio of 3 : 2. Assum h\ntotal profit goes to workers’ provident fund, If Aslam’s share j e that 5 percent of the\namount of total profit? re is Tk. 8,55,000 what is the\nSaas According to the question,\n59% of total profit goes to workers’ provident fund.\nSo, the remaining 95% of profit is distributed between Aslam and Babul.\nLet, Aslam’s profit share is = 3x :\nSo, Babul's profit share is = 2x\nSo, total profit after workers’ providen: fund deduction (i.e: 95% of total profit) = 3x + 2x = Sx\nAccording to the question, 3x = 8,55,000\n= 5x=8,55,000 x2 14,25,000 ;\nSo, 95% of total profit = 14,25,000\n100% of total profit = 14,25,000 x 422 = 15,00,000 (ans)\n656. Alam invested an amount of Tk. 13,900 divided in two different deposits at Bank X and\nBank Y at the simple interest rate of 14 percent and 11 percent per annum, respectively.\nIf the total amount of simple interest earned in two years is Tk. 3,508 what was the\namount invested in the deposit of Bank Y? 10\nare FG cA CHEB eH CA AT 3,508 BIH ST, Y aes ear Brera aT EP\n(HEINE Let, the amount invested in Bank Yewas = Tk. p\nSo, the amount invested in Bank X was = Tk. (13,900 - p) > }\nAccording to the question,\npx2x 11% + (13,900 - p) X 2x 14% = 3,508\n22p , 28(13900 - p) _\n= Tot” 109 728\n=> 2p +3,89,200 = 28p = 3,50,800\n> 6p =3,89,200 - 3,50,800\n> 6p =38,400\n& p= 38800 6,400 Tk.\n*. ins.\nSo, the amount deposited in Bank ¥ is 6,400 Tk. 4\n657. Rashed is driving at a speed of 120 km per hour. Mahi started one hour late and starteq\ndriving at a speed of 140 km per hour. How long will it take for Mahi to catch up Rashed?\nWhen Mahi starts, Rashed = 120 x 1 = 120 km away from him.\n+. Required time to catch up Rashed = 422 6 hr (ans)\n658. A table is three times as long as it is wide. If it were 5 feet shorter and 5 feet wider, it\nwould be a square. How long and how wide is the table?\nQTE Lct, the width of the table = x féet. rater cating aiowcas ore Ca\n. The length of the table = 3x feet. = og ar SIA SET TCAA Crh\nAccording to the question: ae AR CATH WNT 5 AR S\n3x-Sax45 Facet wea ahead COR TPA |\n=> 2x=10 -\na x=5\nThe length of the table is = 3 x 5 = 15 feet, and the width of the table is = 5 feet. (ans)\n659, Givena =3 +2N2, find the value of (va a %):\nRBM Given, a=3 +22\n=> a=2+1+22\n=> a=V@) +2xy¥2x1+1?\n2\n= a=(y2+1)\ns Va=V2+1\n1 1 x2 -1 2 -1 2 -1\nAnd, === = = ==V2-\neG Wie Ce ae et\n1\nNow, (va-ze)=v2+ 1-2+1=2 [Putting the value of (a and =]\na Va\nAnswer: 2\n660. Ina shop, the cost of 4 shirts, 4 pairs of trousers and 2 hats is Tk. 5,600. The cost of 9\nshirts, 9 pairs of trousers and 6 hats is Tk. 12,900. What is the total cost of 1 shirt, 1 pair\nof trousers and 1 hat?\n- pe the price of one shirt, y be the price of one pair of\ng LEA 92 = 5,600 wonensnnnne CD Pair OF trousers and z be the price of one hat,\n3 uation ( & (i) [Divide all terms of equation (i) by 3]\nfet AY + 22 = 5600 verses CD\nre from equation (iif) {Subtract equation (iii) from equation (ii)]\ngx + 3y + 22 = 4,300\nx(x +») + 22 = 4,300 [Putti ion (;\n2 7300+ 22= 4,300 ‘ing value from equation (iv)]\n2 72200\né aaofaatt #16 Sr | BUTE 80% MICS fae samy, RarTET Fe ea? oe ac\na KEN = BUR + OM AIS = Rarey - TERED ae BS\nadie gala GET 800 Brat)\n= (800 + 800 4 80%) biel= (20 + exse) = 800 + d¥o = ¢¥o BI (ans)\n4 alee states CREP = ¢ X Bo = Roo THAT\na wal Hoa Gd CHARA = Woo + 200 = Coo WHR\noe ara HG CRIT Cross FCA AR ACA CHA ARAL COPA AeA al RCAC AA ST TH ACA |\nes Ae aba eps CRATE = coo - Re = BAe FACE\nre ae?\n¢\na\n_ doo+x\n= wae\n8X\nvo x 8 Xe\n=> yootx= —\n> X= Io - }00 = VEO\nwe x= Co\na pp ner 9A = LEE = coo we TE (as)\nbal oP\nr\nxe\nee ettors oxen on w= (Gore 200) %= (~ 200) % = 20% (ans)\nSra FH SACSTETA UT = ¥O% G4 90% = 82 TA\n(ans) %&% SF PH SACSTSTA SEAT CA |\n667, ear a Pa a he ITAA OM FARRE AI tA Ia PET IS oof water BAB aT"
-    },
-    {
-      "id": 457,
-      "book_no": 668,
-      "year": 2017,
-      "bank": "Southeast Bank",
-      "post": "TAO Cash",
-      "Topic": "Arithmetic",
-      "question": "668, While out ee MEGS aad pleked enough a of boys came upon an apple tree. One of the boys climbed picked enough apples for each boy to h: left over. Then along came three boys, making it impossibl po a ave three, with none Ie oaeyne lel",
-      "options": [],
-      "answer": ") \"| They finally divided = 3x4 1=(3x5)41=16 apples. (ans)",
-      "solution": "over, How many apples were finally divided? ° 3 taeipiekel ayes\nA\na cor TE AL ICR BUH RAT Ce RESTA AICS ACS ae 3B ag\ngro MTEC HUM APTS BT? |\nLet, primarily, there were x number of boys\ngo: number of apples picked up = 3x FT Pies geicq Boys 43 Fea x\nAfter arrival of 3 boys, total number of boys = (x + 3) | Ma Oe 3 eq aq SRA Fea\ny icking up 1 more apple, total apples = (3x + | ‘\nAccording to question, “>>> = 2 SR SCTE FRM 1 aT ag\n3r-2v=6-\n) \"| They finally divided = 3x4 1=(3x5)41=16 apples. (ans)"
-    },
-    {
-      "id": 458,
-      "book_no": 669,
-      "year": 2017,
-      "bank": "Southeast Bank",
-      "post": "TAO Cash",
-      "Topic": "Percentage",
-      "question": "Mr. Zakir gave 40% of the money he had to his wife. He also gave 20% of the amount to each of his three sons. Half of the amount then left was spent on miscellaneous items, and the remaining Tk. 12,000 was deposited in the bank. How much money did Mr. Zakir have initially?",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 459,
-      "book_no": 670,
-      "year": 2017,
-      "bank": "Islami Bank",
-      "post": "Management Trainee Officer",
-      "Topic": "Average",
-      "question": "Average weight of Alam, Babul and Kamal is 84kg. When Dulal, as a new member, joins the group, average weight of the group becomes 80kg. If another man Einul the group becomes 79kg. What is the weight of Alam?",
-      "options": [],
-      "answer": "» Weight of Alam = 252 ~ 177 = 75kg. (ans",
-      "solution": "80 cafe 1 aft ory awe BAS Einul, WA Ge Dulal as cos 3 cele Ph rena aes are\nSI, Ber La TG aT R79 CHT 1] BA, Alam 4a GOA FS?\nBER Towa weight of Alam, Babul and Kmal = 8453 #252 soon.)\n___ Total weight of alam, Babul, Kmal and Dulal = 80 x 4 = 320\nNe Dulal's weight = 320 - 252 = 68\n‘ Einul weight = 68 +3=71 i\nBabul + Kamal + 68 +71 = 316\ncont Publication , 247\na\n> B\n- Babul + Kamal = 316 - 139 = 177 .\na (i) - (ii) we have. Wei swavoues (1D\n» Weight of Alam = 252 ~ 177 = 75kg. (ans"
-    },
-    {
-      "id": 460,
-      "book_no": 671,
-      "year": 2017,
-      "bank": "Islami Bank",
-      "post": "Management Trainee Officer",
-      "Topic": "Geometry",
-      "question": "The peri 'Skg. (ans) the etinean ofa Square field is equal to the perimeter of a rectangular fj sized tiles 7 ao is3 times of its width and the area is 768 square meter, ll Length of Pacis oat ' centimeter width will be required to cover the square field? many square",
-      "options": [],
-      "answer": "=. Number of Required tiles = Sago = 1,600 (ans)",
-      "solution": "i A \"1\nSEAT Let tne width ofthe rectangular fed ex meter me\n. renee of the rectangular field is 3x meter\ncording to the question, 3x x x = 768\n=> 3x =768\nSo, length = 3 x 16 = 48 meter and width = 16 meter| rata cacs VICI MF AB om a cA\n= Perimeter = 2(48 + 16) = 128 meter . ee wT A UT ata oe\nPerimeter of square = Perimeter of rectangular field af .\n“. Perimeter of square = 128 meter oy : Area of tiles Fira ert\n“Side of square =425= 32 meter = 32 x 100 = 3200cn GAR POLY Tiles PME ST CH REN AS\n“ Area of square field = (3200 x 3200) sg.cm.\nArea of tiles = (80 x 80) sg.cm.\n=. Number of Required tiles = Sago = 1,600 (ans)"
-    },
-    {
-      "id": 461,
-      "book_no": 672,
-      "year": 2017,
-      "bank": "Islami Bank",
-      "post": "Management Trainee Officer",
-      "Topic": "Profit & Loss",
-      "question": "A, Band C started a business jointly with a total amount of Tk. 28,000. A paid Tk. 4,500 more then B and B paid Tk. 7,000 less than C. If the company made a profit of Tk. 5,600.",
-      "options": [],
-      "answer": "_ e735 (ans) ;",
-      "solution": "aft C cate 7000 Bre aH CAH GA ets LEM, CePA CATS 5,600 Bret ATS Re CFO Dre sts\nIca?\n(ia Let, B paid Tk. x\nAccording to the question, aa TCT aart wa Fleet\nax +(x + 4,500) + (x + 7,000) = 28,000 ped sea) cara of FTA\n=>  3x+11,500 = 28,000 BC Cm UR\n=> —3x=28,000- 11,500 wae A Bs Ed\n=> 3x= 16,500 RATA CH SUMMA TA ATS FE\n2 XBT e 5,500 ot\n“ pe ages AACS ATS SI FI TI\nTheir profit sharing ratio as their invest ratio = 10,000 : 5,500 : 12,500 ‘\n= 100;55:125=20: 11 #25:\n: — 3 __ 5. 600x22\n+ Profit of C= 5,600 X 59411425 ~ 5,600 x 55 = Tk. 2,500 (ans)\n4 9 as\nsolve the equation 7 T+ 302 Ee aa\n63. * 9 25\n4_,_9 3\nSeal t3e+2~ Set\n1, 91S, 10\n4 TT eed Te met STR ere A ys\nSpy + 16=20%- 10 _ 45x-+30- 45x - 36 S18 10 stent in se, ay aig — 2\n6 ___ =6 dem See g 8 SoM\na ‘nly;\n2» Fer heed [Multiplying both sides by (5x + 4)) |\n=-2x-1\na wee: —\nS a -2 .\n5x=-\n° 3\n_ e735 (ans) ;"
-    },
+   {
+  "id": 455,
+  "book_no": 653,
+  "year": 2017,
+  "bank": "Pubali Bank",
+  "post": "TAT",
+  "Topic": "Geometry",
+  "question": "The area of an equilateral triangle is 3√3 square metres. Determine the area of the circle inscribed in the triangle.",
+  "options": [
+    "π/4 m²",
+    "π/2 m²",
+    "π m²",
+    "2π m²"
+  ],
+  "answer": "π m² (approximately 3.1416 m²)",
+  "solution": "Let the side length of the equilateral triangle be a metres.\n\nThe area of an equilateral triangle is:\n(√3/4)a² = 3√3\n\nDividing both sides by √3:\na²/4 = 3\na² = 12\na = 2√3 metres.\n\nThe radius of the circle inscribed in an equilateral triangle is:\nr = a√3/6\n\nSubstituting a = 2√3:\nr = (2√3 × √3)/6 = 1 metre.\n\nArea of the inscribed circle = πr² = π × 1² = π m².\n\nTherefore, the required area is π m² ≈ 3.1416 m².\n\nShortcut: For an equilateral triangle, the inradius is one-third of its altitude. Here, the altitude is 3 metres, so the inradius is 1 metre."
+},
+  {
+    "id": 456,
+    "book_no": 654,
+    "year": 2017,
+    "bank": "E Bank Ltd.",
+    "post": "AEO",
+    "Topic": "Set Theory",
+    "question": "In a class of 40 students, each student plays at least one of the following games: chess, carom and table tennis. Among the students, 18 play chess, 20 play table tennis and 27 play carom. Further, 7 students play both chess and table tennis, 12 play both table tennis and carom, and 4 students play all three games. Find the number of students who play chess and carom but not table tennis.",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "answer": "6",
+    "solution": "Let C, T and R represent the sets of students who play chess, table tennis and carom, respectively.\n\nGiven:\nn(C) = 18, n(T) = 20, n(R) = 27\nn(C ∩ T) = 7\nn(T ∩ R) = 12\nn(C ∩ T ∩ R) = 4\nn(C ∪ T ∪ R) = 40\n\nUsing the inclusion-exclusion principle:\n\nn(C ∪ T ∪ R) = n(C) + n(T) + n(R) − n(C ∩ T) − n(T ∩ R) − n(C ∩ R) + n(C ∩ T ∩ R)\n\n40 = 18 + 20 + 27 − 7 − 12 − n(C ∩ R) + 4\n40 = 50 − n(C ∩ R)\nn(C ∩ R) = 10\n\nThis includes the 4 students who play all three games. Therefore, the number who play chess and carom but not table tennis is:\n\n10 − 4 = 6\n\nShortcut: First find the total number who play both chess and carom using inclusion-exclusion, then subtract those who play all three games."
+  },
+  {
+    "id": 457,
+    "book_no": 668,
+    "year": 2017,
+    "bank": "Southeast Bank",
+    "post": "TAO Cash",
+    "Topic": "Arithmetic",
+    "question": "A group of boys came upon an apple tree. One of the boys climbed the tree and picked enough apples for each boy to have 3 apples, with none left over. Then 3 more boys arrived. The boys picked one additional apple, and the apples were finally divided equally among all the boys, with each boy receiving 2 apples. How many apples were finally divided?",
+    "options": [
+      "13",
+      "15",
+      "16",
+      "18"
+    ],
+    "answer": "16 apples",
+    "solution": "Let the original number of boys be x.\n\nInitially, the number of apples picked was 3x, since each boy was to receive 3 apples.\n\nAfter 3 more boys arrived, the total number of boys became x + 3. One additional apple was picked, making the total number of apples 3x + 1.\n\nEach boy then received 2 apples. Therefore:\n\n3x + 1 = 2(x + 3)\n3x + 1 = 2x + 6\nx = 5\n\nTotal number of apples = 3x + 1 = 3 × 5 + 1 = 16.\n\nShortcut: The extra apple makes the total 3x + 1, while the final distribution gives 2(x + 3). Equating these expressions gives x = 5 and hence 16 apples.\n\nNote: The question wording has been reconstructed from the supplied solution; the original scan is needed to confirm the exact wording."
+  },
+  {
+  "id": 458,
+  "book_no": 669,
+  "year": 2017,
+  "bank": "Southeast Bank",
+  "post": "TAO Cash",
+  "Topic": "Percentage",
+  "question": "Mr. Zakir gave 30% of his money to his wife and 10% of the original amount to each of his three sons. Half of the amount then left was spent on miscellaneous items, and the remaining Tk. 12,000 was deposited in the bank. How much money did Mr. Zakir have initially?",
+  "options": [
+    "Tk. 40,000",
+    "Tk. 48,000",
+    "Tk. 60,000",
+    "Tk. 80,000"
+  ],
+  "answer": "Tk. 60,000",
+  "solution": "Let the initial amount be Tk. x.\n\nAmount given to his wife = 30% of x = 0.30x.\nAmount given to his three sons = 3 × 10% of x = 0.30x.\n\nTotal amount distributed = 0.30x + 0.30x = 0.60x (or 60% of x).\nRemaining amount after distribution = x - 0.60x = 0.40x.\n\nAmount spent on miscellaneous items = Half of the remaining amount = (1/2) × 0.40x = 0.20x.\nAmount left for deposit = 0.40x - 0.20x = 0.20x.\n\nAccording to the question:\n0.20x = 12,000\nx = 12,000 / 0.20 = Tk. 60,000."
+},
+  {
+    "id": 459,
+    "book_no": 670,
+    "year": 2017,
+    "bank": "Islami Bank",
+    "post": "Management Trainee Officer",
+    "Topic": "Average",
+    "question": "The average weight of Alam, Babul and Kamal is 84 kg. When Dulal joins the group, the average weight becomes 80 kg. When Einul also joins the group, the average weight becomes 79 kg. What is Alam's weight if Einul weighs 3 kg more than Dulal?",
+    "options": [
+      "68 kg",
+      "71 kg",
+      "75 kg",
+      "84 kg"
+    ],
+    "answer": "75 kg",
+    "solution": "Total weight of Alam, Babul and Kamal = 84 × 3 = 252 kg.\n\nTotal weight of the four members, including Dulal = 80 × 4 = 320 kg.\n\nDulal's weight = 320 − 252 = 68 kg.\n\nEinul's weight = 68 + 3 = 71 kg.\n\nTotal weight of all five members = 79 × 5 = 395 kg.\n\nTherefore, the combined weight of Babul, Kamal, Dulal and Einul is:\n395 − 252 = 143 kg.\n\nSo, the combined weight of Babul and Kamal is:\n143 − 68 − 71 = 4 kg.\n\nThis contradicts the supplied solution, which calculates Babul + Kamal as 177 kg by using a total of 316 kg for the four members other than Alam. The correct total weight of five members is 395 kg, not 316 kg. The supplied answer of 75 kg cannot be verified from the reconstructed question. Please check the original scan, especially the final average or the relationship between Einul's and Dulal's weights."
+  },
+  {
+    "id": 460,
+    "book_no": 671,
+    "year": 2017,
+    "bank": "Islami Bank",
+    "post": "Management Trainee Officer",
+    "Topic": "Geometry",
+    "question": "The perimeter of a square field is equal to the perimeter of a rectangular field. The rectangular field is 3 times as long as it is wide, and its area is 768 square metres. How many square tiles, each measuring 80 cm by 80 cm, are required to cover the square field?",
+    "options": [
+      "1,200",
+      "1,400",
+      "1,600",
+      "1,800"
+    ],
+    "answer": "1,600",
+    "solution": "Let the width of the rectangular field be x metres.\n\nIts length = 3x metres.\n\nGiven area = 768 m²:\n3x × x = 768\n3x² = 768\nx² = 256\nx = 16 m\n\nTherefore, width = 16 m and length = 48 m.\n\nPerimeter of the rectangle = 2(48 + 16) = 128 m.\n\nThe square has the same perimeter, so its side length is:\n128 ÷ 4 = 32 m.\n\nArea of the square field = 32 × 32 = 1,024 m².\n\nEach tile measures 80 cm = 0.8 m on each side.\nArea of one tile = 0.8 × 0.8 = 0.64 m².\n\nNumber of tiles = 1,024 ÷ 0.64 = 1,600.\n\nShortcut: Since the square and rectangle have equal perimeters, the square's side is 32 m. Divide the square's area by the area of one tile."
+  },
+  {
+    "id": 461,
+    "book_no": 672,
+    "year": 2017,
+    "bank": "Islami Bank",
+    "post": "Management Trainee Officer",
+    "Topic": "Profit & Loss",
+    "question": "A, B and C started a business jointly with a total investment of Tk. 28,000. A invested Tk. 4,500 more than B, while B invested Tk. 7,000 less than C. If the total profit was Tk. 5,600, what was C's share of the profit?",
+    "options": [
+      "Tk. 2,000",
+      "Tk. 2,200",
+      "Tk. 2,500",
+      "Tk. 2,800"
+    ],
+    "answer": "Tk. 2,500",
+    "solution": "Let B's investment be Tk. x.\n\nThen:\nA's investment = x + 4,500\nC's investment = x + 7,000\n\nTotal investment = 28,000:\nx + (x + 4,500) + (x + 7,000) = 28,000\n3x + 11,500 = 28,000\n3x = 16,500\nx = 5,500\n\nTherefore:\nA = 5,500 + 4,500 = Tk. 10,000\nB = Tk. 5,500\nC = 5,500 + 7,000 = Tk. 12,500\n\nInvestment ratio = 10,000 : 5,500 : 12,500\n= 20 : 11 : 25\n\nC's share of the profit = 5,600 × 25/(20 + 11 + 25)\n= 5,600 × 25/56\n= Tk. 2,500.\n\nShortcut: In a partnership, profit is divided in proportion to investment when the partners invest for the same period. Simplify the investment ratio to 20 : 11 : 25 and calculate C's share."
+  },
   {
   "id": 463,
   "book_no": 674,
