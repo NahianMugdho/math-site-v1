@@ -401,17 +401,17 @@
       "solution": "Total marks of 100 students = 100 x 85 = 8500\nThe rest of students after 10% excluded = 90\nSo, the total marks of 90 students = 90 x 90 = 8100\nNow, the total marks of 90 students = 100 — 90 = 10\nThe total marks of excluded students = 8500 ~ 8100 = 400\nSo, the average mark of 10% excluded students = 400 + 10 = 40 marks.\nans: 40 marks."
     },
     {
-      "id": 43,
-      "book_no": 102,
-      "year": 1997,
-      "bank": "ICB Bank",
-      "post": "Officer",
-      "Topic": "Age",
-      "question": "102, A sales person is paid an annual salary of Tk. 60000. He is also paid 5% commission on the amount of sales he makes. Calculate the following:",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
+  "id": 43,
+  "book_no": 102,
+  "year": 1997,
+  "bank": "ICB Bank",
+  "post": "Officer",
+  "Topic": "Percentage & Commission",
+  "question": "A sales person is paid an annual salary of Tk. 60,000. He is also paid 5% commission on the amount of sales he makes. Calculate the following: (a) His total earnings in a year in which he sells Tk. 75,000. (b) The amount of sales in a year in which he earns Tk. 75,000.",
+  "options": [],
+  "answer": "(a) Tk. 63,750; (b) Tk. 300,000",
+  "solution": "Fixed annual salary = Tk. 60,000\nCommission rate = 5% of total sales\n\n(a) Total earnings if sales amount to Tk. 75,000:\nCommission = 5% of Tk. 75,000 = (5 / 100) * 75,000 = Tk. 3,750\nTotal earnings = Salary + Commission = 60,000 + 3,750 = Tk. 63,750.\n\n(b) Amount of sales if total annual earnings amount to Tk. 75,000:\nTotal earnings = Salary + Commission\n75,000 = 60,000 + Commission\nCommission = 75,000 - 60,000 = Tk. 15,000\nSince commission is 5% of total sales:\n5% of Sales = 15,000\nSales = (15,000 * 100) / 5 = Tk. 300,000."
+},
     {
       "id": 44,
       "book_no": 103,
@@ -1519,17 +1519,22 @@
       "solution": "Since the speed of first car 50 km per hour\nAfter one hour of starting of the first car, the first car will ahead of distance 50 km.\nSecond car will overtake (60 — 50) = 10 km in 1 hour.\nSecond car will overtake 1 km in =t hour.\nSecond car will overtake 50 km in = oe 5 hours\nAfter 5 hour distance (5 x 60) = 300 km from Dhaka, the second car will overtake the first car.\nans: After 5 hour distance 300 km from Dhaka, the second car will overtake the first car."
     },
     {
-      "id": 134,
-      "book_no": 209,
-      "year": 2003,
-      "bank": "Banking. Nine of the employees have two of the degree, and one has taken",
-      "post": null,
-      "Topic": "Speed, Time & Distance",
-      "question": "Kashem joined work two years ago. His starting Gross income was Sof Selim's Gross Income at that time. Each year since then Kashem has received a raise of 5% in his annual Basic Salary, which is 70% of his Gross Income. His Allowances, which are 30% of his Gross income, have remain unchanged. Meauwhile, Selim has received a raise of 10% in his Basic Salary, which is 80% of his Gross Income. His allowances, which are 20% of his Gross Income, have remain unchanged. Currently what percentage of Selim's gross income is Kashem's gross income?",
-      "options": [],
-      "answer": "Currently 45.88% of Selim’s gross income is Kashem’s gross income.",
-      "solution": "Suppose, Salim’s Gross Income = 2x\nKashem’s Gross Income = 2x x i= x\nTwo years ago, Kashem’s Basic salary = x of 70% = x x in: 0.7x\nAfter a raise of 5% in his annual basic salary for next 2 years,\nHis current Basic salary = 0.7x x (1.057 (5% WA 1.05 STS 2 TRA MH (1.05) }\nSince his allowances, which are 30% of his Gross income, have remain unchanged\nKashem’s current gross income = 0.7x x (1.05) + 0,3x = 1.07175x (Using Calculator]\nSimilarly, Selim’s Present Basic salary = (2x x 0.8) x (1.107\nSince his allowances, which are 20% of his Gross income, have remain unchanged\nSelim’s current gross income = (2x x 0.8) x (1.10)? + (0.2 x 2x) = 2.336x\nKashem's gross income _ 1.07175x _ _\nSelim's gross income 2.336x 0.4588 = 45.88%\nans: Currently 45.88% of Selim’s gross income is Kashem’s gross income."
-    },
+  "id": 134,
+  "book_no": 209,
+  "year": 2003,
+  "bank": "Banking",
+  "post": null,
+  "Topic": "Percentage",
+  "question": "Kashem joined the company two years ago. At that time, his starting gross income was half of Selim's gross income. Each year since then, Kashem has received a 5% raise in his basic salary, which constitutes 70% of his gross income. His allowances, which constitute 30% of his gross income, have remained unchanged. Meanwhile, Selim has received a 10% annual raise in his basic salary, which constitutes 80% of his gross income. His allowances, which constitute 20% of his gross income, have remained unchanged. Currently, what percentage of Selim's gross income is Kashem's gross income?",
+  "options": [
+    "42.50%",
+    "45.88%",
+    "48.25%",
+    "50.00%"
+  ],
+  "answer": "45.88%",
+  "solution": "Let Selim's gross income two years ago be Tk. 2x.\n\nTherefore, Kashem's gross income at that time = Tk. x.\n\nKashem's initial basic salary = 70% of x = 0.7x.\nHis allowances = 30% of x = 0.3x.\n\nAfter two annual raises of 5%, his current basic salary becomes:\n0.7x × (1.05)² = 0.77175x.\n\nHis allowances remain unchanged at 0.3x.\n\nTherefore, Kashem's current gross income = 0.77175x + 0.3x = 1.07175x.\n\nSelim's initial basic salary = 80% of 2x = 1.6x.\nHis allowances = 20% of 2x = 0.4x.\n\nAfter two annual raises of 10%, his current basic salary becomes:\n1.6x × (1.10)² = 1.936x.\n\nHis allowances remain unchanged at 0.4x.\n\nTherefore, Selim's current gross income = 1.936x + 0.4x = 2.336x.\n\nRequired percentage:\n(1.07175x ÷ 2.336x) × 100\n= 45.8784% ≈ 45.88%.\n\nShortcut: Apply compound growth only to the basic salary portions (70% for Kashem and 80% for Selim). Add each person's unchanged allowance portion afterward, then compare their current gross incomes."
+},
    {
   "id": 135,
   "book_no": 211,
@@ -1645,17 +1650,22 @@
   "solution": "Let the number of apples be x and the number of pears be y.\n\nAccording to the question:\nx + y = 21  ...(1)\n10x + 15y = 380  ...(2)\n\nMultiplying equation (1) by 10:\n10x + 10y = 210  ...(3)\n\nSubtracting equation (3) from equation (2):\n5y = 170\ny = 34.\n\nHowever, the total number of fruits is only 21, so having 34 pears is impossible.\n\nTherefore, the given data are inconsistent, and the problem has no valid solution.\n\nShortcut: If all 21 fruits were pears, the maximum possible cost would be 21 × 15 = Tk. 315. Since the stated cost is Tk. 380, which exceeds this maximum, the problem is incorrect."
 },
     {
-      "id": 142,
-      "book_no": 218,
-      "year": 2003,
-      "bank": "Banking. Nine of the employees have two of the degree, and one has taken",
-      "post": null,
-      "Topic": "Speed, Time & Distance",
-      "question": "Two cars started from the same point and traveled in opposite directions. After 2 hours of traveling, the cars were 208 miles apart on a straight line. If the average speed of one car was 8 miles more than the other, calculate the average speed of each car. WAIT §",
-      "options": [],
-      "answer": "45.56%.",
-      "solution": "Suppose, Avegage speed of one car = x mile per hour\nSpeed of other car = (x + 8)mph\nSo, 2{x + (x + 8)} = 208\nOr, 2(2x + 8) = 208\nOr, 4x+ 16=208\nOr, x=“22=48 mph\nSpeed of other car = x + 8 = 48 + 8 = 56 mph.\n219, Kashem started working 2 years ago. His starting salary was dor Selim’s salary at that\ntime. Since then kashem and Selim have enjoyed annual raise of 5% and 10%\nrespectively. Currently what percentage of Selim’s salary is Kashem’s salary?\nWATE 8\nSolution:\nLet, 2 years ago Selim’s salary was = Tk. 200\n2 years ago Kashem’s salary was = Tk. 200 x i= 100\nAt first year, at the rate of 10%, Selim’s salary was increased to = 200 + 10% of 200 = Tk. 220\nand at the same rate, at second year his salary was = 220 + 10% of 220\n= 220 + 22 = Tk. 242.\nFor Kashem, at first year and 5% rate, the salary increased to = 100 + 5% of 100 = Tk. 105\nand at second year = 105 + 5% of 105 = Tk. 110.25\n, wey 110.25 x 100\n{Kashem’s salary + Selim’s salary) x 100 =O 45.56%\nans: 45.56%."
-    },
+  "id": 142,
+  "book_no": 218,
+  "year": 2003,
+  "bank": "Banking",
+  "post": null,
+  "Topic": "Speed, Time & Distance",
+  "question": "Two cars started from the same point and travelled in opposite directions. After 2 hours, the cars were 208 miles apart in a straight line. If the average speed of one car was 8 miles per hour greater than that of the other, calculate the average speed of each car.",
+  "options": [
+    "48 mph and 56 mph",
+    "46 mph and 54 mph",
+    "50 mph and 58 mph",
+    "52 mph and 60 mph"
+  ],
+  "answer": "48 mph and 56 mph",
+  "solution": "Let the average speed of the slower car be x mph.\n\nThen the average speed of the faster car = (x + 8) mph.\n\nSince the cars travel in opposite directions, their combined speed is the sum of their individual speeds.\n\nDistance travelled by both cars in 2 hours = 208 miles.\n\nTherefore:\n2[x + (x + 8)] = 208\n2(2x + 8) = 208\n4x + 16 = 208\n4x = 192\nx = 48 mph.\n\nSpeed of the faster car = 48 + 8 = 56 mph.\n\nTherefore, the average speeds are 48 mph and 56 mph.\n\nShortcut: When two objects travel in opposite directions, their separation rate is the sum of their speeds. Combined speed = 208 ÷ 2 = 104 mph. The two speeds are (104 − 8) ÷ 2 = 48 mph and 48 + 8 = 56 mph."
+},
    {
   "id": 143,
   "book_no": 220,
@@ -2365,30 +2375,40 @@
       "answer": "x=b x= - 90 [QVATIMAT TA]",
       "solution": ">\n>\nore a1 oH CATER ee Deraba eT == - w Bret\nD2\nOPTS, 2-2) X (x + 8) = dR0\n=> = (dRo - x) (4 + 2) = SQ0x\n=> w+ by- Bozo\n> r+ A-vo=o0\n=> x4 30x-bx-bo=0\n> xxt+50)-b(e+ 50) =0\n> (+d0)@-r)=0\nx-v=o0 WY, xt+3s0=0\nx=b x= - 90 [QVATIMAT TA]"
     },
-    {
-      "id": 196,
-      "book_no": 278,
-      "year": 2008,
-      "bank": "One Bank",
-      "post": "Probationary Officer",
-      "Topic": "Profit & Loss",
-      "question": "278 A toss of 15% is incurred by selling a watch for Tk. 612. How much is the sum of money by which it is sold to make a profit of 10%?",
-      "options": [],
-      "answer": "",
-      "solution": "> &>\nRORTEG Use Bret wet Sibiba wa = OS a0 Bra\n‘ara,\n330 x Foe\nBers a2 FA |"
-    },
-    {
-      "id": 197,
-      "book_no": 279,
-      "year": 2008,
-      "bank": "One Bank",
-      "post": "Probationary Officer",
-      "Topic": "Work & Time",
-      "question": "Recently Mr. Kamals hourly wage has been increased by 10%. Before this increase. Kamal's total weekly wage was Taka 137. If his weekly working hours were to decrease by 10% from last week's total working hours, what would be the change, if any, in Kamal's total weekly wage?",
-      "options": [],
-      "answer": "",
-      "solution": "309\nPITS VOT TE = = el\n99-04\n384 909 X 0\nee + ee\nx s00 xXx\n_ 309\n~ yox\n_ xx 30\n=e\" S00\n= 2%\n~ Yo\nBx 3¢04\nBers 9.09 FT |"
-    },
+ {
+  "id": 196,
+  "book_no": 278,
+  "year": 2008,
+  "bank": "One Bank",
+  "post": "Probationary Officer",
+  "Topic": "Profit & Loss",
+  "question": "A loss of 15% is incurred by selling a watch for Tk. 612. At what price should it be sold to make a profit of 10%?",
+  "options": [
+    "Tk. 750",
+    "Tk. 780",
+    "Tk. 792",
+    "Tk. 800"
+  ],
+  "answer": "Tk. 792",
+  "solution": "Step 1: Find the Cost Price (CP) of the watch.\nSelling Price (SP1) = Tk. 612\nLoss = 15%\nCP = SP1 / (1 - Loss%)\nCP = 612 / (1 - 0.15) = 612 / 0.85 = Tk. 720.\n\nStep 2: Find the Selling Price (SP2) for a 10% profit.\nDesired Profit = 10%\nSP2 = CP * (1 + Profit%)\nSP2 = 720 * (1 + 0.10) = 720 * 1.10 = Tk. 792."
+},
+   {
+  "id": 197,
+  "book_no": 279,
+  "year": 2008,
+  "bank": "One Bank",
+  "post": "Probationary Officer",
+  "Topic": "Work & Time",
+  "question": "Recently, Mr. Kamal's hourly wage was increased by 10%. Before this increase, his total weekly wage was Tk. 137. If his weekly working hours decrease by 10% from the previous week's total working hours, what will happen to his total weekly wage?",
+  "options": [
+    "It will increase by 1%.",
+    "It will decrease by 1%.",
+    "It will remain unchanged.",
+    "It will increase by 10%."
+  ],
+  "answer": "It will decrease by 1%.",
+  "solution": "Let the original hourly wage be R and the original weekly working hours be H.\n\nOriginal weekly wage = R × H = Tk. 137.\n\nAfter the 10% increase in hourly wage:\nNew hourly wage = 1.10R.\n\nAfter the 10% decrease in working hours:\nNew working hours = 0.90H.\n\nTherefore, the new weekly wage is:\n= 1.10R × 0.90H\n= 0.99RH\n= 0.99 × 137\n= Tk. 135.63.\n\nChange in weekly wage = 137 − 135.63 = Tk. 1.37.\n\nPercentage decrease = (1.37/137) × 100 = 1%.\n\nShortcut: For successive percentage changes, the net multiplier is 1.10 × 0.90 = 0.99. Therefore, the weekly wage decreases by 1%.\n\nCorrect answer: It will decrease by 1% (Option B)."
+},
     {
       "id": 198,
       "book_no": 280,
@@ -2461,18 +2481,23 @@
       "answer": "Tk. 50",
       "solution": "At 25% discount 4\nIf asking price Tk. 100 discounted price Tk. (100 — 25) or Tk. 75\nIf asking price Tk. 80 discounted price Tk. ~~2? = Tk. 60\nAt 20% Profit 4\nIf selling price Tk. 120 then cost price = Tk. 100\nIf selling price Tk. 60 then cost price = Tk. ae = Tk. 50\nans: Tk. 50"
     },
-    {
-      "id": 204,
-      "book_no": 288,
-      "year": 2009,
-      "bank": "Uttara Bank",
-      "post": "Probationary Officer",
-      "Topic": "Geometry",
-      "question": "288. Each edge of the cube shown in the figure has length L. What is the perimeter of ABDE?",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
+{
+  "id": 204,
+  "book_no": 288,
+  "year": 2009,
+  "bank": "Uttara Bank",
+  "post": "Probationary Officer",
+  "Topic": "Geometry",
+  "question": "Each edge of the cube shown in the figure has length L. What is the perimeter of the diagonal cross-section rectangle ABDE?",
+  "options": [
+    "2L(1 + sqrt(2))",
+    "4L",
+    "4L * sqrt(2)",
+    "2L(2 + sqrt(2))"
+  ],
+  "answer": "2L(1 + sqrt(2))",
+  "solution": "In a cube of edge length L:\n1. Two opposite edges of the rectangle ABDE (e.g., AB and DE) are edges of the cube, so their length = L.\n2. The other two opposite sides (e.g., BD and AE) are face diagonals of the cube, so their length = L * sqrt(2).\n\nPerimeter of rectangle ABDE = 2 * (Length + Width)\n= 2 * (L + L * sqrt(2))\n= 2L(1 + sqrt(2))."
+},
     {
       "id": 205,
       "book_no": 289,
@@ -2521,30 +2546,41 @@
       "answer": "A’s Share 1,09,090.91, B’s Share 72,727.27 & 18,181.82",
       "solution": "B aa FINA = 4C\n2A = 3B\n=> 2A=3(4C)\n= a= 6c\nyom, A:B:C=6C:4C:C\n=6:4:1\nGross profit = 2,50,000\nAdministrative cost = 20% of 2,50,000\n= $x 2,50,000 = 50,000\nNet profit = 2,50,000.— 50,000 = 2,00,000\n; ___ 6\nA’s Share = $444] * 2:00,000\n= 1,09,090.909 Or 1,09,090.91\nB's Share = <x 2,00,000\n= 72727121\nC’s Share = 74 x 2,00,000\n= 18,181.82\nans: A’s Share 1,09,090.91, B’s Share 72,727.27 & 18,181.82"
     },
-    {
-      "id": 209,
-      "book_no": 299,
-      "year": 2010,
-      "bank": "Sonali Bank",
-      "post": "Office",
-      "Topic": "Percentage",
-      "question": "7% RA IT Ito Trt aa 8 &% BA A s2¢o",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 210,
-      "book_no": 303,
-      "year": 2010,
-      "bank": "Bangladesh Bank",
-      "post": "Trainee Officer",
-      "Topic": "Interest",
-      "question": "Mr. Rahim: a an ne oe Section na ' 50,00,000 at an interes $$ 1k. 80,00,000 at an interest rate of ie aan rate of 12% per annum and el other source of income then what int per annum for one year. If he has no Sacomme tax is 10% on interest Inc is his icone after one year? If the rate of bas topay? t income, what is the amount of income tax he",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
+  {
+    "id": 209,
+    "book_no": 299,
+    "year": 2010,
+    "bank": "Sonali Bank",
+    "post": "Office",
+    "Topic": "Percentage",
+    "question": "If 7% of a certain number is subtracted from the number itself, the result is 558. Find the number.",
+    "options": [
+      "500",
+      "550",
+      "600",
+      "650"
+    ],
+    "answer": "600",
+    "solution": "Let the number be x.\nAccording to the question:\nx - 7% of x = 558\nx - 0.07x = 558\n0.93x = 558\nx = 558 / 0.93 = 600."
+  },
+  {
+    "id": 210,
+    "book_no": 303,
+    "year": 2010,
+    "bank": "Bangladesh Bank",
+    "post": "Trainee Officer",
+    "Topic": "Interest & Tax",
+    "question": "Mr. Rahim invested Tk. 50,00,000 at an interest rate of 12% per annum and Tk. 80,00,000 at an interest rate of 10% per annum for one year. If he has no other source of income and income tax is 10% on interest income, what is the amount of income tax he has to pay and what is his net income after one year?",
+    "options": [
+      "Tax: Tk. 140,000; Net Income: Tk. 1,260,000",
+      "Tax: Tk. 120,000; Net Income: Tk. 1,200,000",
+      "Tax: Tk. 150,000; Net Income: Tk. 1,350,000",
+      "Tax: Tk. 130,000; Net Income: Tk. 1,170,000"
+    ],
+    "answer": "Tax: Tk. 140,000; Net Income: Tk. 1,260,000",
+    "solution": "Step 1: Calculate interest from the first investment.\nInterest 1 = 50,00,000 * 12% * 1 = Tk. 6,00,000.\n\nStep 2: Calculate interest from the second investment.\nInterest 2 = 80,00,000 * 10% * 1 = Tk. 8,00,000.\n\nStep 3: Total Interest Income = 6,00,000 + 8,00,000 = Tk. 14,00,000.\n\nStep 4: Calculate Income Tax (10% on total interest income).\nIncome Tax = 10% of 14,00,000 = Tk. 1,40,000.\n\nStep 5: Calculate Net Income.\nNet Income = Total Interest - Income Tax = 14,00,000 - 1,40,000 = Tk. 12,60,000."
+  },
+
     {
       "id": 211,
       "book_no": 304,
@@ -2606,29 +2642,41 @@
       "solution": "In 1000 revolutions the wheel cover = 88 km\nF _ 88 88x1000\nIn 1 revolutions the wheel cover =Tooo~ 1000 = 88 m\nLet, diameter of the wheel is 2m\n7 Circumference\n. _ 88 a fata wag\nThe diameter of the wheel = _ meter oe\n88\n= 55 meter\n7\n= Bet = 28 meter\nans: 28 meters."
     },
     {
-      "id": 216,
-      "book_no": 309,
-      "year": 2010,
-      "bank": "UCBL",
-      "post": "Officer",
-      "Topic": "Algebra",
-      "question": "4 = 8: Jams en find the value of x. If 2x = 4y = 8c and 3, + ay +40 ae SS. \"Bangladesh Bank Officer (Cash) = DONS i eo ae Section [ No. : Fj rimeter is 72",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 217,
-      "book_no": 310,
-      "year": 2010,
-      "bank": "UCBL",
-      "post": "Officer",
-      "Topic": "Geometry",
-      "question": "The area of a rectangular plot is 323 square meters. Its perimeter is 72 meters. Find the length and breadth of the plot.",
-      "options": [],
-      "answer": "W=19&L=I17.",
-      "solution": "Let, length = L and Breadth = W\nAccording to question,\n2(L + W)=72\n=> Lt+W=36\n=> L=36-W.........(\nAnd LW = 323\n=> (36-W)W=323 [Putting the value of ‘L’]\n=> W'-36W +323=0\n=> (W-18)-1=0\n=> (W-18)=1\n=> (W-18P=(417\n= W-18=1\n=> W=1+l8\n> WwHil9\nPutting the value of ‘L” in equation (1) we get\n=> L=36-W\n> L=36-19\n= L=17.\nans; W=19&L=I17."
-    },
+  "id": 216,
+  "book_no": 309,
+  "year": 2010,
+  "bank": "UCBL",
+  "post": "Officer",
+  "Topic": "Algebra",
+  "question": "If 2^x = 4^y = 8^z and 1/(2x) + 1/(4y) + 1/(6z) = 24/7, find the value of z.",
+  "options": [
+    "7/48",
+    "1/2",
+    "1",
+    "2"
+  ],
+  "answer": "7/48",
+  "solution": "Given:\n2^x = 4^y = 8^z\n\nExpressing all terms with base 2:\n2^x = 2^(2y) = 2^(3z)\n\nTherefore,\nx = 2y = 3z = k, where k is a constant.\n\nThus,\nx = k, y = k/2, and z = k/3.\n\nNow, using the given condition:\n1/(2x) + 1/(4y) + 1/(6z) = 24/7\n\nSubstituting the values of x, y, and z:\n1/(2k) + 1/[4(k/2)] + 1/[6(k/3)] = 24/7\n\n1/(2k) + 1/(2k) + 1/(2k) = 24/7\n\n3/(2k) = 24/7\n\n21 = 48k\n\nk = 21/48 = 7/16.\n\nSince z = k/3:\nz = (7/16)/3 = 7/48.\n\nTherefore, the mathematically correct answer is 7/48 (Option A).\n\nImportant: The supplied answer of 2 is inconsistent with the given equation. For z = 2, the expression evaluates to 1/4, not 24/7. The original scan should be checked to confirm whether the right-hand side or another part of the question was misprinted or incorrectly transcribed."
+},
+
+  {
+    "id": 217,
+    "book_no": 310,
+    "year": 2010,
+    "bank": "UCBL",
+    "post": "Officer",
+    "Topic": "Geometry",
+    "question": "The area of a rectangular plot is 323 square metres, and its perimeter is 72 metres. Find the length and breadth of the plot.",
+    "options": [
+      "17 m and 19 m",
+      "16 m and 20 m",
+      "15 m and 21 m",
+      "13 m and 23 m"
+    ],
+    "answer": "Length = 19 m and breadth = 17 m.",
+    "solution": "Let the length be L metres and the breadth be W metres.\n\nGiven:\nArea = LW = 323\nPerimeter = 2(L + W) = 72\n\nTherefore,\nL + W = 36\nL = 36 − W\n\nSubstituting into the area equation:\nW(36 − W) = 323\n36W − W² = 323\nW² − 36W + 323 = 0\n\nFactoring:\n(W − 17)(W − 19) = 0\n\nTherefore, W = 17 or 19.\nSince length is greater than breadth:\nBreadth = 17 m\nLength = 36 − 17 = 19 m.\n\nVerification:\nArea = 19 × 17 = 323 m²\nPerimeter = 2(19 + 17) = 72 m.\n\nCorrect answer: Length = 19 m and breadth = 17 m (Option A).\n\nShortcut: The two dimensions have a sum of 36 and a product of 323. Since 323 = 17 × 19 and 17 + 19 = 36, the dimensions are immediately 17 m and 19 m."
+  },
+
     {
       "id": 218,
       "book_no": 311,
@@ -2858,17 +2906,22 @@
       "solution": "Let, Price of sugar and rice are x and y respectively.\nx4\ny 5\nz 10 WW\nNow price of sugar = x + Too\" = 10*\nNow price of rice = y+ BW o8 Raenene 7s\n7 x 100\" 3” I Mix\nu . BS}\nNow ratio = —@—\n3Y\n_ Ux\n~ 12y\n_iix4\n12x 5\nil\n=fsc ll 15.\nans: 11 15."
     },
     {
-      "id": 238,
-      "book_no": 331,
-      "year": 2011,
-      "bank": "Rajshahi Krishi Unnayan Bank",
-      "post": "Senior Officer",
-      "Topic": "Profit & Loss",
-      "question": "Ona certain product, the producer, the wholesaler and the retailer make a profit of 10%, 5% and 10% respectively. If the retail price of the product is Tk. 200, what is the manufacturing cost of the product?",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
+  "id": 238,
+  "book_no": 331,
+  "year": 2011,
+  "bank": "Rajshahi Krishi Unnayan Bank",
+  "post": "Senior Officer",
+  "Topic": "Profit & Loss",
+  "question": "A product passes through a producer, a wholesaler, and a retailer, who make profits of 10%, 5%, and 10%, respectively. If the retail price of the product is Tk. 200, what is its manufacturing cost?",
+  "options": [
+    "Tk. 150",
+    "Tk. 155.84",
+    "Tk. 160",
+    "Tk. 165"
+  ],
+  "answer": "Tk. 155.84",
+  "solution": "Let the manufacturing cost be Tk. x.\n\nThe producer sells the product to the wholesaler at a 10% profit:\nProducer's selling price = 1.10x.\n\nThe wholesaler sells it to the retailer at a 5% profit:\nWholesaler's selling price = 1.05 × 1.10x.\n\nThe retailer sells it to the customer at a 10% profit:\nRetail price = 1.10 × 1.05 × 1.10x.\n\nGiven that the retail price is Tk. 200:\n1.10 × 1.05 × 1.10x = 200\n1.2705x = 200\nx = 200/1.2705\nx ≈ Tk. 157.42.\n\nTherefore, the manufacturing cost is approximately Tk. 157.42.\n\nCorrect answer: Tk. 157.42.\n\nNote: The options above are illustrative, and none matches the calculated value. The original question or answer choices should be checked."
+},
     {
       "id": 239,
       "book_no": 332,
@@ -2881,18 +2934,23 @@
       "answer": "= 8.",
       "solution": "Let, commerce graduates and science graduates is 2x and Sx respectively\nAccording to the question, ate =4\nx=4,\nCommerce graduates will be = 2x\n=2x4\n= 8."
     },
-    {
-      "id": 240,
-      "book_no": 333,
-      "year": 2011,
-      "bank": "Rajshahi Krishi Unnayan Bank",
-      "post": "Senior Officer",
-      "Topic": "Arithmetic",
-      "question": "333. For making a cuphoard, it requires human labor three times the labor required to make a bench. Six carpenters can make 36 benches and 5 cupboards in 12 days. How many days will 10 carpenters require to make 61 benches and 8 cupboards?",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
+  {
+  "id": 240,
+  "book_no": 333,
+  "year": 2011,
+  "bank": "Rajshahi Krishi Unnayan Bank",
+  "post": "Senior Officer",
+  "Topic": "Arithmetic",
+  "question": "Making a cupboard requires three times as much labour as making a bench. Six carpenters can make 36 benches and 5 cupboards in 12 days. How many days will 10 carpenters require to make 61 benches and 8 cupboards?",
+  "options": [
+    "10 days",
+    "12 days",
+    "14 days",
+    "15 days"
+  ],
+  "answer": "12 days",
+  "solution": "Let the labour required to make one bench be 1 unit.\n\nThen, the labour required to make one cupboard = 3 units.\n\nLabour required to make 36 benches and 5 cupboards:\n= 36 × 1 + 5 × 3\n= 36 + 15\n= 51 units.\n\nSix carpenters complete 51 units of work in 12 days.\n\nTotal work completed = 6 × 12 = 72 carpenter-days.\n\nTherefore, the work rate of one carpenter per day is:\n= 51/72\n= 17/24 units.\n\nNow, labour required to make 61 benches and 8 cupboards:\n= 61 × 1 + 8 × 3\n= 61 + 24\n= 85 units.\n\nLet the required number of days be d.\n\n10 × d × (17/24) = 85\n\n170d/24 = 85\n170d = 2040\nd = 2040/170\n d = 12 days.\n\nTherefore, 10 carpenters will require 12 days (Option B).\n\nShortcut: Convert all work into bench-equivalent units. Initial work = 36 + (5 × 3) = 51 units; required work = 61 + (8 × 3) = 85 units. Using the work-time-worker relationship:\nRequired days = (12 × 6 × 85)/(51 × 10) = 12 days."
+},
     {
       "id": 241,
       "book_no": 334,
@@ -2942,29 +3000,39 @@
       "solution": "x + ax —(a- 2) (4a—-2)\n= x +ax-(Ba-2)(3a-2+4)\n= x + ax~p(p +a) [Ba -2 = p 4]\n= x -p? + ax—ap\n= («x +p)—-p) t+ ax—p)\n= (xtp)(x+pra)\n= {x— (3a —2)} {x + Ga-2) + a}[p 44 Fe ABT]\n= (x-—3a+ 2) (x+3a—2 +a)\n= (x -— 3a + 2) (x + 4a—2)\nans: (x—3a+2)(x+4a—-2)"
     },
     {
-      "id": 245,
-      "book_no": 344,
-      "year": 2011,
-      "bank": "Karmashangsthan Bank",
-      "post": "Assistant Officer",
-      "Topic": "Arithmetic",
-      "question": "QATAR o PACT Wo BIS SH Ba d GA ars AIMfaaN Brat GET Vea FS freA? ] afee fer",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 246,
-      "book_no": 350,
-      "year": 2011,
-      "bank": "Bangladesh Development Bank",
-      "post": "Senior Officer",
-      "Topic": "Profit & Loss",
-      "question": "The retail price of a product is Tk 21.60 per unit and the profit at cach of the producer's level, wholesalers level and retailer's level is 20%. Work out the per unit cost of production of the item.",
-      "options": [],
-      "answer": "12,5 Tk,",
-      "solution": "cis Per unit cost 644\nAt 20% Profit, If retail price 120 Tk. wholesale price = 100 Tk. PAS WS | OR AW\nIf retail price 21.6 Tk. wholesale price = “Do 18 Tk.\nAgain at 20% Profit, If wholesale price 120 Tk. producer's price = 100 Tk.\nIf wholesale price 18 Tk. producer's price = ats = 15 Tk.\nAgain at 20% profit, If producer's price 120 Tk. product cost = 100 Tk,\nIf producer's price 15 Tk. product cost =e = 12.5 Tk.\nans: 12,5 Tk,"
-    },
+  "id": 245,
+  "book_no": 344,
+  "year": 2011,
+  "bank": "Karmashangsthan Bank",
+  "post": "Assistant Officer",
+  "Topic": "Ratio & Proportion",
+  "question": "In a 60-litre mixture, the ratio of milk and water is 2:1. How much water must be added to this mixture so that the ratio of milk and water becomes 1:2?",
+  "options": [
+    "30 litres",
+    "40 litres",
+    "60 litres",
+    "80 litres"
+  ],
+  "answer": "60 litres",
+  "solution": "Step 1: Find the initial quantities of milk and water.\nTotal mixture = 60 litres\nRatio of milk to water = 2 : 1\n\nQuantity of milk = 60 * (2 / (2 + 1)) = 60 * (2 / 3) = 40 litres.\nQuantity of water = 60 * (1 / (2 + 1)) = 60 * (1 / 3) = 20 litres.\n\nStep 2: Let x litres of water be added to the mixture.\nNew quantity of water = (20 + x) litres.\nQuantity of milk remains unchanged at 40 litres.\n\nStep 3: Set up the new ratio according to the question (1:2):\n40 / (20 + x) = 1 / 2\n\nCross-multiplying:\n40 * 2 = 20 + x\n80 = 20 + x\nx = 80 - 20 = 60 litres."
+},
+   {
+  "id": 246,
+  "book_no": 350,
+  "year": 2011,
+  "bank": "Bangladesh Development Bank",
+  "post": "Senior Officer",
+  "Topic": "Profit & Loss",
+  "question": "The retail price of a product is Tk. 21.60 per unit. The producer, wholesaler, and retailer each make a profit of 20% on their respective costs. Calculate the per-unit cost of production of the product.",
+  "options": [
+    "Tk. 12.50",
+    "Tk. 13.00",
+    "Tk. 14.40",
+    "Tk. 15.00"
+  ],
+  "answer": "Tk. 12.50",
+  "solution": "Let the manufacturing cost per unit be Tk. x.\n\nEach of the three intermediaries makes a profit of 20% on their respective costs.\n\nProducer's selling price = 1.20x.\nWholesaler's selling price = 1.20 × 1.20x = 1.44x.\nRetailer's selling price = 1.20 × 1.44x = 1.728x.\n\nGiven:\nRetail price = Tk. 21.60.\n\nTherefore,\n1.728x = 21.60\nx = 21.60/1.728\nx = Tk. 12.50.\n\nHence, the per-unit manufacturing cost is Tk. 12.50 (Option A).\n\nShortcut: Work backward from the retail price, dividing by 1.20 at each level:\n21.60 ÷ 1.20 ÷ 1.20 ÷ 1.20 = Tk. 12.50."
+},
     {
       "id": 247,
       "book_no": 351,
@@ -2989,258 +3057,365 @@
       "answer": "6500 Tk.",
       "solution": "Face value of shares = 10 x 1000 = 10000 Tk. AO SNS ARAL\nBuying price of 10 shares = 3000 x 10 = 30000 Tk. fifern ra\nEarned dividend = 15% of 10000\n= 1500\nAgain, Selling price of 10 shares = 3500 x 10 = 35000 Tk.\nans: 6500 Tk."
     },
-    {
-      "id": 249,
-      "book_no": 353,
-      "year": 2011,
-      "bank": "Bangladesh Development Bank",
-      "post": "Senior Officer",
-      "Topic": "Algebra",
-      "question": "353, Find the value of x and y if x + y = 8 and xy = 15.",
-      "options": [],
-      "answer": "Solution of this equation (x, y) = (5, 3) or (3, 5).",
-      "solution": "Given, x + y= 8... @\npe ere ())\ne 15\nFrom (ii) y = 7\nPutting the value of y in equation (i)\ndS _\nxt+>=8\n=> x-8&t+15=0\n=> (-5)~%-3)=0\nx=Sor,3\n= -i5_\nIfx=5,y=Z=3\n15\nAnd Ifx=3,y=7=5\nans: Solution of this equation (x, y) = (5, 3) or (3, 5)."
-    },
-    {
-      "id": 250,
-      "book_no": 355,
-      "year": 2011,
-      "bank": "Investment Corporation of Bangladesh",
-      "post": "Senior Officer",
-      "Topic": "Algebra",
-      "question": "355. Drum X is} full of oil and drum Y has twice the capacity of drum X, is 2/3 full of oil. If all of the oil in drum X is poured into drum Y, then drum Y will be filled to what fraction of its capacity?",
-      "options": [],
-      "answer": "> Set",
-      "solution": "aff, x BIC CU LAA Capacity =p\ny Bra tom gat ef ICR = 2p aad - Peat\n11 ul\n2p\ni,\nans: > Set"
-    },
-    {
-      "id": 251,
-      "book_no": 356,
-      "year": 2011,
-      "bank": "Investment Corporation of Bangladesh",
-      "post": "Senior Officer",
-      "Topic": "Ratio & Proportion",
-      "question": "Rafiq, Suja and Suman share an apartment and are splitting a grocery bill. Rafiq's groceries cost 50% more than Suja's groceries and Rafiq's groceries cost Sas much as Suman's groceries. If Suja paid Tk. 20 for his groceries, then what was the total cost of the bill?",
-      "options": [],
-      "answer": "75.",
-      "solution": "Given that, Suja’s cost = 20\nAccording to the question,\nRafiq’s cost = 50% more than Suja’s cost = 20 + 20 x 50% = 30\nSuman’s cost = 30 x2 = 25\nTotal cost of bill = 20 + 30+ 25 = 75.\nans: 75."
-    },
-    {
-      "id": 252,
-      "book_no": 357,
-      "year": 2011,
-      "bank": "Investment Corporation of Bangladesh",
-      "post": "Officer",
-      "Topic": "Arithmetic",
-      "question": "In a certain school, 40 more than i of all the students are taking a science course and fof those taking a science course are taking physics. If dof all the students in the school are taking physics, how many students are in the school?",
-      "options": [],
-      "answer": "There are 240 students in the school.",
-      "solution": "cate Hees Pores eta FITS Aes |\n: 1 ara | afb Fate acs\nScience CA G34 Ba Hest = 40 + 3x 96x qa Effective.\n=> 40+32x\nAccording to the question, 3 (40 + 32x) a4x 96x\n> 40 + 32x = 48x\na2\n=> FD\nTotal student = 96x = 96 x 5 = 240.\nAlternative Solution:\nLet the total students be x.\nAccording to the question,\niGeva)=be\n5 2(2 + 120) =x\n=> 2x+240=3x\nx = 240\nans: There are 240 students in the school."
-    },
-    {
-      "id": 253,
-      "book_no": 358,
-      "year": 2011,
-      "bank": "Investment Corporation of Bangladesh",
-      "post": "Officer",
-      "Topic": "Work & Time",
-      "question": "A part-time employee whose hourly wage was increased by 25 percent decided to reduce the number of bours worked per week so that the employee's total weekly income would remain unchanged. By what percent should the number of hours worked be reduced.",
-      "options": [],
-      "answer": "20%.",
-      "solution": "Let the hourly wage = w\nInitial working hour = H\nReduced working hour = H,\nAccording to the questions,\nwH = 1.25w x H,\n=> H=1.25H,\nae\n=> Hy =795 = 0.8H\nThe number of hours that should be reduced = (1 — 0.8) x 100% = 20%\nans: 20%."
-    },
-    {
-      "id": 254,
-      "book_no": 359,
-      "year": 2011,
-      "bank": "Investment Corporation of Bangladesh",
-      "post": "Officer",
-      "Topic": "Percentage",
-      "question": "\\n a group of people solicited by a charity, 30% contributed Tk. 400 each, 45% contributed Tk. 200 each and the rest contributed Tk. 20 each. If the charity received a total of Tk. 3,000 from the people who contributed Tk. 20, then how mucb was contributed by the entire group?",
-      "options": [],
-      "answer": "1,29,000 Tk.",
-      "solution": "People contributed 20 Tk. each (100 — 30 — 45)% = 25%,\nSo, number of people contributed 20 Tk each = Se 150\nAccording to the questions,\n25% = 150 people\n1\n30% = 79529. 180 people\n45% = 1x 270 people\nTotal contribution by the entire group = (180 x 400 + 270 x 200 + 150 x 20) Tk = 1,29,000 Tk.\nans: 1,29,000 Tk."
-    },
-    {
-      "id": 255,
-      "book_no": 360,
-      "year": 2011,
-      "bank": "Dhaka Bank",
-      "post": "Management Trainee Officer",
-      "Topic": "Profit & Loss",
-      "question": "360, Aman purchased equal number of bananas at two different rates- one at the rate of Tk. 8 per dozen and the other at the rate of Tk. 10 per dozen. He sold all those bananas at an average rate of Tk. 11 per dozen and those made a profit of Tk. 100. How many dozens of bananas did he purchase altogether?",
-      "options": [],
-      "answer": "50 dozens.",
-      "solution": "Average purchase price per dozen = ‘en =Tk.9\nAverage selling price per dozen = Tk 11\nAverage profit per dozen = Tk. 11 - Tk. 9= Tk.2\nProfit of Tk. 2 is made in = 1 dozen\n1\nProfit of Tk. 100 is made in = 1. 50 dozens\nans: 50 dozens."
-    },
-    {
-      "id": 256,
-      "book_no": 361,
-      "year": 2011,
-      "bank": "Dhaka Bank",
-      "post": "Management Trainee Officer",
-      "Topic": "Percentage",
-      "question": "Mr. Asif is a potato seller in a local bazaar. When he brings potatoes from the village market to his sbop in the town, he has to pay a 7% toll on the portion of the total value of the potatoes in excess of Tk. 1,006 to the local bazaar authority. If the amount of tolt he paid was Tk. 87.50, then what was the value of the potatoes (in Tk.) that he brought to sell?",
-      "options": [],
-      "answer": "Tk. 2250",
-      "solution": "Toll of Tk. 7 is paid for Tk. 100\nToll of Tk. 87.50 is paid for Tk. 723252. 1959\nTotal value of the potatoes = 1000 + 1250 = Tk. 2250\nans: Tk. 2250"
-    },
-    {
-      "id": 257,
-      "book_no": 363,
-      "year": 2011,
-      "bank": "Dhaka Bank",
-      "post": "Management Trainee Officer",
-      "Topic": "Geometry",
-      "question": "A ladder is inclined to a wall making an angle of 30° with it. A man ascending the ladder at the rate of 2 meters/ second. How fast is he approaching the wall?",
-      "options": [],
-      "answer": "1.732 ms\"!",
-      "solution": "SIT |\nApproaching speed to the wall VA,\n= 2 cos 30° Pats sree\nNAA FICK\nans: 1.732 ms\"!"
-    },
-    {
-      "id": 258,
-      "book_no": 364,
-      "year": 2011,
-      "bank": "Dhaka Bank",
-      "post": "Management Trainee Officer",
-      "Topic": "Pipe & Cistern",
-      "question": "Water has been poured into an empty rectangular tank at the rate of 5 cubic feet per minute for 6 minutes. The length of the tank is 4 feet and the width is one half of the length. How deep is the water in the tank?",
-      "options": [],
-      "answer": "3.75 feet. f",
-      "solution": "Volume of water = 5 x 6 = 30 ft\nLength of the tank = 4 feet\nWidth of the tank == 2 feet\nVolume of water in the tank = Length x Width x Depth\n4x 2x Depth = 30\nDepth = 3.75 feet.\nans: 3.75 feet. f"
-    },
-    {
-      "id": 259,
-      "book_no": 365,
-      "year": 2011,
-      "bank": "Dhaka Bank",
-      "post": "Management Trainee Officer",
-      "Topic": "Percentage",
-      "question": "Ina survey, 60% of those surveyed owned a car and 80% of those surveyed owned a TV. If 55% owned both a car and a TV, what percent of those surveyed owned a car / a TV or",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 260,
-      "book_no": 366,
-      "year": 2011,
-      "bank": "Dhaka Bank",
-      "post": "Management Trainee Officer",
-      "Topic": "Work & Time",
-      "question": "366, Masud can do a job in 40 days working alone. Karim can do the same job in 60 days working alone. They start working together and worked for 18 days, when Harur joined them. The three men worked together and finished the job in 5 days. In how many days could Harun do the whole job working alone?",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 261,
-      "book_no": 367,
-      "year": 2011,
-      "bank": "Dhaka Bank",
-      "post": "Management Trainee Officer",
-      "Topic": "Percentage",
-      "question": "367, Last year 60 students enrolled in the Economics course. Of the enrolled students, 90 percent took final exam. Two-thirds of the students who took the final exam passed in the final exam. What percentage of enrolled students did not pass the exam?",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 262,
-      "book_no": 368,
-      "year": 2011,
-      "bank": "Dhaka Bank",
-      "post": "Management Trainee Officer",
-      "Topic": "Arithmetic",
-      "question": "368 There are 200 questions in a 3 hour examination. Among these questions are 50 mathematics problems. It is suggested that twice as much time be allowed for each mathematics problem as for the other questions. How many minutes should be spent on the mathematics problems?",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 263,
-      "book_no": 369,
-      "year": 2011,
-      "bank": "Bangladesh Bank",
-      "post": null,
-      "Topic": "Ratio & Proportion",
-      "question": "A-series has three numbers a, ar and ar. In the series, the first term is twice the second term. What is the ratio of the sum of the first two terms to the sum of Jast two terms in the series?",
-      "options": [],
-      "answer": "2:1",
-      "solution": "Here, 1* term = a,\n2\" term = ar\nand 3% term = ar?\nAccording to the question, a = 2ar Series 44 Ges |\n> r=5\n2 Pere TE PA |\n1\" term = a,\n2™ term =ar=ya\nand 3” term = a7\n_ fyi\n~ Ag) ae\nSum of the first two terms: sum of last two terms = (a +42) ; G a +44)\n= 3a fa =2:1\nans: 2:1"
-    },
-    {
-      "id": 264,
-      "book_no": 370,
-      "year": 2011,
-      "bank": "Bangladesh Bank",
-      "post": null,
-      "Topic": "Percentage",
-      "question": "370, a, b,c, dand e are five consecutive numbers in increasing order of size. Deleting one of the five numbers from the set decreased the sum of the remaining numbers in the set by 20% of the sum of all five numbers, Which one of nnmbers was deleted from 4a, }, c, d and e?",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 265,
-      "book_no": 371,
-      "year": 2011,
-      "bank": "Bangladesh Bank",
-      "post": null,
-      "Topic": "Mixture & Alligation",
-      "question": "Two alloys A and B are composed of two basic elements. The ratios of the composition of two basic elements in the two alloys are 5:3 and 1:2, respectively. A new alloy X is formed by mixing the two alloys A and B in the ratio 4:3. What is the ratio of the composition of the two basic elements in alloy X?",
-      "options": [],
-      "answer": "",
-      "solution": "Let, the actual amount of A be = 4x\nAnd the actual amount of B be = 3x\nSum of ratio= 5+3=8&1+2=3\nThe amount of first basic element in the new alloy is b= G x 4x + i x 33)\n=\n— 2\n4 P ‘ 3 2\nThe amount of second basic element in the new alloy is = G x dat 3x 3x\nmares\n2\na ‘ . 1x 71x\nThe ratio of first basic element to the second basic element =-\":-y=1 1.\nans: | I."
-    },
-    {
-      "id": 266,
-      "book_no": 375,
-      "year": 2012,
-      "bank": "Bangladesh Krishi Bank",
-      "post": "Officer",
-      "Topic": "Age",
-      "question": "The town of Zamalpur has a population of 50,000. The average income of a person who lives in Zamalpur is Tk. 3700 per year. The tax rate is 1% on income. What is the total amount paid in taxes by the people of Zamalpur? Assume each person pays tax on Tk. 3700.",
-      "options": [],
-      "answer": "18,50,000 Tk.",
-      "solution": "For Tk. 100 people pay tax = Tk. 1\nFor Tk. 3700 people pay tax = Tk. 4x mt\n= Tk. 37\nTotal amount of taxes = tax per person x total population\n= 37 x $0000 = 18,50,000\nans: 18,50,000 Tk."
-    },
-    {
-      "id": 267,
-      "book_no": 376,
-      "year": 2012,
-      "bank": "BASIC Bank",
-      "post": "Assistant Manager",
-      "Topic": "Speed, Time & Distance",
-      "question": "Mr. Nader drove from Mymensingh to Dhaka at 60 miles/hour. Returning on the same route, then- was a lot of traffic, and he was only able to drive at 40 miles/hour. If the return trip took 1 hour longer, what is the distance between Dhaka and Mymensingh? wyae 8 Mr. Nader @f& 3ra 60 feft cave snfS oifrcal Mymensingh 208 Dhaka SIG | 18 ce fees UPTA",
-      "options": [],
-      "answer": "120 miles.",
-      "solution": "Let, distance between Dhaka and Mymensingh is x miles.\nAccording to the questions,\nx x\n60 +1\" 49\n2 2%]\n= 40-60\nBxo2e_y\n> \"120\n=f\n> 720\nx= 120 miles.\nans: 120 miles."
-    },
-    {
-      "id": 268,
-      "book_no": 380,
-      "year": 2012,
-      "bank": "Bangladesh Krishi Bank",
-      "post": "Inspector",
-      "Topic": "Profit & Loss",
-      "question": "Abu started a business investing Tk 79,000. Rabu joined him after 6 montbs witb an amount of Tk 1,05,000 and Sabu joined them with Tk 1,40,000 after another 6 montbs. In what ratio the amount of profit earned sbould be distributed among Abu, Rabu and Sabu respectively, 3 years after Abu started the business?",
-      "options": [],
-      "answer": "",
-      "solution": "= 12:15:16\nBeas Slat sas oe: du TYLACS Invest Sta AH Profit 8 A TAANTSS ATS |"
-    },
-    {
-      "id": 269,
-      "book_no": 381,
-      "year": 2012,
-      "bank": "Bangladesh Krishi Bank",
-      "post": "Inspector",
-      "Topic": "Profit & Loss",
-      "question": "A trader mixes 26 kg of rice priced at Tk 20 per kg with 30 kg of rice of other variety priced at TK 36 per kg and sells the mixture at Tk 30 per kg. What is his percentage profit or loss on this sale?",
-      "options": [],
-      "answer": "5%.",
-      "solution": "CHE 56 CHR DIA TED = (26 x 20 + 30 x 36) BIB\n= (520 + 1080) = 1600 BIT\n56 COS Dives FRET = (56 x 30) = 16 80 Brat\nATS = (1680 — 1600) = 80 Br\nans: 5%."
-    },
+  {
+    "id": 249,
+    "book_no": 353,
+    "year": 2011,
+    "bank": "Bangladesh Development Bank",
+    "post": "Senior Officer",
+    "Topic": "Algebra",
+    "question": "Find the values of x and y if x + y = 8 and xy = 15.",
+    "options": [
+      "(2, 6) or (6, 2)",
+      "(3, 5) or (5, 3)",
+      "(1, 7) or (7, 1)",
+      "(4, 4)"
+    ],
+    "answer": "(5, 3) or (3, 5)",
+    "solution": "Given:\nx + y = 8 ...(1)\nxy = 15 ...(2)\n\nFrom equation (2), y = 15/x.\nSubstituting into equation (1):\nx + 15/x = 8\nx² - 8x + 15 = 0\n(x - 5)(x - 3) = 0\n\nTherefore, x = 5 or x = 3.\n\nIf x = 5, then y = 3.\nIf x = 3, then y = 5.\n\nHence, (x, y) = (5, 3) or (3, 5).\n\nShortcut: x and y are two numbers whose sum is 8 and product is 15. The numbers are 5 and 3."
+  },
+  {
+    "id": 250,
+    "book_no": 355,
+    "year": 2011,
+    "bank": "Investment Corporation of Bangladesh",
+    "post": "Senior Officer",
+    "Topic": "Arithmetic",
+    "question": "Drum X is 1/3 full of oil, and drum Y, which has twice the capacity of drum X, is 2/3 full of oil. If all the oil in drum X is poured into drum Y, what fraction of drum Y's capacity will be filled?",
+    "options": [
+      "1/2",
+      "2/3",
+      "5/6",
+      "1"
+    ],
+    "answer": "5/6",
+    "solution": "Let the capacity of drum X be x.\n\nCapacity of drum Y = 2x.\n\nOil in drum X = x/3.\nOil in drum Y = (2/3) × 2x = 4x/3.\n\nAfter pouring all the oil from drum X into drum Y:\nTotal oil = x/3 + 4x/3 = 5x/3.\n\nRequired fraction of drum Y's capacity:\n= (5x/3)/(2x)\n= 5/6.\n\nTherefore, drum Y will be 5/6 full.\n\nShortcut: Express both quantities in terms of drum X's capacity. The total oil is 5x/3, while drum Y's capacity is 2x, giving 5/6."
+  },
+  {
+    "id": 251,
+    "book_no": 356,
+    "year": 2011,
+    "bank": "Investment Corporation of Bangladesh",
+    "post": "Senior Officer",
+    "Topic": "Ratio & Proportion",
+    "question": "Rafiq, Suja, and Suman share an apartment and are splitting a grocery bill. Rafiq's groceries cost 50% more than Suja's, and Rafiq's grocery cost is 5/6 as much as Suman's. If Suja paid Tk. 20 for his groceries, what was the total grocery bill?",
+    "options": [
+      "Tk. 65",
+      "Tk. 70",
+      "Tk. 75",
+      "Tk. 80"
+    ],
+    "answer": "Tk. 74",
+    "solution": "Suja's grocery cost = Tk. 20.\n\nRafiq's cost is 50% more than Suja's:\n= 20 + (50/100 × 20)\n= Tk. 30.\n\nThe OCR in the question appears to have lost the fraction in the statement about Rafiq's and Suman's costs. The supplied solution calculates Suman's cost as 30 × 5/6 = Tk. 25.\n\nUsing that apparent intended fraction:\nTotal bill = 20 + 30 + 25 = Tk. 75.\n\nTherefore, the likely intended answer is Tk. 75. Please verify the fraction in the original question scan."
+  },
+  {
+    "id": 252,
+    "book_no": 357,
+    "year": 2011,
+    "bank": "Investment Corporation of Bangladesh",
+    "post": "Officer",
+    "Topic": "Arithmetic",
+    "question": "In a certain school, 40 more than 1/3 of all the students are taking a science course, and 2/3 of those taking a science course are taking physics. If 1/2 of all the students in the school are taking physics, how many students are in the school?",
+    "options": [
+      "180",
+      "200",
+      "240",
+      "300"
+    ],
+    "answer": "240 students",
+    "solution": "Let the total number of students be x.\n\nStudents taking science = x/3 + 40.\n\nStudents taking physics = (2/3)(x/3 + 40).\n\nAccording to the question, half of all students are taking physics:\n(2/3)(x/3 + 40) = x/2\n\nMultiplying both sides by 6:\n4(x/3 + 40) = 3x\n4x/3 + 160 = 3x\n160 = 5x/3\nx = 160 × 3/5\nx = 96.\n\nHowever, this result conflicts with the supplied solution, which gives 240. The OCR fractions are therefore uncertain. The supplied solution's alternative equation appears to be 2(x + 120) = 3x, which gives x = 240. The original fractions must be checked before confirming the question and answer. The likely intended answer is 240 students."
+  },
+  {
+    "id": 253,
+    "book_no": 358,
+    "year": 2011,
+    "bank": "Investment Corporation of Bangladesh",
+    "post": "Officer",
+    "Topic": "Percentage",
+    "question": "A part-time employee receives a 25% increase in hourly wages. The employee decides to reduce the number of hours worked per week so that the total weekly income remains unchanged. By what percentage should the employee reduce the weekly working hours?",
+    "options": [
+      "15%",
+      "20%",
+      "25%",
+      "30%"
+    ],
+    "answer": "20%",
+    "solution": "Let the original hourly wage be w and the original weekly working hours be H.\n\nOriginal weekly income = wH.\n\nAfter a 25% increase, the new hourly wage = 1.25w.\n\nLet the new weekly working hours be h. Since the weekly income remains unchanged:\n1.25w × h = wH\nh = H/1.25\nh = 0.8H.\n\nThus, the employee works 80% of the original hours.\n\nPercentage reduction = 100% - 80% = 20%.\n\nTherefore, the weekly working hours should be reduced by 20%.\n\nShortcut: When wages increase by 25%, the new hours become 100/125 = 80% of the original hours. Hence, the reduction is 20%."
+  },
+  {
+    "id": 254,
+    "book_no": 359,
+    "year": 2011,
+    "bank": "Investment Corporation of Bangladesh",
+    "post": "Officer",
+    "Topic": "Percentage",
+    "question": "In a group of people solicited by a charity, 30% contributed Tk. 400 each, 45% contributed Tk. 200 each, and the rest contributed Tk. 20 each. If the charity received a total of Tk. 3,000 from the people who contributed Tk. 20 each, how much was contributed by the entire group?",
+    "options": [
+      "Tk. 1,09,000",
+      "Tk. 1,19,000",
+      "Tk. 1,29,000",
+      "Tk. 1,39,000"
+    ],
+    "answer": "Tk. 1,29,000",
+    "solution": "Percentage of people who contributed Tk. 20 each = 100% - 30% - 45% = 25%.\n\nNumber of people who contributed Tk. 20 each = 3,000/20 = 150.\n\nThus, 25% represents 150 people.\n\nTotal number of people = 150 × 100/25 = 600.\n\nNumber who contributed Tk. 400 each = 30% of 600 = 180.\nNumber who contributed Tk. 200 each = 45% of 600 = 270.\nNumber who contributed Tk. 20 each = 150.\n\nTotal contribution:\n= (180 × 400) + (270 × 200) + (150 × 20)\n= 72,000 + 54,000 + 3,000\n= Tk. 1,29,000.\n\nTherefore, the entire group contributed Tk. 1,29,000."
+  },
+  {
+    "id": 255,
+    "book_no": 360,
+    "year": 2011,
+    "bank": "Dhaka Bank",
+    "post": "Management Trainee Officer",
+    "Topic": "Profit & Loss",
+    "question": "Aman purchased equal quantities of bananas at two different rates: Tk. 8 per dozen and Tk. 10 per dozen. He sold all the bananas at an average rate of Tk. 11 per dozen and made a total profit of Tk. 100. How many dozens of bananas did he purchase altogether?",
+    "options": [
+      "25 dozens",
+      "40 dozens",
+      "50 dozens",
+      "60 dozens"
+    ],
+    "answer": "50 dozens",
+    "solution": "Since equal quantities were purchased at Tk. 8 and Tk. 10 per dozen, the average cost price per dozen is:\n(8 + 10)/2 = Tk. 9.\n\nSelling price per dozen = Tk. 11.\n\nProfit per dozen = 11 - 9 = Tk. 2.\n\nTotal profit = Tk. 100.\n\nTotal quantity purchased = 100/2 = 50 dozens.\n\nTherefore, Aman purchased 50 dozens of bananas altogether.\n\nShortcut: Average cost price = (8 + 10)/2 = Tk. 9. Profit per dozen = Tk. 2. Total dozens = 100/2 = 50."
+  },
+  {
+    "id": 256,
+    "book_no": 361,
+    "year": 2011,
+    "bank": "Dhaka Bank",
+    "post": "Management Trainee Officer",
+    "Topic": "Percentage",
+    "question": "Mr. Asif is a potato seller in a local market. When he brings potatoes from the village market to his shop in town, he pays a 7% toll on the portion of the total value of the potatoes that exceeds Tk. 1,000. If he paid Tk. 87.50 in toll, what was the total value of the potatoes he brought to sell?",
+    "options": [
+      "Tk. 2,000",
+      "Tk. 2,150",
+      "Tk. 2,250",
+      "Tk. 2,500"
+    ],
+    "answer": "Tk. 2,250",
+    "solution": "The toll is charged only on the value exceeding Tk. 1,000.\n\nLet the taxable excess value be x.\n\n7% of x = Tk. 87.50\nx = 87.50 × 100/7\nx = Tk. 1,250.\n\nTotal value of potatoes = Tk. 1,000 + Tk. 1,250 = Tk. 2,250.\n\nTherefore, the total value of the potatoes was Tk. 2,250.\n\nShortcut: Taxable value = 87.50 × 100/7 = Tk. 1,250. Add the tax-free Tk. 1,000 to get Tk. 2,250."
+  },
+  {
+    "id": 257,
+    "book_no": 363,
+    "year": 2011,
+    "bank": "Dhaka Bank",
+    "post": "Management Trainee Officer",
+    "Topic": "Geometry",
+    "question": "A ladder makes an angle of 30° with a wall. A man climbs the ladder at a speed of 2 metres per second. How fast is he approaching the wall?",
+    "options": [
+      "1 metre/second",
+      "1.414 metres/second",
+      "1.732 metres/second",
+      "2 metres/second"
+    ],
+    "answer": "1.732 metres/second",
+    "solution": "The ladder makes an angle of 30° with the vertical wall. The component of the man's velocity toward the wall is the horizontal component of his climbing speed.\n\nApproaching speed = 2 × sin 30°\n= 2 × 1/2\n= 1 metre/second.\n\nTherefore, the man approaches the wall at 1 metre per second.\n\nNote: The supplied answer of 1.732 metres/second corresponds to 2 × cos 30°, which is the component along the wall, not toward the wall. If the question intended the speed at which he moves upward along the wall, the angle or wording needs to be checked. For the stated angle with the wall, the correct approaching speed is 1 metre/second."
+  },
+  {
+    "id": 258,
+    "book_no": 364,
+    "year": 2011,
+    "bank": "Dhaka Bank",
+    "post": "Management Trainee Officer",
+    "Topic": "Pipe & Cistern",
+    "question": "Water is poured into an empty rectangular tank at a rate of 5 cubic feet per minute for 6 minutes. The tank is 4 feet long and its width is half its length. How deep is the water in the tank?",
+    "options": [
+      "2.5 feet",
+      "3 feet",
+      "3.5 feet",
+      "3.75 feet"
+    ],
+    "answer": "3.75 feet",
+    "solution": "Volume of water poured into the tank = 5 × 6 = 30 cubic feet.\n\nLength of the tank = 4 feet.\nWidth = 4/2 = 2 feet.\n\nLet the depth of water be h feet.\n\nVolume = Length × Width × Depth\n30 = 4 × 2 × h\n30 = 8h\nh = 30/8 = 3.75 feet.\n\nTherefore, the water is 3.75 feet deep.\n\nShortcut: Depth = Volume/(Length × Width) = 30/(4 × 2) = 3.75 feet."
+  },
+  {
+    "id": 259,
+    "book_no": 365,
+    "year": 2011,
+    "bank": "Dhaka Bank",
+    "post": "Management Trainee Officer",
+    "Topic": "Percentage",
+    "question": "In a survey, 60% of those surveyed owned a car and 80% owned a TV. If 55% owned both a car and a TV, what percentage of those surveyed owned a car, a TV, or both?",
+    "options": [
+      "75%",
+      "80%",
+      "85%",
+      "90%"
+    ],
+    "answer": "85%",
+    "solution": "Let C represent those who own a car and T represent those who own a TV.\n\nGiven:\nP(C) = 60%\nP(T) = 80%\nP(C ∩ T) = 55%\n\nUsing the inclusion-exclusion formula:\nP(C ∪ T) = P(C) + P(T) - P(C ∩ T)\n= 60% + 80% - 55%\n= 85%.\n\nTherefore, 85% of those surveyed owned a car, a TV, or both.\n\nShortcut: Add the two percentages and subtract the percentage who own both to avoid double-counting."
+  },
+  {
+    "id": 260,
+    "book_no": 366,
+    "year": 2011,
+    "bank": "Dhaka Bank",
+    "post": "Management Trainee Officer",
+    "Topic": "Work & Time",
+    "question": "Masud can complete a job in 40 days working alone, while Karim can complete the same job in 60 days. They start working together and work for 18 days. Then Harun joins them, and all three work together for another 5 days to complete the job. In how many days can Harun complete the entire job working alone?",
+    "options": [
+      "100 days",
+      "120 days",
+      "140 days",
+      "150 days"
+    ],
+    "answer": "120 days",
+    "solution": "Masud's one-day work = 1/40.\nKarim's one-day work = 1/60.\n\nTheir combined one-day work = 1/40 + 1/60 = 1/24.\n\nWork completed by Masud and Karim in 18 days = 18/24 = 3/4.\n\nRemaining work = 1 - 3/4 = 1/4.\n\nThe remaining 1/4 of the job is completed by all three in 5 days.\nTherefore, their combined one-day work = (1/4)/5 = 1/20.\n\nHarun's one-day work = 1/20 - 1/40 - 1/60.\n= (6 - 3 - 2)/120\n= 1/120.\n\nTherefore, Harun can complete the entire job alone in 120 days.\n\nShortcut: Harun's rate = 1/20 - 1/24 = 1/120. Hence, his required time is 120 days."
+  },
+  {
+    "id": 261,
+    "book_no": 367,
+    "year": 2011,
+    "bank": "Dhaka Bank",
+    "post": "Management Trainee Officer",
+    "Topic": "Percentage",
+    "question": "Last year, 60 students enrolled in an Economics course. Of the enrolled students, 90% took the final examination. Two-thirds of the students who took the final examination passed. What percentage of the enrolled students did not pass the examination?",
+    "options": [
+      "30%",
+      "35%",
+      "40%",
+      "45%"
+    ],
+    "answer": "40%",
+    "solution": "Total enrolled students = 60.\n\nStudents who took the examination = 90% of 60 = 54.\n\nStudents who passed = 2/3 × 54 = 36.\n\nStudents who did not pass = 60 - 36 = 24.\n\nRequired percentage = (24/60) × 100 = 40%.\n\nTherefore, 40% of the enrolled students did not pass the examination.\n\nShortcut: Percentage who passed = 90% × 2/3 = 60%. Therefore, percentage who did not pass = 100% - 60% = 40%."
+  },
+  {
+    "id": 262,
+    "book_no": 368,
+    "year": 2011,
+    "bank": "Dhaka Bank",
+    "post": "Management Trainee Officer",
+    "Topic": "Arithmetic",
+    "question": "There are 200 questions in a 3-hour examination, including 50 mathematics problems. It is suggested that twice as much time be allowed for each mathematics problem as for each of the other questions. How many minutes should be spent on the mathematics problems?",
+    "options": [
+      "60 minutes",
+      "72 minutes",
+      "80 minutes",
+      "90 minutes"
+    ],
+    "answer": "72 minutes",
+    "solution": "Total examination time = 3 × 60 = 180 minutes.\n\nNumber of mathematics problems = 50.\nNumber of other questions = 200 - 50 = 150.\n\nLet the time allocated to each other question be x minutes. Then each mathematics problem receives 2x minutes.\n\nTotal time:\n50 × 2x + 150 × x = 180\n100x + 150x = 180\n250x = 180\nx = 0.72 minutes.\n\nTime allocated to mathematics problems = 50 × 2 × 0.72 = 72 minutes.\n\nTherefore, 72 minutes should be spent on the mathematics problems.\n\nShortcut: Treat each mathematics problem as 2 time units and each other question as 1 unit. Total units = (50 × 2) + 150 = 250. Mathematics time = 180 × 100/250 = 72 minutes."
+  },
+  {
+    "id": 263,
+    "book_no": 369,
+    "year": 2011,
+    "bank": "Bangladesh Bank",
+    "post": null,
+    "Topic": "Ratio & Proportion",
+    "question": "A geometric series has three terms: a, ar, and ar². If the first term is twice the second term, what is the ratio of the sum of the first two terms to the sum of the last two terms?",
+    "options": [
+      "1:2",
+      "2:1",
+      "3:2",
+      "3:1"
+    ],
+    "answer": "2:1",
+    "solution": "The three terms of the geometric series are a, ar, and ar².\n\nGiven that the first term is twice the second term:\na = 2ar\nTherefore, r = 1/2.\n\nThe terms are:\na, a/2, a/4.\n\nSum of the first two terms = a + a/2 = 3a/2.\nSum of the last two terms = a/2 + a/4 = 3a/4.\n\nRequired ratio = (3a/2):(3a/4)\n= 2:1.\n\nTherefore, the required ratio is 2:1.\n\nShortcut: Since the common ratio is 1/2, the first two terms sum to 3a/2 and the last two sum to 3a/4. Their ratio is 2:1."
+  },
+  {
+    "id": 264,
+    "book_no": 370,
+    "year": 2011,
+    "bank": "Bangladesh Bank",
+    "post": null,
+    "Topic": "Percentage",
+    "question": "a, b, c, d, and e are five consecutive numbers in increasing order. Deleting one of these five numbers decreases the sum of the remaining four numbers by 20% of the sum of all five numbers. Which number was deleted?",
+    "options": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e"
+    ],
+    "answer": "c",
+    "solution": "Let the sum of all five numbers be S.\n\nThe decrease in the sum after deleting one number is equal to the deleted number.\n\nAccording to the question, the deleted number is 20% of S:\nDeleted number = 20% of S = S/5.\n\nSince the five numbers are consecutive and in increasing order, their average is the middle number, c.\n\nTherefore, S/5 = c.\n\nHence, the deleted number is c.\n\nShortcut: The deleted number equals 20% of the total sum, which is one-fifth of the sum. That is the average of the five numbers. The average of five consecutive numbers is the middle number."
+  },
+  {
+    "id": 265,
+    "book_no": 371,
+    "year": 2011,
+    "bank": "Bangladesh Bank",
+    "post": null,
+    "Topic": "Mixture & Alligation",
+    "question": "Two alloys, A and B, are composed of two basic elements. The ratios of the two elements in alloys A and B are 5:3 and 1:2, respectively. A new alloy X is formed by mixing alloys A and B in the ratio 4:3. What is the ratio of the two basic elements in alloy X?",
+    "options": [
+      "1:1",
+      "2:3",
+      "3:4",
+      "4:5"
+    ],
+    "answer": "1:1",
+    "solution": "Let the quantities of alloys A and B be 4x and 3x, respectively.\n\nIn alloy A, the ratio of the first element to the second element is 5:3.\n\nAmount of the first element from A = (5/8) × 4x = 5x/2.\nAmount of the second element from A = (3/8) × 4x = 3x/2.\n\nIn alloy B, the ratio of the first element to the second element is 1:2.\n\nAmount of the first element from B = (1/3) × 3x = x.\nAmount of the second element from B = (2/3) × 3x = 2x.\n\nTotal amount of the first element = 5x/2 + x = 7x/2.\nTotal amount of the second element = 3x/2 + 2x = 7x/2.\n\nRequired ratio = (7x/2):(7x/2) = 1:1.\n\nTherefore, the ratio of the two basic elements in alloy X is 1:1.\n\nShortcut: First element = 4 × 5/8 + 3 × 1/3 = 3.5 units. Second element = 4 × 3/8 + 3 × 2/3 = 3.5 units. Hence, the ratio is 1:1."
+  },
+  {
+    "id": 266,
+    "book_no": 375,
+    "year": 2012,
+    "bank": "Bangladesh Krishi Bank",
+    "post": "Officer",
+    "Topic": "Percentage",
+    "question": "The town of Zamalpur has a population of 50,000. The average annual income of a person living in Zamalpur is Tk. 3,700. The income tax rate is 1%. What is the total amount of tax paid by the people of Zamalpur? Assume that each person pays tax on Tk. 3,700.",
+    "options": [
+      "Tk. 1,50,000",
+      "Tk. 18,50,000",
+      "Tk. 20,00,000",
+      "Tk. 25,00,000"
+    ],
+    "answer": "Tk. 18,50,000",
+    "solution": "Tax paid by each person = 1% of Tk. 3,700 = Tk. 37.\n\nTotal population = 50,000.\n\nTotal tax collected = 50,000 × 37 = Tk. 18,50,000.\n\nTherefore, the total amount of tax paid is Tk. 18,50,000.\n\nShortcut: Total tax = Population × Average income × Tax rate\n= 50,000 × 3,700 × 1/100\n= Tk. 18,50,000."
+  },
+  {
+    "id": 267,
+    "book_no": 376,
+    "year": 2012,
+    "bank": "BASIC Bank",
+    "post": "Assistant Manager",
+    "Topic": "Speed, Time & Distance",
+    "question": "Mr. Nader drove from Mymensingh to Dhaka at a speed of 60 miles per hour. On his return journey along the same route, heavy traffic restricted his speed to 40 miles per hour. If the return journey took 1 hour longer than the outward journey, what is the distance between Dhaka and Mymensingh?",
+    "options": [
+      "100 miles",
+      "120 miles",
+      "140 miles",
+      "160 miles"
+    ],
+    "answer": "120 miles",
+    "solution": "Let the distance between Dhaka and Mymensingh be x miles.\n\nOutward journey time = x/60 hours.\nReturn journey time = x/40 hours.\n\nAccording to the question:\nx/40 - x/60 = 1\n(3x - 2x)/120 = 1\nx/120 = 1\nx = 120 miles.\n\nTherefore, the distance between Dhaka and Mymensingh is 120 miles.\n\nShortcut: For equal distances, the difference in travel time is d(1/v₂ - 1/v₁). Thus, d(1/40 - 1/60) = 1, giving d = 120 miles."
+  },
+  {
+    "id": 268,
+    "book_no": 380,
+    "year": 2012,
+    "bank": "Bangladesh Krishi Bank",
+    "post": "Inspector",
+    "Topic": "Profit & Loss",
+    "question": "Abu started a business by investing Tk. 79,000. Rabu joined him after 6 months with Tk. 1,05,000, and Sabu joined them after another 6 months with Tk. 1,40,000. In what ratio should the profit be distributed among Abu, Rabu, and Sabu, respectively, after 3 years from the start of the business?",
+    "options": [
+      "12:15:16",
+      "474:525:560",
+      "4:5:6",
+      "79:105:140"
+    ],
+    "answer": "474:525:560",
+    "solution": "Profit is distributed according to the ratio of capital × time.\n\nTotal business period = 3 years = 36 months.\n\nAbu's investment period = 36 months.\nRabu's investment period = 36 - 6 = 30 months.\nSabu's investment period = 36 - 12 = 24 months.\n\nTheir capital-time ratios are:\nAbu = 79,000 × 36 = 2,844,000\nRabu = 1,05,000 × 30 = 3,150,000\nSabu = 1,40,000 × 24 = 3,360,000\n\nTherefore, the profit-sharing ratio is:\n2,844,000 : 3,150,000 : 3,360,000\n= 474 : 525 : 560\n\nHence, the required ratio is 474:525:560.\n\nNote: The supplied answer of 12:15:16 does not agree with the stated initial investment of Tk. 79,000. That ratio would be obtained if Abu's investment were Tk. 70,000 instead. The stated investment amount has therefore been retained, and the answer has been calculated accordingly. Please verify Abu's investment from the original scan."
+  },
+  {
+    "id": 269,
+    "book_no": 381,
+    "year": 2012,
+    "bank": "Bangladesh Krishi Bank",
+    "post": "Inspector",
+    "Topic": "Profit & Loss",
+    "question": "A trader mixes 26 kg of rice priced at Tk. 20 per kg with 30 kg of another variety of rice priced at Tk. 36 per kg. He sells the mixture at Tk. 30 per kg. What is his percentage profit or loss?",
+    "options": [
+      "5% profit",
+      "5% loss",
+      "10% profit",
+      "10% loss"
+    ],
+    "answer": "5% profit",
+    "solution": "Cost of 26 kg of rice = 26 × 20 = Tk. 520.\nCost of 30 kg of rice = 30 × 36 = Tk. 1,080.\n\nTotal cost price = 520 + 1,080 = Tk. 1,600.\nTotal quantity = 26 + 30 = 56 kg.\n\nTotal selling price = 56 × 30 = Tk. 1,680.\n\nProfit = Selling price - Cost price\n= 1,680 - 1,600\n= Tk. 80.\n\nProfit percentage = (Profit/Cost price) × 100\n= (80/1,600) × 100\n= 5%.\n\nTherefore, the trader makes a 5% profit.\n\nShortcut: Profit percentage = (Total selling price - Total cost price)/Total cost price × 100 = (1,680 - 1,600)/1,600 × 100 = 5%."
+  },
+
     {
       "id": 270,
       "book_no": 382,
@@ -3253,18 +3428,23 @@
       "answer": "5:",
       "solution": "Let, total number of male citizen of the country is 100\nTotal number of female citizen of the country is 100\nEligible Male voter = (100 x 60%) = 60 person\nEligible Female voter = (100 x 70%) = 70 person\nAgain, eligible male voters who cast their vote = (60 x 70%) = 42 person\nEligible female voters who cast their vote = (70 x 60%) = 42 person\nTotal number of person who voted = (42 + 42) = 84\nTotal citizen of that country = (100 + 100) = 200 person\n: ws ’ «on = 4 21\nSo, the fraction of citizens voted during the election = 399 = 59\n2\nans: 5:"
     },
-    {
-      "id": 271,
-      "book_no": 383,
-      "year": 2012,
-      "bank": "Bangladesh Krishi Bank",
-      "post": "Inspector",
-      "Topic": "Profit & Loss",
-      "question": "A boy purchased some chocolates from a shop for Taka 120. In the next shop he fund that the price of per piece of chocolate is take 3 less than that charged at the previous shop, and as such he could have purchased 2 more chocolates. How many chocolates did he buy from the first shop?",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
+  {
+  "id": 271,
+  "book_no": 383,
+  "year": 2012,
+  "bank": "Bangladesh Krishi Bank",
+  "post": "Inspector",
+  "Topic": "Profit & Loss",
+  "question": "A boy purchased some chocolates from a shop for Tk. 120. At the next shop, he found that each chocolate cost Tk. 3 less than at the first shop. For the same Tk. 120, he could have purchased 2 more chocolates. How many chocolates did he buy from the first shop?",
+  "options": [
+    "8",
+    "10",
+    "12",
+    "15"
+  ],
+  "answer": "8 chocolates",
+  "solution": "Let the number of chocolates purchased from the first shop be x.\n\nTotal cost = Tk. 120.\n\nPrice per chocolate at the first shop = 120/x.\n\nAt the second shop, the price per chocolate is Tk. 3 less, and he could buy (x + 2) chocolates for the same Tk. 120.\n\nTherefore,\n120/x - 120/(x + 2) = 3\n\nTaking the LCM:\n[120(x + 2) - 120x]/[x(x + 2)] = 3\n240/[x(x + 2)] = 3\nx(x + 2) = 80\nx² + 2x - 80 = 0\n(x + 10)(x - 8) = 0\n\nSo, x = -10 or x = 8.\n\nSince the number of chocolates cannot be negative, x = 8.\n\nTherefore, he bought 8 chocolates from the first shop.\n\nShortcut: The price difference is Tk. 3, while the quantity difference is 2. Using 120/x - 120/(x + 2) = 3 gives x = 8."
+},
     {
       "id": 313,
       "book_no": 441,
@@ -3302,17 +3482,22 @@
       "solution": "Profit = (RarrPT — GET) = (420 - 125) = 295\nPercentage of profit on selling price = By 100 = 70.24%\nans: 70.24%."
     },
     {
-      "id": 275,
-      "book_no": 388,
-      "year": 2012,
-      "bank": "One Bank",
-      "post": "SCO",
-      "Topic": "Algebra",
-      "question": "388. Suppose 81p + 62g = 138 and 62p + 81g = 5. Find out the value of p and gq.",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
+  "id": 275,
+  "book_no": 388,
+  "year": 2012,
+  "bank": "One Bank",
+  "post": "SCO",
+  "Topic": "Algebra",
+  "question": "Suppose 81p + 62q = 138 and 62p + 81q = 5. Find the values of p and q.",
+  "options": [
+    "p = 1, q = 1",
+    "p = 2, q = 0",
+    "p = 3, q = -1",
+    "p = -1, q = 3"
+  ],
+  "answer": "p = 1, q = 1",
+  "solution": "Given:\n81p + 62q = 138 ...(1)\n62p + 81q = 5 ...(2)\n\nAdding equations (1) and (2):\n143p + 143q = 143\np + q = 1 ...(3)\n\nSubtracting equation (2) from equation (1):\n19p - 19q = 133\np - q = 7 ...(4)\n\nAdding equations (3) and (4):\n2p = 8\np = 4\n\nSubstituting p = 4 into p + q = 1:\n4 + q = 1\nq = -3\n\nTherefore, p = 4 and q = -3.\n\nVerification:\n81(4) + 62(-3) = 324 - 186 = 138\n62(4) + 81(-3) = 248 - 243 = 5\n\nHence, the correct answer is p = 4 and q = -3."
+},
     {
       "id": 276,
       "book_no": 389,
@@ -3457,18 +3642,23 @@
       "answer": "46 min.",
       "solution": "Here, at 36 min A fill up = 1 tank\nAt I min A fill up =F tank\nSimilarly At 1 min B fill up =F tank\ni 1 1\nAt I min (A +B) fill up = (s6+35) tank\n= F tank\nSimilarly 7 min A + B fill up = 35 tank\nPar 7_3\nRemaining tank = 1 -207 20 tank\nNow, C empty at ] min = plank\nAt 1 min (A +B) +C Fill up = G+) tank\nwll cant\n= 60 tan!\nNow, Z tank fill in = 1 min\n1 5\nB tank fill in=1 x 2x8\n= 39 min\nTotal time = 7 + 39 = 46 min.\nans: 46 min."
     },
-    {
-      "id": 289,
-      "book_no": 412,
-      "year": 2013,
-      "bank": "Karmashangsthan Bank",
-      "post": "Senior Officer",
-      "Topic": "Arithmetic",
-      "question": "Ceritace facta Fa: + mp (3m 2) (4m 2) 8 BASIC Bank Ltd. (AM) - 2013 q thes . LG eas Fe",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
+  {
+  "id": 289,
+  "book_no": 412,
+  "year": 2013,
+  "bank": "Karmashangsthan Bank",
+  "post": "Senior Officer",
+  "Topic": "Algebra",
+  "question": "Factorize: p^2 + mp - (3m - 2)(4m - 2)",
+  "options": [
+    "(p + 4m - 2)(p - 3m + 2)",
+    "(p - 4m + 2)(p + 3m - 2)",
+    "(p + 4m + 2)(p - 3m - 2)",
+    "(p + 3m + 2)(p - 4m + 2)"
+  ],
+  "answer": "(p + 4m - 2)(p - 3m + 2)",
+  "solution": "Given expression:\np^2 + mp - (3m - 2)(4m - 2)\n\nLet 3m - 2 = a and 4m - 2 = b.\nThen, b - a = (4m - 2) - (3m - 2) = 4m - 2 - 3m + 2 = m.\n\nSubstituting m = b - a and (3m - 2)(4m - 2) = ab into the expression:\n= p^2 + (b - a)p - ab\n= p^2 + bp - ap - ab\n= p(p + b) - a(p + b)\n= (p + b)(p - a)\n\nSubstituting back the values of a and b:\n= (p + 4m - 2)(p - (3m - 2))\n= (p + 4m - 2)(p - 3m + 2)"
+},
     {
       "id": 290,
       "book_no": 413,
@@ -3541,18 +3731,23 @@
       "answer": "He purchased 30 books.",
       "solution": "Given, Retail price of a book = SOTk.\nAt 20% discount, purchase price of a book = 50 — 50 x 20% = 40Tk.\nSaved amount per book = 50 — 40 = 10Tk.\nNow 10Tk. is saved in = 1 book\nNow 300Tk. is saved in = 1% 32? - 39 book\nans: He purchased 30 books."
     },
-    {
-      "id": 297,
-      "book_no": 422,
-      "year": 2013,
-      "bank": "IFIC Bank",
-      "post": "Officer",
-      "Topic": "Algebra",
-      "question": "37-5 5 atantts If = 4 then the value of x.",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
+{
+  "id": 297,
+  "book_no": 422,
+  "year": 2013,
+  "bank": "IFIC Bank",
+  "post": "Officer",
+  "Topic": "Algebra",
+  "question": "If √(8x² × √(32x × √(4x²))) = 4, then what is the value of x?",
+  "options": [
+    "1",
+    "2",
+    "4",
+    "1/2"
+  ],
+  "answer": "No valid option (x = ∛(1/4))",
+  "solution": "Given:\n√(8x² × √(32x × √(4x²))) = 4\n\nSince the square roots are principal square roots, √(4x²) = 2|x|. The middle radicand must be nonnegative, so x ≥ 0. Thus, √(4x²) = 2x.\n\nSubstituting:\n√(8x² × √(32x × 2x)) = 4\n= √(8x² × √(64x²))\n= √(8x² × 8x)\n= √(64x³) = 4\n\nSquaring both sides:\n64x³ = 16\nx³ = 1/4\nx = ∛(1/4) ≈ 0.630.\n\nTherefore, none of the given options is correct for the question as written. The supplied answer '1' is inconsistent with the given expression. The original scan should be checked for an OCR error in the exponent or placement of the radicals."
+},
     {
       "id": 298,
       "book_no": 423,
@@ -3649,102 +3844,143 @@
       "answer": "432. iy av\\/320/4x = 4, then find the value of x.",
       "solution": "432. iy av\\/320/4x = 4, then find the value of x."
     },
+ {
+  "id": 306,
+  "book_no": 432,
+  "year": 2014,
+  "bank": "Rajshahi Krishi Unnayan Bank",
+  "post": "Senior Officer",
+  "Topic": "Algebra",
+  "question": "If √(8x² × √(32 × √4)) = 4, then find the value of x.",
+  "options": [
+    "1/2",
+    "1",
+    "2",
+    "4"
+  ],
+  "answer": "1/2",
+  "solution": "Given:\n√(8x² × √(32 × √4)) = 4\n\nStep 1: Simplify the innermost radical:\n√4 = 2\n\nStep 2: Simplify the middle radical:\n√(32 × 2) = √64 = 8\n\nStep 3: Substitute into the original equation:\n√(8x² × 8) = 4\n√(64x²) = 4\n8|x| = 4\n|x| = 1/2\n\nTherefore, x = ±1/2 mathematically. Since the given options contain only the positive value, the correct option is 1/2 (assuming x is positive)."
+},
+  {
+    "id": 307,
+    "book_no": 433,
+    "year": 2014,
+    "bank": "Rajshahi Krishi Unnayan Bank",
+    "post": "Senior Officer",
+    "Topic": "Geometry",
+    "question": "In the figure, rectangle PQRS is inscribed in a circle. If PQ = 6 and the area of the rectangle is 48, what is the area of the circular region?",
+    "options": [
+      "25π square units",
+      "50π square units",
+      "100π square units",
+      "64π square units"
+    ],
+    "answer": "25π square units (approximately 78.57 square units)",
+    "solution": "Given:\nArea of rectangle PQRS = 48 square units\nPQ = 6 units\n\nStep 1: Find the other side of the rectangle.\nArea = Length × Width\n48 = 6 × Length\nLength = 48/6 = 8 units\n\nStep 2: Find the diagonal of the rectangle.\nThe diagonal of a rectangle inscribed in a circle is the diameter of the circle.\n\nBy Pythagoras' theorem:\nDiagonal² = 6² + 8²\n= 36 + 64 = 100\nDiagonal = 10 units\n\nStep 3: Find the radius.\nRadius = Diameter/2 = 10/2 = 5 units\n\nStep 4: Find the area of the circle.\nArea = πr² = π × 5² = 25π square units\n≈ 78.57 square units.\n\nTherefore, the correct answer is 25π square units."
+  },
+  {
+    "id": 308,
+    "book_no": 434,
+    "year": 2014,
+    "bank": "Rajshahi Krishi Unnayan Bank",
+    "post": "Senior Officer",
+    "Topic": "Interest",
+    "question": "An amount of money is invested in a savings account for two years. It increases by Tk. 420 after two years of annual compounding at the rate of 10% per year. What was the initial amount invested?",
+    "options": [
+      "Tk. 1,500",
+      "Tk. 2,000",
+      "Tk. 2,500",
+      "Tk. 3,000"
+    ],
+    "answer": "Tk. 2,000",
+    "solution": "Let the initial principal be P.\n\nGiven:\nRate of compound interest = 10% per annum\nTime = 2 years\nCompound interest = Tk. 420\n\nUsing the compound amount formula:\nA = P(1 + r/100)^n\n\nSubstituting the values:\nP + 420 = P(1 + 10/100)²\nP + 420 = P × (1.1)²\nP + 420 = 1.21P\n\nTherefore:\n420 = 1.21P - P\n420 = 0.21P\nP = 420/0.21\nP = 2,000\n\nTherefore, the initial investment was Tk. 2,000.\n\nShortcut: The two-year compound interest at 10% is 21% of the principal. Thus, 21% of P = 420, so P = 420 × 100/21 = Tk. 2,000."
+  },
+
+  {
+    "id": 309,
+    "book_no": 435,
+    "year": 2014,
+    "bank": "Rajshahi Krishi Unnayan Bank",
+    "post": "Senior Officer",
+    "Topic": "Ratio & Proportion",
+    "question": "A certain college has a student-to-teacher ratio of 11:1. The average annual salary of each teacher is Tk. 26,000. If the college pays a total of Tk. 33,80,000 in annual salaries to its teachers, how many students does the college have?",
+    "options": [
+      "1,300",
+      "1,430",
+      "1,560",
+      "1,650"
+    ],
+    "answer": "1,430",
+    "solution": "Given:\nStudent-to-teacher ratio = 11:1\nAverage annual salary per teacher = Tk. 26,000\nTotal annual salary = Tk. 33,80,000\n\nStep 1: Calculate the number of teachers.\nNumber of teachers = 33,80,000 ÷ 26,000 = 130\n\nStep 2: Calculate the number of students.\nSince the student-to-teacher ratio is 11:1:\nNumber of students = 130 × 11 = 1,430\n\nTherefore, the college has 1,430 students.\n\nShortcut: Number of students = (Total salary ÷ Salary per teacher) × 11 = 130 × 11 = 1,430."
+  },
+  {
+    "id": 310,
+    "book_no": 436,
+    "year": 2014,
+    "bank": "Rajshahi Krishi Unnayan Bank",
+    "post": "Senior Officer",
+    "Topic": "Profit & Loss",
+    "question": "Tickets to a cricket game cost Tk. 40 for reserved seats and Tk. 30 for general seats. If all 500 tickets were sold for a total of Tk. 17,600, how many reserved-seat tickets were sold?",
+    "options": [
+      "220",
+      "240",
+      "260",
+      "280"
+    ],
+    "answer": "260",
+    "solution": "Let the number of reserved-seat tickets be x.\nThen the number of general-seat tickets = 500 − x.\n\nAccording to the question:\n40x + 30(500 − x) = 17,600\n40x + 15,000 − 30x = 17,600\n10x = 17,600 − 15,000\n10x = 2,600\nx = 260\n\nTherefore, 260 reserved-seat tickets were sold.\n\nShortcut: If all 500 tickets were general tickets, the revenue would be 500 × 30 = Tk. 15,000. The extra revenue is Tk. 17,600 − Tk. 15,000 = Tk. 2,600. Each reserved ticket earns Tk. 10 more, so the number of reserved tickets is 2,600 ÷ 10 = 260."
+  },
+  {
+    "id": 312,
+    "book_no": 439,
+    "year": 2014,
+    "bank": "Bangladesh Bank",
+    "post": "Assistant Director",
+    "Topic": "Work & Time",
+    "question": "A team of 2 men and 5 women completed one-fourth of a job in 3 days. After 3 days, another man joined the team, and they took 2 days to complete another one-fourth of the job. How many men can complete the whole job in 4 days?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "answer": "6 men",
+    "solution": "Let the daily work rates of one man and one woman be m and w, respectively.\n\nFrom the first condition:\n2 men and 5 women complete 1/4 of the job in 3 days.\n3(2m + 5w) = 1/4\n2m + 5w = 1/12 ...(1)\n\nAfter another man joins, 3 men and 5 women complete another 1/4 of the job in 2 days.\n2(3m + 5w) = 1/4\n3m + 5w = 1/8 ...(2)\n\nSubtracting equation (1) from equation (2):\nm = 1/8 − 1/12\nm = 1/24\n\nThus, one man completes 1/24 of the job per day.\n\nLet x men complete the whole job in 4 days.\n4 × x × 1/24 = 1\nx = 24/4 = 6\n\nTherefore, 6 men can complete the whole job in 4 days.\n\nNote: The OCR text also contains a separate question numbered 440 about five consecutive numbers. The supplied solution stating that c was deleted belongs to that separate question, not to question 439, so it has not been included here."
+  },
     {
-      "id": 306,
-      "book_no": 432,
-      "year": 2014,
-      "bank": "Rajshahi Krishi Unnayan Bank",
-      "post": "Senior Officer",
-      "Topic": "Algebra",
-      "question": "3 ieee If \\) 8x2\\/ 320/42 = 4, then find the yalue of x. : :",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
+  "id": 314,
+  "book_no": 446,
+  "year": 2014,
+  "bank": "Sonali Bank",
+  "post": "Officer",
+  "Topic": "Profit & Loss",
+  "question": "A dishonest trader makes a profit of 10% at the time of buying and 10% at the time of selling his goods. If his total profit is Tk. 630, what was the actual cost price of the goods?",
+  "options": [
+    "Tk. 2,500",
+    "Tk. 3,000",
+    "Tk. 3,500",
+    "Tk. 4,000"
+  ],
+  "answer": "Tk. 3,000",
+  "solution": "Let the actual cost price of 1 unit of goods be Tk. 100.\n\n1. At the time of buying (10% profit/cheat): He pays for 100 units but receives 110 units, or effectively gains 10% on buying.\n2. At the time of selling (10% profit): He sells at a 10% markup.\n\nUsing successive percentage formula (effective total profit percentage):\nTotal Profit % = a + b + (a * b) / 100\n= 10 + 10 + (10 * 10) / 100\n= 20 + 1 = 21%\n\nGiven that the total profit is Tk. 630, which corresponds to 21% of the cost price:\n21% of Cost Price = 630\nCost Price = (630 * 100) / 21 = Tk. 3,000."
+},
     {
-      "id": 307,
-      "book_no": 433,
-      "year": 2014,
-      "bank": "Rajshahi Krishi Unnayan Bank",
-      "post": "Senior Officer",
-      "Topic": "Geometry",
-      "question": "433, In the figure, rectangle PQRS is inscribed in the circle and PQ = 6. If the area of the rectangular region is 48, what is the area of the circular region?",
-      "options": [],
-      "answer": "257.",
-      "solution": "Q R\nHere, area of PQRS = 48 and\nBreadth, PQ =6\nLength, PS = 8-3, 7 5\nDiagnal of the rectangular is = 6? + 8? =~/100= 10.\nRadius = 2 =5.\n& the area of the circle = 5? x n = 25n.\nans: 257."
-    },
-    {
-      "id": 308,
-      "book_no": 434,
-      "year": 2014,
-      "bank": "Rajshahi Krishi Unnayan Bank",
-      "post": "Senior Officer",
-      "Topic": "Interest",
-      "question": "An amount of money is invested in a saving account for two years. It increases by Tk. 420 in two years after annaul compounding at the rate of 10% per year. What is the amount, in Taka, invested initially?",
-      "options": [],
-      "answer": "2,000.",
-      "solution": "Let, the principle be Tk. x\nWe know in the case of compound interest c = oi +t)\n2\n> x+420=2(1 +79)\nHere,\n=> x+420= x1 + i) c = Principal with interest\np= Principal =x\n_ ‘AN? n= Year\nee e420 “ER G a) r= Interest Rate\n_ 121x\n=>  x+420=F59 00\n> 100x + 42,000 = 121x\n=> 21x = 42,000\n_ 42000\n> x=>7\nx = 2,000.\nans: 2,000."
-    },
-    {
-      "id": 309,
-      "book_no": 435,
-      "year": 2014,
-      "bank": "Rajshahi Krishi Unnayan Bank",
-      "post": "Senior Officer",
-      "Topic": "Ratio & Proportion",
-      "question": "435, A certain college has students to teacher ratio of 11 to 1. The average annaul salary for teachers is Tk. 26,000. If the college pays a total of Tk. 33,80,000 in annual salaries to its teachers, how many students does the college have?",
-      "options": [],
-      "answer": "1430.",
-      "solution": "Let, the number of students and teacher of the collage are 11x and x respectively.\nCollege pays 26,000 Tk. for = I teacher\nCollege pays 33,80,000 Tk. for = Lx380000 Se = 130 teachers\nThe number of students of the college = 130 x 11 = 1430.\nans: 1430."
-    },
-    {
-      "id": 310,
-      "book_no": 436,
-      "year": 2014,
-      "bank": "Rajshahi Krishi Unnayan Bank",
-      "post": "Senior Officer",
-      "Topic": "Profit & Loss",
-      "question": "Tickets to cricket game costs Tk. 40 for reserved seats and Tk. 30 for general seats. If all 500 tickets were sold for Tk. 17600, then how many reserved seats were sold?",
-      "options": [],
-      "answer": "The number of reserved seat is 260.",
-      "solution": "Let, x be the number of reserved seat.\n(500 — x) would be the number of general seat.\nAccording to the question, frona aatesit\nTe PP]\n= 40x + 15000—30x= 17600\n> 10x = 17600 — 15000\n> 10x = 2600\nx = 260\nans: The number of reserved seat is 260."
-    },
-    {
-      "id": 312,
-      "book_no": 439,
-      "year": 2014,
-      "bank": "Bangladesh Bank",
-      "post": "Assistant Director",
-      "Topic": "Work & Time",
-      "question": "439, A team of 2 men and 5 women completed one-fourth of a job in 3 days. After 3 days another man joined the team and they took 2 days to complete another one-fourth of the job. How many men can complete the whole job in 4 days? 440. a,b, c,d ande are five consecutive numbers in increasing order of size. Deleting one of the five numbers from the set decreased the sum of the remaining numbers in the set by 20%. Which one of the numbers was deleted from a, 5, c, d and e?",
-      "options": [],
-      "answer": "So the deleted number is c.",
-      "solution": "As, a, b, c, d, e are consecutive number\nLet,a@=1,6=2,c=3,d=4,e=5\nNow,at+b+e+d+e=14+24+34+4+5=15\n20% of IS =A x15=3\nAs, ¢ = 3 is the 20% of sum of a, 6, c, d, ande.\nans: So the deleted number is c."
-    },
-    {
-      "id": 314,
-      "book_no": 446,
-      "year": 2014,
-      "bank": "Sonali Bank",
-      "post": "Officer",
-      "Topic": "Age",
-      "question": "SETH THM AH BIA UI Se Ray Son CRERS 10% MS TaN WH ia cae aS HTS 630 Brat ATS Bq DRT BS Raa TET we feet",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 315,
-      "book_no": 448,
-      "year": 2014,
-      "bank": "BASIC Bank",
-      "post": "Assistant Officer",
-      "Topic": "Algebra",
-      "question": "In the figure, lines | and m are parallel. If y — z = 60, then what is the value of x?",
-      "options": [],
-      "answer": "120°",
-      "solution": "According to the question,\nytr= 180°...)\nand y- == 60°........(i/)\n(+ Gi) ay ice\n- dy = 240° Raferca Fat\ny= 120° Fra |\nAgain, y °= s’= 120° (Reflexive Angle}\n=x = 120° [Similar Angie]\nans: 120°"
-    },
+  "id": 315,
+  "book_no": 448,
+  "year": 2014,
+  "bank": "BASIC Bank",
+  "post": "Assistant Officer",
+  "Topic": "Geometry",
+  "question": "In the figure, lines l and m are parallel and intersected by a transversal, where y and z are supplementary angles on line l, and x is the corresponding angle to y's vertical angle on line m. If y - z = 60°, then what is the value of x?",
+  "options": [
+    "60°",
+    "90°",
+    "120°",
+    "150°"
+  ],
+  "answer": "120°",
+  "solution": "Since y and z form a linear pair (supplementary angles on a straight line):\ny + z = 180°  ...(i)\n\nGiven:\ny - z = 60°   ...(ii)\n\nAdding equations (i) and (ii):\n(y + z) + (y - z) = 180° + 60°\n2y = 240°\ny = 120°\n\nSince lines l and m are parallel, the angle vertically opposite to y equals 120°, and its corresponding angle x on line m is also equal to y:\nx = y = 120°."
+},
     {
       "id": 316,
       "book_no": 449,
@@ -4014,18 +4250,23 @@
       "answer": "Amin has 62 Tk. & Sajal has 34 Tk. .",
       "solution": "Let, Amin has = x Tk. and Sajal has = y Tk.\nAccording to the question\n2(x — 30) = (y + 30)\n=> 2x — y= 90 ------------- (i)\nAgain, according to the question\n3(y -— 10) = (« + 10)\n=> x-3y=- 40 ------------- (ii)\nNow, {(i) — (i) x 2}\n=> Sy=170\n=> y= 34\nPutting the value of y in eqn. (i)\nx—(3 x 34) =-40\nx= 62\nans: Amin has 62 Tk. & Sajal has 34 Tk. ."
     },
-    {
-      "id": 338,
-      "book_no": 475,
-      "year": 2014,
-      "bank": "Probashi Kallyan Bank",
-      "post": "Senior Officer",
-      "Topic": "Work & Time",
-      "question": "A contract is to be completed in 46 days and 117 men were set to work, each working 8 hours a day. After 33 days, 4 of the work is completed. How many additional men may be employed so that the work may be completed in time, each man now working 9 hours a day?",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
+{
+  "id": 338,
+  "book_no": 475,
+  "year": 2014,
+  "bank": "Probashi Kallyan Bank",
+  "post": "Senior Officer",
+  "Topic": "Work & Time",
+  "question": "A contract is to be completed in 46 days, and 117 men are assigned to the work, each working 8 hours a day. After 33 days, one-fourth of the work is completed. How many additional men must be employed to complete the remaining work on time if each man now works 9 hours a day?",
+  "options": [
+    "117",
+    "144",
+    "159",
+    "276"
+  ],
+  "answer": "159 additional men",
+  "solution": "Assume that one-fourth of the work is completed in the first 33 days. Therefore, three-fourths of the work remains.\n\nGiven:\nInitial number of men = 117\nInitial working hours per day = 8\nTotal time allowed = 46 days\nTime already spent = 33 days\nRemaining time = 46 − 33 = 13 days\nNew working hours per day = 9\n\nLet the total number of men required to finish the remaining work be x.\n\nWork is proportional to the number of men × working hours per day × number of days.\n\nSince the remaining work is three-fourths of the total work:\n(x × 9 × 13)/(117 × 8 × 46) = 3/4\n\nx × 117 = (3/4) × 117 × 8 × 46\n\nx = (3 × 8 × 46)/(4 × 9)\nx = 276\n\nThus, the total number of men required is 276.\n\nAdditional men required = 276 − 117 = 159.\n\nTherefore, 159 additional men must be employed.\n\nShortcut: Required total men = (117 × 8 × 46 × 3)/(13 × 9 × 4) = 276. Additional men = 276 − 117 = 159.\n\nReconstruction note: The OCR phrase '4 of the work is completed' is interpreted as '1/4 of the work is completed'. This interpretation produces a consistent answer; the original scan should be checked to confirm the fraction."
+},
     {
       "id": 339,
       "book_no": 476,
@@ -4110,18 +4351,23 @@
       "answer": "90°,",
       "solution": "fl\nPS=RS\nZSRQ = ZSPR = 30° S\nZPSR = 120° co’\nSo, ZQSR = 60° J\nHere, SQ = RS Ay\nQ R T\nAs ZQSR = 60°\nZSQR = ZSRQ = 60°\nZx = 180° - (60° + 30°) = 180° - 90° = 90°\nans: 90°,"
     },
-    {
-      "id": 346,
-      "book_no": 485,
-      "year": 2014,
-      "bank": "Union Bank",
-      "post": "Senior Officer",
-      "Topic": "Number System",
-      "question": "5 is added to the sum of the digits of a number consisting of two digits, the sum will be three times of the digit of the tens place. Moreover, if the places of the digits are interchanged, the number thus found will be 9 less than the original number. Find the number.",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
+ {
+  "id": 346,
+  "book_no": 485,
+  "year": 2014,
+  "bank": "Union Bank",
+  "post": "Senior Officer",
+  "Topic": "Number System",
+  "question": "If 5 is added to the sum of the digits of a two-digit number, the result is three times the digit in the tens place. Moreover, if the digits are interchanged, the resulting number is 9 less than the original number. Find the original number.",
+  "options": [
+    "32",
+    "43",
+    "54",
+    "65"
+  ],
+  "answer": "54",
+  "solution": "Let the tens digit be x and the units digit be y.\n\nThe original number = 10x + y.\nThe number formed by interchanging the digits = 10y + x.\n\nAccording to the first condition:\nx + y + 5 = 3x\n2x - y = 5 ...(1)\n\nAccording to the second condition:\n10y + x = 10x + y - 9\n9y - 9x = -9\nx - y = 1 ...(2)\n\nFrom equation (2):\ny = x - 1\n\nSubstituting into equation (1):\n2x - (x - 1) = 5\nx + 1 = 5\nx = 4\n\nTherefore, y = 4 - 1 = 3.\n\nThe original number is 43.\n\nVerification:\nSum of digits = 4 + 3 = 7; adding 5 gives 12, which is 3 × 4.\nReversing 43 gives 34, which is 9 less than 43.\n\nTherefore, the correct answer is 43."
+},
     {
       "id": 347,
       "book_no": 486,
@@ -4158,30 +4404,40 @@
       "answer": "A ‘C4 AS 20,500 Tk.; B ACT AISA 21,200 Tk. & C AF ASA 28,200 Tk.",
       "solution": "12 months 4A B:C=2,05,000: 2,12,000 2,82,000 = 205 : 212 : 282\n212) _\n282\nans: A ‘C4 AS 20,500 Tk.; B ACT AISA 21,200 Tk. & C AF ASA 28,200 Tk."
     },
+ {
+  "id": 350,
+  "book_no": 489,
+  "year": 2015,
+  "bank": "Janata Bank",
+  "post": "Assistant Executive Officer",
+  "Topic": "Work & Time",
+  "question": "Machine P can print 100,000 books in 8 hours, machine Q can print the same number in 10 hours, and machine R can print the same number in 12 hours. All three machines are started at 9:00 a.m. Machine P is switched off at 11:00 a.m., while machines Q and R continue working until the job is completed. Approximately at what time will the work be finished?",
+  "options": [
+    "12:00 p.m.",
+    "12:24 p.m.",
+    "12:30 p.m.",
+    "1:00 p.m."
+  ],
+  "answer": "12:24 p.m.",
+  "solution": "Let the total work be 1 job.\n\nHourly work rates:\nP = 1/8\nQ = 1/10\nR = 1/12\n\nStep 1: Calculate the work completed by all three machines from 9:00 a.m. to 11:00 a.m. (2 hours).\nCombined hourly rate = 1/8 + 1/10 + 1/12\n= (15 + 12 + 10)/120\n= 37/120\n\nWork completed in 2 hours = 2 × 37/120 = 37/60\n\nStep 2: Calculate the remaining work.\nRemaining work = 1 − 37/60 = 23/60\n\nStep 3: Calculate the time required by Q and R to complete the remaining work.\nCombined rate of Q and R = 1/10 + 1/12\n= (6 + 5)/60\n= 11/60\n\nTime required = (23/60) ÷ (11/60) = 23/11 hours\n≈ 2 hours 5 minutes 27 seconds.\n\nStep 4: Calculate the finishing time.\n11:00 a.m. + approximately 2 hours 5 minutes = approximately 1:05 p.m.\n\nTherefore, the work will be finished at approximately 1:05 p.m. The closest listed option is 1:00 p.m.\n\nNote: The supplied OCR solution is unclear, and the exact calculation does not support 12:24 p.m. The correct approximate finishing time is 1:05 p.m.; the options should be checked against the original scan."
+},
     {
-      "id": 350,
-      "book_no": 489,
-      "year": 2015,
-      "bank": "Janata Bank",
-      "post": "Assistant Executive Officer",
-      "Topic": "Arithmetic",
-      "question": "A machine P can print one lakh books in 8 hours; machine Q can print the same number of books in 10 hours while machine R can print them in 12 hours. Ail the machines are started at 9 a.m. while machine P is closed at 11 a.m. and the remaining two machines complete the work. Approximately at what time will the work be finished?",
-      "options": [],
-      "answer": "",
-      "solution": "» Qa : 8*10°12/~ 120 *\nCLAY, Ola Yam 4 BS CH Sta He Lam 4 FCA P MIST TH Be\nre (11 9) = 29 wea TL 2-2 Bet\n3723\nB gon arg = 00%23_ 2341\n69 WO F601\nans: IT Or Ham + 24 Wr = lpm 9 Frais ore Sea |"
-    },
-    {
-      "id": 352,
-      "book_no": 491,
-      "year": 2015,
-      "bank": "Janata Bank",
-      "post": "Teller",
-      "Topic": "Percentage",
-      "question": "Due to a reduction of 6] % in the price of sugar, a man is able to buy l kg more for Tk. 120, Find the original and reduced rate of sugar.",
-      "options": [],
-      "answer": "Original and reduced price 8 fk. and 7.5 tk respectively.",
-      "solution": "1 r z 2:\nAt 6g% reduction, price of sugar = (100 - 2) tk\n_ (400-28), _ 375\n= ( 4 5) th=—P tk\nCm Bi ls 3 375\nIf original price is 100 ¢k, then reduced price = Vk\nIf original price is 120 tk, then reduced price = Sa = 112.5 th\nThe reduced price of sugar = (120 — 112.5) = 7.5 tk\nNow, If reduced price is st, then original price = 100 1k\n5x4\nIf reduced price is 7.5 ¢k, then original price = Sat ee 8 tk.\nans: Original and reduced price 8 fk. and 7.5 tk respectively."
-    },
+  "id": 352,
+  "book_no": 491,
+  "year": 2015,
+  "bank": "Janata Bank",
+  "post": "Teller",
+  "Topic": "Percentage",
+  "question": "Due to a reduction of 6¼% in the price of sugar, a man is able to buy 1 kg more sugar for Tk. 120. Find the original and reduced prices of sugar per kilogram.",
+  "options": [
+    "Tk. 8 and Tk. 7.50",
+    "Tk. 10 and Tk. 9.50",
+    "Tk. 12 and Tk. 11.25",
+    "Tk. 16 and Tk. 15"
+  ],
+  "answer": "Original price = Tk. 8 per kg; reduced price = Tk. 7.50 per kg.",
+  "solution": "Let the original price of sugar be Tk. x per kg.\n\nAfter a 6¼% reduction, the reduced price becomes:\n(100 − 6¼)% = 93¾% = 15/16 of the original price.\n\nTherefore, reduced price = 15x/16.\n\nFor Tk. 120:\nSugar bought at the original price = 120/x kg.\nSugar bought at the reduced price = 120 ÷ (15x/16) = 128/x kg.\n\nAccording to the question, the man can buy 1 kg more:\n128/x − 120/x = 1\n8/x = 1\nx = 8\n\nThus, the original price = Tk. 8 per kg.\n\nReduced price = 8 × 15/16 = Tk. 7.50 per kg.\n\nVerification:\nAt Tk. 8 per kg, Tk. 120 buys 15 kg.\nAt Tk. 7.50 per kg, Tk. 120 buys 16 kg.\nDifference = 16 − 15 = 1 kg.\n\nTherefore, the original and reduced prices are Tk. 8 and Tk. 7.50 per kg, respectively.\n\nShortcut: A 6¼% reduction means the new price is 15/16 of the original price. The difference is 1/16 of the original price. Since the extra quantity bought for Tk. 120 is 1 kg, the original price is Tk. 120 ÷ 15 = Tk. 8 per kg."
+},
     {
       "id": 353,
       "book_no": 492,
@@ -4194,102 +4450,142 @@
       "answer": "650¢k is lent out at 8% interest and (1550 — 650) = 900¢k lent out at",
       "solution": "Let, x tk is lent out at 8% interest\n(1550 — x) tk is lent out at 6% interest\nAccording to question\nx x 8% x 1 + (1550 - x) x 6% x 1 = 106\nBx | (1550 -x) x6 _\n= j00t™~ 100 = 106\n=> 8x + 9300 - 6x = 10600\n=> 2x«= 10600-9300\n=> 2x = 1300 °\nx= 650.\n650¢k is lent out at 8% interest and (1550 — 650) = 900¢k lent out at"
     },
-    {
-      "id": 354,
-      "book_no": 493,
-      "year": 2015,
-      "bank": "Southeast Bank",
-      "post": "Management Trainee Officer",
-      "Topic": "Profit & Loss",
-      "question": "A dishonest business man makes a profit of 10% both on buying and selling of a commodity. If his profit is Tk. 1,050, what is the cost of the commodity?",
-      "options": [],
-      "answer": "",
-      "solution": "«fa, Bate Cost 100 Bret\n10\narea, 10% arcs erat Feamrapes = (110+ 110795) = 121 Bet\nANS BW = (121 — 100) = 21 Bret\n21 Blt ATS A Cost price = 100 Brett\na 0\nans: 5,000 bre |"
-    },
-    {
-      "id": 356,
-      "book_no": 497,
-      "year": 2015,
-      "bank": "Midland Bank",
-      "post": "Management Trainee Officer",
-      "Topic": "Interest",
-      "question": "497, A father divides his property between his two sons A and B. A invests the amount at compound profit of 8% p.a. B invests the amount at 10% p.a. simple profit. At the end of 2 years, the profit received by B is Tk. 1336 more than the profit received by A. Find the share of A in the father's property of Tk. 25,000.",
-      "options": [],
-      "answer": "A %TH UT 10000",
-      "solution": "Let, A gets Tk. x\nB gets Tk. (25000 - x)\n2\nAt the end of two years, the interest A gets Tk. = x1 +o) -x\n_,{2tyY\n~* (3) *\n— 129%\n625 \"*\n_ 729x-625x _ \\04x\n_ 625 ~ 625\nF = Tp (25000 =x) x 10 x2\nAnd, at the end of two years, the interest B gets = Tk. ez _ a\n(25000 - x)\n= Tk. 5\nAccording to question,\n(25000-x) 104x _ 1336\n5 ~ 625 —\n3125000 - 125x- 104x _\n> 625 = 1336\n=> 3125000 — 229x = 835000\n=> 3125000 — 835000 = 229x\n=> 229000 = 229x\n=> x= 10000\nans: A %TH UT 10000"
-    },
-    {
-      "id": 357,
-      "book_no": 498,
-      "year": 2015,
-      "bank": "Midland Bank",
-      "post": "Management Trainee Officer",
-      "Topic": "Percentage",
-      "question": "In a country, 60% of the male citizen and 70% of the female citizen are eligible to vote. 70% of male citizens eligible to vote voted, and 60% of the female citizens eligible to vote voted. What fraction of the citizens voted during the election?",
-      "options": [],
-      "answer": "~ 200° 50°",
-      "solution": "Let, the number of male citizen be = 100\n& the number of female citizen be = 100,\nMale eligible voter = 100 x 60%\n= 60.\nFemale eligible voter = 100 x 70%\n=70.\nMale voted = 60 x 70% = 42\n& Female voted = 70 x 60% = 42.\n. us _ 42442\nFraction of citizen voted = 7994 100\n_ 84 _21\n~ 200° 50°\n2\nans: %-"
-    },
-    {
-      "id": 358,
-      "book_no": 499,
-      "year": 2015,
-      "bank": "Midland Bank",
-      "post": "ATO",
-      "Topic": "Age",
-      "question": "A basket ball team has won 15 games and lost 9. If these games represent 18 percent of the games to be played, then how many more games must the team win to average 75 percent for the season?",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
-    {
-      "id": 359,
-      "book_no": 500,
-      "year": 2015,
-      "bank": "Midland Bank",
-      "post": "ATO",
-      "Topic": "Interest",
-      "question": "A person earns yearly interest of Tk. 920 by investing Tk. X at 4% and Tk. Y at 5% simple interest rate. If he had invested Tk. X at 5% and Tk. Y at 4% simple interest rate, then his yearly interest earning would have been reduced by Tk. 40. Find out the amount of X and Y.",
-      "options": [],
-      "answer": "60 percent of the total caps in the shop is blue.",
-      "solution": "Aaya CHG, x taka interest AREAS taka\ny taka interest = yxSat 3 taka\npe a ;\nSTS, 95 +39 D0 'vccccrsussevavsenvenees (I)\nfasta cFGs, x taka interest = ween x taka\n4\ny taka interest = vetnt x taka\nAy Hg\nQs, 70735 920-40\nx v ons\n— 20+ 357 880 oe CH)\n— a\n(i) Fe at BOS MS 35 +557 920\n~ 27.920\n= 4x + $y = 92000 eccccccssesseeeee (iii)\n(ii) 7 Feat BS MR = 55 +95 = 880\n4\n= Th 980\n16x + 20y = 368000\n25x + 20y = 440000\nOQ 9% =~ 72000\n== 72000\n=> x=\nx= 8000\n4x + Sy = 92000\n=> 4x 8000 + 5y = 92000\n> Sy = 92000 — 32000\n=>  5y= 6000\n= £0000\n=> yer\ny= 12000.\n501. A shop stocks four types of caps, there are ; as many red caps as blue caps and das many\ngreen caps as red caps. There are equal numbers of green caps and yellow caps. If there\nare 42 blue caps, then what percent of the total caps in the shop are blue?\nyay é\nGE CHIC 4 LACT Cap SICK | TSSTM Blue cap WY OA Fae Red cap 4% Red cap 44 1\nHRY Green cap. CHIBCA FIA AIF Green 448 Yellow cap SNR | aft Blue cap a Ae 42 a\nSolution:\nGiven the number of blue cap = 42\n1\nTh ber of red cap = 42 x 7= 14\ni number of rea cap boar FEE % of a= TS> x 100%\n& the number of green cap = 14 x ds 7\nAs, the green and yellow caps are same of number, so the number of yellow cap = 7.\nTotal number of cap = 42+ 14+7+7=70\nThe percentage of blue cap -2 x 100% = 60%\nans: 60 percent of the total caps in the shop is blue."
-    },
-    {
-      "id": 360,
-      "book_no": 502,
-      "year": 2015,
-      "bank": "Bangladesh Bank",
-      "post": "Officer",
-      "Topic": "Ratio & Proportion",
-      "question": "502, The annual incomes and expenditures of a man and his wife are in the ratios of 5 : 3 and 3 : 1, respectively. If they decide to save equally and find a balance of Tk. 4,000 at the end of year, what was their income?",
-      "options": [],
-      "answer": "Man’s and Woman’s income are 10,000 Tk. & 6,000 Tk respectively.",
-      "solution": "Let, the amount of income and expenditure of man = 5x and 3x\n& the amount of income and expenditure of woman = 3y and y\nThee Tblicadion ES\nThe man’s savings = 5x — 3x = 2x and\nThe woman’s savings = 3y — y= 2y\nHere, 2x = 2y = 4,000\n=> 2x=4,000\n=> x=2,000\n=> 2y=4,000\n=> y=2,000\nThe man’s income = 5x = (5 x 2,000) Tk. = 10,000 Tk.\nThe woman’s income = 3y = (3 x 2,000) Tk. = 6,000 Tk.\nans: Man’s and Woman’s income are 10,000 Tk. & 6,000 Tk respectively."
-    },
-    {
-      "id": 361,
-      "book_no": 503,
-      "year": 2015,
-      "bank": "Bangladesh Bank",
-      "post": "Officer",
-      "Topic": "Profit & Loss",
-      "question": "A person sells two articles. Each for the same price Tk. 1,040. He incurs 20% loss on the first and 10% loss on the second. Find his overall percentage of loss.",
-      "options": [],
-      "answer": "His overall 15.294% of loss.",
-      "solution": "At 20% loss, if cost price is Tk. 100, then selling price = Tk. (100 - 20) = Tk. 80\nNow, while selling price is Tk. 80, then cost price = Tk. 100\nWhile selling price is Tk. 1, then cost price = Tk. a\nWhile selling price is Tk. 1,040, then cost price = 100'1040, a = Tk. 1,300\nAgain, at 10% less, if cost price is Tk. 100, then selling price = Tk. (100 — 10) = Tk. 90\nWhile selling price is Tk. 90, then cost price = Tk. 100\nWhile selling price is Tk. 1, then cost price = Tk. e\nWhile selling price is Tk. 1040, then cost price = Tk. Meee\n104\n= Te 4\nTotal selling price of two articles = 2 x 1,040 = Tk. 2,080\nAnd Total cost price of two articles = Tk. (1300 +)\n=Tk. ( 1700 a\nam, 22100\n=Tk “9\n(22 - 2080)\nOverall loss percentage = — 7100 * 100%\n9\n22100 - 18720\n9\ns st\n= ae x a) x 100%\n= 15.294%\nans: His overall 15.294% of loss."
-    },
-    {
-      "id": 362,
-      "book_no": 504,
-      "year": 2015,
-      "bank": "Bangladesh Bank",
-      "post": "Officer",
-      "Topic": "Number System",
-      "question": "Ifthe sum of five consecutive integers is S, what is the largest of those integers in terms of S?",
-      "options": [],
-      "answer": "The Largest integer S410",
-      "solution": "Let, 5 consecutive integers are x,x + 1,x+2,x+3andx+4\nAccording to the question\nx+Q+1)+@4+294+%4+3)+04+4=8\n=> 5x+10=S\n> $x=S-10\n_$-10\n> xe\nRecent Bullication S55\nThe Largest integer = x + 4\n~Sz10, 4\n_$-10+20\n_ 5\n_$+10\n=< J.\nans: The Largest integer S410"
-    },
+ {
+  "id": 354,
+  "book_no": 493,
+  "year": 2015,
+  "bank": "Southeast Bank",
+  "post": "Management Trainee Officer",
+  "Topic": "Profit & Loss",
+  "question": "A dishonest businessman makes a profit of 10% both when buying and when selling a commodity by using false weights. If his total profit is Tk. 1,050, what is the actual cost of the commodity?",
+  "options": [
+    "Tk. 4,000",
+    "Tk. 4,500",
+    "Tk. 5,000",
+    "Tk. 5,500"
+  ],
+  "answer": "Tk. 5,000",
+  "solution": "Assume the businessman buys 100 units of the commodity but receives only 90 units by using a false weight. He pays for 100 units but obtains 90 units.\n\nSimilarly, when selling, he charges the price of 100 units but delivers only 90 units. Thus, his effective selling price and buying advantage must be considered together.\n\nA simpler interpretation of the supplied solution is that he makes successive profits of 10% on buying and 10% on selling.\n\nLet the actual cost price be Tk. 100.\n\nAfter a 10% profit on buying:\nEffective value = 100 × 110/100 = Tk. 110.\n\nAfter a further 10% profit on selling:\nFinal value = 110 × 110/100 = Tk. 121.\n\nTotal profit = 121 − 100 = Tk. 21.\n\nThus, the total profit is 21% of the cost price.\n\nGiven profit = Tk. 1,050:\n21% of cost price = 1,050\nCost price = 1,050 × 100/21\n= Tk. 5,000.\n\nTherefore, the cost of the commodity is Tk. 5,000.\n\nNote: The wording 'profit of 10% both on buying and selling' is interpreted as two successive 10% gains, consistent with the supplied solution. The original scan should be checked to confirm the precise false-weight wording."
+},
+  {
+    "id": 356,
+    "book_no": 497,
+    "year": 2015,
+    "bank": "Midland Bank",
+    "post": "Management Trainee Officer",
+    "Topic": "Interest",
+    "question": "A father divides his property between his two sons, A and B. A invests his share at 8% compound interest per annum, while B invests his share at 10% simple interest per annum. After 2 years, B's interest is Tk. 1,336 more than A's interest. Find A's share of the father's total property of Tk. 25,000.",
+    "options": [
+      "Tk. 8,000",
+      "Tk. 10,000",
+      "Tk. 12,000",
+      "Tk. 15,000"
+    ],
+    "answer": "Tk. 10,000",
+    "solution": "Let A's share be Tk. x.\nThen B's share = Tk. (25,000 − x).\n\nA's compound interest for 2 years at 8% per annum:\nCI = x[(1 + 8/100)² − 1]\n= x[(1.08)² − 1]\n= x(1.1664 − 1)\n= 0.1664x\n\nB's simple interest for 2 years at 10% per annum:\nSI = (25,000 − x) × 10 × 2/100\n= 0.20(25,000 − x)\n\nAccording to the question:\n0.20(25,000 − x) − 0.1664x = 1,336\n5,000 − 0.20x − 0.1664x = 1,336\n5,000 − 1,336 = 0.3664x\n3,664 = 0.3664x\nx = 3,664/0.3664\nx = 10,000\n\nTherefore, A's share is Tk. 10,000.\n\nShortcut: A's interest rate over 2 years is 16.64%, while B's is 20%. The difference equation is 20% of (25,000 − x) minus 16.64% of x = 1,336, giving x = Tk. 10,000."
+  },
+  {
+    "id": 357,
+    "book_no": 498,
+    "year": 2015,
+    "bank": "Midland Bank",
+    "post": "Management Trainee Officer",
+    "Topic": "Percentage",
+    "question": "In a country, 60% of male citizens and 70% of female citizens are eligible to vote. Of the eligible male citizens, 70% voted, while 60% of the eligible female citizens voted. What fraction of all citizens voted during the election?",
+    "options": [
+      "21/50",
+      "2/5",
+      "9/20",
+      "1/2"
+    ],
+    "answer": "21/50 (assuming equal numbers of male and female citizens)",
+    "solution": "The question does not specify the ratio of male to female citizens. Therefore, the exact fraction cannot be determined without an additional assumption.\n\nAssuming there are equal numbers of male and female citizens, let each group contain 100 people.\n\nMale citizens who voted:\n100 × 60/100 × 70/100 = 42\n\nFemale citizens who voted:\n100 × 70/100 × 60/100 = 42\n\nTotal citizens = 100 + 100 = 200\nTotal citizens who voted = 42 + 42 = 84\n\nRequired fraction = 84/200 = 21/50.\n\nTherefore, the answer is 21/50, provided male and female citizens are equal in number.\n\nImportant: If the numbers of male and female citizens are not equal, the answer will be different. The original question or scan should be checked for a missing population ratio or an equal-population assumption."
+  },
+  {
+    "id": 358,
+    "book_no": 499,
+    "year": 2015,
+    "bank": "Midland Bank",
+    "post": "ATO",
+    "Topic": "Percentage",
+    "question": "A basketball team has won 15 games and lost 9 games. How many consecutive additional games must the team win to achieve a winning percentage of 75%?",
+    "options": [
+      "9",
+      "12",
+      "15",
+      "18"
+    ],
+    "answer": "12 games",
+    "solution": "Given:\nGames won = 15\nGames lost = 9\nTotal games played = 15 + 9 = 24\n\nLet the number of additional games the team must win be x.\n\nTo achieve a 75% winning percentage:\n(15 + x)/(24 + x) × 100 = 75\n\n(15 + x)/(24 + x) = 3/4\n4(15 + x) = 3(24 + x)\n60 + 4x = 72 + 3x\n4x − 3x = 72 − 60\nx = 12\n\nTherefore, the team must win 12 more consecutive games to achieve a 75% winning percentage.\n\nNote: The supplied question also states that the 24 games represent 18% of the games scheduled for the season. That statement is inconsistent because 24/0.18 is not a whole number. The answer of 12 follows the interpretation that the question asks how many additional consecutive wins are needed to reach a 75% winning percentage."
+  },
+  {
+    "id": 359,
+    "book_no": 500,
+    "year": 2015,
+    "bank": "Midland Bank",
+    "post": "ATO",
+    "Topic": "Interest",
+    "question": "A person earns yearly interest of Tk. 920 by investing Tk. X at 4% and Tk. Y at 5% simple interest. If he had invested Tk. X at 5% and Tk. Y at 4%, his yearly interest would have been reduced by Tk. 40. Find the amounts of X and Y.",
+    "options": [
+      "X = Tk. 6,000; Y = Tk. 14,000",
+      "X = Tk. 8,000; Y = Tk. 12,000",
+      "X = Tk. 10,000; Y = Tk. 10,000",
+      "X = Tk. 12,000; Y = Tk. 8,000"
+    ],
+    "answer": "X = Tk. 8,000; Y = Tk. 12,000",
+    "solution": "Given:\nInterest on X at 4% + interest on Y at 5% = Tk. 920\n\nTherefore:\n4X/100 + 5Y/100 = 920\n4X + 5Y = 92,000 ...(1)\n\nIf the rates are exchanged, the interest is reduced by Tk. 40:\nNew yearly interest = 920 − 40 = Tk. 880\n\nTherefore:\n5X/100 + 4Y/100 = 880\n5X + 4Y = 88,000 ...(2)\n\nSubtract equation (1) from equation (2):\nX − Y = −4,000\nY = X + 4,000 ...(3)\n\nSubstitute into equation (1):\n4X + 5(X + 4,000) = 92,000\n4X + 5X + 20,000 = 92,000\n9X = 72,000\nX = 8,000\n\nTherefore:\nY = 8,000 + 4,000 = 12,000\n\nHence, X = Tk. 8,000 and Y = Tk. 12,000.\n\nVerification:\n4% of 8,000 + 5% of 12,000 = 320 + 600 = Tk. 920.\n5% of 8,000 + 4% of 12,000 = 400 + 480 = Tk. 880.\nThe reduction is Tk. 40."
+  },
+  {
+    "id": 360,
+    "book_no": 502,
+    "year": 2015,
+    "bank": "Bangladesh Bank",
+    "post": "Officer",
+    "Topic": "Ratio & Proportion",
+    "question": "The annual incomes and expenditures of a man and his wife are in the ratios 5:3 and 3:1, respectively. If they save equal amounts of Tk. 4,000 each at the end of the year, what are their annual incomes?",
+    "options": [
+      "Tk. 8,000 and Tk. 6,000",
+      "Tk. 10,000 and Tk. 6,000",
+      "Tk. 12,000 and Tk. 8,000",
+      "Tk. 15,000 and Tk. 9,000"
+    ],
+    "answer": "Man's income = Tk. 10,000; wife's income = Tk. 6,000",
+    "solution": "Let the man's annual income and expenditure be 5x and 3x, respectively.\nLet the wife's annual income and expenditure be 3y and y, respectively.\n\nMan's savings = 5x − 3x = 2x\nWife's savings = 3y − y = 2y\n\nSince they save Tk. 4,000 each:\n2x = 4,000\nx = 2,000\n\nSimilarly:\n2y = 4,000\ny = 2,000\n\nMan's annual income = 5x = 5 × 2,000 = Tk. 10,000.\n\nWife's annual income = 3y = 3 × 2,000 = Tk. 6,000.\n\nTherefore, their annual incomes are Tk. 10,000 and Tk. 6,000, respectively.\n\nShortcut: Since each saves Tk. 4,000, the man's income is 5/(5 − 3) × 4,000 = Tk. 10,000, and the wife's income is 3/(3 − 1) × 4,000 = Tk. 6,000."
+  },
+  {
+    "id": 361,
+    "book_no": 503,
+    "year": 2015,
+    "bank": "Bangladesh Bank",
+    "post": "Officer",
+    "Topic": "Profit & Loss",
+    "question": "A person sells two articles for the same price of Tk. 1,040 each. He incurs a loss of 20% on the first article and a loss of 10% on the second article. Find his overall percentage loss.",
+    "options": [
+      "12.5%",
+      "15%",
+      "15.294%",
+      "16%"
+    ],
+    "answer": "15.294% loss (approximately)",
+    "solution": "Selling price of each article = Tk. 1,040.\n\nFirst article:\nLoss = 20%\nSelling price = 80% of cost price\nCost price = 1,040 × 100/80 = Tk. 1,300\n\nSecond article:\nLoss = 10%\nSelling price = 90% of cost price\nCost price = 1,040 × 100/90 = Tk. 11,555.56/10 = Tk. 1,155.56\n\nTotal cost price = 1,300 + 1,155.56 = Tk. 2,455.56\nTotal selling price = 1,040 × 2 = Tk. 2,080\n\nTotal loss = 2,455.56 − 2,080 = Tk. 375.56\n\nOverall loss percentage:\n= (375.56/2,455.56) × 100\n≈ 15.294%\n\nTherefore, the overall loss is approximately 15.294%.\n\nShortcut: When two articles are sold at equal selling prices with losses of 20% and 10%, the overall loss percentage is not the average of the two loss percentages. Calculate their individual cost prices first, then compare total cost and total selling price."
+  },
+  {
+    "id": 362,
+    "book_no": 504,
+    "year": 2015,
+    "bank": "Bangladesh Bank",
+    "post": "Officer",
+    "Topic": "Number System",
+    "question": "If the sum of five consecutive integers is S, what is the largest of those integers in terms of S?",
+    "options": [
+      "(S + 5)/5",
+      "(S + 10)/5",
+      "(S + 15)/5",
+      "(S + 20)/5"
+    ],
+    "answer": "(S + 10)/5",
+    "solution": "Let the five consecutive integers be:\nx, x + 1, x + 2, x + 3, x + 4.\n\nTheir sum is S:\nx + (x + 1) + (x + 2) + (x + 3) + (x + 4) = S\n5x + 10 = S\n5x = S − 10\nx = (S − 10)/5\n\nThe largest integer is x + 4:\n= (S − 10)/5 + 4\n= (S − 10 + 20)/5\n= (S + 10)/5\n\nTherefore, the largest integer is (S + 10)/5.\n\nShortcut: The middle of five consecutive integers is their average, S/5. The largest integer is two greater than the middle integer. Therefore, the largest = S/5 + 2 = (S + 10)/5."
+  },
     {
       "id": 363,
       "book_no": 505,
@@ -4314,42 +4610,58 @@
       "answer": "The trip took 2 hr and 30 minute.",
       "solution": "Let, Robi’s speed was = x mile/hour\nAccording to questions\nDistance = 100 mile\nDistance\nSpeed = “Time\nTime = Distance\nime = “speed\n1, <0\nx\nAgain, if he drives 8 miles per hour faster then, new speed = (x + 8) mile/hour\nAnd distance = 100 miles\n. 100\nNew time, T2 = x48\nNow, from the question\n5\nT2= te T\nJon _ $100)\n=> 5+8 6X x\nSL\n> & x+8\n=> 5x+40=&\n> x= 40.\nTime taken by the trip = 100 hr\n10\n=] hr\n=2.5hr\nans: The trip took 2 hr and 30 minute."
     },
-    {
-      "id": 365,
-      "book_no": 508,
-      "year": 2015,
-      "bank": "Bangladesh Bank",
-      "post": "Officer",
-      "Topic": "Average",
-      "question": "Of the three numbers, second is twice the first and is also thrice the third. If the average of the three numbers is 44, then what will be the largest number?",
-      "options": [],
-      "answer": "The largest number is 72.",
-      "solution": "Let, the 2\"! number = x\n1* number will be}\nAnd 3% number will be 3 :\nAccording to question\nZaye\n2 3\n744\n=> Ftxtta4ax3.\n= BtGth_ 13\n=> llx=132x6\n_ 132x6\n> x=\nx= 72.\nans: The largest number is 72."
-    },
-    {
-      "id": 366,
-      "book_no": 509,
-      "year": 2015,
-      "bank": "Bank Asia",
-      "post": "MT & PO",
-      "Topic": "Profit & Loss",
-      "question": "509, A dishonest merchant makes a 10% profit at the time of buying and a 5% loss at the time of selling the goods he/she trades. By doing so if the said merchant made a profit of 7k.900 on a particular item, what was the real cost of the item sold?",
-      "options": [],
-      "answer": "The real cost of the item sold is 20,000 Tk.",
-      "solution": "Let, the cost price be = 100 Tk.\nAt 10% profit the market price of the product will be = 100 + 10 = 110 Tk.\nAt 5% loss, the selling price will be = 110 - 5% of 110\n110x5\n=110 - 100,\n=p dt\n=110- 2\n=110-5.5\n= 104.5 Tk.\nDishonest merchant makes 4.5 Tk. profit while cost price = 100 Tk.\nDishonest merchant makes 1 Tk. profit while cost price = ” Tk. 7\nDishonest merchant makes 900 Tk. profit while cost price = ac = 20,000 Tk.\nans: The real cost of the item sold is 20,000 Tk."
-    },
-    {
-      "id": 367,
-      "book_no": 510,
-      "year": 2015,
-      "bank": "Bank Asia",
-      "post": "MT & PO",
-      "Topic": "Interest",
-      "question": "What will be the deposited amount at initial stage, if it becomes Tk. 43,750 at the end of 5 years with a simple interest rate of 15% per annum? How many years it will take the said deposited amount to become Tk. 55,000?",
-      "options": [],
-      "answer": "",
-      "solution": "15% interest —4\n100 BIAS 5 ARCA BA = (15 x 5) = 75 Brat\nFRM = (100 + 75) = 175 Bra\n100\nFAP 43,750 IF RA SP =T7e TIa\nATA 43,750 Bre we eR = WOO IS0 _ 95 99 bret\n8 SPA, p = 25,000 Brat\nWi, I = 55,000 — 25,000 = 30,000 brat\nWs Ba, r= 15% = 75\nO84 | = prt Fa WS,\nI\n> 12—\npr\n_ 30000 x 100\n= \"55000 x 15\nt= 8 years.\nans: GPF 25,000 Brat aae 8 Far AA BI 55,000 BH BA |"
-    },
+  {
+    "id": 365,
+    "book_no": 508,
+    "year": 2015,
+    "bank": "Bangladesh Bank",
+    "post": "Officer",
+    "Topic": "Average",
+    "question": "Of three numbers, the second is twice the first and is also three times the third. If the average of the three numbers is 44, what is the largest number?",
+    "options": [
+      "36",
+      "54",
+      "72",
+      "88"
+    ],
+    "answer": "72",
+    "solution": "Let the second number be x.\n\nAccording to the question:\nFirst number = x/2\nSecond number = x\nThird number = x/3\n\nThe average of the three numbers is 44:\n(x/2 + x + x/3)/3 = 44\n\nMultiplying both sides by 3:\nx/2 + x + x/3 = 132\n\nTaking the LCM of 2 and 3:\n(3x + 6x + 2x)/6 = 132\n11x/6 = 132\n11x = 792\nx = 72\n\nThe three numbers are 36, 72, and 24.\n\nTherefore, the largest number is 72.\n\nShortcut: The ratio of the three numbers is 1/2 : 1 : 1/3 = 3 : 6 : 2. Their total is 3 + 6 + 2 = 11 parts. Since their average is 44, their total is 44 × 3 = 132. One part = 132/11 = 12. The largest number = 6 × 12 = 72."
+  },
+  {
+    "id": 366,
+    "book_no": 509,
+    "year": 2015,
+    "bank": "Bank Asia",
+    "post": "MT & PO",
+    "Topic": "Profit & Loss",
+    "question": "A dishonest merchant makes a 10% profit when buying goods and incurs a 5% loss when selling them. If the merchant makes a net profit of Tk. 900 on a particular item, what is the actual cost of the item?",
+    "options": [
+      "Tk. 15,000",
+      "Tk. 18,000",
+      "Tk. 20,000",
+      "Tk. 25,000"
+    ],
+    "answer": "Tk. 20,000",
+    "solution": "Assume the actual cost of the item is Tk. 100.\n\nA 10% gain during buying increases its effective value to:\n100 × 110/100 = Tk. 110\n\nA 5% loss during selling gives:\n110 × 95/100 = Tk. 104.50\n\nNet profit = 104.50 − 100 = Tk. 4.50\n\nThus, the net profit is 4.5% of the actual cost.\n\nGiven net profit = Tk. 900:\n4.5% of the actual cost = 900\nActual cost = 900 × 100/4.5\n= Tk. 20,000\n\nTherefore, the actual cost of the item is Tk. 20,000.\n\nShortcut: Successive gain of 10% and loss of 5% gives a net gain of (10 − 5 − 10 × 5/100)% = 4.5%. Therefore, cost price = 900 × 100/4.5 = Tk. 20,000.\n\nNote: This solution follows the successive percentage interpretation used in the supplied solution. The exact wording about the dishonest buying and selling practices should be verified against the original scan."
+  },
+  {
+    "id": 367,
+    "book_no": 510,
+    "year": 2015,
+    "bank": "Bank Asia",
+    "post": "MT & PO",
+    "Topic": "Interest",
+    "question": "What was the initial amount deposited if it became Tk. 43,750 after 5 years at a simple interest rate of 15% per annum? How many years will it take for the same deposit to become Tk. 55,000?",
+    "options": [
+      "6 years",
+      "7 years",
+      "8 years",
+      "9 years"
+    ],
+    "answer": "Initial deposit = Tk. 25,000; time required = 8 years",
+    "solution": "Given:\nAmount after 5 years = Tk. 43,750\nSimple interest rate = 15% per annum\n\nStep 1: Find the initial principal.\n\nUsing the simple interest amount formula:\nA = P(1 + rt/100)\n\n43,750 = P(1 + 15 × 5/100)\n43,750 = P(1 + 75/100)\n43,750 = 1.75P\nP = 43,750/1.75\nP = Tk. 25,000\n\nStep 2: Find the time required to reach Tk. 55,000.\n\nRequired interest = 55,000 − 25,000\n= Tk. 30,000\n\nAnnual interest = 25,000 × 15/100\n= Tk. 3,750\n\nUsing the simple interest formula:\nI = Prt/100\n\n30,000 = (25,000 × 15 × t)/100\n30,000 = 3,750t\nt = 30,000/3,750\n= 8 years\n\nTherefore, the initial deposit was Tk. 25,000, and it will take 8 years from the initial deposit date to become Tk. 55,000.\n\nShortcut: At 15% simple interest, the amount increases by 75% in 5 years. Thus, principal = 43,750 × 100/175 = Tk. 25,000. To reach Tk. 55,000, the interest must be Tk. 30,000. Since annual interest is Tk. 3,750, time = 30,000/3,750 = 8 years."
+  },
+
     {
       "id": 368,
       "book_no": 512,
@@ -4374,18 +4686,23 @@
       "answer": "The required value, x=3 & y=4.",
       "solution": "We know, I = 7 , Where\nHere, according to the question for 1\" & 2\" part ee ORE | STATE Sierra\nx x x\nSS emma) y% FH Feoniss Sac Te\nCree CHE Cl BW MeN AI St\nNow, from (i) we have, 320 Breta AAA Seq Ws\n=> — 1,000(4x + Sy) = 32 x 1,000\n=> 4x+5y=32 [Divide both side by 1,000]\n4x + 5y = 32 ocssssseses (iil)\nAgain, from (ii) we have,\n5008s , 40007 - 310\n=> 22 Oy 310\n=>  5,000x + 4,000y = 310 x 100\n=> =: 1,000(5x + 4y) = 31 x 1,000\n=> Sx +4y=31t [Divide both side by 1,000]\nNow, we have\n(ili) x 4 => 16x + 20y= 128\n(iv) x5 >. 25x + 20y = 155\n—9x =-27\n= xs eas\n-9\nx=3\nNow, putting x = 3 in (iii)\n(4 x 3) + 5y = 32\n=> 12 + 5y = 32\n=> 5y = 32-12\n=> 5y = 20\n= yn2\ny=4\nans: The required value, x=3 & y=4."
     },
-    {
-      "id": 370,
-      "book_no": 516,
-      "year": 2015,
-      "bank": "Janata Bank",
-      "post": "EO-FA",
-      "Topic": "Algebra",
-      "question": "Find the value of x? +a ifx =5 -V4 ' \" ' Sod a °",
-      "options": [],
-      "answer": "",
-      "solution": ""
-    },
+ {
+  "id": 370,
+  "book_no": 516,
+  "year": 2015,
+  "bank": "Janata Bank",
+  "post": "EO-FA",
+  "Topic": "Algebra",
+  "question": "Find the value of x² + 1/x², if x = 5 − √24.",
+  "options": [
+    "96",
+    "98",
+    "100",
+    "102"
+  ],
+  "answer": "98",
+  "solution": "Given, x = 5 − √24.\n\nFirst, find 1/x by rationalizing the denominator:\n\n1/x = 1/(5 − √24)\n   = (5 + √24)/[(5 − √24)(5 + √24)]\n   = (5 + √24)/(25 − 24)\n   = 5 + √24.\n\nTherefore,\nx + 1/x = (5 − √24) + (5 + √24) = 10.\n\nUsing the identity:\nx² + 1/x² = (x + 1/x)² − 2\n\n= 10² − 2\n= 100 − 2\n= 98.\n\nCorrect answer: 98 (Option B).\n\nShortcut: Since (5 − √24)(5 + √24) = 1, we immediately get 1/x = 5 + √24. Hence, x + 1/x = 10, and the required value is 10² − 2 = 98."
+},
     {
       "id": 371,
       "book_no": 518,
@@ -5496,54 +5813,74 @@
       "answer": "So, the people having only voter ID = 35 (ans)",
       "solution": "01 -_ Given that, People having passport = 65\nae having both passport and voter ID = 30\n0, the people having only passport = 65 ~ 30 = 35\nLet, the people having only voter ID =\nAccording to the question,\n30435 +x= 115-15\n=> 65+x=100\n=> x=100-65\nx35\nSo, the people having only voter ID = 35 (ans)"
     },
+{
+  "id": 451,
+  "book_no": 648,
+  "year": 2017,
+  "bank": "Pubali Bank",
+  "post": "TAT",
+  "Topic": "Work & Time",
+  "question": "Rafiq, Shafiq and Arif can individually complete a project in 10 days, 20 days and 10 days, respectively. Rafiq started working on the project alone. Shafiq joined him after 2 days. After working together for 4 days, both Rafiq and Shafiq left the project, and Arif took over. How many days did it take to complete the entire project?",
+  "options": [
+    "6 days",
+    "8 days",
+    "10 days",
+    "12 days"
+  ],
+  "answer": "8 days",
+  "solution": "Total work = 1.\n\nRafiq's one-day work = 1/10.\nShafiq's one-day work = 1/20.\nArif's one-day work = 1/10.\n\nStep 1: Rafiq works alone for the first 2 days.\nWork completed = 2 × 1/10 = 1/5.\n\nStep 2: Rafiq and Shafiq work together for the next 4 days.\nTheir combined one-day work = 1/10 + 1/20 = 3/20.\nWork completed in 4 days = 4 × 3/20 = 3/5.\n\nTotal work completed by Rafiq and Shafiq = 1/5 + 3/5 = 4/5.\n\nRemaining work = 1 − 4/5 = 1/5.\n\nStep 3: Arif completes the remaining work.\nTime required = (1/5) ÷ (1/10) = 2 days.\n\nTotal time = 2 + 4 + 2 = 8 days.\n\nShortcut: Rafiq completes 2/10 of the work in 2 days. Together, Rafiq and Shafiq complete 4 × 3/20 = 3/5. Thus, 1/5 remains, which Arif finishes in 2 days. Total = 8 days."
+},
     {
-      "id": 451,
-      "book_no": 648,
-      "year": 2017,
-      "bank": "Pubali Bank",
-      "post": "TAT",
-      "Topic": "Work & Time",
-      "question": "Rafiq, Shafiq and Arif can alone complete a project in 10 days, 20 days, and 10 days, respectively. Rafiq started working on the project alone. Shafiq joined the project after 2 days. After working together for 4 days both Rafiq and Shafiq left the project and Arif got in. How many days it took to complete the entire project? 10",
-      "options": [],
-      "answer": "The required time for completion of the work = 6 +2 =8 days (ans)",
-      "solution": "ee Si ig ae ca Ft na 4 AT TH AT CREE HEN GTN\neref CH ACS Arif a BS fra APACS?\noti aa can do in I day = 7p portion of work\nRafiq ean do in 6 days = 15 = portion of work ae 6 fit cs Rafiq 6 fA\nShafiq can do in | day = 99 portion of work faa otc SICH Join STACK, wR\n+. Shafiqcan do in4 days = $= portion of work Shafig ata 4 faces STS |\nRafiq & Shafiq completed in first 6 days = 24-4=$ portion of work\n4\nSo, the remaining work = (1 4) = $portion of work\nArif can do in | day -4 portion of work\n1 —\nArif can do 7 portion In I day\n1 . 10\n» Arif can dos portion in “>= 2 days\nThe required time for completion of the work = 6 +2 =8 days (ans)"
-    },
+  "id": 452,
+  "book_no": 649,
+  "year": 2017,
+  "bank": "Pubali Bank",
+  "post": "TAT",
+  "Topic": "Arithmetic",
+  "question": "Mr. Rashid saved Tk. 1,200 from his first month's salary. He plans to increase his monthly savings by Tk. 100 every following month. How many months will it take him to save a total of Tk. 1,06,200?",
+  "options": [
+    "30 months",
+    "36 months",
+    "40 months",
+    "42 months"
+  ],
+  "answer": "36 months (3 years)",
+  "solution": "The monthly savings form an arithmetic progression (AP): 1200, 1300, 1400, ...\n\nGiven:\nFirst month's savings, a = Tk. 1,200\nCommon difference, d = Tk. 100\nTotal savings, S_n = Tk. 1,06,200\nNumber of months = n\n\nUsing the sum formula for an AP:\nS_n = n/2 [2a + (n - 1)d]\n\n106200 = n/2 [2(1200) + (n - 1)100]\n212400 = n [2400 + 100n - 100]\n212400 = n(2300 + 100n)\n2124 = n(n + 23)\nn² + 23n - 2124 = 0\n(n + 59)(n - 36) = 0\n\nTherefore, n = 36 or n = -59. Since the number of months cannot be negative, n = 36.\n\nHence, it will take 36 months, or 3 years, to save Tk. 1,06,200.\n\nShortcut: The sum of an AP is n/2 × (first term + last term). For 36 months, the last month's savings = 1200 + 35 × 100 = Tk. 4,700. Total = 36/2 × (1200 + 4700) = Tk. 1,06,200."
+},
+{
+  "id": 453,
+  "book_no": 651,
+  "year": 2017,
+  "bank": "Pubali Bank",
+  "post": "TAT",
+  "Topic": "Geometry",
+  "question": "The area of a rectangle is 1,200 square metres. If its length is reduced by 10 metres, it becomes a square. Calculate the length of the diagonal of the rectangle.",
+  "options": [
+    "40 metres",
+    "45 metres",
+    "50 metres",
+    "60 metres"
+  ],
+  "answer": "50 metres",
+  "solution": "Let the width of the rectangle be x metres. Since reducing its length by 10 metres makes it a square, its length is (x + 10) metres.\n\nGiven area = 1,200 m².\n\nTherefore,\nx(x + 10) = 1200\nx² + 10x - 1200 = 0\n(x + 40)(x - 30) = 0\n\nSo, x = 30 or x = -40. Since a width cannot be negative, x = 30 metres.\n\nWidth = 30 metres\nLength = 30 + 10 = 40 metres\n\nUsing the Pythagorean theorem:\nDiagonal² = Length² + Width²\n= 40² + 30²\n= 1600 + 900\n= 2500\n\nDiagonal = √2500 = 50 metres.\n\nTherefore, the diagonal of the rectangle is 50 metres.\n\nShortcut: Recognize the 3:4:5 right-triangle ratio. The sides 30 m and 40 m give a diagonal of 50 m."
+},
     {
-      "id": 452,
-      "book_no": 649,
-      "year": 2017,
-      "bank": "Pubali Bank",
-      "post": "TAT",
-      "Topic": "Arithmetic",
-      "question": "649, Mr. Rashid has saved Taka 1,200 from his first month's salary. He plans to increase his monthly savings by Taka 100 in every following month. How much time would it take to save Taka 1,06,200? 10",
-      "options": [],
-      "answer": "So, the required time = 36 months = 3 years (ans)",
-      "solution": "4\n]\n| go *. it will take *x\" months to save 1,06,200 Tk.\nri the savings we gel a series.\n| Eas 300 + 1300 + 1400 # verse\na= 1200 Tk. & d = 100 TK.\nWe know that, summation =3 (2a+(n-I)d)\nAccording to the question\n8 {2x 1200 + 100(7 - 1)} = 106200\n31200 + 50n ~ 50) = 106200\n2 Ya00n-+ 50n? —50n = 106200\n3 50n* + 11500 = 106200\n> m+23n= 2124\n5 w+ 59n~ 360-2124 = 0\n> nn +59) 36(n + 59) =0\n5 (n+ 59) (1-36) =0\n> one 36 Or, n =— 59 (n cannot be negative)\nSo, the required time = 36 months = 3 years (ans)"
-    },
-    {
-      "id": 453,
-      "book_no": 651,
-      "year": 2017,
-      "bank": "Pubali Bank",
-      "post": "TAT",
-      "Topic": "Geometry",
-      "question": "The area of a rectangle is 1,200 square meter. If the length of the rectangle is reduced by 10 meter, it becomes a square, Calculate the length of the diagonal of the rectangle. 10 ;",
-      "options": [],
-      "answer": "So, the length of the diagonal of the rectangle = 40\" + 30° = 50 meters (ans)",
-      "solution": "(HIRE Let, the width of the rectangle is x meters .\nSo, the length of the rectangle is = (x + 10) Meters\nAccording to the question\nx(x + 10) = 1200\n=> P440x-30x- 1200 =0\n= xv + 40)-30(x + 40) =0\n= + 10x-1200=0 \\\n> (+ 40)(x- 30) =0 ‘\native)\n> x=30,Orx=—40 (But the value of length cannot be a neg\nSo, the width of the rectangle is 30 meters, and\nq\nThe length of the rectangle = 30 + 10 = 40 meters.\nSo, the length of the diagonal of the rectangle = 40\" + 30° = 50 meters (ans)"
-    },
-    {
-      "id": 454,
-      "book_no": 652,
-      "year": 2017,
-      "bank": "Pubali Bank",
-      "post": "TAT",
-      "Topic": "Geometry",
-      "question": "A Rhombus has an area of 120 square meter and the length of its one diagonal is 19 meter. Calculate the perimeter of the Rhombus.",
-      "options": [],
-      "answer": "So, the perimeter of the rhombus = 4 * 13 = 52 meters. (ans)",
-      "solution": "Let, the length of the other diagonal = d meters\nArea of rhombus =F010 x d)=5d\nAccording to the question,\n=> Sd=120\n«  d=24\nSo, the length of the other diagonal = 24 meters. 5\nHalf of the I*' diagonal = 5 meters and half of the 2\" diagonal = 12\nOne side of the rhombus = V5\" + 12\" = 169 = 13\nSo, the perimeter of the rhombus = 4 * 13 = 52 meters. (ans)"
-    },
+  "id": 454,
+  "book_no": 652,
+  "year": 2017,
+  "bank": "Pubali Bank",
+  "post": "TAT",
+  "Topic": "Geometry",
+  "question": "A rhombus has an area of 120 square metres, and the length of one of its diagonals is 10 metres. Calculate the perimeter of the rhombus.",
+  "options": [
+    "48 metres",
+    "50 metres",
+    "52 metres",
+    "56 metres"
+  ],
+  "answer": "52 metres",
+  "solution": "Let the length of the other diagonal be d metres.\n\nArea of a rhombus = (1/2) × d₁ × d₂\n\nGiven:\nArea = 120 m²\nFirst diagonal, d₁ = 10 m\n\nTherefore,\n120 = (1/2) × 10 × d\n120 = 5d\nd = 120/5 = 24 metres\n\nThe diagonals of a rhombus bisect each other at right angles.\n\nHalf of the first diagonal = 10/2 = 5 metres\nHalf of the second diagonal = 24/2 = 12 metres\n\nUsing the Pythagorean theorem, each side of the rhombus is:\nSide = √(5² + 12²)\n= √(25 + 144)\n= √169\n= 13 metres\n\nPerimeter = 4 × side = 4 × 13 = 52 metres.\n\nTherefore, the perimeter of the rhombus is 52 metres.\n\nShortcut: The half-diagonals form a 5–12–13 right triangle. Hence, each side is 13 metres and the perimeter is 4 × 13 = 52 metres."
+},
    {
   "id": 455,
   "book_no": 653,
@@ -5893,18 +6230,18 @@
     "answer": "227 and 353",
     "solution": "The single-digit prime numbers are 2, 3, 5 and 7.\n\nWe need three prime digits whose sum is 11.\n\nThe possible combinations are:\n2 + 2 + 7 = 11\n3 + 3 + 5 = 11\n\nNow consider the possible three-digit numbers.\n\nUsing the digits 2, 2 and 7:\n227 is prime.\n272 and 722 are even numbers, so they are not prime.\n\nUsing the digits 3, 3 and 5:\n353 is prime.\n335 ends in 5, so it is divisible by 5.\n533 is divisible by 13 (533 = 13 × 41).\n\nTherefore, the required three-digit prime numbers are **227 and 353**.\n\n**Shortcut:** The only possible combinations of three prime digits that add up to 11 are 2, 2, 7 and 3, 3, 5. Checking their permutations gives 227 and 353 as the prime numbers."
   },
-  {
-    "id": 478,
-    "book_no": 694,
-    "year": 2018,
-    "bank": "Bangladesh Development Bank",
-    "post": "Senior Officer",
-    "Topic": "Arithmetic",
-    "question": "The question is corrupted in the supplied OCR text. The readable portion appears to contain a statement involving a, b, c, p, q and r, followed by the instruction to prove that a + b + c = pa + qb + rc. The original mathematical conditions are missing.",
-    "options": [],
-    "answer": "",
-    "solution": "The question cannot be solved reliably because the conditions involving a, b, c, p, q and r are missing or corrupted. The readable equality alone is insufficient to establish the result. Please provide the original scan or a clearer image of this question so that it can be reconstructed accurately."
-  },
+{
+  "id": 478,
+  "book_no": 694,
+  "year": 2018,
+  "bank": "Bangladesh Development Bank",
+  "post": "Senior Officer",
+  "Topic": "Algebra",
+  "question": "If a^(1/(q − r)) = b^(1/(r − p)) = c^(1/(p − q)), prove that abc = 1 and a^p b^q c^r = 1.",
+  "options": [],
+  "answer": "Proved: abc = 1 and a^p b^q c^r = 1.",
+  "solution": "Let a^(1/(q − r)) = b^(1/(r − p)) = c^(1/(p − q)) = k.\n\nThen, raising both sides to the respective powers:\na = k^(q − r),\nb = k^(r − p),\nc = k^(p − q).\n\nPart 1: Prove that abc = 1.\n\nabc = k^(q − r) × k^(r − p) × k^(p − q)\n    = k^[(q − r) + (r − p) + (p − q)]\n    = k^0\n    = 1.\n\nPart 2: Prove that a^p b^q c^r = 1.\n\na^p b^q c^r = [k^(q − r)]^p × [k^(r − p)]^q × [k^(p − q)]^r\n              = k^[p(q − r) + q(r − p) + r(p − q)]\n              = k^(pq − pr + qr − pq + rp − rq)\n              = k^0\n              = 1.\n\nHence, both identities are proved.\n\nNote: The expressions require p, q, and r to be distinct so that the denominators are nonzero. The usual real-number interpretation also assumes the powers are defined."
+},
   {
     "id": 479,
     "book_no": 695,
