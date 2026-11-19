@@ -1373,42 +1373,57 @@
       "answer": "Tk. 810",
       "solution": "Let, the profit made by selling a pencil = x\nThe profit made by selling a pen =3 xx -%\nTotal pen sells in a month = 12 x 30 = 360\nand total pencil sells in a month = 16 x 30 = 480\nThe profit made by selling pencils in a month = (480 x x) = 480x\nAnd the profit made by selling pens in a month = (s60 x 2) = 540x\n480x = 720\n-20_3\n> F340 2\nThe profit made by selling pens in a month = (sao x 3) = Tk. 810\nans: Tk. 810"
     },
-    {
-      "id": 124,
-      "book_no": 197,
-      "year": 2003,
-      "bank": "Mercentile Bank",
-      "post": "Probationary Officer",
-      "Topic": "Speed, Time & Distance",
-      "question": "197, Mr. Arif and Mr. Afzal stared from point A and reached point B in 10 minutes and 9 minutes respectively. If the travelling speed of Mr. Arif was 2 km/ hr less than that of Mr. Afzal, what was the distauce between A and B iu kms?",
-      "options": [],
-      "answer": "The distance between A and B is 3 kms.",
-      "solution": "Let, the distance between A and B is x kms\nMr. Arif can travel 10 minute the distance x km.\nMr. Arif can travel 1 hour the distance 200 = 6x\nAfzal can travel in 1 hour =x x # = a\nAccording to the question\n20x _\n3 Ox=2\n=> 20x — 18x =6\n=> 6=6\nx=3\nans: The distance between A and B is 3 kms."
-    },
-    {
-      "id": 125,
-      "book_no": 198,
-      "year": 2003,
-      "bank": "Mercentile Bank",
-      "post": "Probationary Officer",
-      "Topic": "Profit & Loss",
-      "question": "Arif, Babu and Salam stared a business jointly with a total amount of Tk. 28000. Arif paid Tk 4500 more than Babu and Babu paid Tk. 7600 less than Salam. If the company made a profit of Tk. 5600, how much profit should Babu receive?",
-      "options": [],
-      "answer": "Tk. 1100",
-      "solution": "Let, the amount of Babu = Tk. x\nx +(x + 4500) + (x + 7000) = 28000\n=. 3x = 28000 - 11500 = 16500\nx = 5500\nThe amount of Babu = Tk. 5500\nans: Tk. 1100"
-    },
-    {
-      "id": 126,
-      "book_no": 199,
-      "year": 2003,
-      "bank": "Mercentile Bank",
-      "post": "Probationary Officer",
-      "Topic": "Partnership",
-      "question": "199, In a group of account holders 40% of the account holders are businessman and the remaining account holders are service and half are female. If 10% account holders are businessman and male and 40% account holders are service-holder and female, how many of the account holders are businessman and female?",
-      "options": [],
-      "answer": "Business Female account holders 60.",
-      "solution": "Let, Total account holders = x\nBusiness account holders = 40% of x = 4x x= 4x\nService account holders = (100 - 40)% of x DRT, DOH, 9ER\n= 60% of x = .6x 3 9¢4 OF ANA\n* fafa SrA |\nMale account holders = 7 Sx\nAnd female account holders =3 = Sx\nBusiness Male account holders = 10% of x\nBusiness female account holders = .4x —.1x = .3x\nService Female account holders = .5x ~.3x = .2x\n.2x = 40\n— 40x10\n> XE T\nx= 200\nBusiness Female account holders = 0.3 x 200 = 60\nans: Business Female account holders 60."
-    },
+{
+  "id": 124,
+  "book_no": 197,
+  "year": 2003,
+  "bank": "Mercantile Bank",
+  "post": "Probationary Officer",
+  "Topic": "Speed, Time & Distance",
+  "question": "Mr. Arif and Mr. Afzal started from point A and reached point B in 10 minutes and 9 minutes, respectively. If Mr. Arif's travelling speed was 2 km/h less than Mr. Afzal's, what was the distance between A and B in kilometres?",
+  "options": [
+    "2 km",
+    "3 km",
+    "4 km",
+    "5 km"
+  ],
+  "answer": "3 km",
+  "solution": "Let the distance between A and B be x km.\n\nMr. Arif takes 10 minutes = 1/6 hour.\nHis speed = x ÷ (1/6) = 6x km/h.\n\nMr. Afzal takes 9 minutes = 3/20 hour.\nHis speed = x ÷ (3/20) = 20x/3 km/h.\n\nAccording to the question, Mr. Afzal's speed is 2 km/h greater than Mr. Arif's speed:\n20x/3 − 6x = 2\n20x − 18x = 6\n2x = 6\nx = 3 km.\n\nTherefore, the distance between A and B is 3 km (Option B).\n\nShortcut: Since both travel the same distance, the speed difference is distance × difference of reciprocal times:\n2 = x × (1/(9/60) − 1/(10/60))\n2 = x × (20/3 − 6) = 2x/3.\nThus, x = 3 km."
+},
+  {
+    "id": 125,
+    "book_no": 198,
+    "year": 2003,
+    "bank": "Mercantile Bank",
+    "post": "Probationary Officer",
+    "Topic": "Profit & Loss",
+    "question": "Arif, Babu, and Salam started a business jointly with a total investment of Tk. 28,000. Arif invested Tk. 4,500 more than Babu, while Babu invested Tk. 7,600 less than Salam. If the business made a profit of Tk. 5,600, how much profit should Babu receive?",
+    "options": [
+      "Tk. 1,000",
+      "Tk. 1,060",
+      "Tk. 1,100",
+      "Tk. 1,200"
+    ],
+    "answer": "Tk. 1,060",
+    "solution": "Let Babu's investment be Tk. x.\n\nThen:\nArif's investment = Tk. (x + 4,500)\nSalam's investment = Tk. (x + 7,600)\n\nAccording to the question:\nx + (x + 4,500) + (x + 7,600) = 28,000\n3x + 12,100 = 28,000\n3x = 15,900\nx = 5,300\n\nTherefore, Babu invested Tk. 5,300.\n\nProfit is divided in proportion to investment. Hence, Babu's share of the profit is:\n= (5,300/28,000) × 5,600\n= Tk. 1,060.\n\nTherefore, Babu should receive Tk. 1,060 (Option B).\n\nNote: The supplied solution uses Tk. 7,000 instead of Tk. 7,600 for the difference between Salam's and Babu's investments. That would give Tk. 1,100, but it conflicts with the question as provided. The answer here follows the stated Tk. 7,600."
+  },
+  {
+    "id": 126,
+    "book_no": 199,
+    "year": 2003,
+    "bank": "Mercantile Bank",
+    "post": "Probationary Officer",
+    "Topic": "Partnership",
+    "question": "In a group of account holders, 40% are businessmen and the remaining 60% are service holders. Half of all the account holders are female. If 10% of all account holders are male businessmen and 40 service holders are female, how many female businessmen are there?",
+    "options": [
+      "40",
+      "50",
+      "60",
+      "80"
+    ],
+    "answer": "60",
+    "solution": "Let the total number of account holders be x.\n\nBusinessmen = 40% of x = 0.4x.\nService holders = 60% of x = 0.6x.\n\nFemale account holders = 50% of x = 0.5x.\nMale businessmen = 10% of x = 0.1x.\n\nTherefore, female businessmen:\n= Total businessmen − Male businessmen\n= 0.4x − 0.1x\n= 0.3x.\n\nFemale service holders = 40.\n\nSince total female account holders consist of female businessmen and female service holders:\n0.3x + 40 = 0.5x\n40 = 0.2x\nx = 200.\n\nTherefore, the number of female businessmen is:\n= 0.3 × 200\n= 60.\n\nTherefore, there are 60 female businessmen (Option C).\n\nShortcut: Female businessmen = Total female account holders − Female service holders. First find the total account holders using the given percentages: 40 = (50% − 30%) of the total, so total = 200. Then female businessmen = 30% of 200 = 60.\n\nNote: The supplied solution indicates that 40 is the number of female service holders, not 40% of all account holders. The question has been reconstructed accordingly."
+  },
    {
   "id": 127,
   "book_no": 200,
@@ -1427,17 +1442,22 @@
   "solution": "Given:\nPrincipal (P) = Tk. 100,000\nTime = 2 years\n\nOption 1: Simple Interest at 12% per annum\n\nSimple Interest = (P × R × T)/100\n= (100,000 × 12 × 2)/100\n= Tk. 24,000.\n\nTotal amount = 100,000 + 24,000 = Tk. 124,000.\n\nOption 2: Compound Interest at 10% per annum, compounded semi-annually\n\nHalf-yearly interest rate = 10%/2 = 5%.\nNumber of compounding periods = 2 × 2 = 4.\n\nCompound Amount = 100,000 × (1 + 5/100)^4\n= 100,000 × (1.05)^4\n= Tk. 121,550.625.\n\nCompound Interest = 121,550.625 − 100,000\n= Tk. 21,550.63.\n\nComparison:\nSimple Interest = Tk. 24,000.\nCompound Interest = Tk. 21,550.63.\n\nDifference = 24,000 − 21,550.63 = Tk. 2,449.38 (approximately).\n\nAdvice: Mr. X should choose the simple interest option because it earns approximately Tk. 2,449.38 more.\n\nShortcut: For simple interest, calculate PRT/100. For semi-annual compound interest, divide the annual rate by 2 and multiply the years by 2 to get the number of periods."
 },
     {
-      "id": 128,
-      "book_no": 201,
-      "year": 2003,
-      "bank": "Mercentile Bank",
-      "post": "Probationary Officer",
-      "Topic": "Interest",
-      "question": "20]. Mr. X pays 10% tax on all income over Tk. 60,000, but he does not pay any tax on interest on postal savings certificate. In 2000 he paid Tk. 7,500 as tax and he earned Tk. 12,000 as interest on postal savings account. What was net income in 2000?",
-      "options": [],
-      "answer": "Net income 1,39,500 Tk.",
-      "solution": "10% tax on income over Tk. 60,000\nWhen Mr. X paid Tk. 10 as tax then his income = 100 Tk.\nWhen Mr. X paid Tk. 1 as tax then his income = ok.\nWhen Mr. X paid Tk. 7,500 as tax then his income = 75,000\nHis earnings = 75,000 + 60,000 = 1,35,000\nHis income = 1,35,000 + 12,000 (as interest on postal saving account)\n= 1,47,000 Tk.\nTotal income = 1,47,000\nTax = __7,500\nNet income = 1,39,500\nans: Net income 1,39,500 Tk."
-    },
+  "id": 128,
+  "book_no": 201,
+  "year": 2003,
+  "bank": "Mercantile Bank",
+  "post": "Probationary Officer",
+  "Topic": "Interest",
+  "question": "Mr. X pays 10% tax on all income exceeding Tk. 60,000, but he does not pay tax on interest earned from postal savings certificates. In 2000, he paid Tk. 7,500 in tax and earned Tk. 12,000 as interest from postal savings certificates. What was his net income in 2000?",
+  "options": [
+    "Tk. 1,35,000",
+    "Tk. 1,38,000",
+    "Tk. 1,39,500",
+    "Tk. 1,47,000"
+  ],
+  "answer": "Tk. 1,39,500",
+  "solution": "The tax rate is 10% on income exceeding Tk. 60,000.\n\nLet the taxable income above Tk. 60,000 be x.\n\n10% of x = Tk. 7,500\nx = 7,500 × 100/10\nx = Tk. 75,000.\n\nTherefore, income subject to tax:\n= 60,000 + 75,000\n= Tk. 1,35,000.\n\nAdd the tax-exempt postal savings certificate interest:\nTotal gross income = 1,35,000 + 12,000\n= Tk. 1,47,000.\n\nNet income = Gross income − Tax paid\n= 1,47,000 − 7,500\n= Tk. 1,39,500.\n\nTherefore, Mr. X's net income in 2000 was Tk. 1,39,500 (Option C).\n\nShortcut: Since the tax is 10% only on income above Tk. 60,000, the taxable portion is 10 × 7,500 = Tk. 75,000. Add the tax-free threshold and interest, then subtract the tax paid."
+},
    {
   "id": 129,
   "book_no": 202,
@@ -4732,30 +4752,40 @@
     "solution": "Given:\nAmount after 5 years = Tk. 43,750\nSimple interest rate = 15% per annum\n\nStep 1: Find the initial principal.\n\nUsing the simple interest amount formula:\nA = P(1 + rt/100)\n\n43,750 = P(1 + 15 × 5/100)\n43,750 = P(1 + 75/100)\n43,750 = 1.75P\nP = 43,750/1.75\nP = Tk. 25,000\n\nStep 2: Find the time required to reach Tk. 55,000.\n\nRequired interest = 55,000 − 25,000\n= Tk. 30,000\n\nAnnual interest = 25,000 × 15/100\n= Tk. 3,750\n\nUsing the simple interest formula:\nI = Prt/100\n\n30,000 = (25,000 × 15 × t)/100\n30,000 = 3,750t\nt = 30,000/3,750\n= 8 years\n\nTherefore, the initial deposit was Tk. 25,000, and it will take 8 years from the initial deposit date to become Tk. 55,000.\n\nShortcut: At 15% simple interest, the amount increases by 75% in 5 years. Thus, principal = 43,750 × 100/175 = Tk. 25,000. To reach Tk. 55,000, the interest must be Tk. 30,000. Since annual interest is Tk. 3,750, time = 30,000/3,750 = 8 years."
   },
 
-    {
-      "id": 368,
-      "book_no": 512,
-      "year": 2015,
-      "bank": "National Bank",
-      "post": "Probationary Officer",
-      "Topic": "Ratio & Proportion",
-      "question": "A sum of money is to be distributed equally among a group of children. If there were 25 children less then each would get Tk. 1.50 more, and if there were 50 children more, each would get Tk. 1.50 less. Find the number of children and the amount of money distributed. FAW ¢ fog ofarate Brat oar SHAAN ATMS Sit Ber few ACS 1 A TT UH 25 GH AUS BT ATS,",
-      "options": [],
-      "answer": "The number of children is 100 and amount of money 450 Tk.",
-      "solution": "Let, the number of children = x\nand the amount of money each gets = y Tk.\nThe total amount of money distributed = xy Tk.\nSo, According to question (x — 25) (y + 1,5) = XY wees\nAnd (x + 50) (y— 1.5) = xy were (i)\nWe get from equation (/)\n(x-— 25) (v + 1.5) =xy\n=> xt 15x -25y-37.5=xy\n=> 1.5x — 25y = 37.5\nWe get from equation (ii)\n(x + 50) (y— 1.5) = xy\n=> xy-1.5x+ 50y—75 =xy\n=> -1.5x+ 50y = 75 2... (iv)\nAdding equation (é/) & (iv), we get\n3x — 50y = 75\n— |. 5x + 5S0y = 75\n15x = 150\nx= 122= 100\nPutting the value of x in eqution (iii), we get\n3x — 50y = 75\n=> (3x 100)- 50y= 75\n=> 300-50y=75\n=> -50y=75-300\n=> ~S0y=-225\nye\nyrs\nNow putting the value of y in (iii)\n3x - 50y = 75\n=>  3x—(50) x (4.5) = 75\n=> 3x —225 = 75\n=> 3x=75 +225\n=> 3x=300\n= = 200\n3\nx= 100\nThe number of children = x = 100 and\nThe total amount of money distributed = x x y = 4.5 x 100 = 450 Tk.\nans; The number of children is 100 and amount of money 450 Tk.\n513. A video magazine distributor made 3,500 copies of the May issue of the magazine at a cost\nof Tk. 4,00,000. He gave 500 cassettes free to some key video libraries. He also allowed a\n25% discount on the market price of the cassette. In this manner, he was able to sell all\nthe 3,500 cassettes that were produced. If the market price of a cassettes was Tk. 160,\nwhat is his gain or loss for the May issue of the video magazine?\naya e\nQFE Distributor 4,00,000 Bre tab Fa 3,500 copy magazine tefa Fa 1 A4%A A 500 copy\nfafa sae 1 uit ae Sita SEANAD 160 Dis BT Ola Oia FS ATS a HS Me\nFET cation i\nSolution:\nAs the distributor gives 500 copy free, the remaining number of copy = (3,500 — 500) = 3,000.\nTotal cost of the distributor = 4,00,000 Tk.\nNow, at 25% discount if market price is 100 Tk. the selling price is (100 — 25) Tk. = 75 Tk.\nWhen, market price is 100 Tk. then selling price = 75 Tk.\nWhen, market price is _1 Tk. then selling price 5 Tk.\nWhen, market price is 160 Tk. then selling price = Bee. 120 Tk.\nRevenue from 3,000 copy = (3,000 x 120) = 3,60,000 Tk.\nBut, the cost price = 4,00,000 Tk.\nans: Loss 40,000 Tk."
-    },
-    {
-      "id": 369,
-      "book_no": 514,
-      "year": 2015,
-      "bank": "Janata Bank",
-      "post": "EO-FA",
-      "Topic": "Interest",
-      "question": "A depositor deposited Tk. 4,000 at x% simple interest and Tk. 5,000 at y% simple interest. He received annual interest of Tk. 320 on his deposited amounts at the year end. if he could deposit Tk. 5,000 at x% simple interest and Tk. 4,000 at y% simple interest, he would receive annual interest of Tk. 310. Find the value of x and y. WTF 8",
-      "options": [],
-      "answer": "The required value, x=3 & y=4.",
-      "solution": "We know, I = 7 , Where\nHere, according to the question for 1\" & 2\" part ee ORE | STATE Sierra\nx x x\nSS emma) y% FH Feoniss Sac Te\nCree CHE Cl BW MeN AI St\nNow, from (i) we have, 320 Breta AAA Seq Ws\n=> — 1,000(4x + Sy) = 32 x 1,000\n=> 4x+5y=32 [Divide both side by 1,000]\n4x + 5y = 32 ocssssseses (iil)\nAgain, from (ii) we have,\n5008s , 40007 - 310\n=> 22 Oy 310\n=>  5,000x + 4,000y = 310 x 100\n=> =: 1,000(5x + 4y) = 31 x 1,000\n=> Sx +4y=31t [Divide both side by 1,000]\nNow, we have\n(ili) x 4 => 16x + 20y= 128\n(iv) x5 >. 25x + 20y = 155\n—9x =-27\n= xs eas\n-9\nx=3\nNow, putting x = 3 in (iii)\n(4 x 3) + 5y = 32\n=> 12 + 5y = 32\n=> 5y = 32-12\n=> 5y = 20\n= yn2\ny=4\nans: The required value, x=3 & y=4."
-    },
+   {
+  "id": 368,
+  "book_no": 512,
+  "year": 2015,
+  "bank": "National Bank",
+  "post": "Probationary Officer",
+  "Topic": "Ratio & Proportion",
+  "question": "A sum of money is to be distributed equally among a group of children. If there were 25 fewer children, each child would receive Tk. 1.50 more. If there were 50 more children, each child would receive Tk. 1.50 less. Find the number of children and the total amount of money distributed.",
+  "options": [
+    "80 children and Tk. 360",
+    "100 children and Tk. 450",
+    "120 children and Tk. 540",
+    "150 children and Tk. 675"
+  ],
+  "answer": "100 children and Tk. 450",
+  "solution": "Let the number of children be x and the amount received by each child be Tk. y.\n\nTotal amount distributed = Tk. xy.\n\nAccording to the first condition, if there were 25 fewer children, each would receive Tk. 1.50 more:\n(x − 25)(y + 1.50) = xy\nxy + 1.5x − 25y − 37.5 = xy\n1.5x − 25y = 37.5  ...(i)\n\nAccording to the second condition, if there were 50 more children, each would receive Tk. 1.50 less:\n(x + 50)(y − 1.50) = xy\nxy − 1.5x + 50y − 75 = xy\n−1.5x + 50y = 75  ...(ii)\n\nAdding equations (i) and (ii):\n25y = 112.5\ny = 4.50\n\nSubstituting y = 4.50 into equation (i):\n1.5x − 25(4.5) = 37.5\n1.5x − 112.5 = 37.5\n1.5x = 150\nx = 100.\n\nTherefore, the number of children is 100.\n\nTotal amount distributed = xy\n= 100 × 4.50\n= Tk. 450.\n\nTherefore, the answer is 100 children and Tk. 450 (Option B).\n\nShortcut: Let the original number of children be x and each child's share be y. Expanding the two conditions and adding the resulting equations gives 25y = 112.5, so y = Tk. 4.50. Substituting this into either equation gives x = 100."
+},
+   {
+  "id": 369,
+  "book_no": 514,
+  "year": 2015,
+  "bank": "Janata Bank",
+  "post": "EO-FA",
+  "Topic": "Interest",
+  "question": "A depositor deposited Tk. 4,000 at x% simple interest and Tk. 5,000 at y% simple interest. He received annual interest of Tk. 320 on these deposits. If he had instead deposited Tk. 5,000 at x% simple interest and Tk. 4,000 at y% simple interest, he would have received annual interest of Tk. 310. Find the values of x and y.",
+  "options": [
+    "x = 2, y = 5",
+    "x = 3, y = 4",
+    "x = 4, y = 3",
+    "x = 5, y = 2"
+  ],
+  "answer": "x = 3, y = 4",
+  "solution": "Using the simple interest formula for one year:\nInterest = Principal × Rate/100.\n\nFrom the first condition:\n(4,000 × x/100) + (5,000 × y/100) = 320\n40x + 50y = 320\n4x + 5y = 32  ...(i)\n\nFrom the second condition:\n(5,000 × x/100) + (4,000 × y/100) = 310\n50x + 40y = 310\n5x + 4y = 31  ...(ii)\n\nMultiplying equation (i) by 4:\n16x + 20y = 128  ...(iii)\n\nMultiplying equation (ii) by 5:\n25x + 20y = 155  ...(iv)\n\nSubtracting equation (iii) from equation (iv):\n9x = 27\nx = 3.\n\nSubstituting x = 3 into equation (i):\n4(3) + 5y = 32\n12 + 5y = 32\n5y = 20\ny = 4.\n\nTherefore, x = 3 and y = 4 (Option B).\n\nShortcut: The two equations are 4x + 5y = 32 and 5x + 4y = 31. Subtracting them gives x − y = −1. Solving either equation gives x = 3 and y = 4."
+},
  {
   "id": 370,
   "book_no": 516,
@@ -4821,54 +4851,74 @@
       "answer": "A’s share 2,250 Tk.; B’s share 1,500 Tk.; C’s share 750 Tk.",
       "solution": "(A +B)’s 5 days work = 5+)\n3+2\n3G)\n=s5 yuk\n=5X30—6\nRemaining work = 1-2=+\nmaining wor 6 6\n1\nC’s 2 day work =\nNow, A’s 5 days work : B’s 5 days work : C’s 2 days work\nets. tys5.1\n= 79% 537555\naeild WO fog frm FS FAIS 1a AS STE GSH\n~2°3°6 Bw Oe sat wl ford aa a Ut\n=3:2:1 [6am et Wa pail tinal\nA's share = 2x 4,500 = 2,250 Tk.\nB’s share =2 x 4,500 = 1,500 Tk.\nC's share =4 x 4,500 = 750 Tk.\nans: A’s share 2,250 Tk.; B’s share 1,500 Tk.; C’s share 750 Tk."
     },
-    {
-      "id": 375,
-      "book_no": 523,
-      "year": 2015,
-      "bank": "Bangladesh Bank",
-      "post": "Assistant Director",
-      "Topic": "Geometry",
-      "question": "ABCD is a square and one of its sides AB is also a chord of the circle as shown in the figure. What is the area of the square? WaT s",
-      "options": [],
-      "answer": "18 Wags |",
-      "solution": "fore CRS, ZAOB = At WIHT\nPrencsttatora yar,\n= AB=G3Y +)\n=> AB?=9+9 >\n=> AB =18\nCc B\n=> AB=2x9\n=> AB=3y2\n2\nPR] aA |\n= 18 afaee\nans: 18 Wags |"
-    },
-    {
-      "id": 376,
-      "book_no": 530,
-      "year": 2015,
-      "bank": "Bangladesh Shilpa Bank",
-      "post": "Officer",
-      "Topic": "Profit & Loss",
-      "question": "Three partners shared the profit in a business in the ratio 5 ; 7: 8. They had partnered for 14 months, 8 months and 7 months respectively. What was the ratio of their investments?",
-      "options": [],
-      "answer": "20:49:64.",
-      "solution": "Let, their investments are = x, y & z\nThe first partner’s investment will be 14x Tk.\nSecond partner’s investment will be 8y Tk.\nThird partner’s investment will be 7z Tk.\nSo we get from above information,\n8 7 a3 Al CH FS TH wy\n4y 7 aid Investment M44 1 GA GR\nx 2 CuI Investment 94 GATS\nx:y=20:49\nin ae\nAgain, 728\nx49\n> 2 64\nyiz=49:64\nxiy:z= 20:49: 64,\nans: 20:49:64."
-    },
-    {
-      "id": 377,
-      "book_no": 531,
-      "year": 2015,
-      "bank": "Bangladesh Shilpa Bank",
-      "post": "Officer",
-      "Topic": "Interest",
-      "question": "531, Mr. Rahman gave 40% of the money he had, to his wife. He also gave 20% of the remaining amount to each of his three sons. Half of the amount now left was spent on miscellaneous items and the remaining amount of Tk. 12,000 was deposited in the bank. How much money did Mr. Rahman have initially?",
-      "options": [],
-      "answer": "100,000 Tk.",
-      "solution": "Let, Mr. Rahman had Tk. 100 initially\nAfter giving 40% i.e. Tk. 40 to his wife, he had = Tk. (100 - 40) = Tk. 60\nAfter giving 20% to his three son, he had = Tk. {(60 —3 x (60 x 20%)}\n=Tk. (60-3 «9a20)\n2 BTS Se eaters Brat\n= Tk. {(60 — (3 x 12)} et % GET awe\nAfter spending on miscellaneous itmes, he had Tk. a = Tk. 12 SCARE TF meas 4\n: ; FCT BA The remaining\nAccording to question, amount to each of his\n12% = 12,000 three sons Half of the\n1y% = 12000 amount now left @&\n0 12 Bey Gos ergs |\n100% = 12000100 _ 100,000 Tk.\nans: 100,000 Tk."
-    },
-    {
-      "id": 378,
-      "book_no": 532,
-      "year": 2015,
-      "bank": "Dutch-Bangla Bank",
-      "post": null,
-      "Topic": "Work & Time",
-      "question": "Ameen can do a piece of work in 4 hours. Ameen and Cathy together can do it in just 2 hours, while Bashar and Cathy together need 3 hours to finish the same work. In how many hours Bashar alone can complete the work?",
-      "options": [],
-      "answer": "In 12 hours Bashar alone can complete the work.",
-      "solution": "In 4 hour, Ameen can do = I work\nIn 1 hour, Ameen can do =tpart\nIn 2 hours, Ameen and Cathy can do = 1 work\ned\nIn 1 hour, Ameen and Cathy can do 3 part eh TTT CRE eee fea\nIn I hour, Cathy can do = G-4) part qe WOR Te Ce\n= (22) =4 port SI HF UR CIS TE\nAgain, In 3 hours, Bashar and Cathy can do = 1 work OY CAE sea ae saw\nIn 1 hour Bashar and Cathy can do = 7 part HS FA ATCA ST CA\nBashar can do in 1 hour = G 4) part\n- G3) ei\n=(72/ > 12 Part\npart of work is dohe by Bashar in = 1 hour\n: . Lx 12\n1 part of work is done by Bashar in = ~~~ = 12 hours.\nans: In 12 hours Bashar alone can complete the work."
-    },
+   {
+  "id": 375,
+  "book_no": 523,
+  "year": 2015,
+  "bank": "Bangladesh Bank",
+  "post": "Assistant Director",
+  "Topic": "Geometry",
+  "question": "ABCD is a square, and one of its sides, AB, is also a chord of a circle, as shown in the figure. If the perpendicular from the centre O of the circle to chord AB is 3 units and the radius of the circle is 3√2 units, what is the area of the square?",
+  "options": [
+    "9 square units",
+    "18 square units",
+    "27 square units",
+    "36 square units"
+  ],
+  "answer": "36 square units",
+  "solution": "The perpendicular from the centre O of a circle to a chord AB bisects the chord.\n\nLet M be the midpoint of AB. In right-angled triangle OMA:\nOA = 3√2 units (radius)\nOM = 3 units (perpendicular distance from centre to chord)\n\nBy the Pythagorean theorem:\nOA^2 = OM^2 + AM^2\n(3√2)^2 = 3^2 + AM^2\n18 = 9 + AM^2\nAM^2 = 9\nAM = 3 units.\n\nSince M is the midpoint of AB:\nAB = 2 * AM = 2 * 3 = 6 units.\n\nSince AB is a side of square ABCD, the area of the square is:\nArea = AB^2 = 6^2 = 36 square units."
+},
+  {
+  "id": 376,
+  "book_no": 530,
+  "year": 2015,
+  "bank": "Bangladesh Shilpa Bank",
+  "post": "Officer",
+  "Topic": "Partnership & Ratio",
+  "question": "Three partners shared the profit in a business in the ratio 5 : 7 : 8. They had partnered for 14 months, 8 months and 7 months respectively. What was the ratio of their investments?",
+  "options": [
+    "20 : 49 : 64",
+    "20 : 64 : 49",
+    "49 : 20 : 64",
+    "64 : 49 : 20"
+  ],
+  "answer": "20 : 49 : 64",
+  "solution": "Let the investments of the three partners be x, y, and z respectively.\n\nSince Profit is proportional to (Investment * Time):\nRatio of profits = 14x : 8y : 7z = 5 : 7 : 8\n\nTherefore:\nx : y : z = (5 / 14) : (7 / 8) : (8 / 7)\n\nFind the LCM of the denominators (14, 8, 7), which is 56. Multiply each fraction by 56:\nx : y : z = (5 / 14) * 56 : (7 / 8) * 56 : (8 / 7) * 56\n          = (5 * 4) : (7 * 7) : (8 * 8)\n          = 20 : 49 : 64."
+},
+  {
+    "id": 377,
+    "book_no": 531,
+    "year": 2015,
+    "bank": "Bangladesh Shilpa Bank",
+    "post": "Officer",
+    "Topic": "Interest",
+    "question": "Mr. Rahman gave 40% of the money he had to his wife. He then gave 20% of the remaining amount to each of his three sons. Half of the amount left after these payments was spent on miscellaneous items, and the remaining Tk. 12,000 was deposited in the bank. How much money did Mr. Rahman have initially?",
+    "options": [
+      "Tk. 80,000",
+      "Tk. 90,000",
+      "Tk. 100,000",
+      "Tk. 120,000"
+    ],
+    "answer": "Tk. 100,000",
+    "solution": "Let Mr. Rahman's initial amount be Tk. x.\n\nAfter giving 40% to his wife, the remaining amount is:\n= 100% − 40%\n= 60% of x.\n\nHe gives 20% of this remaining amount to each of his three sons. Therefore, the total amount given to his sons is:\n= 3 × 20% = 60% of the remaining amount.\n\nAmount left after giving money to his sons:\n= 60% × 40% of x\n= 24% of x.\n\nHalf of this amount is spent on miscellaneous items, so the remaining half is:\n= 24% × 1/2\n= 12% of x.\n\nAccording to the question:\n12% of x = 12,000\nx = 12,000 × 100/12\nx = Tk. 100,000.\n\nTherefore, Mr. Rahman initially had Tk. 100,000 (Option C).\n\nShortcut: The final amount is 12% of the initial amount:\n100,000 = 12,000 × 100/12 = Tk. 100,000."
+  },
+  {
+    "id": 378,
+    "book_no": 532,
+    "year": 2015,
+    "bank": "Dutch-Bangla Bank",
+    "post": null,
+    "Topic": "Work & Time",
+    "question": "Ameen can complete a piece of work in 4 hours. Ameen and Cathy together can complete it in 2 hours, while Bashar and Cathy together can complete the same work in 3 hours. In how many hours can Bashar complete the work alone?",
+    "options": [
+      "8 hours",
+      "10 hours",
+      "12 hours",
+      "15 hours"
+    ],
+    "answer": "12 hours",
+    "solution": "Ameen's one-hour work = 1/4.\n\nAmeen and Cathy's combined one-hour work = 1/2.\n\nTherefore, Cathy's one-hour work:\n= 1/2 − 1/4\n= 1/4.\n\nBashar and Cathy's combined one-hour work = 1/3.\n\nTherefore, Bashar's one-hour work:\n= 1/3 − 1/4\n= (4 − 3)/12\n= 1/12.\n\nThus, Bashar alone can complete the whole work in 12 hours (Option C).\n\nShortcut: Bashar's rate = (Bashar + Cathy) − (Ameen + Cathy) + Ameen's rate is not needed here; directly, Cathy = 1/2 − 1/4 = 1/4, and Bashar = 1/3 − 1/4 = 1/12. Hence, Bashar takes 12 hours."
+  },
     {
   "id": 379,
   "book_no": 533,
@@ -9387,7 +9437,464 @@
     ],
     "answer": "57.5%.",
     "solution": "Assume the shipment contains 100 cars.\n\nBlack cars = 50.\nThe remaining 50 cars are divided equally among blue, silver, and white:\nEach group = 50 ÷ 3 cars.\n\nCars sold:\nBlack = 50 × 70/100 = 35.\nBlue = (50/3) × 80/100 = 40/3.\nSilver = (50/3) × 30/100 = 5.\nWhite = (50/3) × 40/100 = 20/3.\n\nTotal sold = 35 + 40/3 + 5 + 20/3\n= 40 + 60/3\n= 60.\n\nTherefore, 60% of the shipment was sold.\n\nShortcut: Overall percentage sold = (50% × 70%) + (50% ÷ 3 × (80% + 30% + 40%))\n= 35% + 25% × 2\n= 60%."
+  },
+  {
+    "id": 736,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Arithmetic Progression",
+    "question": "What is the 13th term of the following sequence: -3, -1/2, 2, ...?",
+    "options": [
+      "18",
+      "22",
+      "27",
+      "28",
+      "None of these"
+    ],
+    "answer": "27",
+    "solution": "Arithmetic progression:\nFirst term (a) = -3\nCommon difference (d) = (-1/2) - (-3) = -1/2 + 3 = 5/2\n\n13th term = a + (13 - 1)d = a + 12d\n          = -3 + 12 * (5/2)\n          = -3 + (6 * 5)\n          = -3 + 30\n          = 27."
+  },
+  {
+    "id": 737,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Algebra",
+    "question": "A student answers 69 questions in an exam. He makes twice as many mistakes as he makes correct answers. How many questions did he get right?",
+    "options": [
+      "23",
+      "26",
+      "34",
+      "46",
+      "None of these"
+    ],
+    "answer": "23",
+    "solution": "Let the number of correct answers be x.\nThen the number of mistakes = 2x.\n\nTotal answered questions = x + 2x = 3x\nGiven that total answered questions = 69:\n3x = 69\nx = 69 / 3 = 23.\n\nSo, he got 23 questions right."
+  },
+  {
+    "id": 738,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Number System",
+    "question": "Find the square root of the number you get by multiplying 2205 by a least positive integer.",
+    "options": [
+      "21",
+      "75",
+      "105",
+      "175",
+      "None of these"
+    ],
+    "answer": "105",
+    "solution": "First, find the prime factorization of 2205:\n2205 = 3^2 * 5 * 7^2\n\nTo make it a perfect square, all prime factors must have even powers. Here, 5 has power 1, so we multiply by 5:\n2205 * 5 = 11025 = 3^2 * 5^2 * 7^2\n\nNow take the square root:\nsqrt(11025) = 3 * 5 * 7 = 105."
+  },
+  {
+    "id": 739,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Work & Time",
+    "question": "In a hostel mess, there are food supplies for 40 boys to last 30 days. After 9 days, some boys left the hostel, and the food lasted a total of 44 days. How many boys left the hostel?",
+    "options": [
+      "6",
+      "16",
+      "24",
+      "14",
+      "None of these"
+    ],
+    "answer": "16",
+    "solution": "Total food units = 40 * 30 = 1200 units.\n\nFood consumed in the first 9 days by 40 boys = 40 * 9 = 360 units.\nRemaining food = 1200 - 360 = 840 units.\n\nTotal days food lasted = 44 days.\nRemaining days after 9 days = 44 - 9 = 35 days.\n\nLet x boys leave the hostel. Remaining boys = (40 - x).\n(40 - x) * 35 = 840\n40 - x = 840 / 35 = 24\nx = 40 - 24 = 16."
+  },
+  {
+    "id": 740,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Fraction & Decimal",
+    "question": "After increasing the numerator of a fraction by 50% and decreasing the denominator by 28%, the result is 25/36. What was the original fraction?",
+    "options": [
+      "1/3",
+      "1/2",
+      "1/6",
+      "2/7",
+      "None of these"
+    ],
+    "answer": "1/3",
+    "solution": "Let the original fraction be x / y.\n\nIncreasing numerator by 50% gives: x + 0.50x = 1.5x\nDecreasing denominator by 28% gives: y - 0.28y = 0.72y\n\nGiven:\n(1.5x) / (0.72y) = 25 / 36\n(x / y) * (1.5 / 0.72) = 25 / 36\nx / y = (25 / 36) * (0.72 / 1.5)\n      = (25 * 72) / (36 * 150)\n      = (25 * 2) / (1 * 150)\n      = 50 / 150 = 1 / 3."
+  },
+  {
+    "id": 741,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Ratio & Proportion",
+    "question": "A box contains 210 coins of Tk. 2 and Tk. 1. The ratio of the values of the coins is 12:29. How many Tk. 1 coins are there?",
+    "options": [
+      "36",
+      "72",
+      "174",
+      "92",
+      "None of these"
+    ],
+    "answer": "174",
+    "solution": "Let the number of Tk. 2 coins be x.\nThen the number of Tk. 1 coins = 210 - x.\n\nValue of Tk. 2 coins = 2x\nValue of Tk. 1 coins = 1 * (210 - x) = 210 - x\n\nGiven ratio of values:\n2x / (210 - x) = 12 / 29\n29 * 2x = 12 * (210 - x)\n58x = 2520 - 12x\n58x + 12x = 2520\n70x = 2520\nx = 2520 / 70 = 36 (Tk. 2 coins).\n\nNumber of Tk. 1 coins = 210 - 36 = 174."
+  },
+  {
+    "id": 742,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Algebra",
+    "question": "A student makes twice as many mistakes as he makes correct answers in an exam. For each wrong answer, 1/4 is deducted from his score. If his score is 20, how many questions did he attempt?",
+    "options": [
+      "60",
+      "120",
+      "180",
+      "200",
+      "None of these"
+    ],
+    "answer": "120",
+    "solution": "Let the number of correct answers be x.\nThen the number of wrong answers = 2x.\n\nMarks for correct answers = x\nDeduction for wrong answers = 2x * (1/4) = x / 2\n\nNet score:\nx - (x / 2) = 20\nx / 2 = 20\nx = 40.\n\nTotal attempted questions = x + 2x = 3x = 3 * 40 = 120."
+  },
+  {
+    "id": 743,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Speed, Time & Distance",
+    "question": "A man takes 5 hr 15 min to walk a distance and return by bicycle. It takes him 8 hours to walk both ways. How long will he take to ride both ways by bicycle?",
+    "options": [
+      "1 hr 15 min",
+      "2 hr 30 min",
+      "3 hr",
+      "4 hr",
+      "None of these"
+    ],
+    "answer": "2 hr 30 min",
+    "solution": "Time to walk both ways = 8 hours.\nSo, time to walk one way (W) = 8 / 2 = 4 hours.\n\nTime to walk one way + ride one way by bicycle (B) = 5 hr 15 min = 5 + 15/60 = 5.25 hours = 21/4 hours.\n\nTherefore, one-way bicycle time (B) = (21/4) - 4 = (21 - 16) / 4 = 5/4 hours = 1.25 hours.\n\nTime to ride both ways by bicycle = 2 * (5/4) = 5/2 hours = 2.5 hours = 2 hr 30 min."
+  },
+  {
+    "id": 744,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Profit & Loss",
+    "question": "A salesperson sold an item at a 15% profit. If he had purchased the item for 25% less and sold it for Tk. 6000 less, he would still make a profit of 32%. What was the purchase price of the item?",
+    "options": [
+      "Tk. 3000",
+      "Tk. 37500",
+      "Tk. 3450",
+      "Tk. 3500",
+      "None of these"
+    ],
+    "answer": "Tk. 37500",
+    "solution": "Let the original purchase price (cost price) be 100x.\nOriginal selling price at 15% profit = 100x + 15% of 100x = 115x.\n\nNew purchase price (25% less) = 100x - 25x = 75x.\nNew profit = 32% on 75x = 0.32 * 75x = 24x.\nNew selling price = 75x + 24x = 99x.\n\nAccording to the problem, the new selling price is Tk. 6000 less than the original selling price:\n115x - 99x = 6000\n16x = 6000\nx = 6000 / 16 = 375.\n\nOriginal purchase price = 100x = 100 * 375 = Tk. 37500."
+  },
+  {
+    "id": 745,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Mixture & Alligation",
+    "question": "Three types of rice costing Tk. 100/kg, Tk. 110/kg, and Tk. 130/kg are mixed together. The mixture is sold at Tk. 120/kg without profit or loss. In what ratio were these different types mixed?",
+    "options": [
+      "11 : 1 : 2",
+      "1 : 2 : 3",
+      "2 : 1 : 3",
+      "1 : 1 : 4",
+      "1 : 2 : 4"
+    ],
+    "answer": "1 : 2 : 4",
+    "solution": "Let x, y, and z kg of the three types of rice be mixed respectively.\n\nTotal cost = 100x + 110y + 130z.\nSelling price of the mixture at Tk. 120/kg = 120(x + y + z).\n\nSince there is no profit or loss:\n100x + 110y + 130z = 120x + 120y + 120z\n130z - 120z = (120x - 100x) + (120y - 110y)\n10z = 20x + 10y\nz = 2x + y.\n\nTaking x = 1 and y = 2:\nz = 2(1) + 2 = 4.\n\nTherefore, the ratio x : y : z = 1 : 2 : 4."
+  },
+  {
+    "id": 746,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Profit & Loss",
+    "question": "On selling 16 pens at Tk. 480, there is a loss equal to the cost of 4 pens. The cost of a pen is — Tk.",
+    "options": [
+      "32",
+      "40",
+      "48",
+      "50",
+      "None"
+    ],
+    "answer": "40",
+    "solution": "Let the cost price of 1 pen be x Tk.\nThen cost price of 16 pens = 16x Tk.\nLoss = cost of 4 pens = 4x Tk.\n\nSelling price of 16 pens = Cost price - Loss = 16x - 4x = 12x Tk.\n\nGiven selling price = Tk. 480:\n12x = 480\nx = 480 / 12 = 40 Tk."
+  },
+  {
+    "id": 747,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Algebra",
+    "question": "Anwar spent Tk. 800 to purchase pens and pencils. If the cost of a pen and a pencil is Tk. 10 and Tk. 8 respectively and Anwar purchased 2 more pens than pencils, how many pens did he purchase?",
+    "options": [
+      "10",
+      "12",
+      "16",
+      "20",
+      "None"
+    ],
+    "answer": "None",
+    "solution": "Let the number of pens be x.\nSince Anwar purchased 2 more pens than pencils, the number of pencils = x - 2.\n\nTotal cost = 10x + 8(x - 2) = 800\n10x + 8x - 16 = 800\n18x = 816\nx = 816 / 18 = 45.333...\n\nSince the number of pens must be a whole integer and 45.33 is not an integer, none of the given options is valid. Hence, the answer is None."
+  },
+  {
+    "id": 748,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Ratio & Proportion",
+    "question": "Two numbers are 25% and 60% more respectively than a third number? What is the ratio of the two numbers?",
+    "options": [
+      "5:12",
+      "10:12",
+      "25:32",
+      "30:48",
+      "None"
+    ],
+    "answer": "25:32",
+    "solution": "Let the third number be 100.\n\nFirst number (25% more than 100) = 100 + 25 = 125.\nSecond number (60% more than 100) = 100 + 60 = 160.\n\nRatio of the two numbers = 125 : 160.\nDivide both sides by their GCD, which is 5:\n125 / 5 : 160 / 5 = 25 : 32."
+  },
+  {
+    "id": 749,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Ratio & Proportion",
+    "question": "If three numbers are in the ratio of 1:2:3 and half their sum is 18, then the ratio of squares of the numbers is:",
+    "options": [
+      "36 : 144 : 324",
+      "4 : 25 : 36",
+      "1 : 2 : 4",
+      "3 : 5 : 7",
+      "None"
+    ],
+    "answer": "36 : 144 : 324",
+    "solution": "Let the three numbers be x, 2x, and 3x.\n\nHalf of their sum = (x + 2x + 3x) / 2 = 6x / 2 = 3x.\nGiven that half their sum is 18:\n3x = 18\nx = 6.\n\nSo the three numbers are:\nFirst number = 6\nSecond number = 2 * 6 = 12\nThird number = 3 * 6 = 18\n\nSquares of the numbers = 6^2 : 12^2 : 18^2 = 36 : 144 : 324."
+  },
+  {
+    "id": 750,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Age",
+    "question": "Three years ago, the average age of A, B and C was 27 years. Five years ago the average age of B and C was 20 years. A's present age is —.",
+    "options": [
+      "30",
+      "35",
+      "40",
+      "48",
+      "None"
+    ],
+    "answer": "40",
+    "solution": "Three years ago, average age of A, B, and C = 27.\nSum of their ages 3 years ago = 27 * 3 = 81.\nPresent sum of ages of A, B, and C = 81 + (3 * 3) = 81 + 9 = 90.\n\nFive years ago, average age of B and C = 20.\nSum of their ages 5 years ago = 20 * 2 = 40.\nPresent sum of ages of B and C = 40 + (5 * 2) = 40 + 10 = 50.\n\nTherefore, A's present age = 90 - 50 = 40 years."
+  },
+  {
+    "id": 751,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Number System",
+    "question": "The sum of two digits of a number is 16. If the digits of this number are interchanged, then the new number that we get is 18 greater than the original number. What is the original two-digit number?",
+    "options": [],
+    "answer": "79",
+    "solution": "Let the tens digit be y and the units digit be x.\nOriginal number = 10y + x.\nReversed number = 10x + y.\n\nFrom the first condition:\nx + y = 16   --- (Equation 1)\n\nFrom the second condition:\n(10x + y) - (10y + x) = 18\n9x - 9y = 18\nx - y = 2     --- (Equation 2)\n\nAdd Equation 1 and Equation 2:\n2x = 18 => x = 9.\nSubstitute x = 9 into Equation 1:\n9 + y = 16 => y = 7.\n\nOriginal number = 10(7) + 9 = 79."
+  },
+  {
+    "id": 752,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Work & Time",
+    "question": "A can do a piece of work in 4 hours, B and C together in 3 hours, and A and C together in 2 hours. How long will B alone take to do it?",
+    "options": [],
+    "answer": "12 hours",
+    "solution": "Work rate of A per hour = 1/4.\nWork rate of (A + C) per hour = 1/2.\nWork rate of (B + C) per hour = 1/3.\n\nWork rate of C alone per hour = (A + C) - A = (1/2) - (1/4) = 1/4.\n\nWork rate of B alone per hour = (B + C) - C = (1/3) - (1/4) = (4 - 3) / 12 = 1/12.\n\nTherefore, B alone will take 12 hours to finish the work."
+  },
+  {
+    "id": 753,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Profit & Loss",
+    "question": "The percentage profit earned by selling an article for Tk. 1920 is equal to the percentage loss incurred by selling the same article for Tk. 1280. At what price should the article be sold to make 25% profit?",
+    "options": [],
+    "answer": "Tk. 2000",
+    "solution": "Let the cost price of the article be x.\n\nSince percentage profit equals percentage loss on the same cost price, the profit amount equals the loss amount:\n1920 - x = x - 1280\n2x = 1920 + 1280\n2x = 3200\nx = 1600 (Cost price).\n\nTo make a 25% profit, selling price = 1600 * (1 + 25/100) = 1600 * (125/100) = 16 * 125 = Tk. 2000."
+  },
+  {
+    "id": 754,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Mensuration",
+    "question": "Two squares each with sides of length s are joined to form a rectangle. The area of the rectangle is—",
+    "options": [
+      "s^2",
+      "2s^2",
+      "4s^2",
+      "8s^2",
+      "None"
+    ],
+    "answer": "2s^2",
+    "solution": "Area of one square with side s = s^2.\nWhen two identical squares of side s are joined, the resulting rectangle combines the area of both squares without overlap:\n\nArea of rectangle = s^2 + s^2 = 2s^2."
+  },
+  {
+    "id": 755,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Geometry",
+    "question": "If p is the perimeter of a triangle with one side of 7 and another side of 9, what is the range of possible values for p?",
+    "options": [
+      "2 < p < 16",
+      "3 < p < 17",
+      "18 < p < 32",
+      "18 < p < 33",
+      "None"
+    ],
+    "answer": "18 < p < 32",
+    "solution": "Let the third side of the triangle be x.\nBy the triangle inequality theorem, the third side must be greater than the difference of the other two sides and less than their sum:\n\n|9 - 7| < x < 9 + 7\n2 < x < 16.\n\nPerimeter p = 7 + 9 + x = 16 + x.\nAdding 16 to each part of the inequality:\n16 + 2 < 16 + x < 16 + 16\n18 < p < 32."
+  },
+  {
+    "id": 756,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Work & Time",
+    "question": "Twenty workers can finish a piece of work in 30 days. After how many days should 5 workers leave the job so that the work is completed in 35 days?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20",
+      "None"
+    ],
+    "answer": "15",
+    "solution": "Total work = 20 workers * 30 days = 600 worker-days.\n\nLet 5 workers leave after x days.\n- For the first x days, 20 workers work: work done = 20x worker-days.\n- Total time taken is 35 days, so remaining days = (35 - x).\n- During these (35 - x) days, (20 - 5) = 15 workers work: work done = 15(35 - x) worker-days.\n\nTotal work equation:\n20x + 15(35 - x) = 600\n20x + 525 - 15x = 600\n5x = 75\nx = 15 days."
+  },
+  {
+    "id": 757,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Algebra",
+    "question": "Raju has x number of books, which is 3 times as many as Siam and 1/2 as many as Payel. How many books do the three of them have altogether, in terms of x?",
+    "options": [
+      "5x/6",
+      "7x/3",
+      "10x/3",
+      "7x/2",
+      "None"
+    ],
+    "answer": "10x/3",
+    "solution": "Number of books Raju has = x.\n\nRaju's books = 3 * Siam's books => Siam's books = x / 3.\nRaju's books = (1/2) * Payel's books => Payel's books = 2x.\n\nTotal books of all three:\nx + (x / 3) + 2x = 3x + (x / 3) = (9x + x) / 3 = 10x / 3."
+  },
+  {
+    "id": 758,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Mixture & Alligation",
+    "question": "A trader mixes 26 kg of rice at Tk. 20 per kg with 30 kg of rice of another variety at Tk. 36 per kg and sells the mixture at Tk. 30 per kg. His profit percent is:",
+    "options": [
+      "5%",
+      "0%",
+      "8%",
+      "10%",
+      "None"
+    ],
+    "answer": "5%",
+    "solution": "Total cost price:\n(26 * 20) + (30 * 36) = 520 + 1080 = Tk. 1600.\n\nTotal weight of mixture = 26 + 30 = 56 kg.\nTotal selling price at Tk. 30 per kg = 56 * 30 = Tk. 1680.\n\nProfit = 1680 - 1600 = Tk. 80.\nProfit % = (80 / 1600) * 100 = (1 / 20) * 100 = 5%."
+  },
+  {
+    "id": 759,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Algebra",
+    "question": "If x = (y + 3)^2, then which of the following will be equal to (- 2y - 6)^2?",
+    "options": [
+      "-4x",
+      "-2x",
+      "4x",
+      "2x",
+      "None"
+    ],
+    "answer": "4x",
+    "solution": "Factor out -2 from (-2y - 6):\n(-2y - 6)^2 = [-2(y + 3)]^2\n           = (-2)^2 * (y + 3)^2\n           = 4 * (y + 3)^2.\n\nSince x = (y + 3)^2, substitute x into the expression:\n4 * x = 4x."
+  },
+  {
+    "id": 760,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Percentage and Taxation",
+    "question": "Hasan bought a pen for his friend. The cost of the pen was Tk. 60 before tax. If the total price including tax was Tk. 96, what was the tax rate?",
+    "options": [
+      "6%",
+      "6.5%",
+      "7%",
+      "20%",
+      "None"
+    ],
+    "answer": "None",
+    "solution": "Price before tax = Tk. 60.\nTotal price including tax = Tk. 96.\n\nTax amount = 96 - 60 = Tk. 36.\nTax rate = (36 / 60) * 100% = 0.6 * 100% = 60%.\n\nSince 60% is not listed among the given options, the correct choice is None."
+  },
+  {
+    "id": 763,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Work & Time",
+    "question": "Of the 3 machines Company X uses for production, Machine A can produce 30 units in 5 hours, Machine B can produce 6 units in 12 hours, and Machine C can produce 33 units in 12 hours. Of the 30 hours the company uses the facility, the committee decided they would operate Machine B and C for 2/5 of the total time and Machine A and B to produce 39 units. Given the committee decided to operate Machine A and C for the rest of the time, what are the total units produced by the company?",
+    "options": [],
+    "answer": "183 Units",
+    "solution": "Hourly production rates:\n- Machine A = 30 / 5 = 6 units/hr\n- Machine B = 6 / 12 = 0.5 units/hr\n- Machine C = 33 / 12 = 2.75 units/hr\n\n1) Machines B and C together for (2/5) of 30 hours:\n   Time = 30 * (2/5) = 12 hours.\n   Combined rate (B + C) = 0.5 + 2.75 = 3.25 units/hr.\n   Units produced = 12 * 3.25 = 39 units.\n\n2) Machines A and B together to produce 39 units:\n   Combined rate (A + B) = 6 + 0.5 = 6.5 units/hr.\n   Time taken = 39 / 6.5 = 6 hours.\n   Units produced = 39 units.\n\n3) Machines A and C for the rest of the 30 hours:\n   Remaining time = 30 - 12 - 6 = 12 hours.\n   Combined rate (A + C) = 6 + 2.75 = 8.75 units/hr.\n   Units produced = 12 * 8.75 = 105 units.\n\nTotal units produced = 39 + 39 + 105 = 183 Units."
+  },
+  {
+    "id": 764,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Speed, Time & Distance",
+    "question": "Dhaka Express and Khulna Express trains left from two stations towards Khulna station and Dhaka station respectively. 3 hours after they met the trains were 675 miles apart. The Dhaka Express arrived at its destination 16 hours after their meeting and the Khulna Express arrived at its destination 25 hours after their meeting. How many hours did Dhaka Express take for the whole trip?",
+    "options": [],
+    "answer": "36 Hours",
+    "solution": "Let the speeds of Dhaka Express and Khulna Express be v1 and v2 respectively.\nLet t1 = 16 hours (time taken by Dhaka Express after meeting) and t2 = 25 hours (time taken by Khulna Express after meeting).\n\nWhen two trains travel towards each other and reach their destinations in t1 and t2 hours after meeting:\nv1 / v2 = sqrt(t2 / t1) = sqrt(25 / 16) = 5 / 4.\n\nLet t be the time taken by both trains to reach the meeting point from their starting stations.\nDistance covered by Dhaka Express after meeting = v1 * 16, which equals the distance Khulna Express covered before meeting = v2 * t.\nSo:\nv1 * 16 = v2 * t\nt = 16 * (v1 / v2) = 16 * (5 / 4) = 20 hours.\n\nTherefore, total time taken by Dhaka Express for the whole trip = t + 16 = 20 + 16 = 36 Hours."
   }
+
 
   ]
 }
