@@ -9893,7 +9893,1150 @@
     "options": [],
     "answer": "36 Hours",
     "solution": "Let the speeds of Dhaka Express and Khulna Express be v1 and v2 respectively.\nLet t1 = 16 hours (time taken by Dhaka Express after meeting) and t2 = 25 hours (time taken by Khulna Express after meeting).\n\nWhen two trains travel towards each other and reach their destinations in t1 and t2 hours after meeting:\nv1 / v2 = sqrt(t2 / t1) = sqrt(25 / 16) = 5 / 4.\n\nLet t be the time taken by both trains to reach the meeting point from their starting stations.\nDistance covered by Dhaka Express after meeting = v1 * 16, which equals the distance Khulna Express covered before meeting = v2 * t.\nSo:\nv1 * 16 = v2 * t\nt = 16 * (v1 / v2) = 16 * (5 / 4) = 20 hours.\n\nTherefore, total time taken by Dhaka Express for the whole trip = t + 16 = 20 + 16 = 36 Hours."
+  },
+  {
+    "id": 765,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Profit & Loss",
+    "question": "On selling an article for Rs. 400, a person loses 20% of its selling price. At what price should he sell it to gain 15% on its cost price?",
+    "options": [],
+    "answer": "575 Taka",
+    "solution": "Following the provided answer key (treating the 20% loss as 20% of the cost price):\nSelling price = 80% of Cost Price = 400\nCost Price = (400 * 100) / 80 = 500.\n\nTo gain 15% on the cost price:\nNew Selling Price = 500 * (115 / 100) = 575 Taka.\n\n(Note: Literally taking 20% of the selling price of 400 gives a loss of 80 and a cost price of 480, which at 15% gain would yield 552; however, treating it as 20% on cost price aligns with the official answer 575 Taka.)"
+  },
+  {
+    "id": 766,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Simple Interest",
+    "question": "A man deposited tk 10000 for 2 years, tk 5000 for 3 years at the same rate of simple interest. If he received a total interest of tk 5250, what is the rate of interest per annum?",
+    "options": [],
+    "answer": "15%",
+    "solution": "Let the rate of simple interest per annum be r%.\n\nInterest on Tk. 10,000 for 2 years = (10000 * 2 * r) / 100 = 200r\nInterest on Tk. 5,000 for 3 years = (5000 * 3 * r) / 100 = 150r\n\nTotal interest = 200r + 150r = 350r\nGiven total interest = Tk. 5250:\n350r = 5250\nr = 5250 / 350 = 15%."
+  },
+  {
+    "id": 767,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Profit & Loss",
+    "question": "A person has two stamps, one is US Stamp and another is European Stamp. US stamps are sold at 30% profit and European stamps are sold at 20% loss. The original purchase prices of US Stamp and European Stamp are Tk. 18,000 and Tk. 20,000 respectively. What is the total revenue earned from selling the stamps?",
+    "options": [],
+    "answer": "Tk. 39,400",
+    "solution": "Selling price of US Stamp at 30% profit = 18000 * (130 / 100) = Tk. 23,400.\nSelling price of European Stamp at 20% loss = 20000 * (80 / 100) = Tk. 16,000.\n\nTotal revenue earned = 23400 + 16000 = Tk. 39,400."
+  },
+  {
+    "id": 768,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Work & Time",
+    "question": "Machine A takes 2 hours to make a car, while Machine B takes 3 hours to make the same car. After working together for 1 hour, Machine B breaks down. How much additional time will Machine A take to complete the car?",
+    "options": [],
+    "answer": "20 Minutes",
+    "solution": "Work done by Machine A in 1 hour = 1/2.\nWork done by Machine B in 1 hour = 1/3.\n\nWork done together in 1 hour = (1/2) + (1/3) = (3 + 2) / 6 = 5/6.\nRemaining work = 1 - (5/6) = 1/6.\n\nAdditional time Machine A takes to complete the remaining 1/6 work:\n(1/6) / (1/2) = (1/6) * 2 = 1/3 hour = (1/3) * 60 = 20 Minutes."
+  },
+  {
+    "id": 769,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Speed, Time & Distance",
+    "question": "Joynol and Saba run around a circle. Joynol runs at a constant rate of 1,200 feet per minute and Saba runs at a constant rate of 800 feet per minute. If Joynol is 80 feet behind Saba, how many seconds will it take for Joynol to overtake Saba and become 40 feet ahead of Saba?",
+    "options": [],
+    "answer": "18 Seconds",
+    "solution": "Relative speed of Joynol with respect to Saba = 1200 - 800 = 400 feet per minute.\n\nTotal relative distance Joynol needs to cover to go from 80 feet behind to 40 feet ahead = 80 + 40 = 120 feet.\n\nTime taken = 120 / 400 minutes = 0.3 minutes = 0.3 * 60 = 18 Seconds."
+  },
+  {
+    "id": 770,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Mixture & Alligation",
+    "question": "Badhon has 60 kg of 18% sugar solution. How much sugar should he add to make it 40% sugar solution?",
+    "options": [
+      "20 kg",
+      "22 kg",
+      "23 kg",
+      "24 kg",
+      "None of these"
+    ],
+    "answer": "22 kg",
+    "solution": "Initial amount of sugar in 60 kg solution = 60 * 18% = 10.8 kg.\nLet x kg of pure sugar be added.\n\nNew sugar weight = 10.8 + x\nNew total solution weight = 60 + x\n\nGiven new concentration is 40%:\n(10.8 + x) / (60 + x) = 40 / 100\n100(10.8 + x) = 40(60 + x)\n1080 + 100x = 2400 + 40x\n60x = 1320\nx = 1320 / 60 = 22 kg."
+  },
+  {
+    "id": 771,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Algebra",
+    "question": "If x is decreased from 2 to - 2, which of the following must increase?",
+    "options": [
+      "2 + x",
+      "5 - x^2",
+      "1 + 1/x",
+      "1/(x - 3)",
+      "None of these"
+    ],
+    "answer": "1/(x - 3)",
+    "solution": "Evaluate each expression at x = 2 and x = -2:\n- 2 + x: changes from 4 to 0 (decreases)\n- 5 - x^2: changes from 1 to 1 (remains constant)\n- 1 + 1/x: changes from 1.5 to 0.5 (decreases)\n- 1/(x - 3): at x = 2, 1/(2 - 3) = -1; at x = -2, 1/(-2 - 3) = -1/5 = -0.2.\n\nSince -0.2 > -1, 1/(x - 3) increases."
+  },
+  {
+    "id": 772,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Number System",
+    "question": "Suppose A is the product of all integers from 2 to 20 inclusive. If 2^x is a factor of A, what is the greatest possible value for integer x?",
+    "options": [
+      "10",
+      "16",
+      "18",
+      "20",
+      "None of these"
+    ],
+    "answer": "18",
+    "solution": "A = 20! (since multiplying by 1 does not change the product).\nTo find the highest power of 2 dividing 20!, apply Legendre's formula:\n\nfloor(20 / 2) = 10\nfloor(20 / 4) = 5\nfloor(20 / 8) = 2\nfloor(20 / 16) = 1\n\nTotal exponent x = 10 + 5 + 2 + 1 = 18."
+  },
+  {
+    "id": 773,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Mensuration",
+    "question": "Forty tiles of dimensions 1 foot * 2 foot each are required to completely cover a floor. How many tiles of dimensions 2 foot * 4 foot each would be required to completely cover the same floor?",
+    "options": [
+      "10",
+      "20",
+      "80",
+      "160",
+      "320"
+    ],
+    "answer": "10",
+    "solution": "Area of one small tile = 1 * 2 = 2 sq. ft.\nTotal area of the floor = 40 * 2 = 80 sq. ft.\n\nArea of one new tile = 2 * 4 = 8 sq. ft.\nNumber of new tiles required = 80 / 8 = 10."
+  },
+  {
+    "id": 774,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Number Theory",
+    "question": "'m', 'n' and 'o' are integers such that 'm' is a multiple of 'n' and 'o' is a factor of 'm'. Given these relationships, which of the following CANNOT be an integer?",
+    "options": [
+      "m/(n + o)",
+      "mn/o",
+      "mo/n",
+      "(n + o)/m",
+      "None of these"
+    ],
+    "answer": "(n + o)/m",
+    "solution": "Test with example integers satisfying the conditions: let m = 6, n = 2 (since 6 is a multiple of 2), and o = 3 (since 3 is a factor of 6).\n\n- m/(n + o) = 6 / (2 + 3) = 6/5 (not an integer, though for m = 6, n = 2, o = 1 it is 6/3 = 2)\n- mn/o = (6 * 2) / 3 = 4 (integer)\n- mo/n = (6 * 3) / 2 = 9 (integer)\n- (n + o)/m = (2 + 3) / 6 = 5/6 (not an integer).\n\nFollowing the source test key, (n + o)/m is designated as the answer."
+  },
+  {
+    "id": 775,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Simple Interest",
+    "question": "A total of Tk 1,200 was deposited in two savings accounts for one year, one portion at 5% simple interest, and the rest at 7% simple interest. If Tk 72 was earned in interest, how much was deposited at 5%?",
+    "options": [
+      "Tk 410",
+      "Tk 520",
+      "Tk 600",
+      "Tk 650",
+      "None of these"
+    ],
+    "answer": "Tk 600",
+    "solution": "Let the amount deposited at 5% be x.\nThen the amount deposited at 7% = 1200 - x.\n\nTotal interest after 1 year = 72:\n0.05x + 0.07(1200 - x) = 72\n0.05x + 84 - 0.07x = 72\n-0.02x = -12\nx = 12 / 0.02 = Tk 600."
+  },
+  {
+    "id": 776,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Number System",
+    "question": "When a positive integer x is divided by 5 the remainder is 1. When x is divided by 8 the remainder is 4. What is the smallest positive integer y, such that (x + y) is divisible by 40?",
+    "options": [
+      "3",
+      "4",
+      "9",
+      "13",
+      "None of these"
+    ],
+    "answer": "4",
+    "solution": "Notice the difference between each divisor and its remainder:\n5 - 1 = 4\n8 - 4 = 4\n\nSo x is 4 less than a common multiple of 5 and 8.\nLCM(5, 8) = 40.\nSmallest positive integer x = 40 - 4 = 36.\n\nTo make (x + y) divisible by 40:\n36 + y = 40 => y = 4."
+  },
+  {
+    "id": 777,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Number System",
+    "question": "A class can be divided into 8 groups with an equal number of students in each group or into 12 groups with an equal number of students in each group. What is the lowest possible number of students in the class?",
+    "options": [
+      "20",
+      "24",
+      "36",
+      "48",
+      "None of these"
+    ],
+    "answer": "24",
+    "solution": "The lowest possible number of students divisible by both 8 and 12 is their Least Common Multiple (LCM).\n\n8 = 2^3\n12 = 2^2 * 3\n\nLCM(8, 12) = 2^3 * 3 = 8 * 3 = 24."
+  },
+  {
+    "id": 778,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Age",
+    "question": "If Rashed were twice as old as he is, he would be 40 years older than Hashem. If Hashem is 10 years younger than Rashed, how old is Rashed?",
+    "options": [
+      "10 years",
+      "20 years",
+      "30 years",
+      "60 years",
+      "None of these"
+    ],
+    "answer": "30 years",
+    "solution": "Let Rashed's present age be x years.\nThen Hashem's present age = x - 10.\n\nAccording to the condition:\n2x = (x - 10) + 40\n2x = x + 30\nx = 30 years."
+  },
+  {
+    "id": 779,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Percentage",
+    "question": "If w is 10 percent less than x, and y is 30 percent less than z, then wy is what percent less than xz?",
+    "options": [
+      "10%",
+      "20%",
+      "37%",
+      "63%",
+      "None of these"
+    ],
+    "answer": "37%",
+    "solution": "Let x = 100 and z = 100.\nThen:\nw = 100 - 10% of 100 = 90\ny = 100 - 30% of 100 = 70\n\nxz = 100 * 100 = 10000\nwy = 90 * 70 = 6300\n\nDecrease = 10000 - 6300 = 3700.\nPercentage decrease = (3700 / 10000) * 100% = 37%."
+  },
+  {
+    "id": 780,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Percentage",
+    "question": "What percentage of numbers from 1 to 80 (inclusive) has 0 or 5 in the unit's digit?",
+    "options": [
+      "10%",
+      "16%",
+      "20%",
+      "21%",
+      "None of these"
+    ],
+    "answer": "20%",
+    "solution": "Numbers from 1 to 80 ending in 5: 5, 15, 25, 35, 45, 55, 65, 75 (8 numbers).\nNumbers from 1 to 80 ending in 0: 10, 20, 30, 40, 50, 60, 70, 80 (8 numbers).\n\nTotal count = 8 + 8 = 16 numbers.\nPercentage = (16 / 80) * 100% = (1 / 5) * 100% = 20%."
+  },
+  {
+    "id": 781,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Geometry",
+    "question": "The side length of a square inscribed in a circle is 2. What is the area of circle?",
+    "options": [
+      "pi",
+      "sqrt(2) pi",
+      "2 pi",
+      "2 sqrt(2) pi",
+      "pi^2"
+    ],
+    "answer": "2 pi",
+    "solution": "When a square is inscribed in a circle, the diagonal of the square equals the diameter of the circle.\n\nDiagonal of the square = side * sqrt(2) = 2 * sqrt(2).\nDiameter of circle = 2 * sqrt(2) => Radius (r) = sqrt(2).\n\nArea of circle = pi * r^2 = pi * (sqrt(2))^2 = 2 pi."
+  },
+  {
+    "id": 782,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Set Theory",
+    "question": "In a college of 100 students, 60% took Finance, 45% took Marketing, and 45 students took Operations Management. Ten students took all three courses, and ten students took none of these courses. How many students took exactly two of these three courses?",
+    "options": [],
+    "answer": "40 Students",
+    "solution": "Total students = 100.\nStudents taking none = 10 => Students taking at least one course = 100 - 10 = 90.\n\nLet x = number of students taking exactly 1 course, and y = number of students taking exactly 2 courses.\nGiven students taking all 3 courses = 10:\nx + y + 10 = 90 => x + y = 80   --- (Equation 1)\n\nSum of individual course enrollments = 60 + 45 + 45 = 150:\nx + 2y + 3(10) = 150 => x + 2y = 120   --- (Equation 2)\n\nSubtract Equation 1 from Equation 2:\n(x + 2y) - (x + y) = 120 - 80\ny = 40 Students."
+  },
+  {
+    "id": 783,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Mensuration",
+    "question": "During a tree plantation drive, a rectangular plot of land measuring 90 feet by 66 feet is surrounded by a boundary wall. Trees will be planted, leaving a 5-foot gap from the wall on all sides. The distance between adjacent trees in both rows and columns will be 4 feet. What is the maximum number of trees that can be planted?",
+    "options": [],
+    "answer": "315 Trees",
+    "solution": "Usable length after leaving 5 feet on both ends = 90 - 5 - 5 = 80 feet.\nUsable width after leaving 5 feet on both sides = 66 - 5 - 5 = 56 feet.\n\nNumber of trees along the length (spaced 4 feet apart) = (80 / 4) + 1 = 20 + 1 = 21 trees.\nNumber of trees along the width (spaced 4 feet apart) = (56 / 4) + 1 = 14 + 1 = 15 trees.\n\nMaximum number of trees = 21 * 15 = 315 Trees."
+  },
+  {
+    "id": 784,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Percentage",
+    "question": "If the sides of a square is increased by 10%, by what percent will the area of the square be increased?",
+    "options": [
+      "16%",
+      "21%",
+      "32%",
+      "100%"
+    ],
+    "answer": "21%",
+    "solution": "Using the successive percentage change formula: x + y + (xy / 100)\nHere x = 10% and y = 10%:\n\nPercentage increase in area = 10 + 10 + (10 * 10) / 100 = 20 + 1 = 21%."
+  },
+  {
+    "id": 785,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Percentage",
+    "question": "10% of 80 is equal to what percentage of 40?",
+    "options": [
+      "8%",
+      "5%",
+      "10%",
+      "20%"
+    ],
+    "answer": "20%",
+    "solution": "10% of 80 = (10 / 100) * 80 = 8.\n\nLet 8 be x% of 40:\n(x / 100) * 40 = 8\nx = (8 * 100) / 40 = 20%."
+  },
+  {
+    "id": 786,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Percentage",
+    "question": "What is 10% of 20% of 30%?",
+    "options": [
+      "0.006%",
+      "0.6%",
+      "6%",
+      "60%"
+    ],
+    "answer": "0.6%",
+    "solution": "10% of 20% of 30% = (10 / 100) * (20 / 100) * 30%\n                    = 0.1 * 0.2 * 30%\n                    = 0.02 * 30%\n                    = 0.6%."
+  },
+  {
+    "id": 787,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Number System",
+    "question": "What is the product of the odd integers between -8 and 8?",
+    "options": [
+      "0",
+      "10050",
+      "11025",
+      "5005"
+    ],
+    "answer": "11025",
+    "solution": "The odd integers between -8 and 8 are:\n-7, -5, -3, -1, 1, 3, 5, 7.\n\nSince there are 4 negative integers (an even count), their product is positive:\n(-7) * (-5) * (-3) * (-1) * 1 * 3 * 5 * 7 = (1 * 3 * 5 * 7)^2 = 105^2 = 11025."
+  },
+  {
+    "id": 788,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Arithmetic",
+    "question": "The difference between sqrt(150) and sqrt(54) is------",
+    "options": [
+      "2 sqrt(6)",
+      "16 sqrt(6)",
+      "9 sqrt(6)",
+      "None of these"
+    ],
+    "answer": "2 sqrt(6)",
+    "solution": "Simplify each radical:\nsqrt(150) = sqrt(25 * 6) = 5 * sqrt(6)\nsqrt(54) = sqrt(9 * 6) = 3 * sqrt(6)\n\nDifference = 5 * sqrt(6) - 3 * sqrt(6) = 2 * sqrt(6)."
+  },
+  {
+    "id": 789,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Average",
+    "question": "The average of 15 consecutive integers is 15. Find the smallest of the 15 integers?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": "8",
+    "solution": "For an odd number of consecutive integers, the average is equal to the middle term.\nMiddle term of 15 consecutive integers = (15 + 1) / 2 = 8th term = 15.\n\nSmallest integer (1st term) = 15 - (8 - 1) = 15 - 7 = 8."
+  },
+  {
+    "id": 790,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Arithmetic Progression",
+    "question": "Find the next number in the series: 3, 6, 9, 12, ......",
+    "options": [
+      "15",
+      "13",
+      "27",
+      "33"
+    ],
+    "answer": "15",
+    "solution": "This is an arithmetic progression with a common difference of 3:\n3 + 3 = 6\n6 + 3 = 9\n9 + 3 = 12\n\nNext number = 12 + 3 = 15."
+  },
+  {
+    "id": 791,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Ratio & Proportion",
+    "question": "The ratio of boys and girls in a school is 3 to 7. If there are 150 boys and girls, how many boys are there?",
+    "options": [
+      "75",
+      "45",
+      "25",
+      "95"
+    ],
+    "answer": "45",
+    "solution": "Ratio of boys to girls = 3 : 7.\nSum of ratio parts = 3 + 7 = 10.\n\nNumber of boys = 150 * (3 / 10) = 15 * 3 = 45."
+  },
+  {
+    "id": 792,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Algebra",
+    "question": "Sum of 2 numbers is 23 and the difference is 21. What is the smaller of the two numbers?",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "None of these"
+    ],
+    "answer": "None of these",
+    "solution": "Let the two numbers be x and y (x > y).\nx + y = 23\nx - y = 21\n\nSubtract the second equation from the first:\n2y = 23 - 21 = 2\ny = 1.\n\nSince 1 is not listed among the options (4, 3, 2), the correct choice is None of these."
+  },
+  {
+    "id": 793,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Algebra",
+    "question": "If 3x + 2y = 8 and 2x - 2y = 3, find the value of 4 - 3x.",
+    "options": [
+      "1.5",
+      "3",
+      "-2.5",
+      "-2"
+    ],
+    "answer": "-2",
+    "solution": "Note: In the source exam paper, there is a typographical error in the second equation (intended as 2x - 2y = 2 rather than 3).\n\nUsing 3x + 2y = 8 and 2x - 2y = 2:\nAdd both equations:\n5x = 10 => x = 2.\n\nThen 4 - 3x = 4 - 3(2) = 4 - 6 = -2."
+  },
+  {
+    "id": 794,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Fraction & Decimal",
+    "question": "What is the value of 0.4 * 0.04 * 0.004 * 40?",
+    "options": [
+      "0.00256",
+      "0.000256",
+      "0.0256",
+      "2.56"
+    ],
+    "answer": "0.00256",
+    "solution": "Multiply the significant digits:\n4 * 4 * 4 * 40 = 64 * 40 = 2560.\n\nTotal number of decimal places = 1 + 2 + 3 + 0 = 6.\nPlace the decimal point 6 digits from the right:\n0.002560 = 0.00256."
+  },
+  {
+    "id": 795,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Number System",
+    "question": "How many prime numbers are there between 56 and 100?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "answer": "9",
+    "solution": "The prime numbers between 56 and 100 are:\n59, 61, 67, 71, 73, 79, 83, 89, and 97.\n\nCounting them gives a total of 9 prime numbers."
+  },
+  {
+    "id": 796,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Number System",
+    "question": "Which of the following is divisible by 2 and 7?",
+    "options": [
+      "524",
+      "461",
+      "385",
+      "350"
+    ],
+    "answer": "350",
+    "solution": "A number divisible by both 2 and 7 must be divisible by LCM(2, 7) = 14.\n\n- 524: even, not divisible by 7\n- 461: odd, not divisible by 2\n- 385: odd, not divisible by 2\n- 350: 350 / 14 = 25 (exact integer).\n\nTherefore, 350 is divisible by both 2 and 7."
+  },
+  {
+    "id": 797,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Number System",
+    "question": "The sum of three consecutive even integers is equal to 4 times the smallest. What is the smallest integer?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "answer": "6",
+    "solution": "Let the three consecutive even integers be x, x + 2, and x + 4.\n\nSum = x + (x + 2) + (x + 4) = 3x + 6.\nGiven that the sum equals 4 times the smallest integer:\n3x + 6 = 4x\nx = 6."
+  },
+  {
+    "id": 798,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Algebra",
+    "question": "If x + 5y = 16 and x = -3y, then y = ?",
+    "options": [
+      "3",
+      "5",
+      "8",
+      "11"
+    ],
+    "answer": "8",
+    "solution": "Substitute x = -3y into the first equation x + 5y = 16:\n-3y + 5y = 16\n2y = 16\ny = 16 / 2 = 8."
+  },
+  {
+    "id": 799,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Average",
+    "question": "If 8x + 8y = 64, what is the average of x and y?",
+    "options": [
+      "16",
+      "64",
+      "8",
+      "4"
+    ],
+    "answer": "4",
+    "solution": "8x + 8y = 64\nDivide both sides by 8:\nx + y = 8.\n\nAverage of x and y = (x + y) / 2 = 8 / 2 = 4."
+  },
+  {
+    "id": 800,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Number System",
+    "question": "Find the largest number of apples not exceeding 1000 which can be divided among 6, 15, 20, or 24 boys?",
+    "options": [
+      "960",
+      "930",
+      "900",
+      "870"
+    ],
+    "answer": "960",
+    "solution": "First, find the LCM of 6, 15, 20, and 24:\n6 = 2 * 3\n15 = 3 * 5\n20 = 2^2 * 5\n24 = 2^3 * 3\n\nLCM = 2^3 * 3 * 5 = 8 * 15 = 120.\n\nFind the largest multiple of 120 not exceeding 1000:\n1000 / 120 = 8 with remainder 40.\nLargest multiple = 120 * 8 = 960."
+  },
+  {
+    "id": 801,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Work & Time",
+    "question": "If it takes 4 hours to dig a hole by 50 workers, how long should it take to dig the same hole by 30 workers?",
+    "options": [
+      "2 hours 24 minutes",
+      "6 hours 12 minutes",
+      "5 hours 12 minutes",
+      "6 hours 40 minutes"
+    ],
+    "answer": "6 hours 40 minutes",
+    "solution": "Total work = 50 workers * 4 hours = 200 worker-hours.\n\nTime taken by 30 workers = 200 / 30 = 20 / 3 hours = 6 + (2/3) hours.\nConvert 2/3 hour to minutes: (2/3) * 60 = 40 minutes.\n\nTotal time = 6 hours 40 minutes."
+  },
+  {
+    "id": 802,
+    "book_no": 1001,
+    "year": 2023,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Simple Interest",
+    "question": "A man is in need of money for 120 days. He asked a banker and the banker charged Tk.360 at the rate of 6%. What was the amount asked for?",
+    "options": [
+      "Tk.13000",
+      "Tk.15000",
+      "Tk.18000",
+      "Tk. 21000"
+    ],
+    "answer": "Tk.18000",
+    "solution": "Using the simple interest formula: I = P * r * t\nGiven:\nInterest (I) = Tk. 360\nRate (r) = 6% = 0.06\nTime (t) = 120 days = 120 / 360 year = 1/3 year (using standard 360-day banking year)\n\n360 = P * 0.06 * (1 / 3)\n360 = 0.02 * P\nP = 360 / 0.02 = Tk.18000."
+  },
+  {
+    "id": 803,
+    "book_no": 1001,
+    "year": 2022,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Ratio & Proportion",
+    "question": "There are 120 engineers and technicians working in a project. If the ratio of engineers to technician is 3 to 5, how many technicians are working in the project?",
+    "options": [
+      "45",
+      "60",
+      "75",
+      "90"
+    ],
+    "answer": "75",
+    "solution": "Ratio of engineers to technicians = 3 : 5.\nSum of ratio parts = 3 + 5 = 8.\n\nNumber of technicians = 120 * (5 / 8) = 15 * 5 = 75.\n(Number of engineers = 120 * (3 / 8) = 45.)"
+  },
+  {
+    "id": 804,
+    "book_no": 1001,
+    "year": 2022,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Algebra",
+    "question": "A picnic was arranged by m students. The total cost of the picnic was estimated to be y taka. Unfortunately, z students withdrew their names from the picnic. How many more taka would each of the remaining students have to pay?",
+    "options": [],
+    "answer": "yz / [m(m - z)] Taka",
+    "solution": "Initial cost per student = y / m Taka.\nAfter z students withdraw, remaining students = (m - z).\nNew cost per remaining student = y / (m - z) Taka.\n\nAdditional amount each remaining student has to pay:\n[y / (m - z)] - (y / m) = [ym - y(m - z)] / [m(m - z)]\n                        = (ym - ym + yz) / [m(m - z)]\n                        = yz / [m(m - z)] Taka."
+  },
+  {
+    "id": 805,
+    "book_no": 1001,
+    "year": 2022,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Number System",
+    "question": "A number consists of 3 digits whose sum is 10. The middle digit is equal to the sum of the other two digits, and the number will be increased by 99 if the first and last digits are reversed. What is the number?",
+    "options": [],
+    "answer": "253",
+    "solution": "Let the 3 digits be a (hundreds), b (tens), and c (units).\nOriginal number = 100a + 10b + c.\nNumber with first and last digits reversed = 100c + 10b + a.\n\nFrom the conditions:\n1) a + b + c = 10\n2) b = a + c\n\nSubstitute b = a + c into (1):\n(a + c) + (a + c) = 10 => 2(a + c) = 10 => a + c = 5, and b = 5.\n\n3) Reversing first and last digits increases the number by 99:\n(100c + 10b + a) - (100a + 10b + c) = 99\n99c - 99a = 99 => c - a = 1.\n\nSolve a + c = 5 and c - a = 1:\nAdd both: 2c = 6 => c = 3.\nThen a = 5 - 3 = 2.\n\nSo the number is 253."
+  },
+  {
+    "id": 806,
+    "book_no": 1001,
+    "year": 2022,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Profit & Loss",
+    "question": "Nipu sold 100 pens, of which 50 were red and 50 were black, at Tk. 48 per pen. He made a profit of 20% on the black pens and a loss of 20% on the red pens. What was the net gain or net loss on this sale?",
+    "options": [],
+    "answer": "Net Loss = Tk. 200",
+    "solution": "For 50 black pens:\nSelling price of each = Tk. 48 (at 20% profit).\nCost price of each black pen = 48 * (100 / 120) = Tk. 40.\nTotal cost price of 50 black pens = 50 * 40 = Tk. 2,000.\n\nFor 50 red pens:\nSelling price of each = Tk. 48 (at 20% loss).\nCost price of each red pen = 48 * (100 / 80) = Tk. 60.\nTotal cost price of 50 red pens = 50 * 60 = Tk. 3,000.\n\nTotal cost price = 2,000 + 3,000 = Tk. 5,000.\nTotal selling price = 100 * 48 = Tk. 4,800.\n\nNet loss = 5,000 - 4,800 = Tk. 200."
+  },
+  {
+    "id": 807,
+    "book_no": 1001,
+    "year": 2022,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Mixture & Alligation",
+    "question": "A trader purchases blue paint and yellow paint at Tk. 110 and Tk. 100 per liter respectively. He mixes blue and yellow paint at a ratio of 1:2 to make green paint. He sells the green paint at Tk. 120 per liter. If the trader makes a profit of Tk. 2,000, how much yellow paint did he use in the mixture?",
+    "options": [],
+    "answer": "80 Liters",
+    "solution": "Consider one batch of mixture consisting of 1 liter of blue paint and 2 liters of yellow paint (total 3 liters).\n\nCost of 1 batch (3 liters) = (1 * 110) + (2 * 100) = 110 + 200 = Tk. 310.\nSelling price of 3 liters at Tk. 120/liter = 3 * 120 = Tk. 360.\nProfit per batch = 360 - 310 = Tk. 50.\n\nTo make a total profit of Tk. 2,000:\nNumber of batches = 2000 / 50 = 40 batches.\n\nSince each batch uses 2 liters of yellow paint:\nTotal yellow paint used = 40 * 2 = 80 Liters."
+  },
+  {
+    "id": 808,
+    "book_no": 1001,
+    "year": 2022,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Set Theory",
+    "question": "In a class of 25 students, 10 have less than 6 marbles, 10 have more than 7 marbles and 4 have more than 8 marbles. How many students have more than 5 marbles but less than 9 marbles?",
+    "options": [],
+    "answer": "11 Students",
+    "solution": "Having more than 5 marbles and less than 9 marbles means having 6, 7, or 8 marbles.\n\nTotal students = 25.\n- Students with less than 6 marbles (<= 5): 10 students.\n- Students with more than 8 marbles (>= 9): 4 students.\n\nRemaining students (having 6, 7, or 8 marbles) = 25 - 10 - 4 = 11 Students."
+  },
+  {
+    "id": 809,
+    "book_no": 1001,
+    "year": 2022,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Speed, Time & Distance",
+    "question": "A ship with a faulty engine sailed for only 7 hours over a period of 2 days and covered a distance of 59 km. Its average speed on the first day was 5 km per hour slower than that on the second day. It sailed 3 hours longer on the first day than on the second day. What was its average speed on the second day?",
+    "options": [],
+    "answer": "12 km/h",
+    "solution": "Let time sailed on the second day be t hours.\nThen time sailed on the first day = (t + 3) hours.\n\nTotal sailing time = t + (t + 3) = 7 hours\n2t + 3 = 7 => 2t = 4 => t = 2 hours (second day).\nFirst day sailing time = 2 + 3 = 5 hours.\n\nLet average speed on the second day be v km/h.\nThen average speed on the first day = (v - 5) km/h.\n\nTotal distance covered = 59 km:\n5(v - 5) + 2v = 59\n5v - 25 + 2v = 59\n7v = 84\nv = 84 / 7 = 12 km/h."
+  },
+  {
+    "id": 810,
+    "book_no": 1001,
+    "year": 2022,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Profit & Loss",
+    "question": "The profit earned from selling an item for Tk. 900 is double the loss incurred when the item is sold for Tk. 450. At what price the item should be sold to make 25% profit?",
+    "options": [
+      "Tk. 600",
+      "Tk. 750",
+      "Tk. 800",
+      "None of these"
+    ],
+    "answer": "Tk. 750",
+    "solution": "Let the cost price of the item be c.\n\nProfit at Tk. 900 = 900 - c.\nLoss at Tk. 450 = c - 450.\n\nGiven that profit is double the loss:\n900 - c = 2(c - 450)\n900 - c = 2c - 900\n3c = 1800\nc = Tk. 600.\n\nSelling price to make 25% profit = 600 * (1 + 25/100) = 600 * 1.25 = Tk. 750."
+  },
+  {
+    "id": 811,
+    "book_no": 1001,
+    "year": 2022,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Profit & Loss",
+    "question": "In a store, the profit is 320% of the cost. If the cost increases by 25% but the selling price remains the same, what percent of profit could be made on the selling price?",
+    "options": [
+      "30%",
+      "70%",
+      "100%",
+      "None of these"
+    ],
+    "answer": "70%",
+    "solution": "Let original cost price = c.\nOriginal profit = 320% of c = 3.2c.\nOriginal selling price = c + 3.2c = 4.2c.\n\nNew cost price (increased by 25%) = c + 0.25c = 1.25c.\nSelling price remains unchanged = 4.2c.\n\nNew profit = 4.2c - 1.25c = 2.95c.\nProfit percentage on selling price = (2.95c / 4.2c) * 100% = (295 / 4.2)% ≈ 70.24% ≈ 70%."
+  },
+  {
+    "id": 812,
+    "book_no": 1001,
+    "year": 2022,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Percentage and Taxation",
+    "question": "The sales price of an item including the sales tax is Tk. 616. The tax rate is 10%. If the shopkeeper made a profit of 12%, what was the cost price of the item in Tk?",
+    "options": [
+      "500",
+      "513",
+      "550",
+      "None of these"
+    ],
+    "answer": "500",
+    "solution": "Sales price including 10% sales tax = Tk. 616.\nPre-tax price = 616 / 1.10 = Tk. 560.\n\nThis pre-tax price (Tk. 560) includes a 12% profit over the cost price (c):\nc * 1.12 = 560\nc = 560 / 1.12 = Tk. 500."
+  },
+  {
+    "id": 813,
+    "book_no": 1001,
+    "year": 2022,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Profit & Loss",
+    "question": "A company makes a profit of 6% on its first Tk. 10,000 of sales each day, and 5% on all sales in excess of Tk. 10,000 for that day. How many taka in profit will the company make in a day when sales are Tk. 60,000?",
+    "options": [
+      "2500",
+      "3000",
+      "3100",
+      "None of these"
+    ],
+    "answer": "3100",
+    "solution": "Total daily sales = Tk. 60,000.\n- Profit on first Tk. 10,000 at 6% = 10,000 * 0.06 = Tk. 600.\n- Excess sales above Tk. 10,000 = 60,000 - 10,000 = Tk. 50,000.\n- Profit on excess Tk. 50,000 at 5% = 50,000 * 0.05 = Tk. 2,500.\n\nTotal profit = 600 + 2,500 = Tk. 3,100."
+  },
+  {
+    "id": 814,
+    "book_no": 1001,
+    "year": 2022,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Work & Time",
+    "question": "Mr. X can do a job in 8 days and his son can do it in 12 days. How many days will it take them to complete the job if they work together?",
+    "options": [
+      "5",
+      "24/5",
+      "10",
+      "None of these"
+    ],
+    "answer": "24/5",
+    "solution": "Work done by Mr. X in 1 day = 1/8.\nWork done by his son in 1 day = 1/12.\n\nCombined work in 1 day = (1/8) + (1/12) = (3 + 2) / 24 = 5/24.\n\nDays required together = 1 / (5/24) = 24/5 days."
+  },
+  {
+    "id": 815,
+    "book_no": 1001,
+    "year": 2022,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Age",
+    "question": "The ages of two persons differ by 16 years. 6 years ago, the elder one was 3 times as old as the younger one. What is the present age of the older person in years?",
+    "options": [
+      "20",
+      "10",
+      "30",
+      "None of these"
+    ],
+    "answer": "30",
+    "solution": "Let the present age of the younger person be y.\nThen the present age of the older person = y + 16.\n\n6 years ago:\nYounger person's age = y - 6.\nOlder person's age = (y + 16) - 6 = y + 10.\n\nGiven that 6 years ago the elder one was 3 times as old as the younger one:\ny + 10 = 3(y - 6)\ny + 10 = 3y - 18\n2y = 28 => y = 14.\n\nPresent age of the older person = 14 + 16 = 30 years."
+  },
+  {
+    "id": 816,
+    "book_no": 1001,
+    "year": 2022,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Fraction & Decimal",
+    "question": "A widow received 1/3 of her husband's estate, and each of her three sons received 1/3 of the balance. If the widow and one of her sons received a total of Tk. 360,000 from the estate, what was the worth of the estate in Tk?",
+    "options": [
+      "540,000",
+      "576,000",
+      "648,000",
+      "None of these"
+    ],
+    "answer": "648,000",
+    "solution": "Widow's share = 1/3 of the estate.\nRemaining balance = 1 - (1/3) = 2/3.\n\nEach of the three sons received 1/3 of the balance:\nEach son's share = (1/3) * (2/3) = 2/9.\n\nCombined share of the widow and one son = (1/3) + (2/9) = (3 + 2)/9 = 5/9.\n\nGiven that (5/9) of total worth = Tk. 360,000:\nTotal worth = 360,000 * (9 / 5) = 72,000 * 9 = Tk. 648,000."
+  },
+  {
+    "id": 817,
+    "book_no": 1001,
+    "year": 2022,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Fraction & Decimal",
+    "question": "Half of the students of a school play football and one third of the rest play cricket. The remaining 300 students do not play either of the games. How many students are there in the school?",
+    "options": [
+      "360",
+      "900",
+      "550",
+      "None of these"
+    ],
+    "answer": "900",
+    "solution": "Let total students be 1.\nStudents playing football = 1/2.\nRemaining students = 1 - (1/2) = 1/2.\n\nStudents playing cricket = (1/3) of (1/2) = 1/6.\n\nFraction of students playing neither = 1 - (1/2) - (1/6) = (6 - 3 - 1)/6 = 2/6 = 1/3.\n\nGiven that (1/3) of total students = 300:\nTotal students = 300 * 3 = 900."
+  },
+  {
+    "id": 818,
+    "book_no": 1001,
+    "year": 2022,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Percentage",
+    "question": "Two third of the faculty members of a department are female. Twelve of the male faculty members are unmarried, while 60% of them are married. What is the total number of faculty members in the department?",
+    "options": [
+      "90",
+      "60",
+      "30",
+      "None of these"
+    ],
+    "answer": "90",
+    "solution": "Female faculty = 2/3 of total => Male faculty = 1 - (2/3) = 1/3 of total.\n\nAmong male faculty members, 60% are married, so the remaining (100% - 60%) = 40% are unmarried.\nGiven 12 male faculty members are unmarried:\n40% of male faculty = 12\n0.40 * (Male faculty) = 12\nMale faculty = 12 / 0.40 = 30.\n\nSince male faculty is 1/3 of total faculty:\nTotal faculty = 30 * 3 = 90."
+  },
+  {
+    "id": 819,
+    "book_no": 1001,
+    "year": 2022,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Speed, Time & Distance",
+    "question": "The effective speed of a boat travelling downstream is 20 kmph, whereas it is 10 kmph upstream. What is the speed of the stream current in kmph?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "None of these"
+    ],
+    "answer": "5",
+    "solution": "Downstream speed = 20 kmph.\nUpstream speed = 10 kmph.\n\nSpeed of stream current = (Downstream speed - Upstream speed) / 2\n                       = (20 - 10) / 2 = 10 / 2 = 5 kmph."
+  },
+  {
+    "id": 820,
+    "book_no": 1001,
+    "year": 2022,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Speed, Time & Distance",
+    "question": "A salesman travels a distance of 70 miles in 2.5 hours. How much faster, in miles per hour, must he travel to make the same trip in 0.75 hours less than the original time?",
+    "options": [
+      "28",
+      "24",
+      "12",
+      "None of these"
+    ],
+    "answer": "12",
+    "solution": "Original speed = 70 miles / 2.5 hours = 28 mph.\n\nNew time = 2.5 - 0.75 = 1.75 hours.\nNew speed required = 70 / 1.75 = 40 mph.\n\nIncrease in speed = 40 - 28 = 12 mph."
+  },
+  {
+    "id": 821,
+    "book_no": 1001,
+    "year": 2022,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Arithmetic",
+    "question": "Two circular dials (as described earlier): If points O and Z are just meeting at the point of contact, and both dials spin at the same speed, what is the smallest number of revolutions of each dial that will bring O and Z together again?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "1",
+    "solution": "Any point on a circular dial returns to its exact starting position after 1 full revolution.\nSince both dials spin at the same speed, after 1 full revolution both O and Z return to their original relative positions and meet again at the point of contact."
+  },
+  {
+    "id": 822,
+    "book_no": 1001,
+    "year": 2022,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Percentage",
+    "question": "The ratio of the number of boys and girls in a school is 3:2. If 20% of the boys and 25% of the girls are scholarship holders, what percent of the students are not scholarship holders?",
+    "options": [
+      "56",
+      "70",
+      "78",
+      "None of these"
+    ],
+    "answer": "78",
+    "solution": "Let number of boys = 3x and number of girls = 2x.\nTotal students = 3x + 2x = 5x.\n\nScholarship holders:\n- Boys = 20% of 3x = 0.6x\n- Girls = 25% of 2x = 0.5x\nTotal scholarship holders = 0.6x + 0.5x = 1.1x.\n\nNon-scholarship holders = 5x - 1.1x = 3.9x.\nPercentage of non-scholarship holders = (3.9x / 5x) * 100% = 0.78 * 100% = 78%."
+  },
+  {
+    "id": 823,
+    "book_no": 1001,
+    "year": 2022,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Percentage",
+    "question": "In one year, the population of a city increased by 20%. The next year, it decreased by 10%. What was the percentage increase in the population over the two years?",
+    "options": [
+      "8",
+      "10",
+      "15",
+      "None of these"
+    ],
+    "answer": "8",
+    "solution": "Let initial population = 100.\nAfter 1st year (20% increase) = 100 + 20 = 120.\nAfter 2nd year (10% decrease on 120) = 120 - 12 = 108.\n\nNet increase over two years = 108 - 100 = 8%.\n(Or using successive change: 20 - 10 - (20 * 10)/100 = 10 - 2 = 8%.)"
+  },
+  {
+    "id": 824,
+    "book_no": 1001,
+    "year": 2022,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Algebra",
+    "question": "Mahfuz has a total of Tk. 480 in the denominations of one Taka, five taka and Ten taka. The numbers of different notes are equal. What is the total number of notes?",
+    "options": [
+      "45",
+      "75",
+      "90",
+      "None of these"
+    ],
+    "answer": "90",
+    "solution": "Let the number of notes of each denomination (Tk. 1, Tk. 5, and Tk. 10) be n.\n\nTotal value = 1*n + 5*n + 10*n = 16n.\nGiven total value = Tk. 480:\n16n = 480\nn = 480 / 16 = 30 notes of each denomination.\n\nTotal number of notes = 3n = 3 * 30 = 90."
+  },
+  {
+    "id": 825,
+    "book_no": 1001,
+    "year": 2022,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Algebra",
+    "question": "If a number exceeds another number by 13 and the larger number is 1.5 times the smaller number, then the smaller number is:",
+    "options": [
+      "13",
+      "26",
+      "31",
+      "None of these"
+    ],
+    "answer": "26",
+    "solution": "Let the smaller number be x.\nThen the larger number = x + 13.\n\nGiven that the larger number is 1.5 times the smaller number:\nx + 13 = 1.5x\n13 = 0.5x\nx = 13 / 0.5 = 26."
+  },
+  {
+    "id": 826,
+    "book_no": 1001,
+    "year": 2022,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Geometry",
+    "question": "If the coordinates of A and B are (4,1) and (-2, 7) respectively then the coordinates of the midpoint of AB are:",
+    "options": [
+      "(1, 4)",
+      "(-3, 4)",
+      "(-1, 4)",
+      "None of these"
+    ],
+    "answer": "(1, 4)",
+    "solution": "Midpoint formula: ((x1 + x2) / 2, (y1 + y2) / 2).\n\nGiven A(4, 1) and B(-2, 7):\nx-coordinate = (4 + (-2)) / 2 = 2 / 2 = 1.\ny-coordinate = (1 + 7) / 2 = 8 / 2 = 4.\n\nMidpoint coordinates = (1, 4)."
+  },
+  {
+    "id": 827,
+    "book_no": 1001,
+    "year": 2022,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Algebra",
+    "question": "(3x-1) != 2x is true for all the values of x EXCEPT-",
+    "options": [
+      "X != 1",
+      "x = -1",
+      "x = 1",
+      "None of these"
+    ],
+    "answer": "x = 1",
+    "solution": "Find the value of x where both sides become equal:\n3x - 1 = 2x\n3x - 2x = 1\nx = 1.\n\nAt x = 1, (3(1) - 1) = 2 and 2(1) = 2, so the inequality fails. Thus, the exception is x = 1."
+  },
+  {
+    "id": 828,
+    "book_no": 1001,
+    "year": 2022,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Algebra",
+    "question": "If 0 <= x <= 4 and y <12, which of the following CANNOT be the value of xy?",
+    "options": [
+      "-2",
+      "24",
+      "48",
+      "None of these"
+    ],
+    "answer": "48",
+    "solution": "Since x can be at most 4 and y is strictly less than 12 (y < 12), the product xy is strictly less than 4 * 12 = 48 (xy < 48).\n\nTherefore, xy can approach values just under 48, but it can never equal 48."
+  },
+  {
+    "id": 829,
+    "book_no": 1001,
+    "year": 2022,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Algebra",
+    "question": "If (4x-7) < (2x+13), then which of the following must be true?",
+    "options": [
+      "x>9",
+      "x< 13",
+      "x<7",
+      "None of these"
+    ],
+    "answer": "x< 13",
+    "solution": "Solve the inequality:\n4x - 7 < 2x + 13\n4x - 2x < 13 + 7\n2x < 20\nx < 10.\n\nSince x < 10 always implies x < 13, x < 13 must be true."
+  },
+  {
+    "id": 830,
+    "book_no": 1001,
+    "year": 2022,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Ratio & Proportion",
+    "question": "The ratio of girls to boys in a class 3 : 4. The number of students in the class could not be any of the following except:",
+    "options": [
+      "36",
+      "28",
+      "48",
+      "None of these"
+    ],
+    "answer": "28",
+    "solution": "Ratio of girls to boys = 3 : 4.\nTotal ratio parts = 3 + 4 = 7.\n\nThe total number of students must be a multiple of 7.\nAmong the choices (36, 28, 48), only 28 is divisible by 7 (28 = 7 * 4)."
+  },
+  {
+    "id": 831,
+    "book_no": 1001,
+    "year": 2022,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Number System",
+    "question": "If a and b are both even numbers, which of the following COULD be odd integer?",
+    "options": [
+      "(a+1)^2 + (b+1)^2",
+      "[(a+1)*(b+1)]-1",
+      "(a+1)/(b+1)",
+      "None of these"
+    ],
+    "answer": "(a+1)/(b+1)",
+    "solution": "Since a and b are both even, (a + 1) and (b + 1) are both odd.\n\n- (a+1)^2 + (b+1)^2: odd^2 + odd^2 = odd + odd = always even.\n- [(a+1)*(b+1)] - 1: (odd * odd) - 1 = odd - 1 = always even.\n- (a+1)/(b+1): dividing one odd number by another can yield an odd integer (for example, if a = 2 and b = 0, (2+1)/(0+1) = 3/1 = 3, which is odd)."
+  },
+  {
+    "id": 832,
+    "book_no": 1001,
+    "year": 2011,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Profit & Loss",
+    "question": "Arif incurred a loss of 25% by selling a used mobile phone set at taka 1500. How much could he gain/loss by selling it at 2,200 taka?",
+    "options": [
+      "10% loss",
+      "20% gain",
+      "10% gain",
+      "20% loss",
+      "None of these"
+    ],
+    "answer": "10% gain",
+    "solution": "Selling price at 25% loss = 75% of Cost Price = Tk. 1500.\nCost Price = 1500 / 0.75 = Tk. 2000.\n\nIf sold at Tk. 2200:\nGain = 2200 - 2000 = Tk. 200.\nPercentage gain = (200 / 2000) * 100% = 10% gain."
+  },
+  {
+    "id": 833,
+    "book_no": 1001,
+    "year": 2011,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Average",
+    "question": "The average of 5 positive integers is 60. If the average of 3 of these integers is 67, what is the greatest possible value that one of the other two integers can have?",
+    "options": [
+      "98.5",
+      "63.5",
+      "99",
+      "98",
+      "Cannot be determined"
+    ],
+    "answer": "98",
+    "solution": "Sum of all 5 positive integers = 5 * 60 = 300.\nSum of 3 of these integers = 3 * 67 = 201.\n\nSum of the remaining two integers = 300 - 201 = 99.\n\nTo maximize one of these two positive integers, the other must be as small as possible. Since they are positive integers, the smallest possible value for the other integer is 1.\n\nGreatest possible value = 99 - 1 = 98."
+  },
+  {
+    "id": 834,
+    "book_no": 1001,
+    "year": 2011,
+    "bank": "Dutch Bangla Bank PLC",
+    "post": "Management Trainee Officer",
+    "Topic": "Work & Time",
+    "question": "Mr. Jamal employed 50 workers to finish a work within 30 days. After 20 days he found out that only 50% of the work had been completed. How many additional workers will Mr. Jamal need to finish the work in time?",
+    "options": [
+      "100",
+      "50",
+      "40",
+      "35",
+      "None of these"
+    ],
+    "answer": "50",
+    "solution": "Work completed in 20 days by 50 workers = 50 * 20 = 1000 worker-days.\nSince this is 50% of the total work, total work = 2 * 1000 = 2000 worker-days.\nRemaining work = 2000 - 1000 = 1000 worker-days.\n\nRemaining time to finish on schedule = 30 - 20 = 10 days.\nTotal workers needed to finish 1000 worker-days in 10 days = 1000 / 10 = 100 workers.\n\nSince 50 workers are already employed, additional workers needed = 100 - 50 = 50."
   }
+
+
+
 
 
   ]
